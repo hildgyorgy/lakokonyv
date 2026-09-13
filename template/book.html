@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Bitó János">
+  <meta name="description" content="Lakóépületek tervezése – digitális tankönyv">
+  <title>{{ title }}</title>
+  <link rel="stylesheet" href="book.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="site-title" href="#top">{{ title }}</a>
+  </header>
+  <main id="top" class="page">
+    <div class="sidebar-shell">
+      <aside class="toc" aria-label="Tartalomjegyzék">
+      <h2>Tartalomjegyzék</h2>
+      {{ toc }}
+      </aside>
+      <aside class="reading-controls" aria-label="Olvasási beállítások">
+        <div class="color-picker" aria-label="Kiemelt szín">
+          <span class="color-picker-label">Kiemelt szín:</span>
+          <div class="color-options">
+            <button class="color-swatch is-default" type="button" data-color="#8A2432" aria-label="BME bordó" title="BME bordó"></button>
+            <button class="color-swatch" type="button" data-color="#777777" aria-label="Középszürke" title="Középszürke"></button>
+            <button class="color-swatch" type="button" data-color="#7b3f2a" aria-label="Barna" title="Barna"></button>
+            <button class="color-swatch" type="button" data-color="#ff0000" aria-label="Piros" title="Piros"></button>
+            <button class="color-swatch" type="button" data-color="#00ff00" aria-label="Zöld" title="Zöld"></button>
+            <button class="color-swatch" type="button" data-color="#0000ff" aria-label="Kék" title="Kék"></button>
+          </div>
+          <div class="alignment-picker" aria-label="Szöveg igazítása">
+            <span class="color-picker-label">Szöveg igazítása:</span>
+            <button class="alignment-option is-selected" type="button" data-alignment="left">BALRA</button>
+            <span aria-hidden="true">|</span>
+            <button class="alignment-option" type="button" data-alignment="justify">SORKIZÁRT (elválasztással)</button>
+          </div>
+        </div>
+      </aside>
+    </div>
+    <article class="book-content">
+      {{ content }}
+    </article>
+  </main>
+  <footer class="site-footer">BME Lakóépülettervezési Tanszék · 2013</footer>
+  <script src="book.js" defer></script>
+</body>
+</html>

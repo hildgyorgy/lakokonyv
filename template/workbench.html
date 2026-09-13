@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="hu">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lakókönyv – ábra-munkapad</title>
+  <link rel="stylesheet" href="workbench.css">
+</head>
+<body>
+  <header class="workbench-header">
+    <div>
+      <h1>Ábra-munkapad</h1>
+      <p>Állítsd be kézzel az ábrák optimális hasábszélességét, majd exportáld a méretlistát.</p>
+    </div>
+    <div class="workbench-actions">
+      <button id="reset-all" type="button">Alaphelyzet</button>
+      <button id="export-layout" type="button">Méretlista exportálása</button>
+    </div>
+  </header>
+  <main>
+    <p class="workbench-help">A változtatások azonnal látszanak és a böngészőben automatikusan megmaradnak. Az exportált JSON-fájlt tedd az <code>audit/image_layout.json</code> helyére, majd futtasd újra a buildet.</p>
+    <section id="image-grid" class="image-grid" aria-label="Ábrák"></section>
+  </main>
+  <script>window.LAYOUT_DATA = {{ layout }}; window.IMAGE_DATA = {{ images }};</script>
+  <script src="workbench.js" defer></script>
+</body>
+</html>
