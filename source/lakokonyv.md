@@ -1805,9 +1805,9 @@ Ebben a fejezetben „falusi” és „városi” családi házakról beszélün
 >
 > <a id="abra_3_10"></a>
 >
-> ![Magyarkúti családi ház 2007-2008 Tervező: Medgyasszai Péter](images/abra_3_10_magyarkuti_haz.png)
+> ![Magyarkúti családi ház 2007-2008 Tervező: Medgyasszay Péter](images/abra_3_10_magyarkuti_haz.png)
 >
-> *3.10. ábra – Magyarkúti családi ház 2007-2008 Tervező: Medgyasszai Péter*
+> *3.10. ábra – Magyarkúti családi ház 2007-2008 Tervező: Medgyasszay Péter*
 
 > **Új törekvések a kortárs családi ház építésben: autonóm házak, ökoházak, passzív házak (N.Á.)**
 >
