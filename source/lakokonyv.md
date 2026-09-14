@@ -1896,7 +1896,7 @@ A benapozás feltételei különböző helyszínek földrajzi szélességi foka 
 
 *3.13. ábra – A nap látszólagos mozgása Budapesten*
 
-Az év adott napjának adott órájában a napsugárzás iránya és beesési szöge meghatározható. Erre szolgál az un. „nappálya-diagram” ([3.14.](#abra_3_14), [3.15. ábra](#abra_3_16)), amely az évi és napi ciklusidőben szerkesztett nappályákat szemléletes módon mutatja.
+Az év adott napjának adott órájában a napsugárzás iránya és beesési szöge meghatározható. Erre szolgál az un. „nappálya-diagram” ([3.14.](#abra_3_14), [3.16. ábra](#abra_3_16)), amely az évi és napi ciklusidőben szerkesztett nappályákat szemléletes módon mutatja.
 
 <a id="abra_3_14"></a>
 
@@ -1904,15 +1904,11 @@ Az év adott napjának adott órájában a napsugárzás iránya és beesési sz
 
 *3.14. ábra – A nappálya-diagramm szerkesztésének elve*
 
-<!-- REVIEW abra_3_14: EPUB anchor: abra_3_15, fájl/web: 3.14. A szerzői számozás szerkesztői ellenőrzést kér. -->
-
 <a id="abra_3_16"></a>
 
 ![Nappálya-diagram](images/abra_3_16_napdiagram.png)
 
 *3.16. ábra – Nappálya-diagram*
-
-<!-- REVIEW abra_3_16: A folyószöveg 3.15. ábraként hivatkozik rá, miközben a fájl/web 3.16. -->
 
 > **Megjegyzés**
 >
