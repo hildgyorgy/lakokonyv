@@ -85,9 +85,9 @@ figure img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
 }
 figure img[style*="--figure-width"] { width: var(--figure-width); }
 figcaption { color: var(--muted); font-size: .92rem; font-style: italic; max-width: 80%; margin: .65rem auto 0; }
-.project-logos { display: flex; align-items: left; justify-content: left; gap: 1rem; flex-wrap: wrap; margin: 2rem 0; }
-.project-logos figure { flex: 1 1 0; min-width: 0; margin: 0; }
-.project-logos img { display: block; width: 100%; height: 4rem; max-width: none; object-fit: contain; }
+.project-logos { margin: 2rem 0; }
+.project-logos figure { margin: 0; text-align: left; }
+.project-logos img { margin: 0; }
 .missing-figure { border: 1px dashed var(--accent); padding: 1rem; }
 code { font-size: .9em; }
 .site-footer { border-top: 1px solid var(--rule); color: var(--muted); max-width: 70rem; margin: 0 auto; padding: 1.5rem 2rem 3rem; font-size: .9rem; }
