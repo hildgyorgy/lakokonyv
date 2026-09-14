@@ -87,7 +87,7 @@ figure img[style*="--figure-width"] { width: var(--figure-width); }
 figcaption { color: var(--muted); font-size: .92rem; font-style: italic; max-width: 80%; margin: .65rem auto 0; }
 .project-logos { margin: 2rem 0; }
 .project-logos figure { margin: 0; text-align: left; }
-.project-logos img { margin: 0; }
+.project-logos img { width: 10%; margin: 0; }
 .missing-figure { border: 1px dashed var(--accent); padding: 1rem; }
 code { font-size: .9em; }
 .site-footer { border-top: 1px solid var(--rule); color: var(--muted); max-width: 70rem; margin: 0 auto; padding: 1.5rem 2rem 3rem; font-size: .9rem; }
