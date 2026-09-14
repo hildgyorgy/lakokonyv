@@ -24,12 +24,16 @@ reconstruction_status: "teljes mesteranyag; 2 REVIEW ábraszámozási eset + 1 M
 
 # Lakóépületek tervezése
 
-**Bitó János**  
+**Bitó János**
+
 BME Lakóépülettervezési Tanszék
 
 **Közreműködők:**
+
 Pandula András – akadálymentesítési szövegek;
+
 Novák Ágnes – fenntarthatóságról szóló szövegek;
+
 Oliver Sales – fordítás.
 
 © 2013 BME Lakóépülettervezési Tanszék  
