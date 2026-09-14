@@ -68,6 +68,8 @@ a { color: var(--link); }
 h1, h2, h3, h4 { line-height: 1.2; scroll-margin-top: 1.5rem; }
 h1 { color: var(--accent); font-size: clamp(2rem, 4vw, 3.2rem); margin: 3rem 0 1.5rem; padding-top: 1.5rem; border-top: 2px solid var(--accent); }
 h1:first-child { border-top: 0; padding-top: 0; margin-top: 0; }
+.book-content > p:first-child { color: var(--accent); font-size: clamp(2rem, 4vw, 3.2rem); line-height: 1.2; font-weight: 700; margin: 0; }
+.book-content > h1:first-of-type { border-top: 0; padding-top: 0; margin-top: 0; }
 h2 { font-size: 1.7rem; margin-top: 2.7rem; }
 h3 { font-size: 1.32rem; margin-top: 2rem; }
 h4 { font-size: 1.12rem; margin-top: 1.5rem; }
