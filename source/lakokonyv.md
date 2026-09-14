@@ -31,9 +31,7 @@ BME Lakóépülettervezési Tanszék
 **Közreműködők:**
 
 Pandula András – akadálymentesítési szövegek;
-
 Novák Ágnes – fenntarthatóságról szóló szövegek;
-
 Oliver Sales – fordítás.
 
 © 2013 BME Lakóépülettervezési Tanszék  
