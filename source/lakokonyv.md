@@ -17,7 +17,7 @@ master_format: "single Markdown + original image assets"
 master_version: 1
 reconstruction_basis:
   primary: "2013 EPUB / DocBook XHTML"
-  corrections: "Zárt Erkély webes kiadás"
+  corrections: "https://zarterkely.hu -n található webes kiadás"
   visual_control: "2013 PDF"
 reconstruction_status: "teljes mesteranyag; 2 REVIEW ábraszámozási eset + 1 MISSING kép auditban nyitva"
 ---
@@ -27,7 +27,10 @@ reconstruction_status: "teljes mesteranyag; 2 REVIEW ábraszámozási eset + 1 M
 **Bitó János**  
 BME Lakóépülettervezési Tanszék
 
-**Közreműködők:** Pandula András – akadálymentesítési szövegek; Novák Ágnes – fenntarthatóságról szóló szövegek; Oliver Sales – fordítás.
+**Közreműködők:**
+Pandula András – akadálymentesítési szövegek;
+Novák Ágnes – fenntarthatóságról szóló szövegek;
+Oliver Sales – fordítás.
 
 © 2013 BME Lakóépülettervezési Tanszék  
 A BME Lakóépülettervezési Tanszék tananyagainak fejlesztése a TÁMOP-4.1.2.A/1-11/1-2011-0055 kódszámú projekt keretében valósult meg.
@@ -290,6 +293,9 @@ A felemelt karral végzett tevékenységekhez szükséges tér, és azt kiegész
 >
 > Az előírt minimumnál (2,50, ill. 2,20 m) nagyobb belmagasság biztosítása a költségek ellenére előnyökkel is jár. A nagyobb belmagasság a tágasabb alapterületek esetében arányosabb belső teret ad, egyenletesebb megvilágítású és világosabb belsőt jelent az ablakok nagyobb szemöldökmagassága következtében. A nyári melegben hűvösebbek maradnak és jobban szellőztethetőek a nagyobb belmagasságú terek, mivel kedvezőbbek a belső légáramlási viszonyok. A fűtési hőveszteség (költség) nem a légköbméterrel arányos, hanem leginkább a felület/térfogat aránnyal. A kompakt épületforma esetében a nagyobb belmagasság nem jelent üzemeltetési többletet, viszont jelentős komfortérzet javulást eredményezhet. Ilyen módon közvetetten üzemeltetési előnyt is jelent, hiszen a megfelelő nyári komforthoz nem szükséges gépészeti rásegítés (hűtés, gépi szellőztetés stb.). Ezáltal az épület a növekvő komfortigény ellenére is hosszabb ideig biztosítja a megfelelő lakhatást, és a hosszútávú használatot. (Egyes országokban családi házak esetében az előírás min. 3,0 m belmagasság.) (N.Á.)
 
+<!-- 
+Az OTÉK már nem érvényes, ezt javítani kell a TÉKA-ra vagy úgy megfogalmazni, hogy NE legyen jogszabályi hivatkozás.
+-->
 A most érvényes Országos Településrendezési és Építési Követelmények (OTÉK) az *átlagos belmagasságok* határértékeit rögzítik. Ezek a következők: huzamos tartózkodásra szolgáló helyiségekben min. 2,50 m (a lakás második és azt követő szobáinak kivételével); nem huzamos tartózkodást szolgáló terekben és a második (nem nappali tartózkodásra szolgáló) szobákban 2,20 m. Az előírt átlagos érték betartása azonban önmagában nem garantálja a használhatóságot, ezért azt esetenként kell ellenőrizni és meghatározni úgy, hogy a lakótér a rendeltetési követelmények teljesítési kritériumait kielégítse minden tekintetben. A *hálószobák* esetében a 2,20 m-es *átlagos* belmagasság ferde mennyezetsík esetén megfelelő lehet, de vízszintes mennyezetsík esetén az átlagot ne tekintsük mérvadónak: legyen az is teljes értékű lakótér. Másfelől, pl. egy ferde mennyezetsíkkal kialakított WC akkor is jól használható lehet, ha *átlagos* belmagassága nem éri el a 2,20 m-t.
 
 *A kiegészítő terek* alkalmasak szinte valamennyi lakástevékenységhez szükséges bútor, berendezés elhelyezésére, de szélességük esetenként különböző. Ezért a ferde mennyezetsíkkal kialakított tereknél (tetőtéri helyiségeknél) gondosan kell mérlegelni az egyes kiegészítő tér-részek rendeltetését, és szélességüket pedig az ott *valószínűsíthető* bútorozás használati igénye szerint szabjuk meg. A beépített bútorok és berendezések esetén (higiéniai berendezések, konyhabútor, beépített szekrény stb.) a kiegészítő használati tér funkciója egyértelmű és tervezhető ([1.11. ábra](#abra_1_11)). Amennyiben az 1,90 m-nél alacsonyabb kiegészítő térbe nem kerül bútor (pl. tágasabb lakóhelyiségek esetén), akkor se legyen az túl mély (legfeljebb kb. 1 méter) mert *takarítása* csak kényelmetlen, görnyedt testtartásban végezhető.
