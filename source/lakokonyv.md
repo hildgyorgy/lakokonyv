@@ -24,9 +24,11 @@ reconstruction_status: "teljes mesteranyag; 2 REVIEW ábraszámozási eset + 1 M
 
 # Lakóépületek tervezése
 
-**Bitó János**
-
 BME Lakóépülettervezési Tanszék
+
+**Szerző:**
+
+Bitó János
 
 **Közreműködők:**
 
