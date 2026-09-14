@@ -26,22 +26,16 @@ reconstruction_status: "teljes mesteranyag; 2 REVIEW ábraszámozási eset + 1 M
 # Lakóépületek tervezése
 © 2013 BME Lakóépülettervezési Tanszék
 
-**Közreműködők:**
-- Pandula András – akadálymentesítés
-- Novák Ágnes – fenntarthatóság
-- Oliver Sales – fordítás
+<div class="project-logos">
+![Lakóépülettervezési Tanszék](images/Lako_tanszek.png)
+</div>
+
+### Közreműködők
+Pandula András – akadálymentesítés;
+Novák Ágnes – fenntarthatóság;
+Oliver Sales – fordítás.
 
 A BME Lakóépülettervezési Tanszék tananyagainak fejlesztése a TÁMOP-4.1.2.A/1-11/1-2011-0055 kódszámú projekt keretében valósult meg.
-
-<div class="project-logos">
-
-![Nemzeti Fejlesztési Ügynökség](images/Infoblokk3_ESZA_egyes.jpg)
-
-![Lakóépülettervezési Tanszék](images/Lako_tanszek.png)
-
-![Új Széchenyi Terv](images/USZT_logo_cmyk.jpg)
-
-</div>
 
 ### Kivonat
 
