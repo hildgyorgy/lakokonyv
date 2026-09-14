@@ -4165,11 +4165,9 @@ A spontán módon kialakult zöldhomlokzatok (borostyánnal, repkénnyel befutta
 
 <a id="abra_5_59"></a>
 
-> **Hiányzó ábra:** az eredeti képfájl nem található a fennmaradt EPUB/PDF és Zárt Erkély forrásokban.
+![Zöldhomlokzat spontán kialakulása](images/abra_5_59_spontan_zoldhoml.png)
 
 *5.59. ábra – Zöldhomlokzat spontán kialakulása*
-
-<!-- MISSING abra_5_59: A tényleges 5.59 kép hiányzik. Az EPUB/PDF és a Zárt Erkély is az 5.58 oslói ablak képét ismétli. -->
 
 <a id="abra_5_60"></a>
 
