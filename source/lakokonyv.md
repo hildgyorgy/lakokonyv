@@ -22,13 +22,11 @@ reconstruction_basis:
 reconstruction_status: "teljes mesteranyag; 2 REVIEW ábraszámozási eset + 1 MISSING kép auditban nyitva"
 ---
 
+**Bitó János**
+
 # Lakóépületek tervezése
 
 BME Lakóépülettervezési Tanszék
-
-**Szerző:**
-
-Bitó János
 
 **Közreműködők:**
 
