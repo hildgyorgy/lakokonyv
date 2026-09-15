@@ -7,6 +7,7 @@
   var picker = document.querySelector(".color-picker");
   if (picker) {
     var storedColor = localStorage.getItem("lakokonyv-accent-color-v2");
+    if (storedColor && storedColor.toLowerCase() === "#7b3f2a") storedColor = "#a75348";
     var swatches = picker.querySelectorAll(".color-swatch");
     function setAccent(color) {
       document.documentElement.style.setProperty("--accent", color);
