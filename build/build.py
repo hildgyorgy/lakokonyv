@@ -227,6 +227,8 @@ def main() -> None:
     shutil.copy2(ROOT / "assets" / "book.js", DIST / "book.js")
     shutil.copy2(ROOT / "assets" / "workbench.css", DIST / "workbench.css")
     shutil.copy2(ROOT / "assets" / "workbench.js", DIST / "workbench.js")
+    shutil.copy2(ROOT / "assets" / "Lako_icon.png", DIST / "Lako_icon.png")
+    shutil.copy2(ROOT / "assets" / "site.webmanifest", DIST / "site.webmanifest")
     shutil.copytree(SOURCE / "images", DIST / "images")
     template = (ROOT / "template" / "book.html").read_text(encoding="utf-8")
     page = template.replace("{{ title }}", html.escape(metadata.get("title", "Lakókönyv")))
