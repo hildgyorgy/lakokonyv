@@ -1,0 +1,1035 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter id="alacsony_beepitesek">
+<title>AZ ALACSONY, NAGY SŰRŰSÉGŰ BEÉPÍTÉSEK ÉPÜLETTÍPUSAI</title>
+
+<sect1 id="E4_fejezet_temakore">
+<title>4.1. A fejezet témaköre</title>
+
+<para>A címben jelzett épületkategóriának nincs összefoglaló elnevezése a magyar hivatalos szóhasználatban (angolul: Low-Rise, High-Density Housing).</para>
+
+<para>A hivatalos építésigazgatási szóhasználat a lehetséges beépítési módok körében „zártsorú és csoportos” beépítést említ. Az OTÉK fogalom-meghatározása a <emphasis>csoportházat</emphasis> a sorház, láncház, átriumház gyűjtő meghatározásaként értelmezi. Valójában az itteni épületfajták köre ennél tágabb. (Néhány példát a <link linkend="abra_4_01">4.1. ábra</link> mutat.) Zártsorú és csoportos beépítési módban valamennyi lakásegység és telke önálló, egymástól elhatárolt ingatlan. Mint látni fogjuk, az ilyen beépítés a címben jelzett tartománynak csak egyik része, ugyanis ma már általánosabb az olyan beépítés, ahol a lakásegységek közös telken állnak (lakóegyüttesek, lakóparkok). Ilyenkor – jobb híján – az épületekre vagy házcsoportokra a „szabadon álló” beépítési mód szabályai érvényesek. Ezért szerepel a címben a kissé pongyola „beépítés” elnevezés a beépítési mód helyett, mert a tárgyalt épületkategóriák többféle beépítési módban fordulhatnak elő a most érvényes hazai szabályrendszer keretében.</para>
+
+<para><figure id="abra_4_01"><title>
+Az alacsony, nagy sűrűségű beépítés néhány épülettípusának sémája
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_01_alinttabl_m.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_01_alinttabl_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Az alacsony, nagy sűrűségű beépítés néhány épülettípusának sémája
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Az alacsony, nagy sűrűségű beépítés épületfajtáinak spektruma átfed mind a családi házak, mind pedig a többszintes, többlakásos házak tartományával. Az önálló telken álló sorházegység a zártsorú családi házak körébe is sorolható, de a szakirodalomban nagy számban találhatók olyan példák, amelyeknél sorházszerűen kiképzett lakások szerkezetileg összefüggenek egy többszintes, többlakásos épülettel, pl. azzal közös földalatti garázsuk van.  Egy olyan ház, amelynek valamennyi lakása saját használatú kerttel rendelkezik, de a lakások egy közös térből (pl. üveggel fedett „belső utcából”) nyílnak, akár többszintes, többlakásos épületnek is mondható.</para>
+
+<para><emphasis>Az alacsony, nagy sűrűségű beépítés épülettípusai viszonylag nagy szintterületi mutatóval telepített épületek vagy épületcsoportok, amelyek valamennyi lakásegységéhez, vagy lakásegységeinek zöméhez, önálló használatú kert vagy kert-rész csatlakozik közvetlenül.</emphasis></para>
+</sect1>
+
+
+
+<sect1 id="E4_torteneti_attekintes">
+<title>4.2. Történeti áttekintés</title>
+
+<subtitle>Az európai fejlődés</subtitle>
+
+<para>A nagy sűrűséggel telepített lakóházak a történelem folyamán mindig ott alakultak ki, ahol valamilyen adottság miatt az építési területek szűkösek voltak. A fallal körülvett városokban a túlélés esélyeit növelte háborús időkben, ha valaki a falon belül lakott, ezért ott igen magas laksűrűség alakult ki.</para>
+
+<para>Az udvarkertes házak elődjét a római, átriumos háztípusban szokták megjelölni, mai megfelelője innen kapta nevét is, bár az ókorban más formák is általánosak voltak. A belső udvaros háztípus minden bizonnyal az éghajlati viszonyok miatt alakult ki a mediterrán területeken, mert a magas falakkal körülvett belső udvar árnyékos volt, védett a forróság ellen, és az udvar volt a család rendszeres tartózkodási helye az év nagyobbik részében. Később, az iszlám kultúra is a kívülről zárt, befelé forduló háztípus elterjedését ösztönözte a spanyolországi és észak-afrikai területeken.</para>
+
+<para>A mai sorházak korai elődeit az európai középkori városi háztípusban kereshetjük. A folyamatos elaprózódás miatt a telkek utcai homlokvonala nagyon keskenyé vált, és ehhez képest igen mély háztípus alakult ki rajtuk.</para>
+
+<para>Az alacsony, nagy sűrűségű beépítés első fénykora az ipari forradalom után kezdődött Angliában a rohamos urbanizáció hatására. Az angol nagyvárosokban jelentek meg tömegével a típustervek alapján épített kétszintes sorházak, amelyek városrésznyi területeket fednek be. A beépítés sűrűsége rendkívül magas, így ezeknek a lakóterületeknek építészeti hatása meglehetősen sivár (<link linkend="abra_4_03">4.3. ábra</link>).</para>
+
+<para><figure id="abra_4_03"><title>
+A londoni sorházak a XIX. század második felében. Beépítés és háztípus
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_03_angolsorh.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_03_angolsorh.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+A londoni sorházak a XIX. század második felében. Beépítés és háztípus
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A mai, kertes beépítési jelleg ugyancsak Angliában alakult ki a XIX. - XX. század fordulóján, az angol kertvárosokban. Az angol kertváros mintát teremtett, Európa-szerte épültek kertvárosok vagy kertváros-jellegű településrészek, amelyek lakásállományában a sorházak is szerepet kaptak.</para>
+
+<para>Az első világháború után, főképp ott, ahol szociáldemokrata kormányzat jutott hatalomra, a politika célul tűzte ki a munkásrétegek lakáshelyzetének javítását. Ez képezte a modern, funkcionalista lakástervezés ideológiai hátterét, melynek szellemi központja a weimári Németországban volt. A Deutscher Werkbund egyesülés 1927-ben építészeti kiállítást szervezett Stuttgartban (Weissenhof lakótelep) amelynek tervezésében a modern építészet első generációjának nagy egyéniségei vettek részt. A lakóháztípusok között jelen voltak a sorházak is.</para>
+
+<para> A modern építészet korai szakaszából a sorházas lakótelepek ismert példája Dessau Törten városrészében Walter Gropius által tervezett telep és a Frankfurt am-Mainban épült, Ernst May által tervezett „Römerstadt”, ahol nagy kiterjedésű lakóterületet alakítottak ki kétszintes sorházakkal (<link linkend="abra_4_04">4.4. ábra</link>).</para>
+
+<para><figure id="abra_4_04"><title>
+Lakótelep. Römerstadt, Frankfurt-am-Main. 1926–1930. Ernst May. Helyszínrajz-részlet és kétszintes sorház alaprajza
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_04_romerstadt.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_04_romerstadt.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Lakótelep. Römerstadt, Frankfurt-am-Main. 1926-1930. Ernst May. Helyszínrajz-részlet és kétszintes sorház alaprajza
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A modern mozgalom adaptálta az udvarkertes háztípust, és kifejlesztette a modern átriumházat a nagy sűrűségű beépítések létrehozására. Példaként említhetjük a Ludwig Hilberseimer által tervezett L alakú házat, amelynek alaprajzi elrendezése sok későbbi típus előképe (<link linkend="abra_4_05">4.5. ábra</link>). Mies van der Rohe is tervezett átriumházakat a harmincas évek elején. Udvarkertes házak a két világháború között csak szórványosan épültek, számottevő mértékben később a 60-as években terjedtek el.</para>
+
+<para><figure id="abra_4_05"><title>
+Udvarkertes ház terve. Ludwig Hilberseimer. 1931.
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_05_hilberseimer.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_05_hilberseimer.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Udvarkertes ház terve. Ludwig Hilberseimer. 1931.
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A második világháború nagy lakás-veszteségeinek pótlására Nyugat-Európában államilag kezdeményezett és pénzügyileg nagymértékben támogatott tömeges méretű lakásépítés kezdődött az ötvenes években. A hatvanas évekre a gazdasági helyzet ott már lehetővé tette, hogy viszonylag igényes lakások is épüljenek szervezett formában. Az alacsony, nagy sűrűségű lakóegyüttesek építésének fő helyszínei Anglia, Hollandia és a skandináv országok, de sok jelentős együttes épült másutt is, ismertek a nyugat-németországi és svájci példák is.</para>
+
+<para>A dán Jörn Utzon tervezte a festőien szép „Kingohousene” átriumházas telepet Helsingörben (<link linkend="abra_4_06">4.6. ábra</link>). Itt a változatos terepviszonyok és a terület mélypontján lévő természetes víztükör miatt a sűrűbb beépítés a magasabban lévő terepvonulatokra koncentrálódik, ami lehetővé teszi az eredeti természeti környezet minél nagyobb részének megtartását.</para>
+
+<para><figure id="abra_4_06"><title>
+Kinghousene. Helsingör. Átriumházak. 1958–1960. Jörn Utzon. Helyszínrajz és háztípusok.
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_06_utzon.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_06_utzon.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Kinghousene. Helsingör. Átriumházak. 1958–1960. Jörn Utzon. Helyszínrajz és háztípusok.
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A korabeli egyetemes építészetben vezető szerepet játszó, finn „második generáció” egy-egy szép példával mutatkozott be Tapiolában. Itt épült meg Pentti Ahola közismert átriumházas együttese (<link linkend="abra_4_07">4.7. ábra</link>). A viszonylag nagyméretű, négy oldalról határolt udvarkert kellemes mikroklímát teremt az északi égöv zord időjárásában.</para>
+
+<para><figure id="abra_4_07"><title>
+Átriumházak. Tapiola, Finnország. 1963–1965. Pentti Ahola
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_07_ahola.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_07_ahola.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Átriumházak. Tapiola, Finnország. 1963–1965. Pentti Ahola
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A hetvenes években az alacsony, nagy sűrűségű beépítések épülettípusai gyakran épültek a többszintes, többlakásos házakkal kompozíciós egységben. Ezzel igyekeztek feloldani a csupa sokszintes sávházakból formált lakótelepi környezet egyhangúságát. A kétféle beépítés területi egysége a telepek differenciáltabb lakásösszetételét is szolgálja: az alacsony, sűrű beépítés a nagyobb lakásokat fogadja be, míg a többszintes, többlakásos épületek a kisebb lakásokat tartalmazzák (<link linkend="abra_4_08">4.8. ábra</link>).</para>
+
+<para><figure id="abra_4_08"><title>
+t’ Hool. Eindhoven, Hollandia 1969-1973. Van den Broek és Bakema Helyszínrajz-részlet és kétszintes sorháztípus
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_08_bakema.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_08_bakema.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+t’ Hool. Eindhoven, Hollandia 1969-73. Van den Broek és Bakema Helyszínrajz-részlet és kétszintes sorháztípus
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A hetvenes években épült a Ratingen-Eckamp telep, Düsseldorf mellett (<link linkend="abra_4_09">4.9. ábra</link>). A házsor tengelyére merőleges tetőgerincek oromzatai közvetlenül csatlakoznak egymáshoz, és az észak-német történelmi építészet városi utcáinak hangulatát idézik. (Meg kell jegyezni, hogy az ilyen tetőforma nálunk nem honos.) A nagy lélegzetű együttes egyik reprezentánsa a koncentrált lakótelepek alternatívájaként létesített alacsony, sűrű beépítéseknek.</para>
+
+<para><figure id="abra_4_09"><title>
+Sorházas lakótelep. Ratingen, Düsseldorf mellett. 1970-es évek
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_09_ratingen.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_09_ratingen.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Sorházas lakótelep. Ratingen, Düsseldorf mellett. 1970-es évek
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A nyolcvanas évek második felének lakásépítésében jelentős változások történtek Európa-szerte. A tömeges lakásépítésben élenjáró országok (pl. Svédország) lakásépítésének évi üteme a korábbinak töredékére esett vissza. A poszt-modern építészeti és településtervezési elvek a modern lakótelep egyeduralmát megtörték, de ekkorra az állami és önkormányzati szféra is visszavonult a nagy léptékű lakásberuházások kezdeményezéséből. Szerepét a különféle nonprofit gazdasági szervezetek (lakásszövetkezetek, lakásszövetségek) veszik át. Kisebb, legfeljebb néhányszor tíz lakást tartalmazó együttesek jellemzőek az alacsony, nagy sűrűségű beépítések körében, amelyek gyakran épülnek a meglévő, lazább településszövetek még beépítetlen részein. Tervezésüket sokszor összekapcsolják olyan, humánus lakókörnyezet kifejlesztésének igényével, amely a lakók szorosabb emberi kapcsolatokon alapuló együttélését segíti elő. Jellegzetes példa a bajorországi Veitschöchheimben épült együttes (<link linkend="abra_4_09">4.9. ábra</link>), amelynek tervezési megbízását a dán Vandkunsten csoport pályázat útján nyerte el. Az együttes már nem is emlékeztet az egyforma egységek mechanikus sorolásával kialakuló, megszokott sorház-együttesekre. A lakóközösség kommunikációs fóruma a közös használatú, nagyméretű belső udvar, a lakástípusok változatossága árnyaltabb összetételű lakóközösség kialakulását segíti. (A <link linkend="abra_4_10">4.10. ábrán</link> látható olyan lakáselrendezés, ahol az egymás fölött lévő kétszobás és háromszobás egység „generáció-váltásra” ad lehetőséget úgy, hogy az öregebb nemzedék lakása mindig a földszintről nyíljon.)</para>
+
+<para><figure id="abra_4_10"><title>
+Lakóegyüttes. Veitschöchheim, Németország. 1989. Vandkunsten csoport
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_10_vandkunsten.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_10_vandkunsten.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Lakóegyüttes. Veitschöchheim, Németország. 1989. Vandkunsten csoport
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A huszadik század végén az alacsony, nagy sűrűségű együttesekben is megjelent a fenntarthatóságra és energiatudatosságra koncentráló szemlélet, lényegében az előző – családi házakról szóló – fejezetben részletezett innovációk bevezetésével. Erre példa Hollandiában, Utrechtben épült kétszintes naptérrel kialakított sorházas együttes (<link linkend="abra_4_11">4.11. ábra</link>).</para>
+
+<para><figure id="abra_4_11"><title>
+Városi sorházak. Uttrecht, Holandia Tervezők: Van Straalen (Zeist) Hek Klunder Architekte
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_11_utrcht_sorhaz.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_11_utrcht_sorhaz.jpg" format="JPG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Városi sorházak. Uttrecht, Holandia Tervezők: Van Straalen (Zeist) Hek Klunder Architekte
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+
+
+<para>A hazai történet</para>
+
+<para>Magyarországon már a múlt században is épültek bányász-kolóniák és nagy gyárakhoz tartozó munkástelepek sorházas formában, amelyek szerény méretű, egyszintes lakásokat tartalmaztak. A XX. század elején épített telepeken a földszintes sorházakat főképp kis alapterületű, egy, legfeljebb két szobás munkáslakások építésére alkalmazták, néhol igen alacsony lakásszínvonallal. A két világháború között épülő családi házas telepeken is a kisebb, egy-másfél szobás lakásokat helyezték el földszintes sorházakban. Kétszintes sorházak vagy átriumházak lényegében nem épültek a második világháború előtt. Hazai bevezetésüket szakmai fórumokon állandóan ösztönözték a Nyugat-Európát megjárt és a nemzetközi modern építészet szervezetével is kapcsolatot tartó magyar építészek, gyakorlatilag eredménytelenül. (Pl. Kozma Lajos kétszintes sorházakra és átriumházakra készült szép tervei sem valósultak meg.)</para>
+
+<para>Az ötvenes évek végén indult el szórványosan a kétszintes sorházak építése. Bányászlakások épültek tágasabb, kétszintes elrendezéssel, pl. Ózdon, a Farkaslyuk telepen.  A létező szocializmus évtizedeiben – nagyjából a 80-as évekig – a lakásépítés két, határozottan elkülönült területre tagolódott: az állami lakásépítésre és a magánlakás-építésre. A hatvanas évek derekára kiderült, hogy a legkeményebb ötvenes években ideológiai alapon kiátkozott családiház-építés nem nélkülözhető, és már az ötéves népgazdasági tervek is tartalmazták a magánlakás-építés által teljesítendő mutatószámokat. Az állami és magánlakás-építés megoszlása nagyjából fele-fele arányú.  Az első tartományt az állami (ill. tanácsi) apparátus szervezte az előírt tervmutatók teljesítésére, és állami építőipari nagyvállalatok kivitelezték koncentrált, néha több ezres lakásszámot felmutató lakótelepeken, hogy a hatvanas években indított házgyári technológiák minél termelékenyebben legyenek kihasználhatók. A lakótelepek tízszintes épületeihez képest nem lehetett alternatíva az alacsony, 1-2 szintes beépítés, ezért az nem is szerepelt az állami lakásépítés kelléktárában.</para>
+
+<para>A magánlakás-építés elsöprő többségét a házilagos kivitelezésben megvalósított családi házak jelentették, fő helyszínei az alacsony szinten ellátott, vidéki térségek voltak. A „közműolló” egyre tágabbra nyílt, a hozzáértők már akkor is felismerték ennek ökológiai veszélyeit. A gazdaságosabb közművesítés lehetősége érdekében a központi politika inspirálni igyekezett a sűrűbb beépítéseket a magánlakásoknál is. Államilag kezdeményezett „kísérleti lakótelepek” épültek, amelyeken sorházakat is bemutattak (pl. az óbudai és budafoki kísérleti lakótelep, békéscsabai lakótelep). A hatvanas években a jövőbeni falu modelljét kutató, elméleti szinten maradt tervpályázatokban és tervjavaslatokban megjelenik a „falusi sorház”, ahol a haszonkertek sorházak közelében lettek volna, de nem közvetlenül a lakáshoz kapcsolva. Hasonló elgondolással indult eredetileg a Maros Tamás által tervezett, szakmailag nagy elismertséget kapott perbáli sorház-együttes is (<link linkend="abra_4_12">4.12. ábra</link>). Valójában az agglomerációs térségekben alkalmazható alacsony, nagy sűrűségű beépítések korai példája lett, lakói ma főleg értelmiségiek.</para>
+
+<para><figure id="abra_4_12"><title>
+Sorházak. Perbál, 1975. Maros Tamás
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_12_perbal.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_12_perbal.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Sorházak. Perbál, 1975. Maros Tamás
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A politikai apparátus a lakossági kezdeményezésű magánlakás-építésben pénzügyi eszközökkel is igyekezett elősegíteni a sűrűbb beépítési formák elterjedését. A hitelfeltételek különféle épületfajták szerint eltérőek voltak. Legkevesebb hitelt adtak a családi házhoz, kevéssel több járt (volna) a fejezet témájába vágó „korszerű, csoportos családi házaknak”, még többet kapott az „egyedi többszintes” épület (legalább két lakószint, legalább négy lakással) és legtöbb a „telepszerű többszintes” formának jutott (legalább 12 lakást tartalmazó lakásberuházás, legalább kétszintes és legalább négylakásos épületekkel). A pénzügyi preferenciák hatására az alacsony, nagy sűrűségű beépítések épülettípusai közül azok kezdtek épülni, amelyek a legnagyobb anyagi támogatást kapták. A kétszintes sorház – némi jóindulattal – belefért az „egyedi többszintes” és a „telepszerű többszintes” kategóriába. A szabadon álló beépítésre alakított telkeken megjelentek a 4-6 egységből álló emeletes „sortársasházak”, és a megfelelő infrastruktúrát legtöbbször nélkülöző, 12 lakásos emeletes sorház-együttesek épültek imitt-amott, a faluvégeken is. Mindezek ellenére ott, ahol a település irányítása hozzáértő kezekben volt, figyelemre méltó együttesek is létesültek.</para>
+
+<para>A nyolcvanas években már az Országos Takarékpénztár által finanszírozott és eladásra szánt lakások épültek a lakótelepeken is, de mind a beruházás szervezését, mind kivitelezését a korábbról örökölt apparátus végezte. A lakótelepek léptéke kedvezően változott, és a házgyárak lakáskészletében immár megjelennek a sorházak is (pl. Újszeged, Nyíregyháza). Az igazi hiány a beruházás szervezési oldalán mutatkozott: nem voltak meg azok a nonprofit gazdasági szerveződések, amelyek az akkori Nyugat-Európában a spontán építtetői igényeket szervezett formákba egyesítették.</para>
+
+<para>A nyolcvanas évek második felében már kedvező változások jelei mutatkoztak. Spontán kezdeményezéssel létrejött lakásszövetkezet beruházásában épül meg az a dunaújvárosi, udvarkertes házakból álló 97 lakásos együttes (<link linkend="abra_4_13">4.13. ábra</link>). Ennél a terület-takarékos tömbtelek, az olcsó közművesítés és a szervezett anyagbeszerzés gazdasági előnyeit lehetett egyesíteni az akkor is legolcsóbb, házilagos kivitelezésből adódó megtakarításokkal. Az épületenként történt házilagos kivitel néhol kívánni valót hagy az egyes házak építészeti színvonalában, de ezt bőven ellensúlyozza az egységes, kulturált lakókörnyezet, ami a lakásszövetkezeti tagok jó együttműködésének köszönhető.</para>
+
+<para><figure id="abra_4_13"><title>
+Dunaújváros, lakóegyüttes 1985–1989 Bitó J. Sárvári I. Szamosi Gy.
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_13_dunauj.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_13_dunauj.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Dunaújváros, lakóegyüttes 1985–1989 Bitó J. Sárvári I. Szamosi Gy.
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A rendszerváltozás hatására alapvetően új helyzet állt elő a lakásépítés intézményi és pénzügyi feltételeiben. A 90-es években a lakásépítés üteme nagymértékben visszaesett. Az alacsony, nagy sűrűségű beépítések a profit-orientált vállalkozói lakásépítés körében épültek néhány helyen, és megjelentek a magas lakásszínvonalat mutató lakóparkok körében is, néhol építészetileg is kiemelkedő minőségben (<link linkend="abra_4_14">4.14. ábra</link>).</para>
+
+<para><figure id="abra_4_14"><title>
+Sorház a Budapest, Barlang-utcai lakóparkban. Cságoly Ferenc 2000
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_14_barlangu.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_14_barlangu.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Sorház a Budapest, Barlang-utcai lakóparkban. Cságoly Ferenc 2000
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+</sect1>
+
+
+
+<sect1 id="E4_kozos_jellemzok">
+<title>4.3. Az alacsony, nagy sűrűségű beépítések közös jellemzői</title>
+
+<sect2 id="E4_gazdasagossag">
+<title>4.3.1. Gazdaságossági kérdések</title>
+
+<para>Minél jobb egy terület infrastrukturális ellátása, annál nagyobb a terület-előkészítés költsége, amelyet a telekárba beépítenek. A jól ellátott városi lakótelkek árát a piaci kereslet tovább emeli, így a nagyvárosi és nagyváros-környéki zöldövezetekben épülő, nagy telekkel rendelkező családi házak építését ma már csak a nagyon tehetős építtetői réteg engedheti meg magának. Az ennél alacsonyabb jövedelmű városi lakosság előtt látszólag két lehetőség van: vagy többszintes, többlakásos épületbe költözik, de elesik a lakáshoz tartozó kert előnyeitől; vagy egy távolabbi, és rosszul ellátott területen épít kertes családi házat, ahol a telekár még elérhető számára, de vállalnia kell a napi utazás költségeit és nélkülözni kényszerül a városias lakókörnyezet szolgáltatásait.</para>
+
+<para>Az alacsony, nagy sűrűségű beépítések a kétféle beépítési forma közötti űrt töltik ki: a kertes családi házak használati értékét nyújtják bizonyos mértékig, miközben a többszintes, többlakásos házakra jellemző telektakarékos beépítés gazdasági előnyeit is hordozzák.</para>
+
+<para>E fejezetben tárgyalt épületfajták gazdasági kérdéseit a családi házas beépítésekkel összehasonlítva is vizsgálhatjuk. A beépítési módok egyes változatai a takarékosabb telekfelhasználás miatt alakultak ki: a családi házak zártsorú beépítési módban igénylik a legkisebb telket. A „hagyományos” zártsorú beépítés családi házai egymástól függetlenül, akár eltérő időben, telkenként valósulhatnak meg. A hagyományos, zártsorú beépítés telkének nagysága nemigen lehet kisebb, mint a szabadon álló beépítésnél megkívánt telekterület fele. Ez frekventáltabb területeken még mindig viszonylag magas telekárat jelenthet.</para>
+
+<para>Az alacsony, nagy sűrűségű beépítés épületeinek közös jellemzője, hogy azok lakásegységei egyszerre épülnek meg, az összefüggő épületre vagy épületcsoportra kiterjedő, egységesen készült terv alapján. Az együtt létesített épületvolumen tartalmazhat kevesebb, akár 4-6 lakást is, de az egyszeri beruházás keretében megvalósított lakások száma akár százas nagyságrendet is elérheti. A lakásegységre vetített telekhányad, és annak ára, a szabadon álló családi házas beépítésnél megkívánt értéknek akár negyed-ötödrészére is csökkenhet, de mégis van minden lakónak – bármilyen kicsiny – saját használatú kertje.</para>
+
+<para>Az intenzív beépítés, természetesen, feltételezi a teljes közművesítést és a teljes körű városi közszolgáltatásokat. (Ilyen sűrű beépítés mellett a szennyvíz talajba történő elszivárogtatása szóba sem jöhet, a kis kertek a konyhai hulladék komposztálásra nem alkalmasak, ezért nélkülözhetetlen a korszerű és gyakori szemétgyűjtés stb.) Magyarán: az alacsony, nagy sűrűségű beépítés nem fogható fel úgy, mint a rosszul ellátott családi házas területek sűrűbben beépített változata, hanem a magas fokon ellátott, városias lakóterület alacsony házakat tartalmazó formájának tekintendő.</para>
+
+<para>Az alacsony, nagy sűrűségű beépítés témája a többszintes, többlakásos házak kérdéskörének irányából is megközelíthető. Utóbbiaknál a beépítési sűrűség és az épületmagasságok csökkenése volt tapasztalható az utóbbi évtizedekben. Kiderült, hogy a magas lakóépületeket a lakók nem kedvelik, és azok léte gazdaságilag sem igazolható. A parkolási és zöldfelületi normák szigorodása miatt a többszintes, többlakásos beépítések fajlagos szintterületi mutatója legfeljebb akkor emelhető az 1-1,2 érték fölé, ha földalatti garázsokat létesítenek, ami jelentős költségtöbblettel jár. Ezért a három-négy szintnél magasabb épületek létesítésének általában nincs gazdasági indoka a zöldmezős lakásberuházásoknál. Alacsony, nagy sűrűségű beépítéssel a 0,6 - 0,7 szintterületi mutató is elérhető, és a saját kerthasználat előnye miatt ez már reális alternatívája lehet a többszintes, többlakásos épületeknek.</para>
+
+<para>A <link linkend="abra_4_15">4.15. ábrasor</link> sémáival összehasonlítjuk egy hagyományos, háromszintes társasházakkal, kétszintes sorházakkal és egyszintes átriumházakkal beépített, azonos nagyságú terület karakterét, azonos szintterületi mutató mellett. Kétszintes sorházak esetén a beépítettség mértéke nagyobb ugyan, de az alacsonyabb épületek kevéssé árnyékolják a zöldfelületeket, így azok intenzitása is nagyobb.</para>
+
+<para><figure id="abra_4_15"><title>
+Különböző beépítések összehasonlítása azonos szintterületi mutató mellett
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_15_aiosszh.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_15_aiosszh.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Különböző beépítések összehasonlítása azonos szintterületi mutató mellett
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Az átriumházas beépítésnél a zöldfelületek aránya már a kritikus mérték alá süllyedhet, ezért egyszintes beépítéssel a max. 0,4 - 0,5 körüli szintterületi mutató látszik reálisabbnak.</para>
+</sect2>
+
+
+
+<sect2 id="E4_telekalakitas">
+<title>4.3.2. Telekalakítás, telekfelhasználás</title>
+
+<para>Az alacsony, nagy sűrűségű beépítések lakásegységei állhatnak önálló telken (a zártsorú beépítés sűrű formája); egy – több lakásegységet tartalmazó – épület állhat egy közös telken (un. „sortársasház”); vagy több, egyenként több lakásegységet magában foglaló épület(csoport) állhat egy nagyobb kiterjedésű telken (a régi terminológia szerinti „tömbtelken”).</para>
+
+<para>Az önálló telken álló egységek szerkezetileg nincsenek összeépítve, csatlakozásukra a zártsorú családi házaknál leírt szabályok érvényesek (tűzfalcsatlakozás). Valamennyi egység telkével együtt önállóan birtokolt, önállóan bejegyzett ingatlan. Az összefüggő épületsort egyszerre kell megépíteni, de ezután az épületek karbantartása egységenként történik, az épületek tulajdonosainak együttműködésére nincs szükség. Ez a beépítési mód adja leginkább a használónak „az én házam az én váram” érzetet, ezért népszerű. Hátránya viszont, hogy a terület közművesítésének költségei magasak: minden lakásegységhez minden közművet külön-külön kell csatlakoztatni, és keskeny telekszélesség mellett a bekötő vezetékek hossza lényegesen meghaladhatja magának a gerincvezetéknek a hosszát is.</para>
+
+<para>A terület csak közterületre és egyéni területre tagolódik, közösen használt területek nincsenek. Ez egyben a hátránya is: bizonyos zöldterületi funkciókat a keskeny telkek ellátni nem tudnak, mint pl. gyermekek játszó, labdázó helye  (<link linkend="abra_4_16">4.16.a. ábra</link>).</para>
+
+<para><figure id="abra_4_16"><title>
+A telekhasználat módozatai az alacsony, nagy sűrűségű beépítéseknél
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_16_aitelekfh_mod.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_16_aitelekfh_mod.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+A telekhasználat módozatai az alacsony, nagy sűrűségű beépítéseknél
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Egy épület(csoport), amely több lakásegységet tartalmaz egy közös telken is állhat. A telek osztatlan közös tulajdon, az épület lényegében társasház jellegű. Az épület karbantartása közösen történik. A telekre elég egy-egy közműbekötést adni, a telken belüli vezetékhálózat egyszerűbben, olcsóbban kiépíthető. A telket a lakók közös megegyezéssel teljes egészében fel is oszthatják úgy, hogy minden lakásegységhez saját használatú kert tartozzon. Lehetséges, hogy a lakásegységhez csak egy kisebb, egyénileg használt kertrész tartozik, a telek fennmaradó része közös használatú. Itt lehet labdázó hely, közös grillező, kisebb medence stb. E közös telekrész növényállománya, karaktere a természeteshez közelebb állhat, mint az aprócska „díszkertek” megszokott látványa: itt fákkal, bokrokkal tagolt, nagyobb pázsit-felület létesíthető és egységesen művelhető. A telekhasználat szerint a telek privát és közös részekre tagolódik (<link linkend="abra_4_16">4.16.b. ábra</link>).</para>
+
+<para><emphasis>(A területek használatára vonatkozóan az angol nyelvű szakirodalomban általánosan elterjedt „public area; semi-public area; semi-private area; private area” elnevezéseket a továbbiakban „közterület; nyilvános használatú terület; közös terület; privát terület” kifejezésekkel használjuk. A privát terület helyett azért nem használjuk a magyarosabb „magánterület” elnevezést, mert utóbbi inkább tulajdonviszonyt jelent: pl. a közösen használt terület is jelenthet nálunk magánterületet.)</emphasis></para>
+
+<para>Nagyobb lakásszámú együttesekhez alakítható olyan, nagyobb kiterjedésű telek, amelyen számos, egyenként több lakásegységet tartalmazó épület illetve épületcsoport helyezhető el. A lakásszám a tízes nagyságrendtől akár a százas nagyságrendig terjedhet. Nagyobb együtteseknél már nemcsak belső, közösen fenntartott közmű-vezetékhálózat van, hanem az egységek megközelítéséhez közterület-jellegű (semi-public) belső úthálózat is szükséges (lásd következő fejezetben). A telek további részei lehetnek közös és privát használatúak.</para>
+
+<para>A zöldfelületek gondozása, a közös kerti létesítmények karbantartása már valamely szervezett lakóközösségi forma meglétét és legtöbbször bérmunka folyamatos igénybevételét is feltételezi. A nagyobb lakásszámú együtteshez gyakran tartozik közös használatú épület is (pl. kerti kisgép-tároló, karbantartó műhely, többcélú közösségi terem, kondicionáló terem, szauna stb.). Ilyen együtteseket Nyugat-Európában gyakran építenek lakásszövetségek, lakásszövetkezetek, amelyek eleve a lakóközösség szorosabb, szervezett együttműködését feltételezik. Nálunk inkább a szintén szervezett fenntartást igénylő „lakópark” terjedt el.</para>
+</sect2>
+
+
+<sect2 id="E4_jarmuforgalmi_megkozelites">
+<title>4.3.3. Gyalog- és járműforgalmi megközelítés</title>
+
+<para>A lakásegységek jármű- és gyalogforgalmi megközelítése a telekhasználat módjával összefügg. A saját telken álló egységek és a kisebb lakásszámot tartalmazó „sortársasházak” feltárása közvetlenül a közútról történik, önálló belső forgalmi rendszert nem igényelnek.</para>
+
+<para>Nagyobb kiterjedésű, több épületet (több épületcsoportot) magukban foglaló telkek lakásegységeinek megközelítésére több lehetőség van (<link linkend="abra_4_17">4.17. ábrasor</link>).</para>
+
+<para><figure id="abra_4_17"><title>
+A megközelítés módozatai nagyméretű telkek esetén
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_17_megkozel.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_17_megkozel.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+A megközelítés módozatai nagyméretű telkek esetén
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Valamennyi lakásegység közútról mind gyalogosan, mind járművel megközelíthető. Akkor lehetséges, ha a telket három (vagy legalább két) oldalról közút határolja és a telek nem túl nagy, csak a közutak mentén történő beépítéssel is gazdaságos szintterületi mutató érhető el. A gépkocsitárolást célszerű egységenként biztosítani (<link linkend="abra_4_17">4.17.a. ábra</link>).</para>
+
+<para>Az egységek megközelítése nyilvános használatú magánútról (zsákutcából) történik, a gépkocsitárolás egységenként történik. Régebben gyakran alkalmazott megoldás, ma már túlhaladott. Hátránya ugyanis, hogy az autóút és a járdák burkolt felületének kialakítása nagy területet foglal el. A nagy beépítési intenzitás mellett a gépkocsiforgalom jelenléte a telek belsejében balesetveszélyes lehet, és környezeti szempontból (légszennyezés, zaj) is hátrányos (<link linkend="abra_4_17">4.17.b. ábra</link>).</para>
+
+<para>Az egységek gyalogúttal kapcsolódnak az autóúthoz. Gépjárműforgalom az épületek között nincs, a gépkocsitárolás koncentráltan történik a közút-csatlakozás közelében, a lakásegységektől elválasztva. A lakásbejárat és az autóút (parkoló) távolsága viszonylag rövid lehet, azért is, mert a lakásegységek tűzoltó autóval, mentőkocsival történő megközelítési távolsága is korlátozott. Emiatt csak kisebb lakásszámú együttes feltárására alkalmazható (<link linkend="abra_4_17">4.17.c. ábra</link>).</para>
+
+<para>A „szerviz-utas” feltárás. A szerviz-út a szokásosnál nagyobb teherbírású, és szélesebb (3-4,5 m) gyalogút, amelyre kivételezett járművek – mentő, tűzoltó, szemétszállító, bútorszállító stb. – behajthatnak. Előnye a gazdaságosság, a gyalogosok teljes biztonsága. A hatvanas-hetvenes években elterjedten alkalmazták Európa-szerte, de a lakók nem kedvelik, ha a gépkocsiút és parkoló messze esik a lakástól – csomagcipelés hétvégi bevásárlás után (<link linkend="abra_4_17">4.17.d. ábra</link>).</para>
+
+<para>A feltárás történhet vegyes forgalmú úttal. A gyalogosok és az autók azonos felületen közlekednek, de itt tilos parkolni, átmenő forgalom tilos. Parkoló vagy a tömbgarázs elkülönítve helyezkedik el, ezért az utat autóforgalomra csak ritkábban érdemes használni (pl. csomagszállítás esetén) így a gépjárműforgalom is mérsékeltebb. Ennek ellenére csak kisebb forgalmi terhelésnél (alacsony lakásszámnál) alkalmazható (<link linkend="abra_4_17">4.17.e. ábra</link>).</para>
+
+<para>Vegyes forgalmú út, kényszerített sebességkorlátozással (erre a „woonerf” holland elnevezés terjedt el a szakirodalomban). Az épületek között olyan terület alakul ki, amely egyszerre tölt be közterület-jellegű és közösségi funkciót. Sajátos kertészeti eszközökkel és térburkolattal alakítják ki. A lakóközösség kommunikációjának a helye, de autóval is rá lehet hajtani szigorú sebességkorlátozás mellett, amelyet kanyargásra kényszerítő akadályok (virágvályúk, fák, padok, terelőszegélyek és huppanók) garantálnak. A gépkocsitárolás történhet koncentráltan, a lakásegységektől elkülönítve, de az egységekhez is kapcsolódhat (<link linkend="abra_4_17">4.17.f. ábra</link>).</para>
+
+<para>A felsorolt módozatok együtt is alkalmazhatók: pl. a szerviz út vagy vegyesforgalmi út és a gyalogutas megközelítés kombinálásával.</para>
+
+<para>Az akadálymentesség szempontjából a lakásbejárat és parkoló közötti távolság rövidítése kiemelt fontosságú, így a lakásegységhez közvetlenül csatlakozó gépkocsitárolás az előnyösebb megoldás.</para>
+
+<para>A mozgásukban valamilyen ok miatt korlátozott személyek (pl. aktív kerekesszékes személyek, idősek) önálló közlekedésükhöz gyakran gépkocsit használnak. Mivel egy mozgásában korlátozott személy fizikai állapota, illetve az általa használt segédeszköz miatt lassabban és bizonytalanabbul mozog, és egy vagy mindkét keze a segédeszköz használata miatt foglalt – így pl. ernyőt nem tud feje fölé tartani – kiemelt szempont számára, hogy a gépkocsi tárolás a lakás védett bejáratához minél közelebb legyen. Így biztosítható hogy a gépjármű szélsőséges időjárási viszonyok (pl. eső, hó, jég) között is biztonságosan megközelíthető és igénybe vehető. (P.A.)</para>
+
+<para>A telekhasználat mikéntje befolyásolja az épülettípusok kialakítását. A közvetlen, közútról történő megközelítés esetén a lakásegységre jutó közműköltség elvileg a telekszélességgel fordítottan arányos, ezért a gazdasági szempontok minél keskenyebb egységek kialakítására ösztönöznek (az irodalomban találunk példákat akár 4 m széles egységekre is). A „tömbtelkes” beépítésnél, saját (olcsóbban kialakítható) belső közműhálózat és belső forgalmi rendszer esetén ez a szempont nem érvényesül ilyen mértékben, így lehetséges szélesebb – a saját kertrész használatát kevéssé zavaró – egységek megformálása (<link linkend="abra_4_18">4.18. ábra</link>).</para>
+
+<para><figure id="abra_4_18"><title>
+A telekhasználat módjának hatása az épületek kialakítására kétszintes sorházaknál
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_18_aitlelkhasz.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_18_aitlelkhasz.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+A telekhasználat módjának hatása az épületek kialakítására kétszintes sorházaknál
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Az alacsony, nagy sűrűségű beépítések épületeinek tervezése elválaszthatatlan magának a beépítésnek a megtervezésétől. A lakóegyüttes telepítése (helyszínrajza) és a lakóépületek kialakítása a legszorosabban összefügg. Csak a saját tulajdonú telekkel rendelkező „csoportházaknál” fordulhat elő, hogy egy-egy lakásegységet egy, már korábban alakított telken kell elhelyezni. Általánosabb az olyan eset, ahol a telepítés (beépítési terv) és a lakóépületek tervezése egyszerre történik: az építész maga teremti meg a lakások közvetlen környezetének adottságait.</para>
+</sect2>
+</sect1>
+
+
+<sect1 id="E4_sorhazak">
+<title>4.4. Sorházak</title>
+
+<sect2 id="E4_szintszam">
+<title>4.4.1. A sorházak szintszáma</title>
+
+<para>A sorházak alacsony, sűrű beépítéseknél leggyakrabban használt épülettípusok. Lehetnek földszintesek vagy két- (ritkábban három- vagy több-) szintesek.</para>
+
+<para><emphasis>A földszintes sorházak</emphasis> esetében a telek beépítettsége éppen kétszerese annak, mint amit kétszintes sorházzal el lehet érni azonos szintterületi mutató mellett. A nagyobb beépítettség miatt a lakásokhoz tartozó kert viszonylag kicsiny. Megfelelően gazdaságos sűrűség mellett (kb. 0,4 szintterületi mutató) az egységek már olyan közel kerülnek egymáshoz, hogy a kerthasználat vizuális zavartalansága nehezen biztosítható. Az intimitás érdekében a kerteket átlátást gátló kerítésfalakkal célszerű elhatárolni, miáltal azok <emphasis>udvarkertekké</emphasis> válnak (<link linkend="abra_4_19">4.19. ábra</link>). Az udvarkertes beépítéseket a továbbiakban külön alfejezetben tárgyaljuk.</para>
+
+<para><figure id="abra_4_19"><title>
+Jellegzetes földszintes sorház típusok
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_19_fszsh_m.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_19_fszsh_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Jellegzetes földszintes sorház típusok
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Átmeneti formát jelent a magastetős, beépített tetőtérrel rendelkező földszintes sorház, amely a kétszintes sorházak körébe is sorolható.</para>
+
+<para><emphasis>A kétszintes sorházak</emphasis> nagy elterjedését indokolják az európai hagyományok (hagyományos, zártsorú kétszintes lakóházak), és az a tény, hogy gazdaságosan telepíthetők: viszonylag kicsiny telekszükséglettel rendelkeznek (magas fajlagos szintterületi mutató).</para>
+</sect2>
+
+<sect2 id="E4_ketszintes">
+<title>4.4.2. A kétszintes lakásegységek térbeli kialakítása</title>
+
+<para>A lakáskompozíció szempontjából alapvető kötöttség, hogy a lakás helyiségeit csoportosítani kell földszinti és emeleti helyiségcsoportokra, amelyeket lakásbelsőlépcső köt össze. A két helyiségcsoport kézenfekvően a „nappali tartózkodás” zónája valamint a hálószobákból és fürdőből kialakuló „intim zóna”. Mivel a saját kerthasználat a lakástípus alapvető előnye, lehetőleg a kert szintjén legyenek a nappali tartózkodás helyiségei és lakáselemei.</para>
+
+<para>A lakástípus <emphasis>hátránya</emphasis> – mint minden kétszintes lakásé – hogy a lakáshasználat állandó lépcsőjárással jár, amely bizonyos élethelyzetekben (öregkor, állandó vagy időszakos mozgáskorlátozottság) kritikussá válhat. Ezért nyomatékosan ajánlott, hogy a földszinten legyen meg valamennyi lakásfunkciót – ha korlátozottan is – kielégítő lakáselem.  Legyen itt WC, normális méretű mosdóval (kisméretű kézmosó nem elegendő). Ajánlott a földszinten is elhelyezni egy, a megváltozott igényekre adaptálható zuhanyozót vagy fürdőszobát.</para>
+
+<para>A földszinten elhelyezkedő, a szokásos WC-nél nagyobb méretű vizes helyiség– mint háztartási helyiség - egyben a mosógép elhelyezésére és ruhaszárításra is lehetőséget adhat, ha a lakásban külön háztartási helyiség másutt nem készül. Lehetőleg legyen a földszinten is egy kisebb szoba a nappalin kívül.</para>
+
+<para>Ez a térbeli elrendezés a lakás esetleges későbbi akadálymentes kialakítása szempontjából elengedhetetlen: a többcélú szoba és a hozzá kapcsolódó, adaptálhatóan kialakított fürdőszoba a megváltozott használói igényeket kielégítve biztosítani tudja a lakás hosszú távú használhatóságát. Ajánlott ezért olyan helyiségméreteket alkalmazni, illetve ezeknek a helyiségeknek az ajtóit eleve olyan mérettel tervezni, hogy az később minimális átalakítással biztosítani tudja az akadálymentes használathoz szükséges helyigényt. (P.A.)</para>
+
+<para>A <link linkend="abra_4_20">4.20. ábrán</link> látható egy kétszintes sorház funkciósémája, amelybe a helyiségek alapterületét is jelöltük a kategóriában általánosnak mondható igényszint mellett. Ha az emeleten három hálószoba van a fürdőszobán és a szükséges közlekedőn kívül, a földszint és az emelet alapterülete azonos lehet, kialakítható tisztán kétszintes elrendezés.</para>
+
+<para><figure id="abra_4_20"><title>
+Példák kétszintes sorházak funkciósémájára
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_20_shfunkcs.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_20_shfunkcs.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Példák kétszintes sorházak funkciósémájára
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Előfordul, hogy a tervezési program az emeleten kevesebb hálószobát kér, vagy a földszint alapterülete egyéb okból nagyobb az emeletinél. (Kivételesen ritka az olyan program, amely a földszintinél nagyobb alapterületet követel a felső szinten.) A <link linkend="abra_4_20">4.20. ábra</link> második funkciósémája olyan esetet mutat, amikor a földszintre is hálószoba, illetve egy többcélú szoba kerül (nagyszülő szobája, dolgozószoba stb.). Ilyenkor nagyon ajánlott még egy fürdőszobát vagy zuhanyfülkét a földszinten is elhelyezni. Lehetséges az is – mint később tárgyaljuk – hogy a gépkocsitároló is az egységen belül van, a földszinti területigényt növelve. Ilyenkor a földszint és emelet alapterülete nem lehet azonos, a tisztán kétszintes elrendezés helyett más térbeli rendszert kell választani. Ilyen esetekre mutat példákat a <link linkend="abra_4_21">4.21. ábrasor</link>.</para>
+
+<para><figure id="abra_4_21"><title>
+Példák sorházak térbeli elrendezésére
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_21_shterb.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_21_shterb.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Példák sorházak térbeli elrendezésére
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A tervezés kezdő fázisa legyen mindig a megadott program alapterület-szükségletének elemzése a földszinti és emeleti helyiségek vonatkozásában: a megfelelő térbeli elrendezés megválasztás ennek alapján történjen.</para>
+</sect2>
+
+
+<sect2 id="E4_helyisegek_tajolasa">
+<title>4.4.3. A helyiségek tájolása</title>
+
+<para>A <emphasis>tájolási feltételek</emphasis> korlátozottak a lakások kialakításánál, mivel a közbenső sorházegységnek csak két homlokzata van az átellenes oldalakon. Általános szempont, hogy a szobák <emphasis>többsége</emphasis> lehetőleg benapozott homlokzaton legyen (a nappali mindenképpen). A széleskörűen elfogadott szakmai konvenció szerint a nappali déli vagy nyugati tájolást kíván, de ennél fontosabb szempont a nappali szoba és a kert kapcsolata. Ha a kert a keleti homlokzathoz csatlakozik, akkor a kertkapcsolat kapjon prioritást.</para>
+
+<para>A hálók nyugati tájolása kedvezőtlen a túlzott felmelegedés miatt nyáridőben, ezért azoknak jobb a keleti – esetleg déli – tájolás. É-D-i épülettengelynél a hálók többsége lehetőleg a keleti homlokzaton legyen. Ha egyik homlokzat észak felé néz, akkor legtöbbször elkerülhetetlen az északi háló. Jó, ha ez a szülői háló és inkább a gyerekszobák a benapozottak, hisz azok a használók napközbeni tevékenységének is színterei. Abban az esetben, ha hálószobák a nyugati homlokzatra kerülnek, akkor árnyékolásukról gondoskodni kell.</para>
+
+<para>A példaként közölt <link linkend="abra_4_22">4.22. ábrasor</link> egy gyakori kétszintes sorház-elrendezést mutat, ahol a felső szinten három hálószoba helyezkedik el. Amikor a kert a nyugati oldalon van, akkor kézenfekvő, hogy nyugatra csak egy háló nézzen a három közül. Ez legtöbbször nem tölti ki a homlokzat teljes hosszát (csak jelentős túlméretezés esetén) ezért ide kívánkozik a fürdőszoba is: épp a nappali fölé. Ezt korábban szabályzat tiltotta, de mindenképpen kerülni kell a nappali fala mentén vagy annak falában vezetett ejtőcsövet (lásd 4.4.7. fejezetet). Ilyenkor más vizes helyiséget kell elhelyezni a fürdőszoba alatt, vagy kompromisszumot kell kötni, és két hálót tájolni nyugat felé. (A tájolás szempontjai olyan <emphasis>értékszempontok,</emphasis> amelyek más értékekkel együtt, azokkal való kölcsönös egyensúly szerint érvényesek. Lehetséges, hogy néha a tájolási feltételekben kell engedményeket tenni más értékek érvényesülése érdekében.)</para>
+
+<para><figure id="abra_4_22"><title>
+Példák kétszintes, három hálószobás sorházak alaprajzi sémáira a tájolási adottságok figyelembe vételével
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_22_shbnp.png" format="PNG" align="center" scalefit="1" depth="142mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_22_shbnp.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Példák kétszintes, három hálószobás sorházak alaprajzi sémáira a tájolási adottságok figyelembe vételével
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Rendkívül nehézkes a jó tájolás biztosítása olyan esetben, ha a kert az északi homlokzathoz csatlakozik. Ilyen helyzetet ne teremtsünk a beépítési terv készítésénél, de néha ez mégis elkerülhetetlen bizonyos, kialakult helyzetekben. Ilyenkor az előkert is lakófunkciót kaphat, ha a vizuális zavartalanságáról gondoskodunk (pl. falakkal elkerített udvarkert formájában). A hátsó kert legyen más lakóhelyiséggel (pl. étkezővel) kapcsolatban.</para>
+
+<para>Hangsúlyozni kell, hogy a megfelelő tájolás célja a <emphasis>benapozás</emphasis>, amit önmagában nem biztosít az, ha egy-egy ablak névlegesen jó tájolású, de maga az ablak az épület saját vetett árnyékába esik, kivált a téli és a tavaszi-őszi hónapokban, amikor legnagyobb szükség van a benapozásra. A <link linkend="abra_4_23">4.23. ábra</link> mutat ilyen esetet negatív példaként.</para>
+
+<para><figure id="abra_4_23"><title>
+Kétszintes sorház névlegesen jó irányba tájolt nappalija benapozásának vizsgálata (fiktív séma)
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_23_shbnell.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_23_shbnell.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Kétszintes sorház névlegesen jó irányba tájolt nappalija benapozásának vizsgálata (fiktív séma)
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+</sect2>
+
+
+<sect2 id="E4_kertkapcsolat">
+<title>4.4.4. Kertkapcsolat</title>
+
+<para>A kerthasználat elsőrendű tervezési szempont, mivel épp ennek érdekében keletkeztek az alacsony, nagy sűrűségű beépítések lakástípusai. Kétszintes sorházaknál nehézséget okoz a viszonylag keskeny telek, és az a tény, hogy az emeleti szobákból a szomszéd kertjébe is közeli átlátás adódik. A <emphasis>privát kertrészek</emphasis> zavarásának csökkentését, ill. elkerülését mutatja a <link linkend="abra_4_24">4.24. ábrasor</link>. (A rajzok sematikus példák, ezeknél nyilván szélesebb a lehetőségek skálája.)</para>
+
+<para><figure id="abra_4_24"><title>
+Példák a kerthasználat vizuális zavarásának mérséklésére kétszintes sorházaknál
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_24_skertved_mod.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_24_skertved_mod.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Példák a kerthasználat vizuális zavarásának mérséklésére kétszintes sorházaknál
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para> A vízszintes értelmű átlátást sűrűn telepített takaró növényzettel akadályozni lehet, ha a sorházegységekhez tartozó kert ehhez eléggé széles (<link linkend="abra_4_24">4.24.a. ábra</link>).</para>
+
+<para>Keskenyebb egységek esetén gyakori, hogy a kerteket térfalakkal határolják el az átlátás elkerülésére (<link linkend="abra_4_24">4.24.b. ábra</link>). Nyáridőben a nappali tartózkodásra elsősorban a <emphasis>terasz</emphasis> szolgál, ennek zavartalansága a legfontosabb. Szabdaltabb tömegkontúrral elérhető, hogy a terasz kiessék a szomszéd teraszon ülők közvetlen látómezejéből. Ezt az igényt előnyösen teljesíti a tördelt vagy fűrészfogas elrendezés (<link linkend="abra_4_24">4.24.c. ábra</link>).</para>
+
+<para>Az emeletről a szomszéd kertjébe való lelátást igen nehéz kiküszöbölni, de ez a hátrány jó lakóközösségben általában tolerálható. Kerülni kell viszont azokat a megoldásokat, amelyek az átlátást mintegy kierőltetik (pl. emeleti erkélyek az épület kert felőli oldalán). A felső ablakokból a szomszéd terasz látványa kizárható tördelt kontúrú vagy fűrészfogas telepítéssel, vagy olyan oldalszárny létesítésével, amely mind a földszintről, mind az emeletről adódó átlátást akadályozza (<link linkend="abra_4_24">4.24.d. ábra</link>).</para>
+
+<para>A kertrészek kényelmes megközelíthetőségét sok esetben gátolja a külső és belső tér közötti 1-2 lépcsőfoknyi szintkülönbség vagy a teraszajtó magas küszöbkialakítása. Figyelembe véve, hogy a nyári évszakban a kertrész/terasz és nappali szoba közötti közlekedés intenzív, erősen javasolt, hogy a belső tér és a terasz között legfeljebb 2 cm szintkülönbség legyen. Ez a szintkülönbség biztosítja a minimális vízküszöböt, ugyanakkor az átközlekedés mindenki számára kényelmesebbé válik. (P.A.)</para>
+</sect2>
+
+
+<sect2 id="E4_gepkocsitarolas">
+<title>4.4.5. Gépkocsitárolás</title>
+
+<para>A telekfelhasználásról és a megközelítésről szóló fejezetekben leírtak szerint a <emphasis>gépkocsi-elhelyezésre</emphasis> alapvetően két módszer van: az autók állhatnak koncentrált, közös parkolóban vagy tömbgarázsban, illetőleg a lakóegységekben vagy azok közvetlen közelében lévő privát gépkocsitárolóban. Ez utóbbira mutat sematikus példákat a <link linkend="abra_4_25">4.25. ábrasor</link>.</para>
+
+<para><figure id="abra_4_25"><title>
+Gépkocsitároló kialakítása kétszintes sorházaknál
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_25_srhgpktar.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_25_srhgpktar.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Gépkocsitároló kialakítása kétszintes sorházaknál
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A keskeny, egytraktusos sorházegységbe ékelődő gépkocsitároló szűkösséget okoz a földszinten, és bizonyos, földszintre kívánkozó funkciókat az emeletre kényszerít. Kerülendő megoldás (<link linkend="abra_4_25">4.25.a. ábra</link>).</para>
+
+<para>Közvetlenül a homlokzat elé helyezett gépkocsitároló nem foglal el lakásterületet, de a homlokzati nyílások számát korlátozza, így a garázs mögé huzamos tartózkodásra szolgáló helyiség – pl. konyha – nem tervezhető, ezért a földszint kialakítása nehézkes. Hátrányos megoldás (<link linkend="abra_4_25">4.25.b ábra</link>).</para>
+
+<para>Az épület tömegén belül a földszintre tervezett gépkocsitároló jó elhelyezése nagyobb telekszélességet kíván, és olyan térbeli elrendezést, ahol az emeleti alapterület kisebb a földszintinél. Önálló telken álló sorház-egységeknél előnyös, ha a gépkocsitárolón keresztül a kert fenntartási célú megközelítésére mód van (<link linkend="abra_4_25">4.25.c.</link> és <link linkend="abra_4_25">d. ábra</link>).</para>
+
+<para>Az előkertbe helyezett gépkocsibeálló 2-3 m-rel mélyebb előkertet követel a szokásosnál, így a hátsókertet rövidíti. Az előkert lakófunkcióját, privát használatát teszi lehetővé az udvarkert-jellegű kialakítás (<link linkend="abra_4_25">4.25.e. ábra</link>).</para>
+
+<para>Alagsori (legfeljebb 70 cm-rel a járdaszint alá helyezett) gépkocsitároló csak belső szinteltolással alakítható ki úgy, hogy a nappali ne szakadjon el a kerttől. Ilyenkor alkalmazható az egyes szintek hossztengely irányában történő eltolása (<link linkend="abra_4_25">4.25.f. ábra</link>).</para>
+
+<para><emphasis>Pinceszinti</emphasis> (70 cm-nél mélyebb) <emphasis>gépkocsitárolót sorházaknál ne tervezzünk</emphasis>. A rámpa max. 20%-os lejtése – a megkívánt lejtés-átmenetekkel együtt – igen hosszú rámpát eredményezne, amely kiszorítaná a zöldfelületeket a feleslegesen megnövelt előkertből, és annak látványát is tönkretenné a sivár műtárgyak sora.</para>
+</sect2>
+
+
+<sect2 id="E4_szerkezetek_kialakitasa">
+<title>4.4.6. Szerkezetek kialakítása</title>
+
+<para>Az alacsony szintszám miatt a sorházak lehetséges szerkezeti rendszerére is vonatkoztathatjuk a családi házaknál elmondottakat. A szerkezeti rendszer megválasztását befolyásolja az egy építési ütemben épített lakásszám. Technológiai szempontból előnyt jelent, ha a lakásegységek alapszerkezete korlátozott számú típusba sorolható, ami nem zárja ki a belső téralakítás változatosságát. (Kifejezett előnyt jelent, ha a használó kiválaszthatja a számára legmegfelelőbb változatot.)</para>
+
+<para>Sorházaknál leggyakrabban a <emphasis>teherhordó falszerkezetet</emphasis> alkalmazzák. Az általánosan alkalmazott előgyártott födémelemek vagy monolit vasbeton lemezek 6,60 - 7,20 m fesztáv tartományig jól használhatók. Ennél nagyobb fesztávokhoz már különleges födémszerkezetek kellenek, azonban ezek más tekintetben is kötöttségeket okoznak (pl. speciális gépészeti elrendezést és emelőgépet igényelnek), ezért alkalmazásuk <emphasis>általános esetben</emphasis> nem javasolható.</para>
+
+<para>A <emphasis>harántfalas elrendezés</emphasis> keskenyebb egységeknél (kb. 7,20 m fesztávig) azért előnyös, mert az akusztikailag szükséges vastagabb elválasztó fal egyben teherhordó fal is. Szélesebb egységnél már kétmenetes elrendezést (vagy hosszfalas elrendezést) kell alkalmazni.</para>
+
+<para>A <emphasis>hosszfalas elrendezés</emphasis> korábban ritka volt sorházaknál. Az elmúlt évtizedek egyre növekvő hőtechnikai követelményei miatt a homlokzatokon a nyílás-fal arány a fal javára növekedett, ami azok teherhordásra való igénybevételére ösztönöz. A „tömbtelkes” beépítéseknél gyakori a viszonylag széles egységek kialakítása (lásd <link linkend="abra_4_18">4.18. ábra</link>).  Elvben a hosszfalas rendszer is alkalmazható egy- vagy kétmenetes formában, de az egymenetes, hosszfalas elrendezés a gazdaságos fesztávtartományban (max. 7,20 m) már kritikusan kicsiny épületmélységet eredményez.</para>
+
+<para>Lehetséges a hossz- és harántfalas elrendezés együttes alkalmazása is bizonyos térbeli elrendezéseknél.</para>
+
+<para><emphasis>A belső lépcső</emphasis> kialakítása, helyzete a lakáskompozíció kulcskérdése a kétszintes sorházaknál.  A családi házaknál szokásos belső lépcsők itt is alkalmazhatók. (lásd 3.7.2. fejezet, <link linkend="abra_3_55">3.55. – 3.59. ábrák</link>). A lépcsőfajta megválasztása egyéb tervezési szempontokkal függ össze.</para>
+
+<para>A <emphasis>kétkarú</emphasis> (egyenes vagy húzott fokú) lépcső <emphasis>központi</emphasis> elhelyezése központi helyzetű, előnyösen kihasználható emeleti közlekedőt eredményez. Az ilyen lépcső általában rejtett közlekedőből (étkezőből, nappaliból) indul a túl hosszú előszoba elkerülésére.</para>
+
+<para>A homlokzat közelében elhelyezett, külpontos kétkarú lépcső csak kis épületmélységnél alkalmazható kedvezően (<link linkend="abra_4_26">4.26.a. ábra</link>).</para>
+
+<para><figure id="abra_4_26"><title>
+A lépcsőfajták és a lakáskompozíció összefüggésének sémái kétszintes sorházaknál
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_26_shlpcelh.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_26_shlpcelh.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+A lépcsőfajták és a lakáskompozíció összefüggésének sémái kétszintes sorházaknál
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para><emphasis>Az egykarú lépcső</emphasis> elhelyezhető a homlokzattal párhuzamosan. Impozáns belsőépítészeti elem lehet a nappali terében, de viszonylag nagy fesztávot igényel. A felső szinten kialakuló „U” alakú közlekedő eléggé terjengős. Az egység homlokzatára merőleges egykarú lépcső elhelyezése fokozott szerkezeti gondosságot igényel (<link linkend="abra_4_26">4.26.b. ábra</link>).</para>
+
+<para><emphasis>A húzott fokokkal ellátott egykarú lépcső</emphasis> jó szolgálatot tesz olyankor, ha az építtetői igény a hálók szeparáltabb megközelítését kéri. Ilyenkor a lépcső közvetlenül a bejárat mellől indítható, de központi helyen érkezik. Ilyen lépcső központosan is elhelyezhető, de ez hosszú földszinti közlekedőt is jelent. Javít a helyzeten az, ha a lépcső előtti közlekedő nagy nyílással (pl. tolóajtóval) a nappali vagy étkező teréhez kapcsolható (<link linkend="abra_4_26">4.26.c. ábra</link>).</para>
+
+<para>A fent elemzett alapsémákon kívül a lépcső és lakáskompozíció kapcsolata sokkal több elrendezési változatban jöhet létre, mint ahogyan az egységek alaprajzi és térbeli elrendezése is végtelenül változatos lehet. A példák csak annak a tételnek az igazolására szolgálnak, amely szerint a két, egymás feletti szint tervezése már az első vázlatok készítésénél is csak a lépcső elhelyezésével együtt történhet.</para>
+</sect2>
+
+
+<sect2 id="E4_epuletgepeszet">
+<title>4.4.7. Épületgépészeti szempontok</title>
+
+<para>A helyiségek térbeli elrendezésénél különös gondot kell fordítani az un. „vizes helyiségek” elrendezésére. A nyomás alatt álló csövek (hideg-melegvíz, fűtési melegvíz) elrendezése általában nem jelent problémát, de a gravitációs úton működő szennyvízvezetékek célszerű elrendezése fontos tervezési szempont az egymás fölé kerülő helyiségek kialakításánál (<link linkend="abra_4_27">4.27.</link> és <link linkend="abra_4_28">4.28. ábra</link>).</para>
+
+<para><figure id="abra_4_27"><title>
+Vizes helyiségek célszerű elrendezése kétszintes lakásoknál
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_27_shvizes.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_27_shvizes.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Vizes helyiségek célszerű elrendezése kétszintes lakásoknál
+</phrase></textobject>
+</mediaobject>
+</figure>
+
+<figure id="abra_4_28"><title>
+Kétszintes sorházak vizes helyiségeinek elrendezése (fiktív sémák)
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_28_shvzeselr.png" format="PNG" align="center" scalefit="1" depth="142mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_28_shvzeselr.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Kétszintes sorházak vizes helyiségeinek elrendezése (fiktív sémák)
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A WC berendezéseket szolgáló, tekintélyes keresztmetszetű szennyvízvezeték vízszintes elhúzásának hossza korlátozott, mivel annak néhány ezrelék lejtést is biztosítani kell, ami a földszint és az emelet közötti födémen belül általában nem lehetséges. A függőleges szennyvízvezeték, az un. „ejtőcső” legyen a WC berendezés közvetlen közelében, esetleg a szennyvízvezeték a födém felett (gépészeti szerelőpanelben) 1-1,5 m-nél nem nagyobb távolságra vízszintesen is vezethető. Kerülni kell az olyan elrendezéseket, amikor WC berendezést is tartalmazó vizes helyiség lakóhelyiség fölé kerül (ezt korábban szabályzat is tiltotta). A lakóhelyiségek fala mentén vezetett ejtőcső csúnya, és zavaró hangforrást is jelent. Kezdő tervezők gyakori hibája az emeleti fürdőszoba olyan helyzete, amikor az ejtőcsövet egy földszinti helyiség közepén kellene átvezetni. Ez megoldhatatlan, hibás tervjavaslat (<link linkend="abra_4_28">4.28.c. ábra</link>).</para>
+
+<para>Gondoskodni kell a fűtőberendezés (cirko) megfelelő elhelyezéséről, annak kémény-csatlakozásáról, valamint az ablakkal nem rendelkező belső fekvésű vizes helyiségek szellőzéséről (függőleges szellőzőcsövek átvezetéséről).</para>
+</sect2>
+
+</sect1>
+
+<sect1 id="E4_udvarkertes">
+<title>4.5. Udvarkertes házak</title>
+
+<sect2 id="E4_fogalma_alaptipusai">
+<title>4.5.1. Az udvarkertes ház fogalma, alaptípusai</title>
+
+<para>Az udvarkert legalább három vagy mindegyik oldalán épülethomlokzattal vagy tömör fallal körülvett, belátástól védett lakókert. Udvarkertes házaknak azokat a lakóházakat (házcsoportokat) nevezzük, amelyek lakásai az udvarkerthez közvetlenül kapcsolódnak.</para>
+
+<note>
+	<para>A külföldi szakirodalom ezekre az épületekre különféle elnevezéseket alkalmaz. Németül Atriumhaus, Gartenhofhaus, Winkelhaus. Az angol az „átriumház” kifejezést nem használja, a tárgyalt épületeket a Courtyard-House, Court-Garden Home-nak esetenként Patio-House-nak nevezi. Az általánosan elterjedt magyar „átriumház” fogalom inkább a két (vagy három, ill. négy) oldalról körülépített, a többi oldalán tömör fallal elhatárolt udvarkerttel rendelkező háztípusokra vonatkozik. Ebbe a fogalomba nehezen illeszthető bele az olyan földszintes sorház, amelynek csak egy homlokzata néz az udvarkertre. A szakirodalom igen gyakran „átriumházas” beépítésként ismertet olyan elrendezéseket is, amelyeknél az L alakú földszintes épület udvarkertje egyik oldalról nyitott.</para>
+</note>
+
+<para>Az udvarkert felfogható nagyméretű „szabadtéri lakóhelyiségként” is, nagy értéke a belátástól való védettsége, intim használata (<link linkend="abra_4_29">4.29. ábra</link>).</para>
+
+<para><figure id="abra_4_29"><title>
+Az udvarkertek alaptípusai
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_29_atriumtip.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_29_atriumtip.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Az udvarkertek alaptípusai
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Az alábbiakban a fogalomkörbe tartozó, sorolható lakásfajták alaptípusait az udvarkerttel való viszonyuk alapján ismertetjük (<link linkend="abra_4_30">4.30. ábrasor</link>).</para>
+
+<para><figure id="abra_4_30"><title>
+Sorolható udvarkertes lakásegységek gyakoribb sémái
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_30_atriumfajtak1.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_30_atriumfajtak1.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Sorolható udvarkertes lakásegységek gyakoribb sémái
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Az egy oldalon beépített udvarkert épülete földszintes sorház jellegű, annak megfelelően sorolható. Ha viszonylag magas sűrűséggel alkalmazzák a földszintes sorházat, akkor kertjei kisméretűek, vizuális zavarástól való védelmet igényelnek (lásd a korábbi, <link linkend="abra_4_19">4.19. ábrát</link>). Alkalmazása akkor indokolt, ha kisebb vagy közepes méretű (&lt; kb. 100 m2) lakásokat telepítenek udvarkertes formában (<link linkend="abra_4_30">4.30. a. ábra</link>).</para>
+
+<para>A két oldalán beépített udvarkert a leggyakrabban használt épületforma. Ha az udvarkert méretei a megfelelő benapozáshoz kellő méretűek és az épületszárnyak nem végletesen keskenyek, akkor viszonylag nagyobb (&gt; 100 m2) alapterületű lakásokhoz alkalmazható. A szokásos, tömör beépítési formákban ritkán kap előkertet, ilyenkor a szobák vizuális védettségének érdekében azokat az udvarkert felé kell megnyitni. Tájolás szempontjából kedvező, ha a nappali a délre néző, a hálók a keletre néző szárnyon helyezkednek el (<link linkend="abra_4_30">4.30.b. ábra</link>).</para>
+
+<para>A három oldalról körülépített udvarkert harmadik oldalán viszonylag keskeny szárnyat szoktak kialakítani, amelyben a nem közvetlenül lakás célú helyiségek vannak (pl. dolgozó, műhely, tárolók stb. - <link linkend="abra_4_30">4.30.c. ábra</link>).</para>
+
+<para>A négy oldalról körülépített udvarkert nagyméretű lakásokhoz alkalmazható (&gt; 150 m2). Itt nem annyira a telektakarékosság, mintsem az udvarkert más előnyei dominálnak (intim kerthasználat, kedvező mikroklíma). A beépítési sűrűség inkább a családi házaknál alkalmazott értékek felé közelít (<link linkend="abra_4_30">4.30.d. ábra</link>).</para>
+
+<para>A két oldalán körülépített udvarkert, egyik oldalon emeletes szárnnyal, telektakarékos elrendezés. A szintterületi mutató értéke a kétszintes sorházakénál alkalmazott értékeket közelíti vagy azzal egyenlő a kisméretű kert miatt. Itt is csak nagy alapterületű lakások helyezhetők el, ha az udvarkert kellő méretű. A földszint megfelelő benapozása csak akkor biztosítható, ha a kétszintes szárny nem árnyékolja a benapozást igénylő földszinti helyiségeket (legkedvezőbb, ha az északi oldalon van - <link linkend="abra_4_30">4.30.d. ábra</link>).</para>
+
+<para>Előfordul, hogy a lakáshoz nemcsak egy, hanem több udvarkert (vagy nem udvarkert jellegű kertrész is) csatlakozik (<link linkend="abra_4_31">4.31. ábra</link>).</para>
+
+<para><figure id="abra_4_31"><title>
+Több udvarkerttel rendelkező sorolható lakásegységek
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_31_atriumfajtak2.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_31_atriumfajtak2.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Több udvarkerttel rendelkező sorolható lakásegységek
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Udvarkert jellegű előkert kapcsolódhat a lakáshoz a hátsó udvarkerten kívül. Kissé telekigényesebb megoldás, alkalmazása akkor célszerű, ha az épület közvetlenül csatlakozik a közterülethez. Előnye, hogy lakóhelyiségek az előkert felé is tájolhatók. (<link linkend="abra_4_31">4.31.a. ábra</link>).</para>
+
+<para>Ha a lakássor közvetlenül kapcsolódik a közterülethez, és a rendelkezésre álló telek utcai homlokvonala korlátozott, akkor a minél keskenyebb egységek létesítésének gazdasági érdeke érvényesül. Viszonylag nagy lakás csak úgy helyezhető el földszintes formában, ha az utcára merőleges épületmélység is igen nagy. Ilyenkor egy belső, kisméretű, intim hangulatú páció szolgálhat a lakás egyes helyiségeinek megvilágítására (<link linkend="abra_4_31">4.31.b. ábra</link>).</para>
+
+<para>A naptér udvarkert jellegű kialakítása a szolár energia hasznosításának lehetséges formája. Nyáridőben szellőztetését biztosítani kell. Mivel télen a naptér zárt, ezért az ide néző helyiségek közvetlen szellőzéséről is gondoskodni szükséges (<link linkend="abra_4_31">4.31.c. ábra</link>).</para>
+</sect2>
+
+
+<sect2 id="E4_udvarkertes_benapozas">
+<title>4.5.2. Az udvarkertes házak benapozása</title>
+
+<para>Az udvarkertet körítő homlokzatok vagy körítő falak árnyékot vetnek magára az udvarra, és a homlokzatokra is, így kedvezőtlen esetben előfordulhat, hogy a helyiségek névlegesen kedvező tájolása ellenére benapozásuk nem kielégítő.</para>
+
+<para>Benapozás tekintetében az udvarkert alaprajzi méretei és a határoló, árnyékvető síkok magasságai szorosan összefüggenek.  Számításba kell venni a tetőformát is, mert magastető esetén gyakori, hogy az árnyékvető sík felső határa nem a homlokzat felső záradéka, hanem a tetőgerinc. Az átriumházas „szőnyegtelepek” létesítésének fénykorában – a hatvanas, hetvenes években – általában lapostetőket alkalmaztak, a manapság épülő udvarkertes együtteseknél gyakori a mérsékelt hajlású magastető és a zöldtető. Magastető alkalmazása esetén az alacsonyabb (20 - 25 fok körüli, vagy annál kisebb) tetőhajlásszög előnyös (<link linkend="abra_4_32">4.32. ábra</link>).</para>
+
+<para><figure id="abra_4_32"><title>
+Udvarkertek benapozása különböző tetőformáknál
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_32_atriumtetok.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_32_atriumtetok.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Udvarkertek benapozása különböző tetőformáknál
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A viszonylag kisméretű udvarkertre néző helyiségek benapozottsága „ránézésre” nemigen dönthető el, ezért a benapozás-vizsgálat a tervezés nélkülözhetetlen része, már a tervezés kezdő fázisában.</para>
+
+<para>Adott hónap, adott órájában a napsugárzás iránya pontosan meghatározható, így az udvarkert árnyékviszonyai viszonylag egyszerűen és gyorsan megrajzolhatók egy kritikus időpontra vonatkoztatva. A számítógépet használók jó programokat találnak e témakörben, sőt fejlettebb építész-programoknál a 3D-s megjelenítés árnyékolásához földrajzi szélesség, dátum és óra is rendelhető.</para>
+</sect2>
+
+
+
+<sect2 id="E4_mikroklima">
+<title>4.5.3. Az udvarkertek mikroklímája</title>
+
+<para>Amennyire kívánatos az udvarkertre néző helyiségek benapozása, annyira kedvezőtlen lehet a helyiségeknek és magának az udvarkertnek túlzott felmelegedése a nyári hónapokban. A körítő falak és a vízszintes burkolatok elnyelik és tárolják a napenergiát, és az átszellőzés teljes hiánya, vagy korlátozott volta miatt ott „hőzug” alakulhat ki, és az éjszakai kiegyenlítődés sem érvényesül kellőképpen.</para>
+
+<note>
+	<para>Nem véletlen, hogy az udvarkertes házak a mediterrán térségekben és Észak-Afrikában alakultak ki hagyományosan, modern formáik pedig főképp Észak-Európában terjedtek el. A hagyományos déli lakóház udvarkertjének arányai olyanok, hogy a helyiségeket lehetőleg tartsák árnyékban az alaprajzi mérethez viszonyítva magas körítőfalak. Ehhez még századok alatt kipróbált szellőzési rendszerek is tartoztak.</para>
+</note>
+
+<note>
+	<para>Skandináviában a hideg tavaszi-őszi hónapokban is lehet használni a szélvédett, „napcsapdaként” működő udvarkertet, amely a zord téli hóviharok ellen is véd. Az ottani rövid nyár alatt ritkaság, hogy a hőség ellen kelljen védekezni.</para>
+</note>
+
+<para>Az udvarkert szellőzésének szempontjából jobb, ha azt nem négy oldalról veszik körül tömör falak, illetve ha az egyik térelhatároló fal részben-egészben a belátást gátló, de szellőzést biztosító, áttört formában van kialakítva.</para>
+
+<para>A helyiségek tömör vízszintes síkokkal (nagy kiülésű ereszekkel) történő leárnyékolása itt azért nem előnyös, mert azok is az udvar kiszellőzését gátolják: jobbak az áttört, vagy mozgatható árnyékoló szerkezetek.</para>
+
+<para>Az udvar mikroklímáját kedvezően befolyásolhatja a burkolt és növénnyel fedett felületek arányának jó megválasztása, a hőt kevéssé elnyelő burkolat alkalmazása, nagy aktív levél-felülettel rendelkező, a falakat is árnyékoló növényzet, egy-egy árnyékoló fa beültetése, esetleg kisebb vízfelület létesítése. A szellőzést elősegíti, ha a kertre néző szoba (főleg a nappali szoba) intenzíven átszellőztethető a külső, árnyékos oldal felé.</para>
+
+<para>Az udvarkertes beépítések („szőnyegtelepek”) belső részeinek feltárásánál azért is kerülni kell a gépkocsiforgalom jelenlétét, mert a keletkező füstgázok a korlátozott szellőzésű belső udvarokban megülhetnek.</para>
+
+<para>A zárt udvarkert felfogható úgy is, mint egy „fedetlen naptér”. Ahogyan a jól működő naptér tervezéséhez hozzáértő szakember közreműködése szükséges, ugyanúgy ajánlatos szakavatott kerttervező bevonása egy megfelelő mikroklímájú udvarkert tervezésébe.</para>
+</sect2>
+
+
+<sect2 id="E4_egysegek_sorolasa">
+<title>4.5.4. Az udvarkertes egységek sorolása</title>
+
+<para>Mind az alapegységek kialakítása, mind azok összeépítése igen nagy változatosságot mutat a megépült példák körében. Minden feladat eseti kihívás: a tervező probléma-érzékenységétől, fantáziájától és kreativitásától függ a konkrét megoldás milyensége. Az itt közölt néhány alapséma elemzése csak a fontosabb tervezési szempontok illusztrálására szolgál.</para>
+
+<para><emphasis>Az udvarkertes földszintes sorházak</emphasis> sorolhatók egysávos vagy kétsávos formában. <emphasis>Kétsávos</emphasis> formának eredetileg azt az elrendezést nevezik, ahol a feltáró út mindkét oldalát épületek szegélyezik és az út két épületsáv megközelítésére szolgál. Ebből adódóan az út két oldalán lévő lakások bejárata az egymással szemközti homlokzaton van, a kertre néző lakóhelyiségek tájolása egymással ellentétes. Ez az elrendezés kielégítő benapozást csak akkor biztosít, ha a sorolás É-D-i irányú, az egyik sor udvari szobáinak ablakai keleti, a másiké nyugati tájolásúak (<link linkend="abra_4_33">4.33.a. ábra</link>). Az <emphasis>egysávos</emphasis> elrendezés megduplázza a feltáró utak számát: előnyösen csak gyalogos megközelítésnél alkalmazható (<link linkend="abra_4_33">4.33.b. ábra</link>).</para>
+
+<para><figure id="abra_4_33"><title>
+Udvarkertes földszintes sorházak sorolása
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_33_atriumsorolas1.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_33_atriumsorolas1.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Udvarkertes földszintes sorházak sorolása
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A tájolási anomáliák jó feloldása az egységek olyan elrendezése – nem sorház-szerű összeépítése – amelyet a <link linkend="abra_4_33">4.33.c. ábra</link> mutat. Az egységek helyiségei azonos irányba tájolhatók, az udvarkert jól kiszellőztethető, ha az út felől átlátást gátló, de részben-egészben áttört térelhatároló falat építenek.</para>
+
+<para>Kislakásokat tartalmazó földszintes sorházakat átriumházak közé is soroltak a „szőnyegtelepek” sokrétűbb lakásösszetételének érdekében. Az átriumházak ugyanis viszonylag nagy alapterületű lakások, területi koncentrálásukkal egysíkú lakásösszetétel keletkezik, bizonyos használói rétegek (pl. öregek, önálló életet kezdő fiatalok, egyedül élők stb.) kiszorulnak onnan. A különböző nagyságú lakások keverése a lakóközösség árnyaltabb szociális összetételének kialakulását segíti elő (<link linkend="abra_4_33">4.33.d. ábra</link>).</para>
+
+<para><emphasis>Az átriumházak kétsávos sorolása</emphasis> legtöbbször azt eredményezi, hogy az udvarkertek kerülnek közvetlenül egymás mellé (<link linkend="abra_4_34">4.34.a. ábra</link>). Az elválasztó fal vizuális védelemre jó, de akusztikai védelem szempontjából csökkent értékű. A helyzeten javít, ha a két udvarkert közé még egy keskeny épületsáv kerül, ami pl. tárolókat tartalmazhat. Ez az elrendezés is csak É-D irányú sorolásnál ad megfelelő benapozottságot, de a tájoláshoz illő helyiség-elrendezés két, eltérő alaprajzot eredményez. Kétsávos elrendezés azonos tájolású lakástípusokkal kikényszerítheti az átriumból nyíló lakásbejáratot. (<link linkend="abra_4_34">4.34.a2. ábra</link>)</para>
+
+<para><figure id="abra_4_34"><title>
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_34_atriumsorolas2.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_34_atriumsorolas2.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Az <emphasis>egysávos</emphasis> sorolás esetén valamennyi lakásegység tájolási, megközelítési adottságai azonosak. Az udvarkert lehet „fél-átrium”, azt még további kertrész egészítheti ki. Az udvarkertek kiszellőzése szempontjából az egysávos elrendezés kedvező. A feltáró utak nagyobb része itt sem közút (<link linkend="abra_4_34">4.34.b. ábra</link>).</para>
+
+<para>A laza, nem lineáris sorolás az együttesek festői és változatos belső (nyilvános használatú) tereit eredményezheti, és az épületcsoportnak a természeti környezethez harmonikusabban illeszkedő, organikus karaktert kölcsönöz (<link linkend="abra_4_34">4.34.c.</link> és <link linkend="abra_4_34">d. ábra</link>). A szigorú, geometrikus szerkesztéstől való eltérés némileg területigényesebb, ezért az ilyen együttesek szintterületi mutatója nem nagy, a családi házaknál szokásos értékeket közelíti. A koncentrált épület-elhelyezés elsőrendű motivációja sokszor nem is a telektakarékosság, hanem az, hogy a zöldkörnyezet minél nagyobb részét a maga természetes formájában lehessen megőrizni. A terület-előkészítés költségeit a koncentrált közműhálózat így is csökkenti.</para>
+
+<para>Legtöbb tehetős, városi ember szeretne zöldkörnyezetben, kertes házban lakni, de hajszolt életmódja miatt a családi ház nagy kertjének rendben tartására nem jut idejéből. A kisebb, lakást kiegészítő udvarkert épp annyi elfoglaltságot ad, ami rövidre szabott szabadidő-tevékenységnek elég, a terület közös részei szervezett bérmunkával egyszerűbben és olcsóbban fenntarthatók, mint telkenként.</para>
+</sect2>
+
+
+<sect2 id="E4_udvarkert_gepkocsitarolas">
+<title>4.5.5. Gépkocsitárolás</title>
+
+<para>Az udvarkertes beépítéseknél jellemzőbb – és ajánlottabb – a gépkocsitárolás tömbösített formában történő megoldása, mint a lakásegységekhez kapcsolt garázsok építése. Ennek oka, hogy a viszonylag széles homlokvonallal rendelkező, a négyzethez közeli arányú egységek közút menti sorolása gazdaságtalan út- és közműhálózat kialakítását eredményezné. Az udvarkertes egységeket feltáró utak legtöbbször keskenyebb szerviz utak vagy gyalogutak, esetenként kényszerű sebességkorlátozással kialakított vegyesforgalmú utak (ld. 4.4.4. fejezet). Mégis, ahol az udvarkertes együttesek lakásai a nagyobb, közös telket egy vagy több oldalon határoló közút mentén állnak, ott kézenfekvő az egységhez csatlakozó gépkocsitárolót kialakítani.</para>
+
+<note>
+	<para>A kényelmes és akadálymentes használat szempontjából előnyösebb a fedett gépkocsi beálló kialakítása. Amellett, hogy a gépkocsiba történő ki- és beszállás, illetve pakolás az időjárási körülményektől függetlenül kényelmesen történhet (esőben, hóesésben nem ázik el a használó, nyáron csökken a gépjármű utasterének túlmelegedése), a gépjármű védett helyen áll, így a hó, falevelek gépjárműről történő letakarításának igénye is lecsökken. (P.A.)</para>
+</note>
+
+<para>A gépkocsitároló vagy fedett gépkocsibeálló állhat közvetlenül az egység előtt, egy második udvarkertet határolva (<link linkend="abra_4_35">4.35.a.</link> és <link linkend="abra_4_35">c. ábra</link>).</para>
+
+<para><figure id="abra_4_35"><title>
+Példák gépkocsitároló elhelyezésére udvarkertes házaknál
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_35_atriumgkptar.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_35_atriumgkptar.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Példák gépkocsitároló elhelyezésére udvarkertes házaknál
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>A gépkocsitároló elhelyezhető magában az egységben: ez szélesíti az egység homlokvonalát, de tágítja az udvarkert méreteit (<link linkend="abra_4_35">4.35.b. ábra</link>).</para>
+
+<para>A kapualjszerűen kialakított gépkocsibeálló elősegítheti az átrium kiszellőzését, de csak akkor alkalmazható, ha a kapcsolódó közút forgalma kicsiny, egyébként a füstgázok az udvarba kerülve ott megülhetnek (<link linkend="abra_4_35">4.35.d. ábra</link>).</para>
+
+<para>Előfordulnak olyan esetek, amikor az udvarkertes egység kettős feltárású: gyalogos és járműforgalmi megközelítése az átellenes oldalon van. Ilyenkor a garázsok értelemszerűen a közút felőli oldalon vannak (<link linkend="abra_4_35">4.35.f. ábra</link>).</para>
+</sect2>
+
+
+<sect2 id="E4_egyuttesek_kialakitasa">
+<title>4.5.6. Udvarkertes együttesek kialakítása</title>
+
+<para>Az átriumházakból formált lakóegyüttesek tervezésénél igen fontosak az ökológiai szempontok. A túl sűrűn beépített „szőnyegtelepek” aktív zöldfelületei nem elegendőek, ha csak az udvarkertek növényzete képezi azokat. Az udvarkert területe sokszor a beépített területnek mindössze harmada, negyede, aminek egy jó része még burkolt is. Ezért itt nagy szerep jut a közösen használt zöldfelületeknek. A zárt külső homlokzatú átriumházak közötti keskeny, sokszor sikátorszerű utakat érdemes sűrűn megszakítani kertészetileg is szépen formált teresedésekkel, amelyek a lakóközösség kommunikációs fórumai, gyermekek játszó helyei lehetnek.</para>
+
+<para>Külföldön, a hatvanas években épített, nagy kiterjedésű, gyakran monoton szőnyegtelepeihez hasonlókat manapság nemigen létesítenek. A kisebb léptékű együttesek változatosak, sajátos, egyéni karaktert hordozhatnak külön-külön is. Ennél a beépítési formánál nem az egyes épület, hanem az együttes egésze hordozza az építészeti értéket.</para>
+
+<para>(A <link linkend="abra_4_36">4.36. ábrasoron</link> bemutatott példák értelemszerűen sematikusak, építészeti vonatkozásban nem kell azokat sem értékelni, sem közvetlenül átvenni.)</para>
+
+<para><figure id="abra_4_36"><title>
+Példák kisebb udvarkertes lakóegyüttesek elrendezésére (fiktív sémák)
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_36_atriumegytts.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_36_atriumegytts.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Példák kisebb udvarkertes lakóegyüttesek elrendezésére (fiktív sémák)
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+</sect2>
+</sect1>
+
+
+<sect1 id="E4_energiatudatos">
+<title>4.6. Az alacsony, nagy sűrűségű beépítés fenntartható és energiatudatos tervezése</title>
+
+<para>A 3.7.3. fejezetben taglalt módszerek többnyire ezeknél az épülettípusoknál is jól alkalmazhatóak.</para>
+
+
+<note>
+	<para>Az energiaveszteségek minimalizálását segítő tervezés gazdaságosan megoldható, és további előnyt jelent az, hogy a szél hűtő hatását jelentősen csökkenti a zártabb beépítés.</para>
+
+	<para>A napsugárzás befogadását biztosító megoldások az ilyen épületegyüttes telepítése során is rendelkezésre állnak. A kedvező tájolású szabad homlokzat ablak vagy naptér számára felhasználható, és a tetőfelületek is hasonlóképpen kijelölhetők a napenergia-hasznosító berendezések számára.</para>
+
+	<para>A csoportos beépítés során az áramtermelés (a napsugárzás és a szél energiájának felhasználásával) költséghatékonyan oldható meg, ha biztosítjuk a megfelelő tájolású felületet, vagy a közösségi szélkereket. Kevésbé alkalmas azonban a beépítés biomassza fűtésre (beszállítás, tárolás, égéstermék elvezetése). A sűrű beépítés nem teszi lehetővé a talajhő felhasználását sem az egységenként telepített hőszivattyúk számára, mert a közel eső telkek egymás hatásfokát rontanák. A hőszivattyús megoldás csak közösségi hőenergia termelésre lenne alkalmazható, például helyi közösségi fűtés esetén, azonban ennek nálunk nem alakult ki még a mérési gyakorlata és a kultúrája sem. (N.Á.)</para>
+</note>
+
+<para>Az energiatudatosság már a beépítési forma megválasztásánál is érvényesülhet. Például, a <link linkend="abra_4_18">4.18. ábrán</link> bemutatott sémák közül az a./ változatnál a homlokzatfelületek alapterülethez viszonyított aránya kedvező, ami kisebb hőveszteséget eredményez. Ugyanakkor déli homlokzata csak a szélső egységnek van: ez a napsugárzás energetikai hasznosítása szempontjából hátrányos. A b./ változatnál az egysávos feltárással kialakított szélesebb, de nem nagy mélységű lakásegységek egyik homlokzata délre tájolható, ami a szolár energia direkt hasznosítására ad lehetőséget. A nagyobb homlokzati felületek nagyobb hőveszteségét fokozott hőszigeteléssel, az északi homlokzat zártságával lehet ellensúlyozni.</para>
+
+<para>A lakásegységek az itt tárgyalt épületfajtáknál is rendelkezhetnek napterekkel. A belső páció naptérként is szolgálhat, ha azt üveggel fedik és az épület energiamérlegének javítására alkalmas formában alakítják ki (<link linkend="abra_4_37">4.37.a. ábra</link>).</para>
+
+<para><figure id="abra_4_37"><title>
+Példák naptér kialakítására az alacsony, nagy sűrűségű beépítések épületeinél
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E4/web/web2/abra_4_37_aienergia.png" format="PNG" align="center" scalefit="1" width="84mm" />
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E4/abra_4_37_aienergia.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject>
+<phrase>
+Példák naptér kialakítására az alacsony, nagy sűrűségű beépítések épületeinél
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para>Kétszintes sorházaknál újabban gyakran láthatók kétszintes napterek (<link linkend="abra_4_37">4.37.b. ábra</link>).</para>
+
+<para>Új építészeti eszközt jelent a lakásegységek megközelítését szolgáló, naptérként is funkcionáló, üveggel fedett tér. Ez a lakóközösség kommunikációs fóruma is egyben (<link linkend="abra_4_37">4.37.c. ábra</link>). Valószínű, hogy az elkövetkező időszakban a fokozottan energiatudatos tervezői megközelítés teljesen újszerű formákat is kifejleszt az alacsony, nagy sűrűségű beépítések körében.</para>
+</sect1>
+
+</chapter>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+                      "http://www.docbook.org/xml/4.5/docbookx.dtd"
+[ <!ENTITY % xinclude SYSTEM "http://www.docbook.org/xml/4.4/xinclude.mod">
+%xinclude;
+]>
+<book lang="hu">
+<title>Lakóépületek tervezése</title>
+	  <bookinfo>
+	    <title>Lakóépületek tervezése</title>
+
+	<authorgroup>
+	      <author>
+	         <surname>János</surname>
+	         <firstname>Bitó</firstname>
+	        <affiliation>
+	         <shortaffil>szerző</shortaffil>
+	              <jobtitle>egyetemi docens</jobtitle>
+	              <orgname>BME Lakóépülettervezési Tanszék</orgname>
+			</affiliation>
+		</author>
+	</authorgroup>
+
+	<authorgroup>
+		<author>
+			<surname>András</surname>
+			<firstname>Pandula</firstname>
+			<affiliation>
+			 <shortaffil>akadálymentesítési szövegekben munkatárs</shortaffil>
+			</affiliation>
+		</author>
+		<author>
+			<surname>Ágnes</surname>
+			<firstname>Novák</firstname>
+				<affiliation>
+					<shortaffil>fenntarthatóságról szóló szövegekben munkatárs</shortaffil>
+				</affiliation>
+		</author>
+	</authorgroup>
+	<affiliation>
+	       <address>
+	          <otheraddr>3-9.</otheraddr>
+	          <street>Műegyetem rakpart</street>
+	          <city>Budapest</city>
+	          <postcode>1111</postcode>
+	          <country>Magyarország</country>
+	       </address>
+	</affiliation>
+
+	<edition>1.</edition>
+	<pubdate>2013</pubdate>
+	   <copyright>
+	      <year>2013</year>
+	      <holder>BME Lakóépülettervezési Tanszék</holder>
+<holder>A BME Lakóépülettervezési Tanszék tananyagainak fejlesztése a TÁMOP-4.1.2.A/1-11/1-2011-0055 kódszámú projekt keretében valósult meg.</holder>
+<holder>
+	<inlinemediaobject>
+	<imageobject>
+	<imagedata scalefit="1" width="2in" fileref="images/Infoblokk3_ESZA_egyes.jpg"/>
+	</imageobject>
+	<textobject>
+	<phrase>Nemzeti Fejlesztési Ügynökség</phrase>
+	</textobject>
+	</inlinemediaobject>
+</holder>
+<holder>
+	<inlinemediaobject>
+	<imageobject>
+	<imagedata scalefit="1" width="32mm" fileref="images/Lako_tanszek.png"/>
+	</imageobject>
+	<textobject>
+	<phrase>Lakóépülettervezési Tanszék</phrase>
+	</textobject>
+	</inlinemediaobject>
+</holder>
+<holder>
+	<inlinemediaobject>
+	<imageobject>
+	<imagedata scalefit="1" width="2in" fileref="images/USZT_logo_cmyk.jpg"/>
+	</imageobject>
+	<textobject>
+	<phrase>Új Széchenyi Terv</phrase>
+	</textobject>
+	</inlinemediaobject>
+</holder>
+	    </copyright>
+	    <legalnotice>
+	      <para>Bitó János már klasszikusnak számító Lakóházak tervezése című tankönyve, a lakóépülettervezés oktatásának meghatározó eleme</para>
+	    </legalnotice>
+	    <keywordset>
+	      <keyword>tervezés</keyword>
+	      <keyword>építészet</keyword>
+	      <keyword>lakóépület</keyword>
+	    </keywordset>
+<abstract>
+	<para>Bitó János már klasszikusnak számító Lakóházak tervezése című tankönyve, a lakóépülettervezés oktatásának meghatározó eleme, amely ezentúl digitálisan ingyenesen is elérhető.</para>
+	<para>A könyv a lakóépületek tervezésének objektív szempontjait veszi sorra a lakás helyiségeitől és az egyes tevékenységek méreteitől indulva a családi házak, társasházak és alacsony nagy sűrűségű beépítéseken és a hétvégi házakon át, a lakókörnyezet kialakításáig és a lakásállomány fenntartásáig, fejlesztéséig.</para>
+	<para>A digitális változat tartalma a környezettudatos építés és az akadálymentesítés témakörében egyaránt megújult. A bővített változatnak elkészült az angol nyelvű fordítása is, amely az idegennyelvű képzés oktatóinak és hallgatóinak nyújthat segítséget.</para>
+</abstract>
+</bookinfo>
+
+<xi:include href="00_bevezetes.xml"/>
+<xi:include href="01_lakas.xml"/>
+<xi:include href="02_lakokornyezet.xml"/>
+<xi:include href="03_csaladi_hazak.xml"/>
+<xi:include href="04_alacsony.xml"/>
+<xi:include href="05_tobblakasos.xml"/>
+<xi:include href="06_hetvegihaz.xml"/>
+<xi:include href="07_lakasallomany.xml"/>
+</book>

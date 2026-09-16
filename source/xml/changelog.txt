@@ -1,0 +1,4 @@
+3.12-es ábra - megnevezést át kellett írni, mert két helyen is hivatkozik rá
+
+3.48. ábra - a pinceszint kialakítása - színes lett a nyomtatás
+

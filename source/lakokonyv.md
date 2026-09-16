@@ -3664,7 +3664,7 @@ A minimális követelmény betartásán túl arra kell törekedni, hogy a lakás
 
 ![Példák fogatolt elrendezések tájolási változataira](images/abra_5_31_fogtaj.png)
 
-*5.31. ábra – 5.31. ábra Példák fogatolt elrendezések tájolási változataira*
+*5.31. ábra – Példák fogatolt elrendezések tájolási változataira*
 
 Szabadon álló épületek végein olyan szekciókat kell kialakítani, amelyek a tájolási feltételeket is optimálisan kihasználják, lévén három szabad homlokzatuk. Ezek a közbensőktől teljesen eltérőek lehetnek, vagy azok módosított változatai.
 
