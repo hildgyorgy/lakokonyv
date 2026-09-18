@@ -55,7 +55,7 @@ class BilingualBookTests(unittest.TestCase):
     def setUpClass(cls):
         cls.hu = BookPage(ROOT / 'dist/index.html')
         cls.en = BookPage(ROOT / 'dist/index_en.html')
-        cls.xml = ET.parse(ROOT / 'source/xml/Bito_konyv_en.xml')
+        cls.xml = ET.parse(ROOT / 'sources/xml/Bito_konyv_en.xml')
         cls.audit = json.loads((ROOT / 'audit/english_import.json').read_text())
 
     def test_valid_pages_and_links(self):
@@ -73,20 +73,34 @@ class BilingualBookTests(unittest.TestCase):
             for para in chapter.iter('para'):
                 if any(e.tag in {'figure', 'itemizedlist', 'variablelist'} for e in para.iter()): continue
                 text = normalized(''.join(para.itertext()))
+                # Correct two demonstrably stale figure numbers while retaining
+                # the translated paragraph itself.
+                text = text.replace('(fig. 1.16)', '(fig. 1.18)') if text.startswith('A residential area (room)') else text
+                text = text.replace('(fig. 3.10)', '(fig. 3.11)') if text.startswith('A free-standing building') else text
                 self.assertIn(text, self.en.visible_text)
                 checked += 1
         self.assertEqual(checked, 1152)
         self.assertEqual(self.en.notes, 48)
-        self.assertEqual(len(self.en.article_links), 312)
+        self.assertEqual(len(self.en.article_links), 321)
 
     def test_shared_images_keep_workbench_settings(self):
-        self.assertEqual(len(self.en.images) - 1, 201)
+        self.assertEqual(len(self.en.images) - 1, 212)
         for ident, image in self.en.images.items():
             for attribute in ('src', 'style', 'class', 'width', 'height'):
                 self.assertEqual(image.get(attribute), self.hu.images[ident].get(attribute), (ident, attribute))
             self.assertTrue((ROOT / 'dist' / image['src']).is_file())
             self.assertGreater(int(image['width']), 0)
             self.assertGreater(int(image['height']), 0)
+
+    def test_supplemental_figures_complete_hungarian_set(self):
+        expected = {
+            'abra_1_18', 'abra_1_36', 'abra_1_38', 'abra_1_39', 'abra_1_44',
+            'abra_3_11', 'abra_3_22_E5', 'abra_3_23_E5', 'abra_3_52',
+            'abra_5_19', 'abra_6_03',
+        }
+        self.assertEqual({f['id'] for f in self.audit['supplemental_figures']}, expected)
+        self.assertEqual(self.audit['rendered_english_figure_count'], 212)
+        self.assertEqual(self.audit['hungarian_figures_absent_after_supplement'], [])
 
     def test_language_switch_targets_exist(self):
         for source, target in [(self.hu, self.en), (self.en, self.hu)]:

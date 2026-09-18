@@ -2,22 +2,27 @@
 
 ## Szerkesztési forrás és eredet
 
-Az angol kiadás új szerkesztési mestere a `source/lakokonyv_en.md`.
-A szakmai szöveg az `incoming/Bito_en_xml/` nyolc DocBook-fejezetéből származik;
-ellenőrzési forrás az `incoming/Bito_en_html/index.html`. Nem készült új fordítás.
-A magyar `source/lakokonyv.md`, a képállomány és az `audit/image_layout.json` változatlan.
+Az angol kiadás szerkesztési mestere a `sources/lakokonyv_en.md`.
+A szakmai szöveg a kapott nyolc DocBook-fejezetből származik; a kapott HTML-exporttal
+is ellenőriztük. Nem készült új fordítás. Az ellenőrzés után a fejezetfájlok és a
+HTML másolatát eltávolítottuk, mert tartalmukat az összefűzött XML és a Markdown
+hiánytalanul megőrzi. A magyar `sources/lakokonyv.md`, a képállomány és az
+`audit/image_layout.json` változatlan.
 
-A `source/xml/Bito_konyv_en.xml` önálló, összefűzött archiválási példány a magyar
+A `sources/xml/Bito_konyv_en.xml` önálló, összefűzött archiválási példány a magyar
 könyvkeret mellett. A fejezeteket helyben feloldott XInclude-okból tartalmazza,
 külső DTD-letöltés nélkül olvasható. Megőrzi az eredeti angol szöveget,
 azonosítókat és képhivatkozásokat. **Az eredeti angol képhivatkozások archivált
 adatok: a megadott angol ábrafájlok nincsenek a kapott csomagban.** A weboldal
 működő, közös képútvonalai a Markdownban vannak. Ez nem DocBook DTD-validálás.
-A bemenetek SHA-256 ujjlenyomatai az `english_import.json` mellékletben szerepelnek.
+Az aktuális archiválási forrás SHA-256 ujjlenyomata az `english_import.json`
+mellékletben szerepel.
 
-A `build/import_english.py` az egyszeri import dokumentált eszköze. Már létező
-angol Markdown-mestert nem ír felül; a rendes build nem hívja meg, és nem függ
-az `incoming` mappától. A további javításokat közvetlenül a Markdownban kell végezni.
+A `build/import_english.py` az import dokumentált, kézzel futtatható eszköze.
+Alapesetben már létező angol Markdown-mestert nem ír felül; a `--force` kapcsoló
+szándékos újragenerálást tesz lehetővé. A rendes build nem hívja meg. A magyar
+kiadásból visszahelyezett ábrák szabályai az
+importálóban is szerepelnek, ezért újraimportáláskor sem vesznek el.
 
 ## Szerkezet és megfeleltetés
 
@@ -39,20 +44,35 @@ az `incoming` mappától. A további javításokat közvetlenül a Markdownban k
 
 ## Képek
 
-Az angol forrás 201 ábrát tartalmaz, a magyar 212-t. Az angol oldal a saját
-forrásában szereplő ábrákat használja, ugyanabból a `source/images/` állományból,
-ugyanazokkal a workbench-szélességekkel és sötét módbeli invertálási beállításokkal.
-A tanszéki logóval együtt 202 képelőfordulás szerepel az angol oldalon.
-A képaláírások és alternatív szövegek angolok; **a közös képekbe rajzolt magyar
-feliratok változatlanok maradnak**, azokat ez az átvétel nem fordítja át.
+Az eredeti angol forrás 201 ábrát tartalmazott, a magyar 212-t. A hiányzó
+ábrahelyeket a magyar mester szerkezete alapján visszahelyeztük, ezért a kész
+angol oldalon is mind a 212 könyvábra szerepel. A tanszéki logóval együtt mindkét
+oldalon 213 képelőfordulás van. A két nyelv ugyanazt a `sources/images/`
+állományt, ugyanazokat a workbench-szélességeket és ugyanazokat a sötét módbeli
+invertálási beállításokat használja.
 
-A magyarban meglévő, de a kapott angol kiadásból hiányzó ábraazonosítók:
+Az eredeti angol kiadásból az alábbi 11 ábra-előfordulás hiányzott:
 
 - `abra_1_18`, `abra_1_36`, `abra_1_38`, `abra_1_39`, `abra_1_44`;
 - `abra_3_11`, `abra_3_22_E5`, `abra_3_23_E5`, `abra_3_52`;
 - `abra_5_19`, `abra_6_03`.
 
-Ezeket nem pótoltuk kitalált angol képaláírással vagy új fordítással.
+Ez 9 különböző képfájlt jelent, mert az `abra_3_22_E5` és
+`abra_3_23_E5` a 3. fejezet két ábrájának szándékos, 5. fejezetbeli ismétlése.
+A kilenc különböző kép közül nyolc rajz vagy diagram, és egyetlen valódi fotó
+van: `abra_6_03_unagy.png`, U. Nagy Gábor falusi környezetben álló nyaralója.
+A pótlás után egyetlen magyar ábra sem hiányzik az angol oldalról.
+
+A visszahelyezett ábrák angol képaláírást és alternatív szöveget kaptak, a
+szövegben pedig működő hivatkozás vezet hozzájuk. A magyar mester 1.38. ábrájának
+képaláírása tévesen higiéniai felszereltséget nevez meg, miközben a rajz
+egyértelműen ruhatárolási megoldásokat mutat; az angol felirat ezért
+„Clothing storage arrangements”. Két nyilvánvaló régi kereszthivatkozást is a
+magyar szerkezethez igazítottunk: 1.16 → 1.18 és 3.10 → 3.11.
+
+A képaláírások és alternatív szövegek angolok; **a közös képekbe rajzolt magyar
+feliratok változatlanok maradnak**, azokat ez az átvétel nem fordítja át.
+
 A nappálya-szerkesztési ábra angol XML-azonosítója `abra_3_15`, de képfájlja
 `eng_3_14_napdiaszerk.png`, a szöveges hivatkozása pedig „fig. 3.14”. A webes
 mesterben ezért a magyarhoz illeszkedő `abra_3_14` azonosítót és 3.14. ábraszámot
@@ -66,12 +86,13 @@ mester már helyes képútvonalát használjuk, nem a régi XML útvonalhibájá
   eredeti HTML-exportban is.
 - A fordított irányú összevetés sem mutatott többlet szakmai bekezdést a kapott
   HTML-ben; a további elemek a generált „Table of Contents” feliratok.
-- Mind a 201 angol ábra, 48 megjegyzés és 312 XML-ben jelölt belső link megmaradt.
+- Mind a 201 eredeti angol ábra megmaradt, és 11 magyar ábrahelyet pótoltunk.
+  A kész oldalon 212 könyvábra, 48 megjegyzés és 321 tartalmi belső link van.
 - A generált oldalakon nincsenek duplikált azonosítók, hibás belső linkek vagy
   hiányzó hivatkozott képek. A nyelvváltó összes célpontja létezik a másik oldalon.
 - Az angol oldalon a címsorok száma a magyaréhoz igazodik: a korábbi 338 helyett
   333 generált azonosító marad, miközben a 1152 ellenőrzött bekezdés és mind a
-  201 ábra változatlanul megmarad.
+  201 eredeti ábra változatlanul megmarad, a pótlásokkal együtt 212 jelenik meg.
 - A közös ábrák útvonala, méretezése és invertálhatósága megegyezik a két oldalon.
 - A magyar renderelt szöveg és ábraazonosítók összevetése megtörtént a korábbi
   builddel. Tartalmi átírás nem történt. Két jelöléskezelési hibát javítottunk:

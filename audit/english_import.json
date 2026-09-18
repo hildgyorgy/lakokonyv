@@ -1,15 +1,6 @@
 {
   "source_sha256": {
-    "incoming/Bito_en_xml/00_introduction.xml": "50cda97e4910baf8061b5429bafd707cf297d72c9afc5973106ca7b9f6001486",
-    "incoming/Bito_en_xml/01_the_home.xml": "0ab47d8587bb3f4675946e8feef6b4f4be6ac403cad7ea9e63e10aadf3cd217d",
-    "incoming/Bito_en_xml/02_residential.xml": "d4906695c75102f3efbc9a993232833cbcf29c6e14cee255ffccde5140fd8635",
-    "incoming/Bito_en_xml/03_Family.xml": "e30ff5a4ef1aafc281247ff2e2f87da54b5a47a6b0be8237e15ae5b8b15276e9",
-    "incoming/Bito_en_xml/04_lowrise.xml": "88813eb3b55659261ce0e317d3a2d75f288f1d52be91578bfd343c0503063e84",
-    "incoming/Bito_en_xml/05_multiStory.xml": "c0079bf593d21f77396089666e903aecf3e944b5f41d690aed2068e68548f4f6",
-    "incoming/Bito_en_xml/06_weekend.xml": "eb19434712be8f7054a2fa0abb2d5ac33ac567c57dd9b3f61ba4ba307e93445a",
-    "incoming/Bito_en_xml/07_development.xml": "977c3857ae47902dc39df6b71b4da0eb5e1fe94d682afa5e202152ec49f8ba9e",
-    "incoming/Bito_en_xml/Bito_book.xml": "f0e3718bb7060616dc22028c1118c2eda33f851c701b53b7dd1984e9cbfc0993",
-    "incoming/Bito_en_html/index.html": "e80f18180efd901d85e0a87541621956360dd556f0d80e6dcb1e6b05dd7e0eee"
+    "sources/xml/Bito_konyv_en.xml": "4b72fb9ce6f96c5bdcb65aa5678d1359f9b0af0e1ab41517a03e4dd8bd6b57ae"
   },
   "sections": [
     {
@@ -1881,7 +1872,7 @@
       "original_web_image": "./images/E7/web/eng_7_01_statisztika.png"
     }
   ],
-  "hungarian_figures_absent_in_english": [
+  "source_english_figures_missing_vs_hungarian": [
     "abra_1_18",
     "abra_1_36",
     "abra_1_38",
@@ -1894,6 +1885,65 @@
     "abra_5_19",
     "abra_6_03"
   ],
+  "supplemental_figures": [
+    {
+      "id": "abra_1_18",
+      "shared_image": "images/abra_1_18_butorcsprt2_m.png",
+      "caption": "Determining room dimensions based on furniture arrangement"
+    },
+    {
+      "id": "abra_1_36",
+      "shared_image": "images/abra_1_36_higenhelys_m.png",
+      "caption": "Examples of sanitary-space layouts and dimensions"
+    },
+    {
+      "id": "abra_1_38",
+      "shared_image": "images/abra_1_38_ruhatarolas.png",
+      "caption": "Clothing storage arrangements"
+    },
+    {
+      "id": "abra_1_39",
+      "shared_image": "images/abra_1_39_elelemtarolas.png",
+      "caption": "Food storage arrangements"
+    },
+    {
+      "id": "abra_1_44",
+      "shared_image": "images/abra_1_44_halotc.png",
+      "caption": "Example of a room arranged for different uses"
+    },
+    {
+      "id": "abra_3_11",
+      "shared_image": "images/abra_3_11_csbepmsz.png",
+      "caption": "Plot development rules for detached housing"
+    },
+    {
+      "id": "abra_3_52",
+      "shared_image": "images/abra_3_52_tefoforma.png",
+      "caption": "Common pitched-roof forms used for housing"
+    },
+    {
+      "id": "abra_3_22_E5",
+      "shared_image": "images/abra_3_22_autohelymod.png",
+      "caption": "Motor car dimensions and turning circle"
+    },
+    {
+      "id": "abra_3_23_E5",
+      "shared_image": "images/abra_3_23_cshgarazshely_m.png",
+      "caption": "Spatial requirements for motor car storage"
+    },
+    {
+      "id": "abra_6_03",
+      "shared_image": "images/abra_6_03_unagy.png",
+      "caption": "Holiday home in a rural setting. Architect: Gábor U. Nagy"
+    },
+    {
+      "id": "abra_5_19",
+      "shared_image": "images/abra_5_19_ferencv.png",
+      "caption": "Budapest, Ferencváros. Residential-area rehabilitation, 1987–1990. Master plan: Gábor Locsmándi; lead architect: Zsolt Gyüre, TTI"
+    }
+  ],
+  "rendered_english_figure_count": 212,
+  "hungarian_figures_absent_after_supplement": [],
   "english_only_headings": [
     {
       "english_title": "Additional heating assistance",

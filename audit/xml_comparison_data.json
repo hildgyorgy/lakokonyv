@@ -9746,17 +9746,17 @@
     "present": true
   },
   "input_sha256": {
-    "source/lakokonyv.md": "86fd096545e0eda0b652f235178f46ee9526172634c80d827c084a9d0b170d93",
-    "source/xml/00_bevezetes.xml": "e696775ecfbe91b866e55f8472c8628532f80b5ddbb1ed7f2a78a5ef456a0c94",
-    "source/xml/01_lakas.xml": "15e1dee6cf108f0bc9bd02986442790170ea32a2a4ba0c45cfd196521054d172",
-    "source/xml/02_lakokornyezet.xml": "c45f8ee2e3240f3953f2228642c1107277ed22ed21e2a53b92fd18d82d75c5e8",
-    "source/xml/03_csaladi_hazak.xml": "871a7c03744c7c7c57b5eee05882085554b4b40f148108d763669f0a65498a37",
-    "source/xml/04_alacsony.xml": "364708b3f720fbd2e1c0ef852aad1b1a29fed8c6465ad5ffdfa2f50b986a5788",
-    "source/xml/05_tobblakasos.xml": "93e7d31e6824526f3bde66bcacd2f10673f0bfffa9e7ee5769b927f7d4f7729c",
-    "source/xml/06_hetvegihaz.xml": "bb41d7d5479ffd8f2caff79b2721175982015abc3ee11fa87cc325cb5f245309",
-    "source/xml/07_lakasallomany.xml": "88cf4e96604e7804f73eabc08fd8d35c6873649df168e447fd83420ed10c4596",
-    "source/xml/Bito_konyv.xml": "0de1342bf236b0586f47b9fff11fb09349cb83db13750463f154abc0627c620b",
-    "source/xml/xincluded-profiled2355.xml": "e41bcf975d224d0cc55d6a62c187c409479201c543616be492ab772e799209d2"
+    "sources/lakokonyv.md": "86fd096545e0eda0b652f235178f46ee9526172634c80d827c084a9d0b170d93",
+    "sources/xml/00_bevezetes.xml": "e696775ecfbe91b866e55f8472c8628532f80b5ddbb1ed7f2a78a5ef456a0c94",
+    "sources/xml/01_lakas.xml": "15e1dee6cf108f0bc9bd02986442790170ea32a2a4ba0c45cfd196521054d172",
+    "sources/xml/02_lakokornyezet.xml": "c45f8ee2e3240f3953f2228642c1107277ed22ed21e2a53b92fd18d82d75c5e8",
+    "sources/xml/03_csaladi_hazak.xml": "871a7c03744c7c7c57b5eee05882085554b4b40f148108d763669f0a65498a37",
+    "sources/xml/04_alacsony.xml": "364708b3f720fbd2e1c0ef852aad1b1a29fed8c6465ad5ffdfa2f50b986a5788",
+    "sources/xml/05_tobblakasos.xml": "93e7d31e6824526f3bde66bcacd2f10673f0bfffa9e7ee5769b927f7d4f7729c",
+    "sources/xml/06_hetvegihaz.xml": "bb41d7d5479ffd8f2caff79b2721175982015abc3ee11fa87cc325cb5f245309",
+    "sources/xml/07_lakasallomany.xml": "88cf4e96604e7804f73eabc08fd8d35c6873649df168e447fd83420ed10c4596",
+    "sources/xml/Bito_konyv.xml": "0de1342bf236b0586f47b9fff11fb09349cb83db13750463f154abc0627c620b",
+    "sources/xml/xincluded-profiled2355.xml": "e41bcf975d224d0cc55d6a62c187c409479201c543616be492ab772e799209d2"
   },
   "checks": {
     "figure_order_matches_after_3_15_to_3_14_mapping": true,

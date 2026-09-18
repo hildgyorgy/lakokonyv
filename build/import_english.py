@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-"""One-time, explicit import of the supplied English DocBook; not part of build.
+"""Recreate the English Markdown from its consolidated archival DocBook.
 
 Requires only Python's standard library. Refuses to overwrite the English master.
-The original incoming files remain untouched. See audit/english_import.md.
+Not part of the regular build. See audit/english_import.md.
 """
 from __future__ import annotations
 
@@ -15,8 +15,8 @@ import xml.etree.ElementTree as ET
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-INCOMING = ROOT / 'incoming' / 'Bito_en_xml'
-SOURCE = ROOT / 'source'
+SOURCES = ROOT / 'sources'
+ENGLISH_XML = SOURCES / 'xml' / 'Bito_konyv_en.xml'
 STRUCTURE = {'preface': 1, 'chapter': 1, 'sect1': 2, 'sect2': 3, 'sect3': 4}
 # The English DocBook splits a few passages more finely than the Hungarian
 # master.  These titles are editorial subdivisions, so their text remains in
@@ -28,6 +28,90 @@ SUPPRESS_HEADINGS = {
     '5.2.1. Hungarian situation since the 1950s',
     'Additional heating assistance',
 }
+
+# The supplied English DocBook omitted eleven figure placements that are present
+# in the Hungarian master.  Nine are distinct illustrations; two are deliberate
+# repeats in Chapter 5.  They use the same shared image assets as both editions.
+SUPPLEMENTAL_FIGURES = (
+    {
+        'phrase': 'A residential area (room) can be assigned its given area',
+        'replacements': (('([fig. 1.16](#abra_1_16))', '([fig. 1.18](#abra_1_18))'),),
+        'id': 'abra_1_18', 'number': '1.18',
+        'image': 'images/abra_1_18_butorcsprt2_m.png',
+        'caption': 'Determining room dimensions based on furniture arrangement',
+    },
+    {
+        'phrase': 'For alternative layouts to personal hygiene spaces',
+        'replacements': (('figure 1.36', '[figure 1.36](#abra_1_36)'),),
+        'id': 'abra_1_36', 'number': '1.36',
+        'image': 'images/abra_1_36_higenhelys_m.png',
+        'caption': 'Examples of sanitary-space layouts and dimensions',
+    },
+    {
+        'phrase': 'Clothes can be stored in mobile cabinets',
+        'replacements': (('(fig. 1.38)', '([fig. 1.38](#abra_1_38))'),),
+        'id': 'abra_1_38', 'number': '1.38',
+        'image': 'images/abra_1_38_ruhatarolas.png',
+        'caption': 'Clothing storage arrangements',
+    },
+    {
+        'phrase': 'Grocery storage (excluding that which is stored',
+        'replacements': (('(fig. 1.39)', '([fig. 1.39](#abra_1_39))'),),
+        'id': 'abra_1_39', 'number': '1.39',
+        'image': 'images/abra_1_39_elelemtarolas.png',
+        'caption': 'Food storage arrangements',
+    },
+    {
+        'phrase': 'Single bedrooms are at least 8.00m²',
+        'replacements': (('figure 1.44', '[figure 1.44](#abra_1_44)'),),
+        'id': 'abra_1_44', 'number': '1.44',
+        'image': 'images/abra_1_44_halotc.png',
+        'caption': 'Example of a room arranged for different uses',
+    },
+    {
+        'phrase': 'A free-standing building should have land on all four sides',
+        'replacements': (('([fig. 3.10](#abra_3_10))', '([fig. 3.11](#abra_3_11))'),),
+        'id': 'abra_3_11', 'number': '3.11',
+        'image': 'images/abra_3_11_csbepmsz.png',
+        'caption': 'Plot development rules for detached housing',
+    },
+    {
+        'phrase': 'Flat roofs allow for freer contour planning',
+        'replacements': (('Figure 3.52', '[Figure 3.52](#abra_3_52)'),),
+        'id': 'abra_3_52', 'number': '3.52',
+        'image': 'images/abra_3_52_tefoforma.png',
+        'caption': 'Common pitched-roof forms used for housing',
+    },
+    {
+        'phrase': 'Sizes for single and double garages were included',
+        'replacements': (
+            ('Sections 3.22.', '[Sections 3.22.](#abra_3_22_E5)'),
+            ('and 3.23.', 'and [3.23.](#abra_3_23_E5)'),
+        ),
+        'figures': (
+            ('abra_3_22_E5', '3.22', 'images/abra_3_22_autohelymod.png',
+             'Motor car dimensions and turning circle'),
+            ('abra_3_23_E5', '3.23', 'images/abra_3_23_cshgarazshely_m.png',
+             'Spatial requirements for motor car storage'),
+        ),
+    },
+    {
+        'phrase': 'Agriculture, due to financial recession, has declined',
+        'append_reference': ' ([fig. 6.3](#abra_6_03))',
+        'id': 'abra_6_03', 'number': '6.3',
+        'image': 'images/abra_6_03_unagy.png',
+        'caption': 'Holiday home in a rural setting. Architect: Gábor U. Nagy',
+    },
+    {
+        'phrase': 'An alternative method, called rehabilitation',
+        'replacements': (('(fig. 5.19)', '([fig. 5.19](#abra_5_19))'),),
+        'id': 'abra_5_19', 'number': '5.19',
+        'image': 'images/abra_5_19_ferencv.png',
+        'caption': ('Budapest, Ferencváros. Residential-area rehabilitation, '
+                    '1987–1990. Master plan: Gábor Locsmándi; lead architect: '
+                    'Zsolt Gyüre, TTI'),
+    },
+)
 
 
 def read_xml(path):
@@ -47,11 +131,34 @@ def slug(text):
     return 'heading-' + re.sub(r'[^a-z0-9]+', '-', text.lower()).strip('-')
 
 
+def add_supplemental_figures(markdown):
+    """Restore Hungarian-master figure placements in their matching EN paragraphs."""
+    records = []
+    for item in SUPPLEMENTAL_FIGURES:
+        start = markdown.index(item['phrase'])
+        end = markdown.find('\n\n', start)
+        if end == -1:
+            raise ValueError('Could not find paragraph end for ' + item['phrase'])
+        paragraph = markdown[start:end]
+        for old, new in item.get('replacements', ()):
+            if old not in paragraph:
+                raise ValueError(f'Missing expected reference {old!r} in {item["phrase"]!r}')
+            paragraph = paragraph.replace(old, new, 1)
+        paragraph += item.get('append_reference', '')
+        figures = item.get('figures') or ((item['id'], item['number'], item['image'], item['caption']),)
+        blocks = []
+        for ident, number, image, caption in figures:
+            blocks.append(f'<a id="{ident}"></a>\n\n![{caption}]({image})\n\n*Figure {number} – {caption}*')
+            records.append({'id': ident, 'shared_image': image, 'caption': caption})
+        markdown = markdown[:start] + paragraph + '\n\n' + '\n\n'.join(blocks) + markdown[end:]
+    return markdown, records
+
+
 def main():
-    destination = SOURCE / 'lakokonyv_en.md'
+    destination = SOURCES / 'lakokonyv_en.md'
     if destination.exists() and '--force' not in sys.argv:
         raise SystemExit('English master already exists; edit it directly instead of re-importing.')
-    hu = (SOURCE / 'lakokonyv.md').read_text(encoding='utf-8')
+    hu = (SOURCES / 'lakokonyv.md').read_text(encoding='utf-8')
     plain_hu = re.sub(r'^> ?', '', hu, flags=re.M)
     hu_figures = dict(re.findall(r'<a id="(abra_[^"]+)"></a>\s*!\[[^\]]*\]\(([^)]+)\)', plain_hu))
     assert len(hu_figures) == 212, len(hu_figures)
@@ -74,17 +181,10 @@ def main():
     # Unnumbered Hungarian headings with known English numbered counterparts.
     headings['3.3.1'] = headings['Hatósági építési követelmények, szabályzatok']
     headings['4.2.1'] = headings['Az európai fejlődés']
-    root = read_xml(INCOMING / 'Bito_book.xml')
-    chapters = []
-    for include in list(root):
-        if include.tag == '{http://www.w3.org/2001/XInclude}include':
-            chapter = read_xml(INCOMING / include.get('href'))
-            root.insert(list(root).index(include), chapter)
-            root.remove(include)
-            chapters.append(chapter)
-    # Self-contained preservation copy: original English text, IDs and image refs.
-    ET.indent(root)
-    ET.ElementTree(root).write(SOURCE / 'xml' / 'Bito_konyv_en.xml', encoding='utf-8', xml_declaration=True)
+    root = read_xml(ENGLISH_XML)
+    chapters = [element for element in root if element.tag in {'preface', 'chapter'}]
+    if len(chapters) != 8:
+        raise ValueError(f'Expected the introduction and seven chapters, found {len(chapters)}')
 
     idmap = {'abra_3_15': 'abra_3_14'}
     element_ids = {}
@@ -231,13 +331,18 @@ Oliver Sales – translation.
 
 '''
     markdown = front + '\n\n'.join(block(chapter) for chapter in chapters) + '\n'
+    markdown, supplemental_figures = add_supplemental_figures(markdown)
     destination.write_text(markdown, encoding='utf-8')
     english_ids = {f['id'] for f in figures}
-    source_files = sorted(INCOMING.glob('*.xml')) + [ROOT / 'incoming/Bito_en_html/index.html']
+    source_files = [ENGLISH_XML]
     report = {
         'source_sha256': {str(p.relative_to(ROOT)): hashlib.sha256(p.read_bytes()).hexdigest() for p in source_files},
         'sections': section_records, 'figures': figures,
-        'hungarian_figures_absent_in_english': sorted(set(hu_figures) - english_ids),
+        'source_english_figures_missing_vs_hungarian': sorted(set(hu_figures) - english_ids),
+        'supplemental_figures': supplemental_figures,
+        'rendered_english_figure_count': len(figures) + len(supplemental_figures),
+        'hungarian_figures_absent_after_supplement': sorted(
+            set(hu_figures) - english_ids - {f['id'] for f in supplemental_figures}),
         'english_only_headings': [s for s in section_records if not s['shared_with_hu']],
         'xml_paragraphs': sum(len(c.findall('.//para')) for c in chapters),
         'xml_notes': sum(len(c.findall('.//note')) for c in chapters),
@@ -246,7 +351,7 @@ Oliver Sales – translation.
     (ROOT / 'audit/english_import.json').write_text(json.dumps(report, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
     print(f'Imported {len(section_records)} sections, {len(figures)} figures, {report["xml_notes"]} notes.')
     print('English-only headings:', report['english_only_headings'])
-    print('Figures absent in English:', report['hungarian_figures_absent_in_english'])
+    print('Figures absent after supplement:', report['hungarian_figures_absent_after_supplement'])
 
 
 if __name__ == '__main__':

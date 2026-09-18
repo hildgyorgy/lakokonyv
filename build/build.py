@@ -13,7 +13,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SOURCE = ROOT / "source"
+SOURCE = ROOT / "sources"
 DIST = ROOT / "dist"
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")

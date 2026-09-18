@@ -371,7 +371,13 @@ If individual items of furniture are placed in usage groups, then the use zones 
 
 *Figure 1.17 – Compilation of furniture groups*
 
-A residential area (room) can be assigned its given area once each item of furniture, as well as the fixtures, fittings and circulation spaces are assigned minimum floor-plan dimensions. ([fig. 1.16](#abra_1_16)) Obviously, the use zones and circulation areas do not have to be marked on plans. If furniture arrangements are considered – initially, in minimal spatial terms – it is easy to expand these sizes later on; and if possible, it is recommended to do so. One does not want a room to be furnished solely in one way, so allow a desired amount of flexibility or "reserve space”. A careful architect will dimension with these furnishing variations in mind.
+A residential area (room) can be assigned its given area once each item of furniture, as well as the fixtures, fittings and circulation spaces are assigned minimum floor-plan dimensions. ([fig. 1.18](#abra_1_18)) Obviously, the use zones and circulation areas do not have to be marked on plans. If furniture arrangements are considered – initially, in minimal spatial terms – it is easy to expand these sizes later on; and if possible, it is recommended to do so. One does not want a room to be furnished solely in one way, so allow a desired amount of flexibility or "reserve space”. A careful architect will dimension with these furnishing variations in mind.
+
+<a id="abra_1_18"></a>
+
+![Determining room dimensions based on furniture arrangement](images/abra_1_18_butorcsprt2_m.png)
+
+*Figure 1.18 – Determining room dimensions based on furniture arrangement*
 
 Experience often shows that furnishing zones and circulation areas often seem to be smaller than required. In fact, given the size of most plans, some reserve space should be allowed for.
 
@@ -703,7 +709,13 @@ Toilets cisterns can be concealed behind a mountable bulkhead. A similar solutio
 
 A bidet is not a standard requirement; it is an optional extra, not favored by all. For practical reasons, this is placed beside the toilet and usually wall-mounted. There are also combined toilet / bidet units available.
 
-For alternative layouts to personal hygiene spaces, see figure 1.36. If a toilet is separately located, it must have its own hand wash basin. (It would be pointless to use a toilet, then a bathroom, since this would result in two door handles being dirtied). Although it is not mandatory in residential buildings, it is advisable to have outward-opening toilet doors. Thus, if someone elderly or ill lies unconscious on the floor and needs to be helped exiting the toilet, it can prevent injury caused by a forcefully-operated, inward-opening door. The same can be said for all bathroom doors. If it is not possible to use such a door – i.e., the use of an inward-opening door is inevitable – please allow a 20-cm ease of use zone. ([fig. 1.14](#abra_1_14))
+For alternative layouts to personal hygiene spaces, see [figure 1.36](#abra_1_36). If a toilet is separately located, it must have its own hand wash basin. (It would be pointless to use a toilet, then a bathroom, since this would result in two door handles being dirtied). Although it is not mandatory in residential buildings, it is advisable to have outward-opening toilet doors. Thus, if someone elderly or ill lies unconscious on the floor and needs to be helped exiting the toilet, it can prevent injury caused by a forcefully-operated, inward-opening door. The same can be said for all bathroom doors. If it is not possible to use such a door – i.e., the use of an inward-opening door is inevitable – please allow a 20-cm ease of use zone. ([fig. 1.14](#abra_1_14))
+
+<a id="abra_1_36"></a>
+
+![Examples of sanitary-space layouts and dimensions](images/abra_1_36_higenhelys_m.png)
+
+*Figure 1.36 – Examples of sanitary-space layouts and dimensions*
 
 The toilet cubicle should have a normal-sized washbasin if it is not located on the same floor as the bathroom. This also can occur when the toilet serves as a guest area for the application of makeup or combing hair; thus, a mirror is also appropriate. There is an option for situating the washing machine here. In larger homes, try to avoid this and place washing machine in utility room.
 
@@ -727,11 +739,23 @@ If a home has two bathrooms or a shower in addition to the first bathroom, and b
 
 In previous chapters, storage for recreation, entertaining, activities and household chores have been discussed.
 
-Clothes can be stored in mobile cabinets or built-in wardrobes and closets. (fig. 1.38) Jackets, coats and shoes, including those belonging to visitors, should be stored close to the main entrance. Other clothing should be placed in a bedroom wardrobe or in a corridor closet in the immediate vicinity.
+Clothes can be stored in mobile cabinets or built-in wardrobes and closets. ([fig. 1.38](#abra_1_38)) Jackets, coats and shoes, including those belonging to visitors, should be stored close to the main entrance. Other clothing should be placed in a bedroom wardrobe or in a corridor closet in the immediate vicinity.
+
+<a id="abra_1_38"></a>
+
+![Clothing storage arrangements](images/abra_1_38_ruhatarolas.png)
+
+*Figure 1.38 – Clothing storage arrangements*
 
 Urban housing has seen a fall in the demand for food storage facilities, since supplies are easily and quickly made available. Suburban, green-belt housing tends toward the idea of an intensive, weekly trip for food and groceries, usually accomplished by car. Rural homes tend towards a pantry-type storage area for smoked goods, preserves, vegetables and bulk buying. Hungarian householders in general prefer the idea of a pantry (or *spájz*) to storing food in the kitchen.
 
-Grocery storage (excluding that which is stored in the kitchen or refrigerator) requires a storage cupboard or pantry. (fig. 1.39) The kitchen cupboard is only suitable for dry, canned and bottled food. Perishable foods (such as fruits and vegetables) are suited to independently ventilated storage. The so-called “cupboard pantry” is built into the kitchen, but provided with independent ventilation. A well-designed pantry or food storage area should maximize the amount of floor area occupied by shelves. Often smaller pantries are more efficient than badly-planned cupboards in terms of food storage.
+Grocery storage (excluding that which is stored in the kitchen or refrigerator) requires a storage cupboard or pantry. ([fig. 1.39](#abra_1_39)) The kitchen cupboard is only suitable for dry, canned and bottled food. Perishable foods (such as fruits and vegetables) are suited to independently ventilated storage. The so-called “cupboard pantry” is built into the kitchen, but provided with independent ventilation. A well-designed pantry or food storage area should maximize the amount of floor area occupied by shelves. Often smaller pantries are more efficient than badly-planned cupboards in terms of food storage.
+
+<a id="abra_1_39"></a>
+
+![Food storage arrangements](images/abra_1_39_elelemtarolas.png)
+
+*Figure 1.39 – Food storage arrangements*
 
 The pantry should be independently ventilated and allow shelving on at least two, possibly three walls. The door should open out, as this prevents items that might fall form shelves from blocking easy access. A larger pantry or food storage area can be better ventilated via a window, while also large enough to accommodate a deep freeze, which also needs ventilation, since this machine generates heat.
 
@@ -833,7 +857,13 @@ The bedroom’s main function is sleep, but this room can also serve other funct
 
 *Figure 1.43 – Bedroom examples*
 
-Single bedrooms are at least 8.00m², which, when occupied by teenagers, tend to serve as their own living room. If this is required, it is better to build a single bedroom at double bedroom proportions. Bedrooms, in general, should be considered multifunctional spaces. In multi-unit apartment buildings, families of different compositions well move into a similar and repeated dwelling type. Thus, a "nursery" might also function as a study room if there are no children present. Grandparents move in, children leave home, rooms become personalized, etc. For alternative layouts, refer to figure 1.44.
+Single bedrooms are at least 8.00m², which, when occupied by teenagers, tend to serve as their own living room. If this is required, it is better to build a single bedroom at double bedroom proportions. Bedrooms, in general, should be considered multifunctional spaces. In multi-unit apartment buildings, families of different compositions well move into a similar and repeated dwelling type. Thus, a "nursery" might also function as a study room if there are no children present. Grandparents move in, children leave home, rooms become personalized, etc. For alternative layouts, refer to [figure 1.44](#abra_1_44).
+
+<a id="abra_1_44"></a>
+
+![Example of a room arranged for different uses](images/abra_1_44_halotc.png)
+
+*Figure 1.44 – Example of a room arranged for different uses*
 
 Conventional rooms have been discussed, but other options are possible within the home. We are talking of galleries, chat spaces or interlocking seating areas which might not be so easily defined. The design should allow for these other functions, since they have an impact upon the levels of convenience or comfort required. Specific design briefs might require alternative spaces (body-building room, sauna, swimming pool, hobby room, craft room, studio, etc.), all of which can only be designed correctly following consultation with one’s client.
 
@@ -1631,7 +1661,13 @@ This chapter covers in detail how free-standing homes are to be placed and later
 >
 > A free-standing construction should be accessed from within its own boundaries in relation to front, side and rear gardens.
 
-A free-standing building should have land on all four sides which is not open to development ([fig. 3.10](#abra_3_10))
+A free-standing building should have land on all four sides which is not open to development ([fig. 3.11](#abra_3_11))
+
+<a id="abra_3_11"></a>
+
+![Plot development rules for detached housing](images/abra_3_11_csbepmsz.png)
+
+*Figure 3.11 – Plot development rules for detached housing*
 
 The front garden connects the home to the street line, the direct purpose being to offer a protective zone from noise, exhaust fumes and dust and to provide privacy with respect to windows. Also, the home is pushed back from the street line to allow for avenues of trees and green areas to create a pleasant environment. Usually the front garden is set at a depth of 5.0 m. ([fig. 3.12](#abra_3_12))
 
@@ -2125,7 +2161,13 @@ The choice of roof structure and coverings affects the architectural appearance.
 
 *Figure 3.51 – Commonly used roof structure types in family homes*
 
-Flat roofs allow for freer contour planning and covering of plane areas; pitched roofs require an educated understanding of geometry. Figure 3.52 shows the most common roof forms used in housing. Complex contours used in pitched roof design can often necessitate multiple planes, which are often ugly and expensive. (fig. 3.52.1) At the sketch design stage, roof forms should be examined.
+Flat roofs allow for freer contour planning and covering of plane areas; pitched roofs require an educated understanding of geometry. [Figure 3.52](#abra_3_52) shows the most common roof forms used in housing. Complex contours used in pitched roof design can often necessitate multiple planes, which are often ugly and expensive. (fig. 3.52.1) At the sketch design stage, roof forms should be examined.
+
+<a id="abra_3_52"></a>
+
+![Common pitched-roof forms used for housing](images/abra_3_52_tefoforma.png)
+
+*Figure 3.52 – Common pitched-roof forms used for housing*
 
 Pitched roofs can offer the advantage of providing a "buffer zone" function. In the winter, it can assist in reducing heat loss; and in the summer, a vented attic can help prevent overheating of living spaces. Single pitched roofs can also function as the closing slab in addition to their function as roof covering. ([fig. 3.51i](#abra_3_51) and [fig. 3.51j](#abra_3_51))
 
@@ -3642,7 +3684,19 @@ Semi-enclosed carports are simple enough to build, since they are simple shelter
 
 Enclosed garages are more secure and can even be sold or rented out depending upon market requirements.
 
-Sizes for single and double garages were included in Sections 3.22. and 3.23. This is better suited to low-level buildings at street level. If a larger building has its entire width occupied by garage doors, the entire elevation may appear rugged, desolate and even architecturally poor. Also, developing the entire ground floor as garages can detract from the property value and space allocated by build ratio. This does not make sense in terms of selling or renting, because the profit margin achievable by developing ground-floor apartments is still higher. Try to avoid ground-level development of car parking garages at all costs for aesthetic, financial and build ratio reasons.
+Sizes for single and double garages were included in [Sections 3.22.](#abra_3_22_E5) and [3.23.](#abra_3_23_E5) This is better suited to low-level buildings at street level. If a larger building has its entire width occupied by garage doors, the entire elevation may appear rugged, desolate and even architecturally poor. Also, developing the entire ground floor as garages can detract from the property value and space allocated by build ratio. This does not make sense in terms of selling or renting, because the profit margin achievable by developing ground-floor apartments is still higher. Try to avoid ground-level development of car parking garages at all costs for aesthetic, financial and build ratio reasons.
+
+<a id="abra_3_22_E5"></a>
+
+![Motor car dimensions and turning circle](images/abra_3_22_autohelymod.png)
+
+*Figure 3.22 – Motor car dimensions and turning circle*
+
+<a id="abra_3_23_E5"></a>
+
+![Spatial requirements for motor car storage](images/abra_3_23_cshgarazshely_m.png)
+
+*Figure 3.23 – Spatial requirements for motor car storage*
 
 Underground garages are usually built on more expensive plots, providing freedom for the better development of the area allowed in build ratio calculations. For this reason, seemingly expensive construction costs can be justified. When used in residential buildings, underground garage plans can take many forms that provide for low-volume use, usually parking in perpendicular rows as shown in [figure 5.42](#abra_5_42).
 
@@ -3835,7 +3889,13 @@ The northern shore of the Balaton has fallen victim to this process. Former vine
 
 Changes in the political and economic system in the 90s helped stop this environmental damage. "Closed gardens" can no longer be established. Land prices are governed by market forces, and permission to build in recreational areas such as the Balaton will only be granted to land that is already provided with all utilities. Consequently, land prices soared – at times, even equal in cost to larger city land prices, especially when there is a view of the lake. As land now costs so much and the possible cottage size so small, it does not make economic sense to build.
 
-Agriculture, due to financial recession, has declined, lowering real estate prices in many villages. Therefore, more affluent city dwellers have opted to buy village homes in beautiful natural locations as holiday farms. To the north of the Balaton (the Kali Basin), in the Vértes Hills or Tisza villages, old farmhouses are being renovated as holiday homes. This actually helps slow the decline of villages, as the incoming population has the ability to combine intellectual information with existing villagers' interests with respect to administrative and policy-making issues.
+Agriculture, due to financial recession, has declined, lowering real estate prices in many villages. Therefore, more affluent city dwellers have opted to buy village homes in beautiful natural locations as holiday farms. To the north of the Balaton (the Kali Basin), in the Vértes Hills or Tisza villages, old farmhouses are being renovated as holiday homes. This actually helps slow the decline of villages, as the incoming population has the ability to combine intellectual information with existing villagers' interests with respect to administrative and policy-making issues. ([fig. 6.3](#abra_6_03))
+
+<a id="abra_6_03"></a>
+
+![Holiday home in a rural setting. Architect: Gábor U. Nagy](images/abra_6_03_unagy.png)
+
+*Figure 6.3 – Holiday home in a rural setting. Architect: Gábor U. Nagy*
 
 <a id="E6_kialakitasa_meretezese"></a>
 ## 6.3. Spatial arrangement and sizes
@@ -3989,7 +4049,13 @@ A decline in housing value might follow, and an apartment building might not be 
 
 Responsible renewal of urban tissue can happen in two ways. One possibility is run-down buildings can be demolished once residents have moved out, allowing for land to be sold and developed as if new. This form of investment – urban reconstruction – is costly and replaces the existing tissue. The method is dramatic, highly capital-intensive when compared with continuous development, and it entails a total liquidation of all inherent cultural values and character.
 
-An alternative method, called rehabilitation, is to reverse the downward trend – almost like surgery. This option requires more sensitivity, aiming to retain and upgrade the existing character. This is only possible with careful planning and strong input from local government agencies. Assessment should be made of which buildings are to remain (due to good conditions or suitability to the streetscape) and which should be demolished. Partial demolition may be required in the course of development – for example, a courtyard building might have its inner wings demolished. Green areas, parking areas and even underground car parking may be increased. Where older buildings are demolished, newer ones can be developed in keeping with the surrounding environment and times. Overall, successful rehabilitation preserves the continuity of development, respects modernization and remains in harmony with contemporary social activity. Eventually, works as a self-reinforcing act, reversing negative trends. Producing a high-quality housing environment spurs a rise in property values and rental costs, inspiring further rehabilitations and interventions. (fig. 5.19)
+An alternative method, called rehabilitation, is to reverse the downward trend – almost like surgery. This option requires more sensitivity, aiming to retain and upgrade the existing character. This is only possible with careful planning and strong input from local government agencies. Assessment should be made of which buildings are to remain (due to good conditions or suitability to the streetscape) and which should be demolished. Partial demolition may be required in the course of development – for example, a courtyard building might have its inner wings demolished. Green areas, parking areas and even underground car parking may be increased. Where older buildings are demolished, newer ones can be developed in keeping with the surrounding environment and times. Overall, successful rehabilitation preserves the continuity of development, respects modernization and remains in harmony with contemporary social activity. Eventually, works as a self-reinforcing act, reversing negative trends. Producing a high-quality housing environment spurs a rise in property values and rental costs, inspiring further rehabilitations and interventions. ([fig. 5.19](#abra_5_19))
+
+<a id="abra_5_19"></a>
+
+![Budapest, Ferencváros. Residential-area rehabilitation, 1987–1990. Master plan: Gábor Locsmándi; lead architect: Zsolt Gyüre, TTI](images/abra_5_19_ferencv.png)
+
+*Figure 5.19 – Budapest, Ferencváros. Residential-area rehabilitation, 1987–1990. Master plan: Gábor Locsmándi; lead architect: Zsolt Gyüre, TTI*
 
 Briefly, if maintenance of housing stock refers not to one home, but to an entire residential area, one must carry out continuous maintenance and value-added renovations on the residential environment in the form of continuous development and, when necessary, large-scale rehabilitation to residential areas.
 

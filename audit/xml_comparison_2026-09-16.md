@@ -4,7 +4,7 @@ Dátum: 2026. szeptember 16.
 
 ## Összefoglaló
 
-**A jelenlegi `source/lakokonyv.md` szakmai törzsszövege és fejezetszerkezete teljesnek bizonyult a most kapott, különálló XML-fejezetekhez képest. Nem találtam az XML-ben olyan hiányzó szakmai bekezdést vagy fejezetet, amelyet most kellene visszaemelni.** Az XML fő többlete az eredeti DocBook-szerkezet, a részletesebb kiadványmetaadatok és a többféle képállomány.
+**A jelenlegi `sources/lakokonyv.md` szakmai törzsszövege és fejezetszerkezete teljesnek bizonyult a most kapott, különálló XML-fejezetekhez képest. Nem találtam az XML-ben olyan hiányzó szakmai bekezdést vagy fejezetet, amelyet most kellene visszaemelni.** Az XML fő többlete az eredeti DocBook-szerkezet, a részletesebb kiadványmetaadatok és a többféle képállomány.
 
 A Markdown több helyen már javított vagy szerkesztett változatot tartalmaz. Az XML automatikus átvétele ezek egy részét visszarontaná. A meglévő mestert érdemes megtartani, az XML-t pedig ellenőrzési és archiválási forrásként használni.
 
@@ -20,7 +20,7 @@ Az elemzés során a könyv forrását és képállományát nem módosítottam.
 
 ## 1. Melyik XML-változat mit jelent?
 
-A tényleges könyvtár `source/xml/` (nem `sources/xml/`). A csomag három részből áll:
+A tényleges könyvtár a későbbi rendezés után `sources/xml/`. A csomag három részből áll:
 
 1. **`Bito_konyv.xml`:** DocBook 4.5 könyvkeret, bibliográfiai adatokkal és a nyolc tartalmi fájl XInclude-hivatkozásaival.
 2. **`00_bevezetes.xml`–`07_lakasallomany.xml`:** külön szerkeszthető fejezetek. Ezeket vettem elsődleges XML-összehasonlítási alapnak.
@@ -105,7 +105,7 @@ A `05_tobblakasos.xml` 1701. során kezdődő ábra címe „Zöldhomlokzat spon
 
 A csomagban ettől függetlenül létezik az `images/E5/abra_5_59_spontan_zoldhoml.png`, valamint JPG és webes változata is. A PNG-t vizuálisan ellenőriztem: növényzettel befuttatott homlokzatot ábrázol, alul a megfelelő beégetett képaláírással.
 
-A jelenlegi Markdown 4160. sora már a `source/images/abra_5_59_spontan_zoldhoml.png` képet használja. Ezt is megnéztem: ugyanaz a fénykép, az alsó képaláírás levágásával. **Jelenleg nincs ezen a helyen pótlandó kép.** A README, a Markdown YAML-fejlécének státuszszövege és a korábbi audit hiányjelzése frissítendő.
+A jelenlegi Markdown 4160. sora már a `sources/images/abra_5_59_spontan_zoldhoml.png` képet használja. Ezt is megnéztem: ugyanaz a fénykép, az alsó képaláírás levágásával. **Jelenleg nincs ezen a helyen pótlandó kép.** A README, a Markdown YAML-fejlécének státuszszövege és a korábbi audit hiányjelzése frissítendő.
 
 ### 4.3. Képaláírás-eltérések
 
@@ -128,7 +128,7 @@ Az XML képmappája a rejtett rendszerfájlok nélkül **711 fájlt** tartalmaz:
 - 172 JPG;
 - 164 PDF.
 
-A jelenlegi `source/images/` mappában 214 nem rejtett fájl van. A Markdown 213 képelőfordulása 211 külön fájlra mutat; ebben a könyv eleji tanszéki logó is benne van. Az előfordulások száma nem azonos az önálló illusztrációk számával.
+A jelenlegi `sources/images/` mappában 214 nem rejtett fájl van. A Markdown 213 képelőfordulása 211 külön fájlra mutat; ebben a könyv eleji tanszéki logó is benne van. Az előfordulások száma nem azonos az önálló illusztrációk számával.
 
 A DocBook ábránként webes és nyomdai képváltozatot különböztet meg (`condition="web"`, `condition="print"`), méretezési adatokkal. A 424 ábra-képfájlhivatkozásból 419 létező útvonalra mutat. Öt nyomdai útvonal nem található a megadott helyén:
 
