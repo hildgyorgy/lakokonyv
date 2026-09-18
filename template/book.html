@@ -1,42 +1,49 @@
 <!doctype html>
-<html lang="hu">
+<html lang="{{ language }}">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="author" content="Bitó János">
-  <meta name="description" content="Lakóépületek tervezése – digitális tankönyv">
+  <meta name="description" content="{{ description }}">
   <title>{{ title }}</title>
   <link rel="icon" type="image/png" sizes="591x591" href="./Lako_icon.png">
   <link rel="apple-touch-icon" sizes="591x591" href="./Lako_icon.png">
   <link rel="manifest" href="./site.webmanifest">
+  <link rel="alternate" hreflang="hu" href="index.html">
+  <link rel="alternate" hreflang="en" href="index_en.html">
   <link rel="stylesheet" href="book.css">
 </head>
 <body>
   <header class="site-header">
     <a class="site-title" href="#top">{{ title }}</a>
+    <nav class="language-switch" aria-label="{{ language_label }}">
+      <a href="index.html" lang="hu" hreflang="hu" data-language="hu" {{ hu_current }} aria-label="Magyar">HU</a>
+      <span aria-hidden="true">/</span>
+      <a href="index_en.html" lang="en" hreflang="en" data-language="en" {{ en_current }} aria-label="English">EN</a>
+    </nav>
   </header>
   <main id="top" class="page">
     <div class="sidebar-shell">
-      <aside class="toc" aria-label="Tartalomjegyzék">
-      <h2>Tartalomjegyzék</h2>
+      <aside class="toc" aria-label="{{ contents }}">
+      <h2>{{ contents }}</h2>
       {{ toc }}
       </aside>
-      <aside class="reading-controls" aria-label="Olvasási beállítások">
-        <div class="color-picker" aria-label="Kiemelt szín">
-          <span class="color-picker-label">Kiemelt szín:</span>
+      <aside class="reading-controls" aria-label="{{ reading_settings }}">
+        <div class="color-picker" aria-label="{{ accent }}">
+          <span class="color-picker-label">{{ accent }}:</span>
           <div class="color-options">
-            <button class="color-swatch is-default" type="button" data-color="#8A2432" aria-label="BME bordó" title="BME bordó"></button>
-            <button class="color-swatch" type="button" data-color="#777777" aria-label="Középszürke" title="Középszürke"></button>
-            <button class="color-swatch" type="button" data-color="#a75348" aria-label="Építészkar" title="Építészkar"></button>
-            <button class="color-swatch" type="button" data-color="#ff0000" aria-label="Piros" title="Piros"></button>
-            <button class="color-swatch" type="button" data-color="#00ff00" aria-label="Zöld" title="Zöld"></button>
-            <button class="color-swatch" type="button" data-color="#0000ff" aria-label="Kék" title="Kék"></button>
+            <button class="color-swatch is-default" type="button" data-color="#8A2432" aria-label="{{ burgundy }}" title="{{ burgundy }}"></button>
+            <button class="color-swatch" type="button" data-color="#777777" aria-label="{{ grey }}" title="{{ grey }}"></button>
+            <button class="color-swatch" type="button" data-color="#a75348" aria-label="{{ faculty }}" title="{{ faculty }}"></button>
+            <button class="color-swatch" type="button" data-color="#ff0000" aria-label="{{ red }}" title="{{ red }}"></button>
+            <button class="color-swatch" type="button" data-color="#00ff00" aria-label="{{ green }}" title="{{ green }}"></button>
+            <button class="color-swatch" type="button" data-color="#0000ff" aria-label="{{ blue }}" title="{{ blue }}"></button>
           </div>
-          <div class="alignment-picker" aria-label="Szöveg igazítása">
-            <span class="color-picker-label">Szöveg igazítása:</span>
-            <button class="alignment-option is-selected" type="button" data-alignment="left">BALRA</button>
+          <div class="alignment-picker" aria-label="{{ alignment }}">
+            <span class="color-picker-label">{{ alignment }}:</span>
+            <button class="alignment-option is-selected" type="button" data-alignment="left">{{ left }}</button>
             <span aria-hidden="true">|</span>
-            <button class="alignment-option" type="button" data-alignment="justify">SORKIZÁRT (elválasztással)</button>
+            <button class="alignment-option" type="button" data-alignment="justify">{{ justify }}</button>
           </div>
         </div>
       </aside>
@@ -45,7 +52,8 @@
       {{ content }}
     </article>
   </main>
-  <footer class="site-footer">BME Lakóépülettervezési Tanszék · 2013</footer>
+  <footer class="site-footer">{{ footer }}</footer>
+  <script id="language-targets" type="application/json">{{ language_targets }}</script>
   <script src="book.js" defer></script>
 </body>
 </html>

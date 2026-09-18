@@ -1,0 +1,1917 @@
+{
+  "source_sha256": {
+    "incoming/Bito_en_xml/00_introduction.xml": "50cda97e4910baf8061b5429bafd707cf297d72c9afc5973106ca7b9f6001486",
+    "incoming/Bito_en_xml/01_the_home.xml": "0ab47d8587bb3f4675946e8feef6b4f4be6ac403cad7ea9e63e10aadf3cd217d",
+    "incoming/Bito_en_xml/02_residential.xml": "d4906695c75102f3efbc9a993232833cbcf29c6e14cee255ffccde5140fd8635",
+    "incoming/Bito_en_xml/03_Family.xml": "e30ff5a4ef1aafc281247ff2e2f87da54b5a47a6b0be8237e15ae5b8b15276e9",
+    "incoming/Bito_en_xml/04_lowrise.xml": "88813eb3b55659261ce0e317d3a2d75f288f1d52be91578bfd343c0503063e84",
+    "incoming/Bito_en_xml/05_multiStory.xml": "c0079bf593d21f77396089666e903aecf3e944b5f41d690aed2068e68548f4f6",
+    "incoming/Bito_en_xml/06_weekend.xml": "eb19434712be8f7054a2fa0abb2d5ac33ac567c57dd9b3f61ba4ba307e93445a",
+    "incoming/Bito_en_xml/07_development.xml": "977c3857ae47902dc39df6b71b4da0eb5e1fe94d682afa5e202152ec49f8ba9e",
+    "incoming/Bito_en_xml/Bito_book.xml": "f0e3718bb7060616dc22028c1118c2eda33f851c701b53b7dd1984e9cbfc0993",
+    "incoming/Bito_en_html/index.html": "e80f18180efd901d85e0a87541621956360dd556f0d80e6dcb1e6b05dd7e0eee"
+  },
+  "sections": [
+    {
+      "english_title": "INTRODUCTION",
+      "shared_id": "E0_bevezetes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "The Home",
+      "shared_id": "E1_lakas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.1 Preface",
+      "shared_id": "E1_A_fejezet_temakore",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.2. Dimensions of residential spaces",
+      "shared_id": "E1_A_lakasterek_meretei",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.2.1. Measurement, measurement systems, scale, scale systems",
+      "shared_id": "E1_Meres_mertetrendszer_meretarany_meretrend",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.2.2. Ergonomic data and movement-related situations",
+      "shared_id": "E1_Az_emberi_testmeretekkel",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.2.3. Spatial requirement for domestic furniture and appliances",
+      "shared_id": "E1_A_lakas_fontosabb_butorainak",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.2.4. Headroom allowances",
+      "shared_id": "E1_A_lakasterek_belmagassaga",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.2.5. Door dimensions",
+      "shared_id": "E1_Az_ajtok_meretei",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.2.6. Window placement",
+      "shared_id": "E1_Az_ablakok_elhelyezese",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.2.7. Determination and dimensioning of spaces",
+      "shared_id": "E1_A_helyisegek_mereteinek_meghatarozasa",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.3. Residential spatial requirements",
+      "shared_id": "E1_A_lakastevekenysegek_terigenye",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.3.1. Recreation and entertaining",
+      "shared_id": "E1_Kozos_idotoltes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.3.2. Dining",
+      "shared_id": "E1_Kozos_etkezes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.3.3. Sleep and relaxation",
+      "shared_id": "E1_Alvas_pihenes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.3.4. Individual activities",
+      "shared_id": "E1_Egyeni_tevekenysegek",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.3.5. Food preparation",
+      "shared_id": "E1_Etelkeszites",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.3.6. Housekeeping",
+      "shared_id": "E1_Haztartasi_munkak",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.3.7. Personal hygiene",
+      "shared_id": "E1_Szemelyi_higienia",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.3.8. Storage",
+      "shared_id": "E1_Tarolas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.3.9. Child care",
+      "shared_id": "E1_Gyermekapolas_gyermekneveles",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.4. Residential spaces",
+      "shared_id": "E1_Lakasterek_helyisegek",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.5. Residential comfort",
+      "shared_id": "E1_Lakasterek_komfortkovetelmenyei",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.5.1. Lighting",
+      "shared_id": "E1_Megvilagitas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.5.2. Ventilation",
+      "shared_id": "E1_Szellozes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.5.3. Thermal comfort and heating",
+      "shared_id": "E1_Homerseklet_hoerzet_futes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.5.4. Daylight, orientation and energy awareness",
+      "shared_id": "E1_Benapozas_tajolas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.5.5. Noise prevention, acoustic comfort",
+      "shared_id": "E1_Zaj_elleni_vedelem",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.5.6. Visual comfort (AN)",
+      "shared_id": "E1_Vizualis_komfort",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.5.7. Healthy, allergen-free homes (AN)",
+      "shared_id": "E1_Allergen-mentes_kornyezet",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.6. Residential space composition and connections",
+      "shared_id": "E1_A_lakasterek_kapcsolatrendszere_lakaskompozicio",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.7. Barrier-free – universal design (AN and AP)",
+      "shared_id": "E1_Az_akadalymentes_lakas-egyetemes_tervezes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.7.1. Accessible housing",
+      "shared_id": "E1_Akadalymentes_lakas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.7.2. Universal design",
+      "shared_id": "E1_Az_egyetemes_tervezes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "1.7.3. Barrier-free spatial requirements",
+      "shared_id": "E1_Az_akadalymentes_lakasterek_kovetelmenyei",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "Residential Environment",
+      "shared_id": "Lakokornyezet",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.1. Preface",
+      "shared_id": "E2_fejezet_temakore",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.2. Environment",
+      "shared_id": "E2_kornyezet",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.2.1. Sustainable residential environment (AN)",
+      "shared_id": "E2_fenntarthato_lakokornyezet",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.3. Towns and town planning",
+      "shared_id": "E2_telepules_telepulesrendezes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.3.1. Town planning regulations",
+      "shared_id": "E2_telepulesrendezesi_szabalyok",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.3.2. T own planning structure",
+      "shared_id": "E2_telepulesek_szerkezete",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.3.3. Other aspects of town planning (AN)",
+      "shared_id": "E2_telepulesrendezes_egyeb_aspektusai",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.4. Public works, housing density",
+      "shared_id": "E2_kozmuvesites_laksuruseg",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.5. Infrastructure and zoning",
+      "shared_id": "E2_infrastrukturalis_ellatottsag",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.6. Construction site",
+      "shared_id": "E2_epitesi_telek",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.7. Barrier-free access (AP)",
+      "shared_id": "E2_Epuletek_akadalymentes_megkozelitese",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "2.8. Protection of cultural and architectural features",
+      "shared_id": "E2_telepuleskornyezet_kulturalis",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "Family Homes",
+      "shared_id": "Csaladi_hazak",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.1. Preface",
+      "shared_id": "E3_fejezet_temakore",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.2. Historical overview",
+      "shared_id": "E3_Torteneti_attekintes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.3. Detached homes",
+      "shared_id": "E3_szabadon_allo",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.3.1. Town planning codes and standards",
+      "shared_id": "hatosagi_szabalyok",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.3.2. Orientation, daylight and shelter from wind",
+      "shared_id": "Benapozas_szelvedettseg_tajolas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.3.3. Garden access",
+      "shared_id": "Kertkapcsolat",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.3.4. Building access",
+      "shared_id": "epulet_megkozelitese",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.3.5. Placement of non-residential buildings and structures",
+      "shared_id": "Nem_lakas_celu_epuletek",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.3.6. Vehicular access",
+      "shared_id": "Gepkocsitarolas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.3.7. Terrain management",
+      "shared_id": "Terepre_illesztes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.4. Boundary sites",
+      "shared_id": "E3_oldalhataron_allo",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.5. Semi-detached housing",
+      "shared_id": "E3_ikres_beepites",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.6. Row housing",
+      "shared_id": "E3_zartsoru_beepites",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.7. Family Home design",
+      "shared_id": "E3_csaladi_hazak_kialakitasa",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.7.1. Spatial arrangement and floor levels",
+      "shared_id": "terbeli_elrendezes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.7.2. Structural design factors",
+      "shared_id": "fobb_szerkezetek",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "3.7.3. Sustainable and energy efficient design (AN)",
+      "shared_id": "energiatudatos",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "Additional heating assistance",
+      "shared_id": "en-heading-additional-heating-assistance",
+      "shared_with_hu": false
+    },
+    {
+      "english_title": "Low-rise, High-density Housing",
+      "shared_id": "alacsony_beepitesek",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.1. Preface",
+      "shared_id": "E4_fejezet_temakore",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.2. Historical overview",
+      "shared_id": "E4_torteneti_attekintes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.2.1. European Development",
+      "shared_id": "heading-az-eur-pai-fejl-d-s",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.2.2. Hungarian Development",
+      "shared_id": "en-heading-4-2-2-hungarian-development",
+      "shared_with_hu": false
+    },
+    {
+      "english_title": "4.3. Characteristics of low-rise, high-density housing",
+      "shared_id": "E4_kozos_jellemzok",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.3.1. Economic considerations",
+      "shared_id": "E4_gazdasagossag",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.3.2. Site use",
+      "shared_id": "E4_telekalakitas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.3.3. Pedestrian and vehicular access",
+      "shared_id": "E4_jarmuforgalmi_megkozelites",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.4. Row housing",
+      "shared_id": "E4_sorhazak",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.4.1. Floor levels",
+      "shared_id": "E4_szintszam",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.4.2. Double-story unit design",
+      "shared_id": "E4_ketszintes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.4.3. Spatial arrangement",
+      "shared_id": "E4_helyisegek_tajolasa",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.4.4. Garden access",
+      "shared_id": "E4_kertkapcsolat",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.4.5. Vehicular storage",
+      "shared_id": "E4_gepkocsitarolas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.4.6. Structural design",
+      "shared_id": "E4_szerkezetek_kialakitasa",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.4.7. Mechanical engineering solutions",
+      "shared_id": "E4_epuletgepeszet",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.5. Courtyard housing",
+      "shared_id": "E4_udvarkertes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.5.1. Courtyard housing – basic types",
+      "shared_id": "E4_fogalma_alaptipusai",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.5.2. Courtyard housing daylight",
+      "shared_id": "E4_udvarkertes_benapozas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.5.3. Courtyard housing microclimate",
+      "shared_id": "E4_mikroklima",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.5.4. Courtyard housing classification",
+      "shared_id": "E4_egysegek_sorolasa",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.5.5. Vehicular storage",
+      "shared_id": "E4_udvarkert_gepkocsitarolas",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.5.6. Grouping of courtyard homes",
+      "shared_id": "E4_egyuttesek_kialakitasa",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "4.6. Sustainable and energy-efficient design",
+      "shared_id": "E4_energiatudatos",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "Multi-story, Multi-unit Housing",
+      "shared_id": "tobbszintes_tobblakasos",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.1. Preface",
+      "shared_id": "E5_fejezet_temakore",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.2. Historical overview",
+      "shared_id": "E5_torteneti_attekintes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.2.1. Hungarian situation since the 1950s",
+      "shared_id": "en-heading-5-2-1-hungarian-situation-since-the-1950s",
+      "shared_with_hu": false
+    },
+    {
+      "english_title": "5.3. Multi-storey, multi-unit housing site use",
+      "shared_id": "E5_telek_beepitese",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.4. Story numbers and height classifications",
+      "shared_id": "E5_szintszamok",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.5. Structural design factors",
+      "shared_id": "E5_fobb_szerkezetek",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.5.1. Structural systems",
+      "shared_id": "E5_szerkezeti_rendszerek",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.5.2. Stairs",
+      "shared_id": "E5_lepcsok",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.5.3. Lifts",
+      "shared_id": "E5_felvonok",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.5.4. Mechanical engineering solutions",
+      "shared_id": "E5_epuletgepeszet",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.6. Common access systems to individual housing units",
+      "shared_id": "E5_kozlekedo_rendszer",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.7. Single core accessed residential building",
+      "shared_id": "E5_fogatolt_rendszer",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.7.1. Single core residential building types",
+      "shared_id": "E5_fogatolt_alaptipusok",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.7.2. Urban development types",
+      "shared_id": "E5_szekciok_kialakitasa",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.7.3. Free-standing types",
+      "shared_id": "E5_fogatolt_ponthazak",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.7.4. Spatial arrangement within individual units",
+      "shared_id": "E5_osszefuggesek",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.7.5. Arrangement of ground floor areas",
+      "shared_id": "E5_foldszint_kialakitasa",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.8. Corridor accessed residential building",
+      "shared_id": "E5_folyosos_rendszeru",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.8.1. Open corridor apartments",
+      "shared_id": "E5_oldalfolyosos_lakohazak",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.8.2. Closed corridor apartments",
+      "shared_id": "E5_belsofolyosos",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.8.3. Correlation between rooms provided and floor areas",
+      "shared_id": "E5_folyosos_lakasok_osszefuggese",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.8.4. Complex planning arrangements",
+      "shared_id": "E5_terbeli_elrendezes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.9. External spatial arrangement",
+      "shared_id": "E5_kulso_ter_kapcsolat",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.10. Terraced developments",
+      "shared_id": "E5_teraszhazak",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.11. Vehicular storage",
+      "shared_id": "E5_gepkocsielhelyezes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.12. Waste management",
+      "shared_id": "E5_szemetkezeles",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.13. Non-residential areas",
+      "shared_id": "E5_egyeb_terek",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.14. Sustainable and energy efficient design (Dr. JB, AN)",
+      "shared_id": "E5_energiatudatos",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "5.15. Integration of soft landscape (AN)",
+      "shared_id": "E5_novenyzet",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "Weekend and Holiday Homes",
+      "shared_id": "Hetvegi_hazak",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "6.1. Preface to chapter",
+      "shared_id": "E6_fejezet_temakore",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "6.2. Historical overview",
+      "shared_id": "E6_torteneti_attekintes",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "6.3. Spatial arrangement and sizes",
+      "shared_id": "E6_kialakitasa_meretezese",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "6.4. Building types and town planning code",
+      "shared_id": "E6_beepitesi_modok",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "6.5. Off-grid solutions (AN)",
+      "shared_id": "E6_off_grid",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "Development and Maintenance of Housing Stock",
+      "shared_id": "LAKASALLOMANY",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "7.1. Maintenance of housing stock",
+      "shared_id": "E7_lakohazak_fenntartasa",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "7.2. Value-added renovation",
+      "shared_id": "E7_lakokornyezet_felujitasa",
+      "shared_with_hu": true
+    },
+    {
+      "english_title": "7.3. National-level development and maintenance",
+      "shared_id": "E7_orszag_lakasallomanya",
+      "shared_with_hu": true
+    }
+  ],
+  "figures": [
+    {
+      "source_id": "abra_1_03",
+      "id": "abra_1_03",
+      "shared_image": "images/abra_1_03_meretrend.png",
+      "original_web_image": "./images/E1/web/eng_1_03_meretrend.png"
+    },
+    {
+      "source_id": "abra_1_01",
+      "id": "abra_1_01",
+      "shared_image": "images/abra_1_01_aranyleonrd.png",
+      "original_web_image": "./images/E1/web/eng_1_01_aranyleonrd.png"
+    },
+    {
+      "source_id": "abra_1_02",
+      "id": "abra_1_02",
+      "shared_image": "images/abra_1_02_modulor.png",
+      "original_web_image": "./images/E1/web/eng_1_02_modulor.png"
+    },
+    {
+      "source_id": "abra_1_04",
+      "id": "abra_1_04",
+      "shared_image": "images/abra_1_04_testhelyzetek.png",
+      "original_web_image": "./images/E1/web/eng_1_04_testhelyzetek.png"
+    },
+    {
+      "source_id": "abra_1_05",
+      "id": "abra_1_05",
+      "shared_image": "images/abra_1_05_kozlekdok.png",
+      "original_web_image": "./images/E1/web/eng_1_05_kozlekedok.png"
+    },
+    {
+      "source_id": "abra_1_06",
+      "id": "abra_1_06",
+      "shared_image": "images/abra_1_06_fotzona.png",
+      "original_web_image": "./images/E1/web/eng_1_06_fotzona.png"
+    },
+    {
+      "source_id": "abra_1_07",
+      "id": "abra_1_07",
+      "shared_image": "images/abra_1_07_butorzona.png",
+      "original_web_image": "./images/E1/web/eng_1_07_butorzona.png"
+    },
+    {
+      "source_id": "abra_1_08",
+      "id": "abra_1_08",
+      "shared_image": "images/abra_1_08_butorok.png",
+      "original_web_image": "./images/E1/web/eng_1_08_butorok.png"
+    },
+    {
+      "source_id": "abra_1_09",
+      "id": "abra_1_09",
+      "shared_image": "images/abra_1_09_berendezesek.png",
+      "original_web_image": "./images/E1/web/eng_1_09_berendezesek.png"
+    },
+    {
+      "source_id": "abra_1_10",
+      "id": "abra_1_10",
+      "shared_image": "images/abra_1_10_belmagassag_mod.png",
+      "original_web_image": "./images/E1/web/eng_1_10_belmagassag_mod.png"
+    },
+    {
+      "source_id": "abra_1_11",
+      "id": "abra_1_11",
+      "shared_image": "images/abra_1_11_belmag.png",
+      "original_web_image": "./images/E1/web/eng_1_11_belmag.png"
+    },
+    {
+      "source_id": "abra_1_13",
+      "id": "abra_1_13",
+      "shared_image": "images/abra_1_13_ajtonyit_m.png",
+      "original_web_image": "./images/E1/web/eng_1_13_ajtonyit_m.png"
+    },
+    {
+      "source_id": "abra_1_12",
+      "id": "abra_1_12",
+      "shared_image": "images/abra_1_12_ajtok_m.png",
+      "original_web_image": "./images/E1/web/eng_1_12_ajtok_m.png"
+    },
+    {
+      "source_id": "abra_1_14",
+      "id": "abra_1_14",
+      "shared_image": "images/abra_1_14_ajtohasznzona_m.png",
+      "original_web_image": "./images/E1/web/eng_1_14_ajtohasznzona_m.png"
+    },
+    {
+      "source_id": "abra_1_15",
+      "id": "abra_1_15",
+      "shared_image": "images/abra_1_15_toloajto_m.png",
+      "original_web_image": "./images/E1/web/eng_1_15_toloajto_m.png"
+    },
+    {
+      "source_id": "abra_1_16",
+      "id": "abra_1_16",
+      "shared_image": "images/abra_1_16_ablakfajt_m.png",
+      "original_web_image": "./images/E1/web/eng_1_16_ablakfajt_m.png"
+    },
+    {
+      "source_id": "abra_1_17",
+      "id": "abra_1_17",
+      "shared_image": "images/abra_1_17_butcsprt1m.png",
+      "original_web_image": "./images/E1/web/eng_1_17_butcsprt1m.png"
+    },
+    {
+      "source_id": "abra_1_19",
+      "id": "abra_1_19",
+      "shared_image": "images/abra_1_19_fszmeretez_m.png",
+      "original_web_image": "./images/E1/web/eng_1_19_fszmeretez_m.png"
+    },
+    {
+      "source_id": "abra_1_20",
+      "id": "abra_1_20",
+      "shared_image": "images/abra_1_20_burkmeret.png",
+      "original_web_image": "./images/E1/web/eng_1_20_burkmeret.png"
+    },
+    {
+      "source_id": "abra_1_21",
+      "id": "abra_1_21",
+      "shared_image": "images/abra_1_21_kozosido.png",
+      "original_web_image": "./images/E1/web/eng_1_21_kozosido.png"
+    },
+    {
+      "source_id": "abra_1_22",
+      "id": "abra_1_22",
+      "shared_image": "images/abra_1_22_etkezes.png",
+      "original_web_image": "./images/E1/web/eng_1_22_etkezes.png"
+    },
+    {
+      "source_id": "abra_1_23",
+      "id": "abra_1_23",
+      "shared_image": "images/abra_1_23_alvas.png",
+      "original_web_image": "./images/E1/web/eng_1_23_alvas.png"
+    },
+    {
+      "source_id": "abra_1_24",
+      "id": "abra_1_24",
+      "shared_image": "images/abra_1_24_egyeni_m_.png",
+      "original_web_image": "./images/E1/web/eng_1_24_egyeni_m_.png"
+    },
+    {
+      "source_id": "abra_1_25",
+      "id": "abra_1_25",
+      "shared_image": "images/abra_1_25_frankfurti_kha.png",
+      "original_web_image": "./images/E1/web/eng_1_25_frankfurti_kha.png"
+    },
+    {
+      "source_id": "abra_1_26",
+      "id": "abra_1_26",
+      "shared_image": "images/abra_1_26_khatech.png",
+      "original_web_image": "./images/E1/web/eng_1_26_khatech.png"
+    },
+    {
+      "source_id": "abra_1_27",
+      "id": "abra_1_27",
+      "shared_image": "images/abra_1_27_khaelem.png",
+      "original_web_image": "./images/E1/web/eng_1_27_khaelem.png"
+    },
+    {
+      "source_id": "abra_1_28",
+      "id": "abra_1_28",
+      "shared_image": "images/abra_1_28_khaelrnd.png",
+      "original_web_image": "./images/E1/web/eng_1_28_khaelrnd.png"
+    },
+    {
+      "source_id": "abra_1_29",
+      "id": "abra_1_29",
+      "shared_image": "images/abra_1_29_khareszl.png",
+      "original_web_image": "./images/E1/web/eng_1_29_khareszl.png"
+    },
+    {
+      "source_id": "abra_1_30",
+      "id": "abra_1_30",
+      "shared_image": "images/abra_1_30_szigetes.png",
+      "original_web_image": "./images/E1/web/eng_1_30_szigetes.png"
+    },
+    {
+      "source_id": "abra_1_31",
+      "id": "abra_1_31",
+      "shared_image": "images/abra_1_31_haztart.png",
+      "original_web_image": "./images/E1/web/eng_1_31_haztart.png"
+    },
+    {
+      "source_id": "abra_1_32",
+      "id": "abra_1_32",
+      "shared_image": "images/abra_1_32_34_terhigi.png",
+      "original_web_image": "./images/E1/web/eng_1_32_34_terhigi.png"
+    },
+    {
+      "source_id": "abra_1_35",
+      "id": "abra_1_35",
+      "shared_image": "images/abra_1_35_higenia.png",
+      "original_web_image": "./images/E1/web/eng_1_35_higenia.png"
+    },
+    {
+      "source_id": "abra_1_40",
+      "id": "abra_1_40",
+      "shared_image": "images/abra_1_40_nappali_m_.png",
+      "original_web_image": "./images/E1/web/eng_1_40_nappali_m_.png"
+    },
+    {
+      "source_id": "abra_1_41",
+      "id": "abra_1_41",
+      "shared_image": "images/abra_1_41_etkezok.png",
+      "original_web_image": "./images/E1/web/eng_1_41_etkezok.png"
+    },
+    {
+      "source_id": "abra_1_42",
+      "id": "abra_1_42",
+      "shared_image": "images/abra_1_42_etkhak.png",
+      "original_web_image": "./images/E1/web/eng_1_42_etkhak.png"
+    },
+    {
+      "source_id": "abra_1_43",
+      "id": "abra_1_43",
+      "shared_image": "images/abra_1_43_halok_m.png",
+      "original_web_image": "./images/E1/web/eng_1_43_halok_m.png"
+    },
+    {
+      "source_id": "abra_1_45",
+      "id": "abra_1_45",
+      "shared_image": "images/abra_1_45_szellvil.png",
+      "original_web_image": "./images/E1/web/eng_1_45_szellvil.png"
+    },
+    {
+      "source_id": "abra_1_46",
+      "id": "abra_1_46",
+      "shared_image": "images/abra_1_46_megvilhatar.png",
+      "original_web_image": "./images/E1/web/eng_1_46_megvilhatar.png"
+    },
+    {
+      "source_id": "abra_1_47",
+      "id": "abra_1_47",
+      "shared_image": "images/abra_1_47_atszellozes.png",
+      "original_web_image": "./images/E1/web/eng_1_47_atszellozes.png"
+    },
+    {
+      "source_id": "abra_1_48",
+      "id": "abra_1_48",
+      "shared_image": "images/abra_1_48_szellozo_rendszerek.png",
+      "original_web_image": "./images/E1/web/eng_1_48_szellozo_rendszerek.png"
+    },
+    {
+      "source_id": "abra_1_49",
+      "id": "abra_1_49",
+      "shared_image": "images/abra_1_49_cirko_m_.png",
+      "original_web_image": "./images/E1/web/eng_1_49_cirko_m_.png"
+    },
+    {
+      "source_id": "abra_1_50",
+      "id": "abra_1_50",
+      "shared_image": "images/abra_1_50_arnyekolas_m_.png",
+      "original_web_image": "./images/E1/web/eng_1_50_arnyekolas_m_.png"
+    },
+    {
+      "source_id": "abra_1_51",
+      "id": "abra_1_51",
+      "shared_image": "images/abra_1_51_terkapcs.png",
+      "original_web_image": "./images/E1/web/eng_1_51_terkapcs.png"
+    },
+    {
+      "source_id": "abra_1_52",
+      "id": "abra_1_52",
+      "shared_image": "images/abra_1_52_trkpcsnapkh.png",
+      "original_web_image": "./images/E1/web/eng_1_52_trkpcsnapkh.png"
+    },
+    {
+      "source_id": "abra_1_53",
+      "id": "abra_1_53",
+      "shared_image": "images/abra_1_53_trkpcshalok_m.png",
+      "original_web_image": "./images/E1/web/eng_1_53_trkpcshalok_m.png"
+    },
+    {
+      "source_id": "abra_1_54",
+      "id": "abra_1_54",
+      "shared_image": "images/abra_1_54_lakterkpcs.png",
+      "original_web_image": "./images/E1/web/eng_1_54_lakterkpcs.png"
+    },
+    {
+      "source_id": "abra_1_55",
+      "id": "abra_1_55",
+      "shared_image": "images/abra_1_55_lakkomp__m2.png",
+      "original_web_image": "./images/E1/web/eng_1_55_lakkomp_m2.png"
+    },
+    {
+      "source_id": "abra_1_56",
+      "id": "abra_1_56",
+      "shared_image": "images/abra_1_56_lakfrh_m.png",
+      "original_web_image": "./images/E1/web/eng_1_56_lakfrh_m.png"
+    },
+    {
+      "source_id": "abra_1_57",
+      "id": "abra_1_57",
+      "shared_image": "images/abra_1_57_59_mzgsrl1_m.png",
+      "original_web_image": "./images/E1/web/eng_1_57_59_mzgsrl1_m.png"
+    },
+    {
+      "source_id": "abra_1_60",
+      "id": "abra_1_60",
+      "shared_image": "images/abra_1_60_mzgsr2_m.png",
+      "original_web_image": "./images/E1/web/eng_1_60_mzgsr2_m.png"
+    },
+    {
+      "source_id": "abra_3_01",
+      "id": "abra_3_01",
+      "shared_image": "images/abra_3_01_fesusbe.png",
+      "original_web_image": "./images/E3/web/eng_3_01_fesusbe.png"
+    },
+    {
+      "source_id": "abra_3_02",
+      "id": "abra_3_02",
+      "shared_image": "images/abra_3_02_mezovr.png",
+      "original_web_image": "./images/E3/web/eng_3_02_mezovr.png"
+    },
+    {
+      "source_id": "abra_3_03",
+      "id": "abra_3_03",
+      "shared_image": "images/abra_3_03_satoros.png",
+      "original_web_image": "./images/E3/web/eng_3_03_satoros.png"
+    },
+    {
+      "source_id": "abra_3_04",
+      "id": "abra_3_04",
+      "shared_image": "images/abra_3_04_ujhazfrm.png",
+      "original_web_image": "./images/E3/web/eng_3_04_ujhazfrm.png"
+    },
+    {
+      "source_id": "abra_3_05",
+      "id": "abra_3_05",
+      "shared_image": "images/abra_3_05_urivilla.png",
+      "original_web_image": "./images/E3/web/eng_3_05_urivilla.png"
+    },
+    {
+      "source_id": "abra_3_06",
+      "id": "abra_3_06",
+      "shared_image": "images/abra_3_06_wekerle.png",
+      "original_web_image": "./images/E3/web/eng_3_06_wekerle.png"
+    },
+    {
+      "source_id": "abra_3_07",
+      "id": "abra_3_07",
+      "shared_image": "images/abra_3_07_molnarf.png",
+      "original_web_image": "./images/E3/web/eng_3_07_molnarf.png"
+    },
+    {
+      "source_id": "abra_3_08",
+      "id": "abra_3_08",
+      "shared_image": "images/abra_3_08_makovecz.png",
+      "original_web_image": "./images/E3/web/eng_3_08_makovecz.png"
+    },
+    {
+      "source_id": "abra_3_09",
+      "id": "abra_3_09",
+      "shared_image": "images/abra_3_09_turanyi.png",
+      "original_web_image": "./images/E3/web/eng_3_09_turanyi.png"
+    },
+    {
+      "source_id": "abra_3_10",
+      "id": "abra_3_10",
+      "shared_image": "images/abra_3_10_magyarkuti_haz.png",
+      "original_web_image": "./images/E3/web/eng_3_10_magyarkuti_haz.png"
+    },
+    {
+      "source_id": "abra_3_12",
+      "id": "abra_3_12",
+      "shared_image": "images/abra_3_12_cshelk_ok.png",
+      "original_web_image": "./images/E3/web/eng_3_12_cshelkok.png"
+    },
+    {
+      "source_id": "abra_3_13",
+      "id": "abra_3_13",
+      "shared_image": "images/abra_3_13_nappalya.png",
+      "original_web_image": "./images/E3/web/eng_3_13_nappalya.png"
+    },
+    {
+      "source_id": "abra_3_15",
+      "id": "abra_3_14",
+      "shared_image": "images/abra_3_14_napdiaszerk.png",
+      "original_web_image": "./images/E3/web/eng_3_14_napdiaszerk.png"
+    },
+    {
+      "source_id": "abra_3_16",
+      "id": "abra_3_16",
+      "shared_image": "images/abra_3_16_napdiagram.png",
+      "original_web_image": "./images/E3/web/eng_3_16_napdiagram.png"
+    },
+    {
+      "source_id": "abra_3_18",
+      "id": "abra_3_18",
+      "shared_image": "images/abra_3_18_arnyekol_m_.png",
+      "original_web_image": "./images/E3/web/eng_3_18_arnyekol_m_.png"
+    },
+    {
+      "source_id": "abra_3_19",
+      "id": "abra_3_19",
+      "shared_image": "images/abra_3_19_kertlatv.png",
+      "original_web_image": "./images/E3/web/eng_3_19_kertlatv.png"
+    },
+    {
+      "source_id": "abra_3_20",
+      "id": "abra_3_20",
+      "shared_image": "images/abra_3_20_cshtelken_m_.png",
+      "original_web_image": "./images/E3/web/eng_3_20_cshtelken_m_.png"
+    },
+    {
+      "source_id": "abra_3_21",
+      "id": "abra_3_21",
+      "shared_image": "images/abra_3_21_cshkertben_m_.png",
+      "original_web_image": "./images/E3/web/eng_3_21_cshkertben_m_.png"
+    },
+    {
+      "source_id": "abra_3_22",
+      "id": "abra_3_22",
+      "shared_image": "images/abra_3_22_autohelymod.png",
+      "original_web_image": "./images/E3/web/eng_3_22_autohelymod.png"
+    },
+    {
+      "source_id": "abra_3_23",
+      "id": "abra_3_23",
+      "shared_image": "images/abra_3_23_cshgarazshely_m.png",
+      "original_web_image": "./images/E3/web/eng_3_23_cshgarazshely_m.png"
+    },
+    {
+      "source_id": "abra_3_24",
+      "id": "abra_3_24",
+      "shared_image": "images/abra_3_24_rampamer_m.png",
+      "original_web_image": "./images/E3/web/eng_3_24_rampamer_m.png"
+    },
+    {
+      "source_id": "abra_3_25",
+      "id": "abra_3_25",
+      "shared_image": "images/abra_3_25_cshgarashely.png",
+      "original_web_image": "./images/E3/web/eng_3_25_cshgarashely.png"
+    },
+    {
+      "source_id": "abra_3_26",
+      "id": "abra_3_26",
+      "shared_image": "images/abra_3_26_algarazs_m_.png",
+      "original_web_image": "./images/E3/web/eng_3_26_algarazs_m_.png"
+    },
+    {
+      "source_id": "abra_3_27",
+      "id": "abra_3_27",
+      "shared_image": "images/abra_3_27_terepill.png",
+      "original_web_image": "./images/E3/web/eng_3_27_terepill.png"
+    },
+    {
+      "source_id": "abra_3_28",
+      "id": "abra_3_28",
+      "shared_image": "images/abra_3_28_szintterepen.png",
+      "original_web_image": "./images/E3/web/eng_3_28_szintterepen.png"
+    },
+    {
+      "source_id": "abra_3_29",
+      "id": "abra_3_29",
+      "shared_image": "images/abra_3_29_tereprend.png",
+      "original_web_image": "./images/E3/web/eng_3_29_tereprend.png"
+    },
+    {
+      "source_id": "abra_3_30",
+      "id": "abra_3_30",
+      "shared_image": "images/abra_3_30_31_lejtgar.png",
+      "original_web_image": "./images/E3/web/eng_3_30_31_lejtgar.png"
+    },
+    {
+      "source_id": "abra_3_32",
+      "id": "abra_3_32",
+      "shared_image": "images/abra_3_32_csbepmoh.png",
+      "original_web_image": "./images/E3/web/eng_3_32_csbepmoh.png"
+    },
+    {
+      "source_id": "abra_3_33",
+      "id": "abra_3_33",
+      "shared_image": "images/abra_3_33_cshelioh.png",
+      "original_web_image": "./images/E3/web/eng_3_33_cshelioh.png"
+    },
+    {
+      "source_id": "abra_3_34",
+      "id": "abra_3_34",
+      "shared_image": "images/abra_3_34_cshohfal.png",
+      "original_web_image": "./images/E3/web/eng_3_34_cshohfal.png"
+    },
+    {
+      "source_id": "abra_3_35",
+      "id": "abra_3_35",
+      "shared_image": "images/abra_3_35_cshfalu.png",
+      "original_web_image": "./images/E3/web/eng_3_35_cshfalu.png"
+    },
+    {
+      "source_id": "abra_3_36",
+      "id": "abra_3_36",
+      "shared_image": "images/abra_3_36_cshohgarazs.png",
+      "original_web_image": "./images/E3/web/eng_3_36_cshohgarazs.png"
+    },
+    {
+      "source_id": "abra_3_37",
+      "id": "abra_3_37",
+      "shared_image": "images/abra_3_37_csbepmik.png",
+      "original_web_image": "./images/E3/web/eng_3_37_csbepmik.png"
+    },
+    {
+      "source_id": "abra_3_38",
+      "id": "abra_3_38",
+      "shared_image": "images/abra_3_38_ikhfoglm.png",
+      "original_web_image": "./images/E3/web/eng_3_38_ikhfoglm.png"
+    },
+    {
+      "source_id": "abra_3_39",
+      "id": "abra_3_39",
+      "shared_image": "images/abra_3_39_cshikcsatl.png",
+      "original_web_image": "./images/E3/web/eng_3_39_cshikcsatl.png"
+    },
+    {
+      "source_id": "abra_3_40",
+      "id": "abra_3_40",
+      "shared_image": "images/abra_3_40_cshikfal.png",
+      "original_web_image": "./images/E3/web/eng_3_40_cshikfal.png"
+    },
+    {
+      "source_id": "abra_3_41",
+      "id": "abra_3_41",
+      "shared_image": "images/abra_3_41_ikhtajol.png",
+      "original_web_image": "./images/E3/web/eng_3_41_ikhtajol.png"
+    },
+    {
+      "source_id": "abra_3_42",
+      "id": "abra_3_42",
+      "shared_image": "images/abra_3_42_cshikgarazs.png",
+      "original_web_image": "./images/E3/web/eng_3_42_cshikgarazs.png"
+    },
+    {
+      "source_id": "abra_3_44",
+      "id": "abra_3_44",
+      "shared_image": "images/abra_3_44_zshatarvonal.png",
+      "original_web_image": "./images/E3/web/eng_3_44_zshatarvonal.png"
+    },
+    {
+      "source_id": "abra_3_45",
+      "id": "abra_3_45",
+      "shared_image": "images/abra_3_45_zsatjar.png",
+      "original_web_image": "./images/E3/web/eng_3_45_zsatjar.png"
+    },
+    {
+      "source_id": "abra_3_46",
+      "id": "abra_3_46",
+      "shared_image": "images/abra_3_46_cszsgarazs.png",
+      "original_web_image": "./images/E3/web/eng_3_46_cszsgarazs.png"
+    },
+    {
+      "source_id": "abra_3_47",
+      "id": "abra_3_47",
+      "shared_image": "images/abra_3_47_cshszintek_m_.png",
+      "original_web_image": "./images/E3/web/eng_3_47_cshszintek_m_.png"
+    },
+    {
+      "source_id": "abra_3_48",
+      "id": "abra_3_48",
+      "shared_image": "images/abra_3_48_cshpince.png",
+      "original_web_image": "./images/E3/web/eng_3_48_cshpince.png"
+    },
+    {
+      "source_id": "abra_3_49",
+      "id": "abra_3_49",
+      "shared_image": "images/abra_3_49_pincablak.png",
+      "original_web_image": "./images/E3/web/eng_3_49_pincablak.png"
+    },
+    {
+      "source_id": "abra_3_50",
+      "id": "abra_3_50",
+      "shared_image": "images/abra_3_50_cshthszerk.png",
+      "original_web_image": "./images/E3/web/eng_3_50_cshthszerk.png"
+    },
+    {
+      "source_id": "abra_3_51",
+      "id": "abra_3_51",
+      "shared_image": "images/abra_3_51_cshtetok_m_.png",
+      "original_web_image": "./images/E3/web/eng_3_51_cshtetok_m_.png"
+    },
+    {
+      "source_id": "abra_3_53",
+      "id": "abra_3_53",
+      "shared_image": "images/abra_3_53_54_tetotbeepit.png",
+      "original_web_image": "./images/E3/web/eng_3_53_54_tetotbeepit.png"
+    },
+    {
+      "source_id": "abra_3_55",
+      "id": "abra_3_55",
+      "shared_image": "images/abra_3_55_cshlepcso_mod.png",
+      "original_web_image": "./images/E3/web/eng_3_55_cshlepcso_mod.png"
+    },
+    {
+      "source_id": "abra_3_56",
+      "id": "abra_3_56",
+      "shared_image": "images/abra_3_56_cshlpcshuzott_m.png",
+      "original_web_image": "./images/E3/web/eng_3_56_cshlpcshuzott.png"
+    },
+    {
+      "source_id": "abra_3_57",
+      "id": "abra_3_57",
+      "shared_image": "images/abra_3_57_cshlpcsfajt_mod.png",
+      "original_web_image": "./images/E3/web/eng_3_57_cshlpcsfajt_mod.png"
+    },
+    {
+      "source_id": "abra_3_58",
+      "id": "abra_3_58",
+      "shared_image": "images/abra_3_58_cshlpcszerk.png",
+      "original_web_image": "./images/E3/web/eng_3_58_cshlpcsszerk.png"
+    },
+    {
+      "source_id": "abra_3_59",
+      "id": "abra_3_59",
+      "shared_image": "images/abra_3_59_terblepcso.png",
+      "original_web_image": "./images/E3/web/eng_3_59_terblepcso.png"
+    },
+    {
+      "source_id": "abra_4_01",
+      "id": "abra_4_01",
+      "shared_image": "images/abra_4_01_alinttabl_m.png",
+      "original_web_image": "./images/E4/web/eng_4_01_alinttabl_m.png"
+    },
+    {
+      "source_id": "abra_4_03",
+      "id": "abra_4_03",
+      "shared_image": "images/abra_4_03_angolsorh.png",
+      "original_web_image": "./images/E4/web/eng_4_03_angolsorh.png"
+    },
+    {
+      "source_id": "abra_4_04",
+      "id": "abra_4_04",
+      "shared_image": "images/abra_4_04_romerstadt.png",
+      "original_web_image": "./images/E4/web/eng_4_04_romerstadt.png"
+    },
+    {
+      "source_id": "abra_4_05",
+      "id": "abra_4_05",
+      "shared_image": "images/abra_4_05_hilberseimer.png",
+      "original_web_image": "./images/E4/web/eng_4_05_hilberseimer.png"
+    },
+    {
+      "source_id": "abra_4_06",
+      "id": "abra_4_06",
+      "shared_image": "images/abra_4_06_utzon.png",
+      "original_web_image": "./images/E4/web/eng_4_06_utzon.png"
+    },
+    {
+      "source_id": "abra_4_07",
+      "id": "abra_4_07",
+      "shared_image": "images/abra_4_07_ahola.png",
+      "original_web_image": "./images/E4/web/eng_4_07_ahola.png"
+    },
+    {
+      "source_id": "abra_4_08",
+      "id": "abra_4_08",
+      "shared_image": "images/abra_4_08_bakema.png",
+      "original_web_image": "./images/E4/web/eng_4_08_bakema.png"
+    },
+    {
+      "source_id": "abra_4_09",
+      "id": "abra_4_09",
+      "shared_image": "images/abra_4_09_ratingen.png",
+      "original_web_image": "./images/E4/web/eng_4_09_ratingen.png"
+    },
+    {
+      "source_id": "abra_4_10",
+      "id": "abra_4_10",
+      "shared_image": "images/abra_4_10_vandkunsten.png",
+      "original_web_image": "./images/E4/web/eng_4_10_vandkunsten.png"
+    },
+    {
+      "source_id": "abra_4_11",
+      "id": "abra_4_11",
+      "shared_image": "images/abra_4_11_utrcht_sorhaz.png",
+      "original_web_image": "./images/E4/web/eng_4_11_utrcht_sorhaz.png"
+    },
+    {
+      "source_id": "abra_4_12",
+      "id": "abra_4_12",
+      "shared_image": "images/abra_4_12_perbal.png",
+      "original_web_image": "./images/E4/web/eng_4_12_perbal.png"
+    },
+    {
+      "source_id": "abra_4_13",
+      "id": "abra_4_13",
+      "shared_image": "images/abra_4_13_dunauj.png",
+      "original_web_image": "./images/E4/web/eng_4_13_dunauj.png"
+    },
+    {
+      "source_id": "abra_4_14",
+      "id": "abra_4_14",
+      "shared_image": "images/abra_4_14_barlangu.png",
+      "original_web_image": "./images/E4/web/eng_4_14_barlangu.png"
+    },
+    {
+      "source_id": "abra_4_15",
+      "id": "abra_4_15",
+      "shared_image": "images/abra_4_15_aiosszh.png",
+      "original_web_image": "./images/E4/web/eng_4_15_aiosszh.png"
+    },
+    {
+      "source_id": "abra_4_16",
+      "id": "abra_4_16",
+      "shared_image": "images/abra_4_16_aitelekfh_mod.png",
+      "original_web_image": "./images/E4/web/eng_4_16_aitelekfh_mod.png"
+    },
+    {
+      "source_id": "abra_4_17",
+      "id": "abra_4_17",
+      "shared_image": "images/abra_4_17_megkozel.png",
+      "original_web_image": "./images/E4/web/eng_4_17_megkozel.png"
+    },
+    {
+      "source_id": "abra_4_18",
+      "id": "abra_4_18",
+      "shared_image": "images/abra_4_18_aitlelkhasz.png",
+      "original_web_image": "./images/E4/web/eng_4_18_aitlelkhasz.png"
+    },
+    {
+      "source_id": "abra_4_19",
+      "id": "abra_4_19",
+      "shared_image": "images/abra_4_19_fszsh_m.png",
+      "original_web_image": "./images/E4/web/eng_4_19_fszsh_m.png"
+    },
+    {
+      "source_id": "abra_4_20",
+      "id": "abra_4_20",
+      "shared_image": "images/abra_4_20_shfunkcs.png",
+      "original_web_image": "./images/E4/web/eng_4_20_shfunkcs.png"
+    },
+    {
+      "source_id": "abra_4_21",
+      "id": "abra_4_21",
+      "shared_image": "images/abra_4_21_shterb.png",
+      "original_web_image": "./images/E4/web/eng_4_21_shterb.png"
+    },
+    {
+      "source_id": "abra_4_22",
+      "id": "abra_4_22",
+      "shared_image": "images/abra_4_22_shbnp.png",
+      "original_web_image": "./images/E4/web/eng_4_22_shbnp.png"
+    },
+    {
+      "source_id": "abra_4_23",
+      "id": "abra_4_23",
+      "shared_image": "images/abra_4_23_shbnell.png",
+      "original_web_image": "./images/E4/web/eng_4_23_shbnell.png"
+    },
+    {
+      "source_id": "abra_4_24",
+      "id": "abra_4_24",
+      "shared_image": "images/abra_4_24_skertved_mod.png",
+      "original_web_image": "./images/E4/web/eng_4_24_skertved_mod.png"
+    },
+    {
+      "source_id": "abra_4_25",
+      "id": "abra_4_25",
+      "shared_image": "images/abra_4_25_srhgpktar.png",
+      "original_web_image": "./images/E4/web/eng_4_25_srhgpktar.png"
+    },
+    {
+      "source_id": "abra_4_26",
+      "id": "abra_4_26",
+      "shared_image": "images/abra_4_26_shlpcelh.png",
+      "original_web_image": "./images/E4/web/eng_4_26_shlpcelh.png"
+    },
+    {
+      "source_id": "abra_4_27",
+      "id": "abra_4_27",
+      "shared_image": "images/abra_4_27_shvizes.png",
+      "original_web_image": "./images/E4/web/eng_4_27_shvizes.png"
+    },
+    {
+      "source_id": "abra_4_28",
+      "id": "abra_4_28",
+      "shared_image": "images/abra_4_28_shvzeselr.png",
+      "original_web_image": "./images/E4/web/eng_4_28_shvzeselr.png"
+    },
+    {
+      "source_id": "abra_4_29",
+      "id": "abra_4_29",
+      "shared_image": "images/abra_4_29_atriumtip.png",
+      "original_web_image": "./images/E4/web/eng_4_29_atriumtip.png"
+    },
+    {
+      "source_id": "abra_4_30",
+      "id": "abra_4_30",
+      "shared_image": "images/abra_4_30_atriumfajtak1.png",
+      "original_web_image": "./images/E4/web/eng_4_30_atriumfajtak1.png"
+    },
+    {
+      "source_id": "abra_4_31",
+      "id": "abra_4_31",
+      "shared_image": "images/abra_4_31_atriumfajtak2.png",
+      "original_web_image": "./images/E4/web/eng_4_31_atriumfajtak2.png"
+    },
+    {
+      "source_id": "abra_4_32",
+      "id": "abra_4_32",
+      "shared_image": "images/abra_4_32_atriumtetok.png",
+      "original_web_image": "./images/E4/web/eng_4_32_atriumtetok.png"
+    },
+    {
+      "source_id": "abra_4_33",
+      "id": "abra_4_33",
+      "shared_image": "images/abra_4_33_atriumsorolas1.png",
+      "original_web_image": "./images/E4/web/eng_4_33_atriumsorolas1.png"
+    },
+    {
+      "source_id": "abra_4_34",
+      "id": "abra_4_34",
+      "shared_image": "images/abra_4_34_atriumsorolas2.png",
+      "original_web_image": "./images/E4/web/eng_4_34_atriumsorolas2.png"
+    },
+    {
+      "source_id": "abra_4_35",
+      "id": "abra_4_35",
+      "shared_image": "images/abra_4_35_atriumgkptar.png",
+      "original_web_image": "./images/E4/web/eng_4_35_atriumgkptar.png"
+    },
+    {
+      "source_id": "abra_4_36",
+      "id": "abra_4_36",
+      "shared_image": "images/abra_4_36_atriumegytts.png",
+      "original_web_image": "./images/E4/web/eng_4_36_atriumegytts.png"
+    },
+    {
+      "source_id": "abra_4_37",
+      "id": "abra_4_37",
+      "shared_image": "images/abra_4_37_aienergia.png",
+      "original_web_image": "./images/E4/web/eng_4_37_aienergia.png"
+    },
+    {
+      "source_id": "abra_5_01",
+      "id": "abra_5_01",
+      "shared_image": "images/abra_5_01_berhazf.png",
+      "original_web_image": "./images/E5/web/eng_5_01_berhazf.png"
+    },
+    {
+      "source_id": "abra_5_02",
+      "id": "abra_5_02",
+      "shared_image": "images/abra_5_02_berhazalap.png",
+      "original_web_image": "./images/E5/web/eng_5_02_berhazalap.png"
+    },
+    {
+      "source_id": "abra_5_03",
+      "id": "abra_5_03",
+      "shared_image": "images/abra_5_03_minimalw.png",
+      "original_web_image": "./images/E5/web/eng_5_03_minimalw.png"
+    },
+    {
+      "source_id": "abra_5_04",
+      "id": "abra_5_04",
+      "shared_image": "images/abra_5_04_gropius.png",
+      "original_web_image": "./images/E5/web/eng_5_04_gropius.png"
+    },
+    {
+      "source_id": "abra_5_05",
+      "id": "abra_5_05",
+      "shared_image": "images/abra_5_05_gropiussema.png",
+      "original_web_image": "./images/E5/web/eng_5_05_gropiussema.png"
+    },
+    {
+      "source_id": "abra_5_07",
+      "id": "abra_5_07",
+      "shared_image": "images/abra_5_07_beepfejlds.png",
+      "original_web_image": "./images/E5/web/eng_5_07_beepfejlds.png"
+    },
+    {
+      "source_id": "abra_5_06",
+      "id": "abra_5_06",
+      "shared_image": "images/abra_5_06_hallos.png",
+      "original_web_image": "./images/E5/web/eng_5_06_hallos.png"
+    },
+    {
+      "source_id": "abra_5_09",
+      "id": "abra_5_09",
+      "shared_image": "images/abra_5_09_roehampton.png",
+      "original_web_image": "./images/E5/web/eng_5_09_roehampton.png"
+    },
+    {
+      "source_id": "abra_5_10",
+      "id": "abra_5_10",
+      "shared_image": "images/abra_5_10_candilis.png",
+      "original_web_image": "./images/E5/web/eng_5_10_candilis.png"
+    },
+    {
+      "source_id": "abra_5_11",
+      "id": "abra_5_11",
+      "shared_image": "images/abra_5_11_teraszhaz.png",
+      "original_web_image": "./images/E5/web/eng_5_11_teraszhaz.png"
+    },
+    {
+      "source_id": "abra_5_12",
+      "id": "abra_5_12",
+      "shared_image": "images/abra_5_12_dombhaz.png",
+      "original_web_image": "./images/E5/web/eng_5_12_dombhaz.png"
+    },
+    {
+      "source_id": "abra_5_13",
+      "id": "abra_5_13",
+      "shared_image": "images/abra_5_13_lakodomb.png",
+      "original_web_image": "./images/E5/web/eng_5_13_lakodomb.png"
+    },
+    {
+      "source_id": "abra_5_14",
+      "id": "abra_5_14",
+      "shared_image": "images/abra_5_14_rauchstrasse.png",
+      "original_web_image": "./images/E5/web/eng_5_14_rauchstrasse.png"
+    },
+    {
+      "source_id": "abra_5_16",
+      "id": "abra_5_16",
+      "shared_image": "images/abra_5_16_nouvel.png",
+      "original_web_image": "./images/E5/web/eng_5_16_Nouvel.png"
+    },
+    {
+      "source_id": "abra_5_17",
+      "id": "abra_5_17",
+      "shared_image": "images/abra_5_17_osloi_haz.png",
+      "original_web_image": "./images/E5/web/eng_5_17_osloi_haz.png"
+    },
+    {
+      "source_id": "abra_5_18",
+      "id": "abra_5_18",
+      "shared_image": "images/abra_5_18_hazgyar.png",
+      "original_web_image": "./images/E5/web/eng_5_18_hazgyar.png"
+    },
+    {
+      "source_id": "abra_5_15",
+      "id": "abra_5_15",
+      "shared_image": "images/abra_5_15_ritterstr.png",
+      "original_web_image": "./images/E5/web/eng_5_15_ritterstr.png"
+    },
+    {
+      "source_id": "abra_5_21",
+      "id": "abra_5_21",
+      "shared_image": "images/abra_5_21_tblszerkr.png",
+      "original_web_image": "./images/E5/web/eng_5_21_tblszerkr.png"
+    },
+    {
+      "source_id": "abra_5_22",
+      "id": "abra_5_22",
+      "shared_image": "images/abra_5_22_tbllpcso_mod.png",
+      "original_web_image": "./images/E5/web/eng_5_22_tbllpcso_mod.png"
+    },
+    {
+      "source_id": "abra_5_23",
+      "id": "abra_5_23",
+      "shared_image": "images/abra_5_23_lift_modos2.png",
+      "original_web_image": "./images/E5/web/eng_5_23_lift_modos2.png"
+    },
+    {
+      "source_id": "abra_5_24",
+      "id": "abra_5_24",
+      "shared_image": "images/abra_5_24_lift_modos1.png",
+      "original_web_image": "./images/E5/web/eng_5_24_lift_modos1.png"
+    },
+    {
+      "source_id": "abra_5_25",
+      "id": "abra_5_25",
+      "shared_image": "images/abra_5_25_liftlepcs_mod_.png",
+      "original_web_image": "./images/E5/web/eng_5_25_liftlepcs_mod_.png"
+    },
+    {
+      "source_id": "abra_5_26",
+      "id": "abra_5_26",
+      "shared_image": "images/abra_5_26_tblrendsz.png",
+      "original_web_image": "./images/E5/web/eng_5_26_tblrendsz.png"
+    },
+    {
+      "source_id": "abra_5_27",
+      "id": "abra_5_27",
+      "shared_image": "images/abra_5_27_tbrendatm.png",
+      "original_web_image": "./images/E5/web/eng_5_27_tbrendatm.png"
+    },
+    {
+      "source_id": "abra_5_28",
+      "id": "abra_5_28",
+      "shared_image": "images/abra_5_28_tbrendatm2.png",
+      "original_web_image": "./images/E5/web/eng_5_28_tbrendatm2.png"
+    },
+    {
+      "source_id": "abra_5_29",
+      "id": "abra_5_29",
+      "shared_image": "images/abra_5_29_fogatfglm.png",
+      "original_web_image": "./images/E5/web/eng_5_29_fogatfglm.png"
+    },
+    {
+      "source_id": "abra_5_30",
+      "id": "abra_5_30",
+      "shared_image": "images/abra_5_30_fogatsav.png",
+      "original_web_image": "./images/E5/web/eng_5_30_fogatsav.png"
+    },
+    {
+      "source_id": "abra_5_31",
+      "id": "abra_5_31",
+      "shared_image": "images/abra_5_31_fogtaj.png",
+      "original_web_image": "./images/E5/web/eng_5_31_fogtaj.png"
+    },
+    {
+      "source_id": "abra_5_32",
+      "id": "abra_5_32",
+      "shared_image": "images/abra_5_32_fogpont.png",
+      "original_web_image": "./images/E5/web/eng_5_32_fogpont.png"
+    },
+    {
+      "source_id": "abra_5_33",
+      "id": "abra_5_33",
+      "shared_image": "images/abra_5_33_foglakas.png",
+      "original_web_image": "./images/E5/web/eng_5_33_foglakas.png"
+    },
+    {
+      "source_id": "abra_5_34",
+      "id": "abra_5_34",
+      "shared_image": "images/abra_5_34_tbfszmet_m.png",
+      "original_web_image": "./images/E5/web/eng_5_34_tbfszmet_m.png"
+    },
+    {
+      "source_id": "abra_5_35",
+      "id": "abra_5_35",
+      "shared_image": "images/abra_5_35_fogfszv_modos.png",
+      "original_web_image": "./images/E5/web/eng_5_35_fogfszv_modos.png"
+    },
+    {
+      "source_id": "abra_5_36",
+      "id": "abra_5_36",
+      "shared_image": "images/abra_5_36_oldalfoly.png",
+      "original_web_image": "./images/E5/web/eng_5_36_oldalfoly.png"
+    },
+    {
+      "source_id": "abra_5_37",
+      "id": "abra_5_37",
+      "shared_image": "images/abra_5_37_oldfolylepcso.png",
+      "original_web_image": "./images/E5/web/eng_5_37_oldfolylepcso.png"
+    },
+    {
+      "source_id": "abra_5_39",
+      "id": "abra_5_39",
+      "shared_image": "images/abra_5_39_folylakas.png",
+      "original_web_image": "./images/E5/web/eng_5_39_folylakas.png"
+    },
+    {
+      "source_id": "abra_5_40",
+      "id": "abra_5_40",
+      "shared_image": "images/abra_5_40_maisonette.png",
+      "original_web_image": "./images/E5/web/eng_5_40_maisonette.png"
+    },
+    {
+      "source_id": "abra_5_41",
+      "id": "abra_5_41",
+      "shared_image": "images/abra_5_41_folyterben.png",
+      "original_web_image": "./images/E5/web/eng_5_41_folyterben.png"
+    },
+    {
+      "source_id": "abra_5_42",
+      "id": "abra_5_42",
+      "shared_image": "images/abra_5_42_tberkter.png",
+      "original_web_image": "./images/E5/web/eng_5_42_tberkter.png"
+    },
+    {
+      "source_id": "abra_5_43",
+      "id": "abra_5_43",
+      "shared_image": "images/abra_5_43_tbterkial1_mod.png",
+      "original_web_image": "./images/E5/web/eng_5_43_tbterkial1_mod.png"
+    },
+    {
+      "source_id": "abra_5_44",
+      "id": "abra_5_44",
+      "shared_image": "images/abra_5_44_tbterkial2.png",
+      "original_web_image": "./images/E5/web/eng_5_44_tbterkial2.png"
+    },
+    {
+      "source_id": "abra_5_45",
+      "id": "abra_5_45",
+      "shared_image": "images/abra_5_45_tbterkial3.png",
+      "original_web_image": "./images/E5/web/eng_5_45_tbterkial3.png"
+    },
+    {
+      "source_id": "abra_5_46",
+      "id": "abra_5_46",
+      "shared_image": "images/abra_5_46_tbkulkap.png",
+      "original_web_image": "./images/E5/web/eng_5_46_tbkulkap.png"
+    },
+    {
+      "source_id": "abra_5_47",
+      "id": "abra_5_47",
+      "shared_image": "images/abra_5_47_trlejtmer.png",
+      "original_web_image": "./images/E5/web/eng_5_47_trlejtmer.png"
+    },
+    {
+      "source_id": "abra_5_48",
+      "id": "abra_5_48",
+      "shared_image": "images/abra_5_48_terpeld.png",
+      "original_web_image": "./images/E5/web/eng_5_48_terpeld.png"
+    },
+    {
+      "source_id": "abra_5_49",
+      "id": "abra_5_49",
+      "shared_image": "images/abra_5_49_terszlep.png",
+      "original_web_image": "./images/E5/web/eng_5_49_terszlep.png"
+    },
+    {
+      "source_id": "abra_5_50",
+      "id": "abra_5_50",
+      "shared_image": "images/abra_5_50_terkial.png",
+      "original_web_image": "./images/E5/web/eng_5_50_terkial.png"
+    },
+    {
+      "source_id": "abra_5_51",
+      "id": "abra_5_51",
+      "shared_image": "images/abra_5_51_terhtip.png",
+      "original_web_image": "./images/E5/web/eng_5_51_terhtip.png"
+    },
+    {
+      "source_id": "abra_5_53",
+      "id": "abra_5_53",
+      "shared_image": "images/abra_5_53_tbauramp_m_.png",
+      "original_web_image": "./images/E5/web/eng_5_53_tbauramp_m_.png"
+    },
+    {
+      "source_id": "abra_5_55",
+      "id": "abra_5_55",
+      "shared_image": "images/abra_5_55_melygar_mod.png",
+      "original_web_image": "./images/E5/web/eng_5_55_melygar_mod.png"
+    },
+    {
+      "source_id": "abra_5_52",
+      "id": "abra_5_52",
+      "shared_image": "images/abra_5_52_trmgarazs_m.png",
+      "original_web_image": "./images/E5/web/eng_5_52_trmgarazs_m.png"
+    },
+    {
+      "source_id": "abra_5_56",
+      "id": "abra_5_56",
+      "shared_image": "images/abra_5_56_szemetedeny.png",
+      "original_web_image": "./images/E5/web/eng_5_56_szemetedeny.png"
+    },
+    {
+      "source_id": "abra_5_57",
+      "id": "abra_5_57",
+      "shared_image": "images/abra_5_57_szemetes.png",
+      "original_web_image": "./images/E5/web/eng_5_57_szemetes.png"
+    },
+    {
+      "source_id": "abra_5_58",
+      "id": "abra_5_58",
+      "shared_image": "images/abra_5_58_oslohoablak.png",
+      "original_web_image": "./images/E5/web/eng_5_58_oslohoablak.png"
+    },
+    {
+      "source_id": "abra_5_59",
+      "id": "abra_5_59",
+      "shared_image": "images/abra_5_59_spontan_zoldhoml.png",
+      "original_web_image": "./images/E5/web/eng_5_58_oslohoablak.png"
+    },
+    {
+      "source_id": "abra_5_60",
+      "id": "abra_5_60",
+      "shared_image": "images/abra_5_60_zoldhoml.png",
+      "original_web_image": "./images/E5/web/eng_5_60_zoldhoml.png"
+    },
+    {
+      "source_id": "abra_6_01",
+      "id": "abra_6_01",
+      "shared_image": "images/abra_6_01_tipusud.png",
+      "original_web_image": "./images/E6/web/eng_6_01_tipusud.png"
+    },
+    {
+      "source_id": "abra_6_02",
+      "id": "abra_6_02",
+      "shared_image": "images/abra_6_02_ajnyaralo.png",
+      "original_web_image": "./images/E6/web/eng_6_02_ajnyaralo.png"
+    },
+    {
+      "source_id": "abra_6_04",
+      "id": "abra_6_04",
+      "shared_image": "images/abra_6_04_weeknd1.png",
+      "original_web_image": "./images/E6/web/eng_6_04_weeknd1.png"
+    },
+    {
+      "source_id": "abra_6_05",
+      "id": "abra_6_05",
+      "shared_image": "images/abra_6_05_weeknd2_100as.png",
+      "original_web_image": "./images/E6/web/eng_6_05_weeknd2.png"
+    },
+    {
+      "source_id": "abra_6_06",
+      "id": "abra_6_06",
+      "shared_image": "images/abra_6_06_weeknd3_100as.png",
+      "original_web_image": "./images/E6/web/eng_6_06_weeknd3.png"
+    },
+    {
+      "source_id": "abra_6_07",
+      "id": "abra_6_07",
+      "shared_image": "images/abra_6_07_weekndtlk.png",
+      "original_web_image": "./images/E6/web/eng_6_07_weekndtlk.png"
+    },
+    {
+      "source_id": "abra_6_08",
+      "id": "abra_6_08",
+      "shared_image": "images/abra_6_08_komposztwcmagyar.png",
+      "original_web_image": "./images/E6/web/eng_6_08_komposztwcmagyar.png"
+    },
+    {
+      "source_id": "abra_7_01",
+      "id": "abra_7_01",
+      "shared_image": "images/abra_7_01_statisztika.png",
+      "original_web_image": "./images/E7/web/eng_7_01_statisztika.png"
+    }
+  ],
+  "hungarian_figures_absent_in_english": [
+    "abra_1_18",
+    "abra_1_36",
+    "abra_1_38",
+    "abra_1_39",
+    "abra_1_44",
+    "abra_3_11",
+    "abra_3_22_E5",
+    "abra_3_23_E5",
+    "abra_3_52",
+    "abra_5_19",
+    "abra_6_03"
+  ],
+  "english_only_headings": [
+    {
+      "english_title": "Additional heating assistance",
+      "shared_id": "en-heading-additional-heating-assistance",
+      "shared_with_hu": false
+    },
+    {
+      "english_title": "4.2.2. Hungarian Development",
+      "shared_id": "en-heading-4-2-2-hungarian-development",
+      "shared_with_hu": false
+    },
+    {
+      "english_title": "5.2.1. Hungarian situation since the 1950s",
+      "shared_id": "en-heading-5-2-1-hungarian-situation-since-the-1950s",
+      "shared_with_hu": false
+    }
+  ],
+  "xml_paragraphs": 1339,
+  "xml_notes": 48,
+  "xml_links": 312
+}

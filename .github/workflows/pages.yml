@@ -29,6 +29,9 @@ jobs:
       - name: Build site
         run: python3 build/build.py
 
+      - name: Verify bilingual edition
+        run: python3 build/test_bilingual.py
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:

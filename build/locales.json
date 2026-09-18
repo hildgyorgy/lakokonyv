@@ -1,0 +1,36 @@
+{
+  "hu": {
+    "contents": "Tartalomjegyzék",
+    "description": "Lakóépületek tervezése – digitális tankönyv",
+    "reading_settings": "Olvasási beállítások",
+    "accent": "Kiemelt szín",
+    "burgundy": "BME bordó",
+    "grey": "Középszürke",
+    "faculty": "Építészkar",
+    "red": "Piros",
+    "green": "Zöld",
+    "blue": "Kék",
+    "alignment": "Szöveg igazítása",
+    "left": "BALRA",
+    "justify": "SORKIZÁRT (elválasztással)",
+    "footer": "BME Lakóépülettervezési Tanszék · 2013",
+    "language_label": "Nyelv"
+  },
+  "en": {
+    "contents": "Contents",
+    "description": "Housing design – digital textbook",
+    "reading_settings": "Reading settings",
+    "accent": "Accent colour",
+    "burgundy": "BME burgundy",
+    "grey": "Medium grey",
+    "faculty": "Faculty of Architecture",
+    "red": "Red",
+    "green": "Green",
+    "blue": "Blue",
+    "alignment": "Text alignment",
+    "left": "LEFT",
+    "justify": "JUSTIFIED (with hyphenation)",
+    "footer": "BME Department of Residential Buildings · 2013",
+    "language_label": "Language"
+  }
+}

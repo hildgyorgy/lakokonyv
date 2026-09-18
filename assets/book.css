@@ -125,3 +125,20 @@ code { font-size: .9em; }
   a { color: inherit; text-decoration: none; }
   figure, h1, h2, h3 { break-inside: avoid; }
 }
+
+/* The language control stays in the header on desktop and mobile alike. */
+.site-header { display: flex; align-items: center; justify-content: space-between; gap: 1rem; position: sticky; top: 0; z-index: 10; background: var(--paper); }
+.language-switch { display: flex; align-items: center; gap: .35rem; flex-shrink: 0; font-size: .9rem; }
+.language-switch a { padding: .5rem .35rem; text-decoration: none; color: var(--muted); }
+.language-switch a[aria-current="page"] { color: var(--accent); font-weight: 700; text-decoration: underline; text-underline-offset: .3em; }
+.language-switch a:hover { color: var(--accent); }
+.language-switch a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3, h4, h5, h6, figure[id] { scroll-margin-top: 6rem; }
+@media (min-width: 90rem) {
+  .toc, .reading-controls { top: 6rem; }
+  .toc { max-height: calc(100vh - 7rem); }
+}
+@media (min-width: 50.01rem) and (max-width: 89.99rem) {
+  .sidebar-shell { top: 6rem; max-height: calc(100vh - 7rem); }
+}
+@media print { .site-header, .language-switch { display: none; } }

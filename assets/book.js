@@ -4,6 +4,55 @@
   var toc = document.querySelector(".toc");
   var article = document.querySelector(".book-content");
 
+  var languageData = document.getElementById("language-targets");
+  if (languageData && article) {
+    var languageTargets = JSON.parse(languageData.textContent);
+    var locations = Array.prototype.slice.call(article.querySelectorAll("h1[id], h2[id], h3[id], h4[id], h5[id], h6[id], figure[id]"));
+    var languageLinks = document.querySelectorAll(".language-switch a");
+    var navigationTarget = decodeURIComponent(window.location.hash.slice(1));
+    document.addEventListener("click", function (event) {
+      var anchor = event.target.closest('a[href^="#"]');
+      if (anchor) navigationTarget = decodeURIComponent(anchor.hash.slice(1));
+    });
+    window.addEventListener("hashchange", function () {
+      navigationTarget = decodeURIComponent(window.location.hash.slice(1));
+    });
+    function clearNavigationTarget() { navigationTarget = ""; }
+    window.addEventListener("wheel", clearNavigationTarget, { passive: true });
+    window.addEventListener("touchmove", clearNavigationTarget, { passive: true });
+    window.addEventListener("pointerdown", function (event) {
+      if (!event.target.closest(".language-switch")) clearNavigationTarget();
+    });
+    window.addEventListener("keydown", function (event) {
+      if (["ArrowUp", "ArrowDown", "PageUp", "PageDown", "Home", "End", " "].indexOf(event.key) !== -1) clearNavigationTarget();
+    });
+    function updateLanguageLinks() {
+      var current = "top";
+      var threshold = window.innerHeight * 0.25;
+      locations.forEach(function (element) {
+        if (window.scrollY > 50 && element.getBoundingClientRect().top <= threshold) current = element.id;
+      });
+      if (navigationTarget && languageTargets[navigationTarget]) current = navigationTarget;
+      languageLinks.forEach(function (link) {
+        var ownLanguage = link.dataset.language === document.documentElement.lang;
+        var target = ownLanguage ? current : (languageTargets[current] || "top");
+        link.hash = target === "top" ? "" : target;
+      });
+    }
+    languageLinks.forEach(function (link) {
+      ["pointerdown", "focus", "click", "contextmenu"].forEach(function (event) {
+        link.addEventListener(event, updateLanguageLinks);
+      });
+    });
+  }
+
+  // Direct deep links must settle before the observer opens TOC branches.
+  // Image dimensions supplied by the build keep this position stable.
+  if (window.location.hash) {
+    var initialTarget = document.getElementById(decodeURIComponent(window.location.hash.slice(1)));
+    if (initialTarget) initialTarget.scrollIntoView({ behavior: "instant", block: "start" });
+  }
+
   var picker = document.querySelector(".color-picker");
   if (picker) {
     var storedColor = localStorage.getItem("lakokonyv-accent-color-v2");
