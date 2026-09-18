@@ -58,6 +58,10 @@
     var storedColor = localStorage.getItem("lakokonyv-accent-color-v2");
     if (storedColor && storedColor.toLowerCase() === "#7b3f2a") storedColor = "#a75348";
     var swatches = picker.querySelectorAll(".color-swatch");
+    var storedColorAvailable = Array.prototype.some.call(swatches, function (swatch) {
+      return storedColor && swatch.dataset.color.toLowerCase() === storedColor.toLowerCase();
+    });
+    if (!storedColorAvailable) storedColor = null;
     function setAccent(color) {
       document.documentElement.style.setProperty("--accent", color);
       localStorage.setItem("lakokonyv-accent-color-v2", color);

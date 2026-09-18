@@ -45,9 +45,7 @@ a { color: var(--link); }
 .color-swatch[data-color="#8A2432"] { --swatch-color: #8A2432; }
 .color-swatch[data-color="#777777"] { --swatch-color: #777777; }
 .color-swatch[data-color="#a75348"] { --swatch-color: #a75348; }
-.color-swatch[data-color="#ff0000"] { --swatch-color: #ff0000; }
-.color-swatch[data-color="#00ff00"] { --swatch-color: #00ff00; }
-.color-swatch[data-color="#0000ff"] { --swatch-color: #0000ff; }
+.color-swatch[data-color="#9B6D17"] { --swatch-color: #9B6D17; }
 .color-swatch.is-selected { outline: 2px solid var(--accent); outline-offset: 2px; }
 .alignment-picker { margin-top: 1.25rem; }
 .alignment-picker .color-picker-label { margin-bottom: .55rem; }

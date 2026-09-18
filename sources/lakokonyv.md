@@ -48,7 +48,7 @@ A digitális változat tartalma a környezettudatos építés és az akadálymen
 ---
 
 <a id="E0_bevezetes"></a>
-# BEVEZETÉS
+# Bevezetés
 
 Ez az anyag elsősorban azok számára készült, akik a benne foglalt tudnivalókat gyakorlatban használják fel tervezési tanulmányaik vagy munkájuk folyamán. Az itt közölt ismeretek a lakóépületek tervezéséhez szükségesek, de nem elégségesek. Az építészeti tervezés *alkotói folyamat*, amely csak bizonyos ismeretanyag birtokában végezhető, de a tervező ösztönös értékítéleteit, érzelmeit, ízlését, formaérzékét, fantáziáját és alkotási képességét sem nélkülözheti. Ezek a készségek könyvből nem sajátíthatók el, csak a folyamatos gyakorlat és felkészült oktatóval való személyes együttműködés útján fejleszthetők.
 
@@ -77,7 +77,7 @@ A szerzők köszönetüket fejezik ki mindazoknak, akik a könyv létrehozását
 Budapest,
 
 <a id="E1_lakas"></a>
-# 1. A LAKÁS
+# 1. A lakás
 
 <a id="E1_A_fejezet_temakore"></a>
 ## 1.1 A fejezet témaköre
@@ -1446,7 +1446,7 @@ A látássérültek, hallássérültek és értelmi fogyatékos személyek lakó
 A lakóházak lakáson kívüli tereinek akadálymentes kialakítására az egyes lakóépületfajták tárgyalásánál a későbbi fejezetekben kitérünk.
 
 <a id="Lakokornyezet"></a>
-# 2. A LAKÓKÖRNYEZET
+# 2. A lakókörnyezet
 
 <a id="E2_fejezet_temakore"></a>
 ## 2.1. A fejezet témaköre
@@ -1669,7 +1669,7 @@ Nehéz lenne receptet adni, hogy hol, milyen utcakép indokolt. Ez függ a helyi
 Az építési vonalnak, a homlokzatmagasságok határértékeinek, a tetőforma jellegének és a tetőhajlásszögnek a megkötésén túl az utcaképet hatóságilag szabályozni nemigen szokták. Esetleg a kerítések egységesítése, a homlokzatszínezésnél bizonyos szélsőségek kizárása jöhet szóba. Az egységes, kulturált környezet létrejöttéhez semmivel nem pótolható az építtetők jószándékú meggyőzése, közmegegyezés elérése, de főképpen a tervező építészek szakmai alázata, hogy minden egyes épület tervezésekor a település és az utca meglévő építészeti karakterét tartsák tiszteletben.
 
 <a id="Csaladi_hazak"></a>
-# 3. CSALÁDI HÁZAK
+# 3. Családi házak
 
 <a id="E3_fejezet_temakore"></a>
 ## 3.1. A fejezet témaköre
@@ -2551,7 +2551,7 @@ Használati melegvízkészítésre a fatüzeléses vízmelegítők és korszerű
 Tégla kályhák, tömegkályhák építése kisebb alapterületű, 3-4 helyiségből álló épületek esetében jó megoldás.
 
 <a id="alacsony_beepitesek"></a>
-# 4. AZ ALACSONY, NAGY SŰRŰSÉGŰ BEÉPÍTÉSEK ÉPÜLETTÍPUSAI
+# 4. Az alacsony, nagy sűrűségű beépítések épülettípusai
 
 <a id="E4_fejezet_temakore"></a>
 ## 4.1. A fejezet témaköre
@@ -3141,7 +3141,7 @@ Kétszintes sorházaknál újabban gyakran láthatók kétszintes napterek ([4.3
 Új építészeti eszközt jelent a lakásegységek megközelítését szolgáló, naptérként is funkcionáló, üveggel fedett tér. Ez a lakóközösség kommunikációs fóruma is egyben ([4.37.c. ábra](#abra_4_37)). Valószínű, hogy az elkövetkező időszakban a fokozottan energiatudatos tervezői megközelítés teljesen újszerű formákat is kifejleszt az alacsony, nagy sűrűségű beépítések körében.
 
 <a id="tobbszintes_tobblakasos"></a>
-# 5. TÖBBSZINTES, TÖBBLAKÁSOS LAKÓÉPÜLETEK
+# 5. Többszintes, többlakásos lakóépületek
 
 <a id="E5_fejezet_temakore"></a>
 ## 5.1. A fejezet témaköre
@@ -4172,7 +4172,7 @@ A spontán módon kialakult zöldhomlokzatok (borostyánnal, repkénnyel befutta
 A zöldhomlokzatok tudatos alkalmazásával az utóbbi időben új eszközzel gazdagodott az építészeti tervezés kelléktára: vannak olyan példák, ahol a növényanyag különböző színeinek megválasztásával festői kompozíciót hoznak létre nagy kiterjedésű élőfalakon. Ilyenkor a botanikai ismeretekkel rendelkező kertészeti szakember nemcsak az épület környezetének kialakításához, hanem magának az épületnek a megtervezéséhez is nélkülözhetetlenné válik.
 
 <a id="Hetvegi_hazak"></a>
-# 6. HÉTVÉGI HÁZAK, NYARALÓK
+# 6. Hétvégi házak, nyaralók
 
 <a id="E6_fejezet_temakore"></a>
 ## 6.1. A fejezet témaköre
@@ -4336,7 +4336,7 @@ Az alomszékek, száraz toalettek megfelelőségének egyik legfontosabb kritér
 A hétvégi házban, nyaralóban a kikapcsolódást az aktív időtöltés is segíti. A fenti alternatív megoldások ösztönöznek a kreatív hozzáállásra, amely által az „ökológiai lábnyom” is csökkenthető.
 
 <a id="LAKASALLOMANY"></a>
-# 7. A LAKÁSÁLLOMÁNY FENNTARTÁSA ÉS FEJLESZTÉSE
+# 7. A lakásállomány fenntartása és fejlesztése
 
 <a id="E7_lakohazak_fenntartasa"></a>
 ## 7.1. A lakóházak fenntartása

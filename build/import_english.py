@@ -195,7 +195,7 @@ def main():
                 continue
             title = norm(''.join(element.find('title').itertext()))
             if element.tag == 'preface':
-                ident = headings['BEVEZETÉS']
+                ident = headings['Bevezetés']
             elif element.tag == 'chapter':
                 ident = headings[str(chapter_no)]
             else:
