@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE book PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN"
+                      "http://www.docbook.org/xml/4.5/docbookx.dtd"
+[ <!ENTITY % xinclude SYSTEM "http://www.docbook.org/xml/4.4/xinclude.mod">
+%xinclude;
+]>
+<book lang="en">
+<title>Housing design</title>
+
+	  <bookinfo>
+	    <title>Housing design</title>
+
+	<authorgroup>
+	      <author>
+	         <surname>János</surname>
+	         <firstname>Bitó</firstname>
+	        <affiliation>
+	         <shortaffil>author</shortaffil>
+	              <jobtitle>egyetemi docens</jobtitle>
+	              <orgname>BUTE Department of Residential Buildings</orgname>
+			</affiliation>
+		</author>
+	</authorgroup>
+
+	<authorgroup>
+		<author>
+			<surname>András</surname>
+			<firstname>Pandula</firstname>
+			<affiliation>
+			 <shortaffil>akadálymentesítési szövegekben munkatárs</shortaffil>
+			</affiliation>
+		</author>
+		<author>
+			<surname>Ágnes</surname>
+			<firstname>Novák</firstname>
+				<affiliation>
+					<shortaffil>fenntarthatóságról szóló szövegekben munkatárs</shortaffil>
+				</affiliation>
+		</author>
+		<author>
+			<surname>Sales</surname>
+			<firstname>Oliver</firstname>
+				<affiliation>
+					<shortaffil>fordította</shortaffil>
+				</affiliation>
+		</author>
+	</authorgroup>
+	<affiliation>
+	       <address>
+	          <otheraddr>3-9.</otheraddr>
+	          <street>Műegyetem rakpart</street>
+	          <city>Budapest</city>
+	          <postcode>1111</postcode>
+	          <country>Magyarország</country>
+	       </address>
+	</affiliation>
+
+	<edition>1.</edition>
+	<pubdate>2013</pubdate>
+<copyright>
+	<year>2013</year>
+	<holder>Budapest University of Technology and Economics, Department of Residential Buildings</holder>
+<holder>The curriculum development of the BME Department of Residential Building Design was implemented under the preject TÁMOP-4.1.2.A/1-11/1-2011-0055.</holder>
+<holder>
+	<inlinemediaobject>
+	<imageobject>
+	<imagedata scalefit="1" width="2in" fileref="images/Infoblokk3_ESZA_egyes.jpg"/>
+	</imageobject>
+	<textobject>
+	<phrase>Nemzeti Fejlesztési Ügynökség</phrase>
+	</textobject>
+	</inlinemediaobject>
+</holder>
+<holder>
+	<inlinemediaobject>
+	<imageobject>
+	<imagedata scalefit="1" width="32mm" fileref="images/Lako_tanszek.png"/>
+	</imageobject>
+	<textobject>
+	<phrase>Department of Residential Buildings</phrase>
+	</textobject>
+	</inlinemediaobject>
+</holder>
+<holder>
+	<inlinemediaobject>
+	<imageobject>
+	<imagedata scalefit="1" width="2in" fileref="images/USZT_logo_cmyk.jpg"/>
+	</imageobject>
+	<textobject>
+	<phrase>Új Széchenyi Terv</phrase>
+	</textobject>
+	</inlinemediaobject>
+</holder>
+</copyright>
+<legalnotice>
+	      <para>The majority of material published within has been revised and expanded from a previous book by János Bitó entitled Lakóházak Tervezése, copyrighted 2004, János Bitó and B+V lap és Könvykiadó Kft.</para>
+	    </legalnotice>
+	    <biblioid>ISBN XXX XXX XXX X</biblioid>
+	    <keywordset>
+	      <keyword>design</keyword>
+	      <keyword>architecture</keyword>
+	      <keyword>residental building</keyword>
+	    </keywordset>
+		<abstract>
+<para>This material is primarily for those who will use this knowledge in the course of their studies and while practicing design work. While the information contained here is enough to assist in the design of residential buildings, it is not does cover everything. The creative architectural design process should also include a certain knowledge and an innate judgment of values and emotions, a sense of taste and imagination. These skills can not be mastered with a single book. Development is best achieved through personal experience and continuous cooperation with skilled tutors.</para>
+		</abstract>
+	</bookinfo>
+
+<xi:include href="00_introduction.xml"/>
+<xi:include href="01_the_home.xml"/>
+<xi:include href="02_residential.xml"/>
+<xi:include href="03_Family.xml"/>
+<xi:include href="04_lowrise.xml"/>
+<xi:include href="05_multiStory.xml"/>
+<xi:include href="06_weekend.xml"/>
+<xi:include href="07_development.xml"/>
+</book>

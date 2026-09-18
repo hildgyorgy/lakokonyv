@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+<chapter id="MultiStory">
+	<title>Multi-story, Multi-unit Housing</title>
+
+
+<sect1>
+	<title>5.1. Preface</title>
+
+	<para>In the chapter title, &quot;multi-story&quot; refers to buildings that are a minimum of one level without limit to how many upper floor levels. Previously, discussion covered issues of buildings height. This chapter describes what might be classified as middle- to high-rise buildings, where the top floor level defines actual height.</para>
+
+	<para>Previous chapters have discussed other house categories that in some terms overlap with this theme. Double-story row houses can occupy one site. Here we take a look at multi-unit buildings that are usually accessed by a common hallway, staircases and corridors. Also discussed in this chapter are row houses and how they are placed on a site – the difference being that these house types are not accessed individually, but by various types of enclosed circulation spaces.</para>
+
+	<para>Unlike individual family homes, these buildings have a higher build density and vary greatly in their range of build ratios. Build density spans from 2- to 3-story buildings, 2- to 12-unit urban villas or even 10- to 15-story metropolitan housing schemes.</para>
+
+	<para>The name &quot;urban villa&quot; refers to free-standing buildings, usually in green suburbs, between 2-and 4-story in size, previously described as &quot;apartment buildings&quot;. Apartment buildings, as well as condominiums, used to refer to ownership status or building size. Now these developments could even be mid-rise buildings accommodating multiple apartments. Internationally, literature now refers to this form of housing development as &quot;urban villas&quot;, or the German &quot;Stadtvilla&quot;.</para>
+
+	<para>Multi-story, multi-unit buildings suit a large range of home types – from smaller, one-bedroom studio flats all the way to larger luxury apartments. Social factors also affect the development type. Low income residents might rent social housing, while green suburb apartments might be privately owned by more wealthy members of society.</para>
+
+</sect1>
+
+
+<sect1>
+	<title>5.2. Historical overview</title>
+
+	<para>Multi-unit apartment buildings started to spread through Europe in the late 19th century due to the industrial revolution. In just decades, the growth of factories in cities attracted mass populations of workers. Development of tenement buildings guaranteed strong equity investments.</para>
+
+	<para>Following the Austro-Hungarian Compromise of 1867 and the unification of Buda, Pest and Óbuda, it only took a few decades to establish a new metropolis. It was this era that determined Budapest's current architectural appearance. Older buildings were demolished to make way for newer subdivisions and the subsequent development of newer tenements. Even today, the extent of redevelopment can be seen on the outskirts of Józsefváros or Ferencváros, where some of the original single- and double-story homes remain. They were later replaced by taller buildings enclosing courtyards on two or four sides. (<link linkend="abra_5_01">fig 5.1</link>) Due to housing demand, low incomes and high rent, most of these apartments were relatively small. Wealthier residents (traders and senior officials) sought larger and better homes, which is also reflected in the building plans. The resulting inner courtyard was allocated to smaller, often single-room homes accessed by external walkway; meanwhile, wealthier people could afford the larger, more comfortable homes on the street side. (<link linkend="abra_5_02">fig. 5.2</link>) These buildings, developed in closed rows, created a special type of courtyard development. The larger, more comfortable homes had their own private bathrooms, while the smaller apartments shared toilet blocks, often found at the end of corridors. The smaller, single-room apartments often provided shelter for families of 6-8 members. More and more palatial homes took over the front part of the building, often resulting in a lack of quality daylight for those living on the lower floors or at the rear of the courtyard. Similar developments occurred throughout Europe and North America, even though building types varied a little.</para>
+
+<para><figure id="abra_5_01"><title>
+Pest tenement development from the XIX century
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_01_berhazf.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_01_berhazf.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Pest tenement development from the XIX century
+</phrase></textobject>
+</mediaobject>
+</figure>
+
+<figure id="abra_5_02"><title>
+Typical tenement development in Erzsébetváros at turn of XIX–XX centuries
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_02_berhazalap.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_02_berhazalap.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Typical tenement development in Erzsébetváros at turn of XIX–XX centuries
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>After the First World War, new housing types emerged in Europe thanks to German inspiration. After losing the war, extreme inflation led to a disastrous economic situation where members of the working classes could not afford cooperatives. To alleviate this problem, the social-democratic Weimar government sought foreign investment loans. With these loans, housing estates of homes for low-income families were built on an unprecedented scale: two million housing units in a decade. To achieve this, a pragmatic approach to design was required to fulfill housing market needs. The Neue Sachlichkeit (New Objectivity) attitude was adopted. It required simplicity of building materials, low costs and pre-manufactured components. Local government tailored them to low incomes and rents which did not fit the majority’s housing market needs. Theoretically, they had to decide whether these homes complied in terms of purpose and function. For this end, a normative approach was needed to measure home requirements in terms of occupancy, meaning beds per home. The theoretical work that followed resulted in a purposeful development of dimensions and spatial needs to provide homes on a minimum footprint. (<link linkend="abra_5_03">fig. 5.3</link>) The &quot;form follows function&quot; principal was established both as architectural and artistic movements (Functionalism). The modern avant-garde of the Weimar republic was consequently established at the Bauhaus School of Art, as well as creative workshops under the spiritual guidance of Walter Gropius.</para>
+
+<para><figure id="abra_5_03"><title>
+Home plan experiments for tenements in the "Minimalwohnung" style, 1930. (a.): Duplex arrangement by H. Härig; (b.): Corridor access arrangement by W.Gropius
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_03_minimalw.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_03_minimalw.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Home plan experiments for tenements in the "Minimalwohnung" style, 1930. (a.): Duplex arrangement by H. Härig; (b.): Corridor access arrangement by W.Gropius
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>During this period, prominent architects (Walter Gropius included) designed Berlin's &quot;Siemensstadt&quot; housing development (<link linkend="abra_5_04">fig. 5.4</link>), following the functionalist manifesto for home design (1929). These homes were planned on a strict north-south axis, in parallel rows, providing good daylight and ventilation. These buildings were comprised of two bedroom apartments accessed by a common stair and corridor. The buildings were placed at sufficient intervals to allow daylight even at lower levels, explored in diagrams for buildings of differing heights. (<link linkend="abra_5_05">fig 5.5</link>) To do this, the traditional urban fabric was sacrificed to create cleanliness, resulting in the adoption of monotony, with developments simply known as &quot;Siedlung&quot; or settlement.</para>
+
+<para><figure id="abra_5_04"><title>
+Berlin-Siemensstadt housing estate schematic. 1929. Walter Gropius
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_04_gropius.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_04_gropius.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Berlin-Siemensstadt housing estate schematic. 1929. Walter Gropius
+</phrase></textobject>
+</mediaobject>
+</figure>
+
+<figure id="abra_5_05"><title>
+Walter Gropius schematic for daylighting in regard to building height and site requirements. 1928–31
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_05_gropiussema.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_05_gropiussema.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Walter Gropius schematic for daylighting in regard to building height and site requirements. 1928–31
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>In Vienna, a &quot;superblock&quot; system was established, bounded on four sides by streets of undivided blocks. Here buildings surrounded one or many courtyards accessed by a frame-like network. This was later developed to increase good ventilation, remove problematic corner flats and open up accessibility. (<link linkend="abra_5_07">fig. 5.7</link>)</para>
+
+<para><figure id="abra_5_07"><title>
+Development of multi-unit housing in the early XX century
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_07_beepfejlds.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_07_beepfejlds.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Development of multi-unit housing in the early XX century
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Modern architectural theory spread on a worldwide basis. In 1928, CIAM (Congress Internationaux d'Architecture Modern) was established as an international organization of architects. The Hungarian representative was a former employee of Walter Gropius, Farkas Molnár. Due to Hungary’s having a different economic situation from that in Germany, large housing developments did not occur between the two world wars. A smaller development of linear buildings comprising 818 housing units was established on Budapest's Pongrácz Road (1939-4). The Hungarian Modern Movement was relatively small, but did result in the development of high-quality buildings.</para>
+
+	<para>Locally, Western European ideas regarding healthier living started to develop. Although courtyard developments were not halted until the 1940s, tax incentives were offered to develop only on the street side within a 13-15 m build zone. (<link linkend="abra_5_07">fig. 5.7</link>) The plots were connected by gardens, separated only by fencing, and provided homes with adequate daylight even to rear-facing rooms. From the 30s onward, multi-unit developments occurred where most buildings had two or three apartments accessed via a central core stairwell. Even though the depth of 13-15 m should have been adequate to provide well-lit rooms in each apartment, developers often created a windowless room in the heart of the apartment known as the hall. (<link linkend="abra_5_06">fig. 5.6</link>) This hall was not included for functional reasons. It was included to increase the number of rooms per home, so rent rates could also be raised. Following the First World War, many condominiums were built for private ownership and not for the rental market. To assist in this, a newer homogeneous dwelling form and more single-core buildings were designed.</para>
+
+<para><figure id="abra_5_06"><title>
+Budapest apartment types in the thirties and forties (after Iván Kotsis)
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_06_hallos.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_06_hallos.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Budapest apartment types in the thirties and forties (after Iván Kotsis)
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Following the Second World War, the main task for Europe was to rebuild housing stock from ruins. Until the 50s, Hungarian development progressed at the same rate as the rest of Europe. This was halted when the Soviet Union enforced the &quot;Social Realism&quot; school of thought in 1951, drawing a line which ended any hope of continued architectural unity.</para>
+
+	<para>Universal architecture was greatly influenced by the &quot;Unité d'Habitation&quot; (1947-1952) in Marseilles, designed by Le Corbusier, even as an urban experiment. (Le Corbusier, together with Gropius, developed plans for buildings more than 10 stories in height at the CIAM congress of 1930.) The 12-story building contained 23 housing types, totaling 336 units, following specific spatial arrangements. The development contained the equivalent of a small village in its structure. The corridors, which Le Corbusier called streets, housed shops, restaurants and service facilities on different floors. The top floor contained a kindergarten. More than one thousand tenants could occupy the same area as 30 traditional homes. This allowed for more green areas to remain undeveloped. &quot;Machine for Living&quot; was the title applied to this building as it floated like a cruise ship above the ground level, the ground floor not being used for occupancy. This building stood on legs to allow for green areas to exist below the building, following Le Corbusier's theories. (Although this building has been beautifully restored, it demonstrates one of the architect’s omissions. Now the &quot;natural green&quot; area is a crowded car park.) Another &quot;Unité&quot; – namely, the “Interbau” – was developed in West Berlin in 1957. This was the location for an exhibition of international housing by prominent architects.</para>
+
+	<para>In the late 40s, mass construction of prefabricated housing began. While &quot;Siedlung&quot; framed-system housing (high-rises) varied somewhat, it was very similar in character and residential patterns. (<link linkend="abra_5_09">fig. 5.9</link>) In the early 60s, fragmented, cross-formed plans developed in an attempt to create a richer architectural environment. To create urban diversity, attempts were made to mingle low-rise, high-density buildings with multi-story developments. A well-recognized example was the &quot;Toulouse le Miraille&quot; housing estate by Candilis, Josic and Woods. (<link linkend="abra_5_10">fig. 5.10</link>) These experiments in housing did not result in any substantial breakthroughs, the most significant trait being a demonstration of product-oriented mass housing.</para>
+
+<para><figure id="abra_5_09"><title>
+Roehampton Housing Estate. England. 1951
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_09_roehampton.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_09_roehampton.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Roehampton Housing Estate. England. 1951
+</phrase></textobject>
+</mediaobject>
+</figure>
+
+<figure id="abra_5_10"><title>
+Toulouse de Mirail. Detail from location plan. Candilis, Josic and Woods. 1961
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_10_candilis.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_10_candilis.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Toulouse de Mirail. Detail from location plan. Candilis, Josic and Woods. 1961
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>In the 60s, professional interest turned to a new type of terraced housing. Although housing of this type had been developed in 1936 by the Finnish architect Alvar Alto, it took nearly 30 years for the idea to catch on, mostly on hillside developments throughout Germany and Switzerland. As building land costs increased, sloping sites, previously considered undevelopable, became an attractive development alternative. Large-scale quality terraced housing developments appeared. (<link linkend="abra_5_11">fig. 5.11</link>) This type of home was so popular at the time that similar developments occurred on flat sites. (<link linkend="abra_5_12">fig. 5.12</link>) One source of inspiration was the Japanese &quot;Metabolism&quot; movement. This involved two parts: first, the fixed structure; second, housing units that could be interchangeable from time to time as required. Large-scale &quot;artificial residential hills&quot; were developed (<link linkend="abra_5_13">fig. 5.13</link>), but this trend did not spread significantly. Towards the end of the 60s professional interest in this type of terraced housing declined, even though some smaller examples continued to emerge from time to time.</para>
+
+<para><figure id="abra_5_11"><title>
+Terrace housing. Neustadt/Waiblingen 1972. H. Kammer, W. Belz
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_11_teraszhaz.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_11_teraszhaz.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Terrace housing. Neustadt/Waiblingen 1972. H. Kammer, W. Belz
+</phrase></textobject>
+</mediaobject>
+</figure>
+
+<figure id="abra_5_12"><title>
+Hill like housing group. Copenhagen 1973-75. Svend Hogsbro
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_12_dombhaz.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_12_dombhaz.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Hill like housing group. Copenhagen 1973-75. Svend Hogsbro
+</phrase></textobject>
+</mediaobject>
+</figure>
+
+<figure id="abra_5_13"><title>
+Megastructure housing. London-Bloomsbury 1962-72. Hodgkinson, L. Martin
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_13_lakodomb.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_13_lakodomb.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Megastructure housing. London-Bloomsbury 1962-72. Hodgkinson, L. Martin
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>In the 80s, the previously dynamic pace of mass housing development drastically fell. In more developed countries, signs of overdevelopment occurred. Housing in the 50s and 60s suffered from social problems (often immigrant populations), especially amongst poorer citizens. Some of these estates were subsequently demolished. Extensive development of estates for thousands of residents virtually ceased to exist, while newer developments occurred on a smaller scale on previously freed-up locations within the city’s existing urban fabric.</para>
+
+	<para>From the late 70s, &quot;postmodern&quot; movements succeeded modernism, often employing traditional architectural themes. Traditional urban elements (streetscape), according to Aldo Rossi’s &quot;The Architecture of the City&quot; and Rob Krier's study &quot;Urban Space&quot;, had a great impact. Postmodernism embraced classicism with a preference for traditional architectural forms as part of a rejection of modern theories. (<link linkend="abra_5_14">fig. 5.14</link>) The architecture of this era was once again demonstrated in Berlin, in 1987, where dominant architects of the time (Hans Hollein, Rob Krier, Aldo Rossi, James Stirling, Charles Moore, Robert Stern and others) each designed different buildings. These newer quality developments occupied vacant urban sites in the form of &quot;urban villas&quot; such as those found on Rauchstrasse in place of the now forgotten boxes. (<link linkend="abra_5_12">fig. 5.12</link>) </para>
+
+<para><figure id="abra_5_14"><title>
+Multi-unit villa (Stadtvilla).Berlin, Rauchstrasse. Rob Krier 1987
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_14_rauchstrasse.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_14_rauchstrasse.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Multi-unit villa (Stadtvilla).Berlin, Rauchstrasse. Rob Krier 1987
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Meanwhile, major architectural personalities found their own paths. The notable French architect Jean Nouvel declared that buildings do not follow any one style, as demonstrated with his social housing project in Nimes, in 1987. (<link linkend="abra_5_16">fig. 5.16</link>) He denied that economic restrictions called for a reduction in home sizes and proposed that savings could be made by reducing the cost of individual building elements ands structures. This was proven with the use of structures previously only used in industrial buildings – e.g., large expanses of windows and open spaces within the home that could be adapted to serve as required. Despite the fact that individual apartments had standard interior furnishings, the building as a whole set a milestone for 20th century residential building design. </para>
+
+<para><figure id="abra_5_16"><title>
+Social housing rental apartments. Nimes, France. Jean Nouvel, Jean-Marc Ibos 1987
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_16_Nouvel.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_16_Nouvel.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Social housing rental apartments. Nimes, France. Jean Nouvel, Jean-Marc Ibos 1987
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>More recent residential developments show a proper respect for the individual architect’s freedom. The widely accepted &quot;postmodern&quot; movement has faded, to be replaced by &quot;neo-modernism&quot; which adapts stylistic features of modernism without the need to adhere to ideological content. Nearly every decade of the 20th century saw a new architectural trend that later paled in significance to make way for newer ideas. Still, the innovations have become part of the paraphernalia of contemporary architecture.</para>
+
+
+<sect2>
+	<title>5.2.1. Hungarian situation since the 1950s</title>
+
+	<para>In the first half of the 1950s, an aggressive demand for multi-level, multi-unit homes arose to fulfill the needs of new &quot;Socialist&quot; heavy industry-orientated cities (Dunaújváros, Kazincbarcika, Tatbánya, etc.). Traditional construction technology was used to build small, modest state-owned rental homes that expressed &quot;Socialist Realism&quot; via richly decorative exteriors in contradiction with poor interior content. These developments can be seen and recognized even now for their town-planning fabric, streets and grandiose alleyways – the latter, in fact, being the most valuable asset.</para>
+
+	<para>These developments of multi-storey, multi-unit homes could only have come into existence with government approval. (Little opportunity was given to small construction companies and local town councils.) Development of mass housing was an integral part of the central governing mechanism.</para>
+
+	<para>In the 60s, an ambitious government program to build one million homes over 15 years was initiated. As the labor requirement to achieve this could not be met, it was decided to build prefabricated system housing. Over the next twenty years, development of large &quot;blocks&quot; dominated Hungarian building technology. Originally, the French (Camus) prefabricated system was adopted by the Soviet Union for local use. Later factories were established in Budapest and other large cities, resulting in some 40,000 housing units being built with industrial technology.</para>
+
+	<para>Since a market economy did not exist, normal financial resources had to be regulated. This meant that a normal, publicly-funded home was restricted to 48 m², later increased to 53 m² (<link linkend="abra_5_17">fig. 5.17</link>) This is why most homes, even now, are in the majority of cases 53 m², two-bedroom apartments found in blocks of flats. Implementation of this development program was institutionalized and did not take into account anything asked for by potential residents. To achieve manufacturing efficiency, a smaller amount of variation in home types was adopted for construction on concentrated regional developments. This led to the monstrous development of ten-story-high linear housing blocks.</para>
+
+<para><figure id="abra_5_17"><title>
+Multi-unit housing. Oslo. Norway. Per Kr. Monsen Arkitektkontoret GASA AS
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_17_osloi_haz.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_17_osloi_haz.jpg" format="JPG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Multi-unit housing. Oslo. Norway. Per Kr. Monsen Arkitektkontoret GASA AS
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Housing estate homes were originally state-owned for rental purposes. Later on, residents gained sufficient financial strength to buy homes under cooperative ownership schemes. Still later, OTP bank developed housing schemes as a form of investment. In the 80s, more homes were built by private investors. Previously. most homes were based upon a structural span of 3.60 m. This was increased to a more generous 5.40 m span, while the number of stories was reduced. Homes built under this later system (which can be found in the Kaszásdűlő development, on Pók Street and in Római-fürdő) are still desirable homes on the housing market. Then, the political situation changed, which caused a crisis, the failure of state-owned housing enterprises and a decline in their respective technological backgrounds. </para>
+
+
+	<para>During the same period, many smaller multi-story, multi-unit buildings were developed. These are mostly found on well-situated urban sites, such as the Buda Hills, and usually spontaneously developed as smaller condominiums. At this time, developers of questionable legality built these homes to almost &quot;do it yourself&quot; standards, and the entrepreneurial aspect often formed part of the &quot;black&quot; or untraceable illegal economy. From the 60s onwards, as investors had more income, homes became more comfortable, demonstrating higher quality design and architectural standards. These homes even followed Western European ideals, mostly terraced on the hillsides in the 70s and usually built as co-ownership schemes on individual sites. Developments had to be built by groups of individuals wishing to build new homes without applying for housing initiative funding. Private development firms could not build at all, since they were prohibited by the state.</para>
+
+	<para>The urban fabric of most cities was not suited to the development of prefabricated housing schemes; therefore, large areas of existing cities were demolished (e.g., Budapest's Józsefváros and parts of Székesfehérvár and Debrecen). In some more fortunate cases, vacant sites were developed, usually by OTP Bank, as part of condominium schemes (in Zalaegerszeg, Szeged and Budapest's Viziváros). The latter were usually designed by prominent architects working for state-owned, council design studios. Towards the end of the 80s, rehabilitation of older neighborhoods started to gain investment support. (<link linkend="abra_5_18">fig. 5.18</link>) The rental housing process halted, and housing was privatized under co-ownership schemes. The following rehabilitation did not cover whole districts, but occurred in smaller steps, often on single sites, thus forestalling any chance for a unified upgrade of the residential environment. Instead, individual opportunities arose – for example, more buildings could have larger green areas, more homes could be developed on each site, and large underground parking garages could be provided.</para>
+
+<para><figure id="abra_5_18"><title>
+Typical housing units (furnishing arrangements) from the sixties by BHK I system house factory
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_18_hazgyar.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_18_hazgyar.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Typical housing units (furnishing arrangements) from the sixties by BHK I system house factory
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>In the 90s, the pace of construction in terms of multi-story, multi-unit housing fell drastically. Apartment buildings become subject to free-market economic activity. Two areas of potential interest remain for those wishing to invest in multi-story, multi-unit housing developments: first, the urban infill of vacant sites; and second, &quot;green field, gated community&quot; developments. Sites in the city center are best suited to single-room or one-bedroom apartments (market demand being limiting those who can afford more). The more affluent prefer newer housing estates. From the millennium onwards, trends indicate that more and more families would prefer to live in multi-storey, multi-unit housing on account of financial standing.</para>
+
+<note>
+	<title><emphasis>New world trends in sustainability (AN).</emphasis></title>
+
+	<para><emphasis>Multi-unit housing is now required to promote sustainability. Building design – urban developments – often seek mixed-use types (residential and service providers in the interest of economics), apartments of different sizes and adaptability, without segregating owner occupants from rental occupants. Many developments, usually urban, call for car-free zones as a question of lifestyle.</emphasis></para>
+
+	<para><emphasis>Energy loss in multi-unit housing can be reduced by the choice of structure, and correct orientation can allow for positive solar gains that can assist in the production of heating, hot water supply and electricity generation if  mechanical engineering solutions and storage are provided.</emphasis></para>
+
+	<para><emphasis><link linkend="abra_5_17">Figure 5.17</link> shows a multi-unit building development in Oslo that was specifically designed to take advantage of solar energy in the urban environment.</emphasis></para>
+
+	<para><emphasis>Typically, a combination of active solar (solar panels) and passive solar (solar rooms) technology helps. This may include placing panels on south-facing roofs, using energy for below-floor heating, well-insulated north walls, flat roofs converted into green roofs, the use of environmentally friendly reusable or recycled materials, selective waste disposal, reduced water consumption, grey water purification for use in gardens, as well as rain water harvesting.</emphasis></para>
+</note>
+</sect2>
+
+</sect1>
+
+<sect1>
+	<title>5.3. Multi-storey, multi-unit housing site use</title>
+
+	<para>The national building code OTÉK states that multi-story, multi-unit housing can placed on a site in many ways – as a free-standing building, against the site boundary, semi-detached or in rows. However, locating them along the site boundary is not recommended, since this not best suit them.</para>
+
+	<para>Apart from special instances, they are not recommended as smaller apartment building developments or semi-detached buildings, especially when preparing town-planning master plans.</para>
+
+	<para>The most favorable method for development of multi-story, multi-unit housing is that of free-standing buildings.</para>
+
+	<para>Sites allocated for construction of free-standing multi-story, multi-unit buildings can be for a single development (individual plot) or for a group of buildings on a larger site (block plot).</para>
+
+	<para>When developed in rows, multi-story, multi-unit buildings usually form part of the existing urban fabric; or, in situations where new plots are established, this is solely with the intent of developing one building.</para>
+
+	<para>Current regulations are not flexible enough to cover the full range of potential opportunities for developing multi-story, multi-unit housing. It is difficult to regulate developments where a single building might incorporate several interior courtyards. (<link linkend="abra_5_15">fig. 5.15</link>) This type of development is &quot;free-standing&quot;, but cannot really be labeled as row housing and does not connect to neighboring sites at the boundary. Still, the site is common to all development contained within.</para>
+
+<para><figure id="abra_5_15"><title>
+Residential block. Berlin, Ritterstrasse-Nord 1982-88
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_15_ritterstr.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_15_ritterstr.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Residential block. Berlin, Ritterstrasse-Nord 1982-88
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Chapter 3 examined town planning and zoning in terms of possible site use in more detail.</para>
+
+	<para>It is important to note that each dwelling should be provided with one car parking space, and this should be within the site boundary.</para>
+
+	<para>Current OTÉK regulations call for build-ratios that vary depending upon location – major urban, rural town and suburban, for example. Rural town and suburban sites usually allow for a build-ratio of 0.6, while the ratio is 1.5 for urban sites. In addition to the latter figure, underground car parking garages may be included. </para>
+
+
+	<para>Regarding larger urban developments, a build ratio of 3.0 will be allowed, and underground car parking facilities (often multi-story car parking) must be provided.</para>
+
+</sect1>
+
+
+<sect1>
+	<title>5.4. Story numbers and height classifications</title>
+
+	<para>Multi-story, multi-unit housing covers a wide range of building size from double-story to skyscraper levels. As the amount of floors built upon increases, the same increment is applied to the build ratio. This, in principal, affects the economics of land area in relationship to build area. In reality, however, this is too idealistic. Due to technological requirements, significant changes occur by leaps and bounds at given building’s heights.</para>
+
+	<para>Height is often limited to a &quot;lift limit&quot;. This is the point at which it is not economical to build  and operate lifts in relation to the square meters residential space provided.</para>
+
+	<para>Car parking facilities can also have a significant impact on construction costs. Parking garages are not directly related in size to a building’s height or build ratio. While experience shows that a building with a build ratio of 1.5 (see previous section) will be 4- 5 stories in height depending upon the site’s area; this, in turn, will require underground car parking facilities.</para>
+
+	<para>Over certain height limits, fire regulations become more stringent. (The following gives an indication of standards required. When designing a building the current fire codes in effect must be adhered to.)</para>
+
+
+
+
+
+<itemizedlist>
+	<title>Accordingly …</title>
+
+	<listitem><para>Mid-size buildings are those that have an upper floor level found between 13.65-30.00 meters.</para></listitem>
+
+	<listitem><para>High-rise buildings are those that have upper floor levels higher than 30.00 meters.</para></listitem>
+</itemizedlist>
+
+
+
+	<para>A building’s height is measured from the level of floors found outside the building’s main entrance. Unoccupied roof space and attics should also be included in works requiring fire prevention measures if larger than 25% of the site area.</para>
+
+<para>	</para>
+
+	<para>The building should be constructed in such a way as to allow for safe egress in case of fire. This can be calculated and is usually measured in classes.</para>
+
+	<para>&quot;Fire classes&quot; refer to points within a building or its surrounding environment that can be isolated in times of fire, the time it takes to evacuate these spaces and the degree of separation required, especially when fireproofing structures. (Fire prevention can be achieved through the placement of &quot;fire doors&quot;.)</para>
+
+ 
+
+
+<itemizedlist>
+	<title>Mid-size buildings…</title>
+
+	<listitem><para>For mid-size buildings of up to four stories, an enclosed (but not air-tight) staircase can be established to act as evacuation route for smoke and heat. </para></listitem>
+
+	<listitem><para>At each level, the staircase must be provided with a smoke-free area to allow smoke free egress from the building.</para></listitem>
+
+	<listitem><para>In situations where a building has more than one fire zone per floor, an escape stairway must be provided that is accessible via smoke free areas. This must be naturally ventilated or, in cases where enclosed staircases are used, kept smoke-free by mechanical ventilation equipment.</para></listitem>
+
+	<listitem><para>If several staircases are to be provided, one must be designated as a smoke-free exit route.</para></listitem>
+</itemizedlist>
+
+	<para>High-rise buildings enter a fire class that is extremely complex and thus not practical to describe in this publication. It is important to consider that these buildings require complex structural and mechanical engineering solutions that greatly raise the cost of development.</para>
+
+	<para>It is best to avoid high-rise buildings when considering residential developments for reasons of cost unless it is intended to create an air of prestige, as seen in a few examples in Hungary.</para>
+
+</sect1>
+
+
+<sect1>
+	<title>5.5. Structural design factors</title>
+
+
+<sect2>
+	<title>5.5.1. Structural systems</title>
+
+	<para>This category of buildings has many systems for construction, nearly all applied in the age of the mass housing boom. This publication is not larger enough to even cover all the basic concepts. Here we discuss the main &quot;traditional&quot; systems to assist in the preparation of sketch design schemes.</para>
+
+	<para>Vertical load can be carried by load-bearing walls or columns.</para>
+
+	<para>Ceramic based (brick or block) load-bearing walls are best suited to lower level buildings (3- to 4-story). Particular attention should be paid to detailing openings in walls, pillars, the sizing of walls at lower levels, thermal insulation and the load-bearing capability of porous materials which are much weaker than solid bricks. Load-bearing walls can also be of reinforced concrete. These load-bearing walls can be placed longitudinally or as cross walls. (<link linkend="abra_5_21">fig. 5.21</link>)</para>
+
+<para><figure id="abra_5_21"><title>
+Typical structural arrangement of multi-storey housing
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_21_tblszerkr.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_21_tblszerkr.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Typical structural arrangement of multi-storey housing
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Floor structures used in buildings with load-bearing walls can be of monolithic or prefabricated reinforced concrete, easily covering spans in the range of 6.00-6.60 meters. Larger spans are best avoided unless special solutions are deemed appropriate. Floors of larger span are not necessarily thicker, but deflect more, which might result in visual discomfort or crushing of internal walls. Spans of more than 7.00 meters might require special systems, pre-cast sectional beams, hollow core slabs, and composite steel deck or concrete solutions. All of these can be cumbersome and expensive to use.</para>
+
+	<para>A column structure can be preferable in terms of thermal insulation to fill in walls. This is easily to achieve, because they serve no load-bearing purpose. Columned buildings are even preferred now for low-rise buildings. Prefabricated floor systems are rarely used in these buildings. Slabs are usually carried by beams that are directly connected to columns. Therefore, care should be taken to ensure that beams do not turn up in the middle of rooms. Floor slab support beams can run longitudinally, across the building or a combination of both. (<link linkend="abra_5_21">fig. 5.21</link>)</para>
+
+	<para>To make shuttering of concrete structures easier, concrete framed buildings are often designed to avoid the use of support beams. This usually involves floor slabs being bi-directional and supported at columns by &quot;mushroom slabs&quot;. These, in fact, are a form of flat beam that might be concealed in the slab's own thickness of around 20-22 cm. These mushroom slabs are usually wide and can even extend up to 1.00 m from the center of columns, requiring unbroken steel reinforcing. Due to this, any slabs using the mushroom system must not be pierced in any way – for example, for mechanical services. Try to avoid this system in &quot;wet&quot; areas.</para>
+
+	<para>Pillar systems are limited with respect to horizontal loads (wind loads); therefore, in critical areas, lateral stability must be provided. In buildings of lower or medium height (3- to 4-story), staircases with reinforced concrete walls might be sufficient to stiffen the frame.</para>
+
+</sect2>
+
+
+<sect2>
+	<title>5.5.2. Stairs</title>
+
+	<para>Calculation of stair sizes in multi-story buildings follows this formula:</para>
+
+	<para>2R + G = 60-64 cm (optimum 63 cm)</para>
+
+	<para>The R (riser) should not exceed 17 cm. For barrier free access and special building functions (nursing homes, homes for disabled persons) riser is best set at 15cm.</para>
+
+	<para>Dimensions of steps used throughout the building should not be varied form the entrance to the top floor, as any break in the rhythm of climbing or descending stairs could cause accidents. (Stairs leading to basements or attics do not always apply.)</para>
+
+	<para>If, for special design reasons, a staircase is planned in a curve, ensure that the inner radius, along the handrail, does not have a going (G) of less than 13 cm. Curved stairs should not be used for escape routes.</para>
+
+	<para>The clear width of a stair (excluding between handrails) within homes should be established to allow for safe means of escape. This should not be less than 1.10 m. (More recommended is 1.20 m between handrails.) Headroom above the staircase flight line and landings should be at least 2.20 m. Where stairs are wider than 2.0 m, handrails should be provided on both sides.</para>
+
+	<para>The handrail should be fixed at least 95 cm above the staircase flight line. This rail should be between 4.5-5.0 cm in diameter and fixed from below to allow easy gripping action without hindering the ability to slide one’s hand along the rail.</para>
+
+<note>
+	<para><emphasis>When buildings do not have a lift, a secondary handrail should be fitted at 70 cm above the staircase flight line for those who have difficulty using stairs. This might include the elderly or small children. (AP)</emphasis></para>
+</note>
+
+	<para>When designing balustrades for stairs and landings, ensure that children can not use them for climbing and that any holes are no larger than 12 cm. The latter is to stop children’s heads from getting stuck in between.</para>
+
+<note>
+	<para><emphasis>If a door opens onto the staircase, for reasons of safety, make sure that distance from the  step to the edge of door is at least 30 cm. (AP)</emphasis></para>
+</note>
+
+	<para>A stair should rise to a  maximum of 20 steps before placing a landing. (In homes for the elderly or disabled, a maximum rise of 1.80 meters is accepted.)</para>
+
+	<para>The depth of a landing should be equal to the width of the stairs it serves, apart from when used on a straight flight of stairs where a depth of 60cm is accepted as a minimum. For better rhythm, however, a depth of 63 cm + 1R is better. These sizes provide minimum requirements for landings; therefore, landings should be bigger to assist in moving large items (e.g., furniture and stretchers). Allow an extra 10 cm in depth at intermediate landings and 20 cm at arrival landings.</para>
+
+	<para>Stairs also form an important aesthetic element of the architectural design. In order to do this, ensure that the under side of stairs has a smooth junction with floor slabs. Handrails should join smoothly at a uniform height. Considering this point of view, minimum dimensions applied at the building’s entrance should be related to the width of the stairwell.</para>
+
+	<para><link linkend="abra_5_22">Figure 5.22</link> shows typical staircases used in residential buildings. A double, switchback staircase occupies less room than a three-stage one. The latter is better applied when depth in a building is restricted. Stairwells that are windowless and do not benefit form daylight need to be lit. In lower buildings, this can be with a skylight which should be the full width of the stairwell. Straight flights of stairs require the most room, but they are favorable in some instances. (See Section 5.7.)</para>
+
+<para><figure id="abra_5_22"><title>
+Multi-unit housing shared stairs
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_22_tbllpcso_mod.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_22_tbllpcso_mod.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Multi-unit housing shared stairs
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+</sect2>
+
+
+<sect2>
+	<title>5.5.3. Lifts</title>
+
+	<para>In addition to stairs, multi-story buildings often require a complimentary mechanical lift, but this should not replace stairs. (Do not plan a level that can only be accessed by lift.) Lifts used in residential buildings should be capable of transporting people and items of furniture.</para>
+
+	<para>Current regulations state that lifts should be provided to every building with vertical floor differences of more than 10.00 m in height. (This does not include the second floor in two-story homes.) In real terms, this usually means a building with no basement that has a ground floor plus three floors, or a building with a basement that also has a ground floor plus two floors. Naturally, a building with two levels can have a lift, but this should be taken into account at the design stage for economic reasons. (This might be a question of lifestyle in the quality housing market.)</para>
+
+
+<note>
+	<para><emphasis>Property investors consider the lower limits for providing lifts in multi-unit buildings: whether to provide a lift or not, if it will affect property value, if it can be installed at a later date for comfort or barrier-free access. (In this case, a three-flight stair should be designed with a lift in mind.) (AP)</emphasis></para>
+</note>
+
+
+	<para>In special building types (homes for the elderly), barrier-free lifts must be installed. Here a lift must be safe enough to use as means of escape in case of fire if no other option is available. (A safety lift must be directly related to a smoke-free stairway, fire lobbies or the open air, and it must be operable even if the building is on fire.)</para>
+
+	<para>Whether a lift is mechanical or hydraulic, they are powered by electricity.</para>
+
+	<para>If a lift is mechanical, then a machine room is provided at the head of the lift shaft or adjacent to the lift at the initial level (upper or lower machine room). Mechanical lifts are usually chosen during renovation projects. Upper machine rooms are now only used in commercial buildings; lower machine rooms are no longer provided. In residential buildings the drive gear is usually located in the lift shaft. (<link linkend="abra_5_23">fig. 5.23</link>)</para>
+
+<para><figure id="abra_5_23"><title>
+Design of passenger lifts
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_23_lift_modos2.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_23_lift_modos2.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Design of passenger lifts
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>In lower buildings, a hydraulic, telescopic cylinder is usually used employing a pressurized oil piston. These can be slow and energy-consuming, so their installation should be avoided.</para>
+
+	<para>The lift shaft should be designed so that operating cables can fit below the cabin at the lower position and above cabin at the higher position. (<link linkend="abra_5_23">fig. 5.23</link>)</para>
+
+	<para>Lift doors are automatically operated sliding doors that open centrally or are side hung, usually telescopic. The clear opening for doors should be a minimum of 80 cm or 90 cm in barrier-free buildings. In some situations such as split-level buildings, a lift might have doors on both sides of the cabin. This will incur additional costs. (<link linkend="abra_5_23">fig. 5.23</link>)</para>
+
+	<para>The size of a lift required is calculated to match a buildings occupancy rate. For each 12 m² of habitable building space, it is assumed there is one resident. Where habitable rooms are larger than 12 m², a rate of 1.5 residents is calculated. If a residential building has a high occupancy rate, then more lifts are to be provided, adjacent to each other in a lift block.</para>
+
+	<para>Most buildings can be provided with a cabin large enough for four people, but this does not provide enough room for wheelchairs or pushchairs due to the limited size of the cabin. Providing for these is not strictly required in buildings that do not need a lift.</para>
+
+	<para>If regulations state that a lift must be provided (i.e., the rule for more than 10.00 m) and wheelchairs provided for, then an eight-person model with 630 kg pay load lift should be used. (<link linkend="abra_5_24">fig. 5.24</link>) In proportion to the cost of the building as a whole, the cost of a lift is negligible. (From a humanitarian point of view, a lift is a worthy investment considering disability, old age and accident-related injuries.) Naturally, access and egress from a lift should also be barrier-free.</para>
+
+<para><figure id="abra_5_24"><title>
+Recommended use of passenger lifts in residential buildings (ISO 4190)
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_24_lift_modos1.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_24_lift_modos1.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Recommended use of passenger lifts in residential buildings (ISO 4190)
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>In larger buildings, a lift capable of carrying a pay load of 1000 kg (13 persons) is more recommended. These are usually 2.10 m deep, allowing adequate space for large items of furniture, even emergency stretchers.</para>
+
+	<para>At design inception, the architect should consult with a lift design consultant regarding types and sizes.</para>
+
+	<para>Care should be taken to provide comfortably access or egress from the lift cabin. Regarding delivery of furniture, the landing in front of the lift should be at least as deep as the lift itself. The lift shaft should be large enough to allow not only for the lift cabin but also enough room for its doors to slide open. (Lift shafts for cabins that can carry wheelchairs cannot have internal measurements smaller than 1.50 m.)</para>
+
+	<para>When a lift shaft boarders on residential spaces (e.g., living room or bedroom), it must be soundproofed. A better option is to build an isolated lift shaft, usually of reinforced concrete, separated from the building’s main structural elements by a flexible insulator.</para>
+
+	<para>Stairs and lifts are usually combined to form the building's vertical circulation core. <link linkend="abra_5_25">Figure 5.25</link> demonstrates some planning alternatives. Placed in the center of a three-flight staircase, it is not always aesthetically pleasing, since this turns the landing into a corridor. Architecturally speaking, it is better to place a lift beside the stairs. The latter can create problems at the ground floor level regarding smoke-free stairs where the common area should be separated by fire doors. If a safety lift is installed, this must open onto a smoke-free stairwell.</para>
+
+<para><figure id="abra_5_25"><title>
+Examples of relationship between passenger lifts and stairs
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_25_liftlepcs_mod_.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_25_liftlepcs_mod_.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of relationship between passenger lifts and stairs
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+</sect2>
+
+
+
+<sect2>
+	<title>5.5.4. Mechanical engineering solutions</title>
+
+	<para>It is common for many rooms in a multi-story, multi-unit building to be without windows, but there is a need for ventilation. In the past, this was gravitational. Now it is usual to use mechanical, fan-assisted ventilation duct systems. It is preferable to locate all mechanical services in vertical ducts (sewer pipes, water pipes, gas pipes, ventilation ducts and boiler flues). Obviously, ducts should be located one above another throughout the building, but care should be taken, since this is often overlooked by less experienced designers.</para>
+
+	<para>Boiler exhaust flues and chimneys should expel gases at the top of a building, but take care not to allow ugly solutions to cover the building’s roof.</para>
+
+
+<note>
+	<para><emphasis>If the building has a mechanical ventilation system, it might be wise to use heat recovery systems. These can even preheat cold air prior to use in the heating system. These systems are becoming smaller, approaching the size of a wall-mounted air conditioner. (AN)</emphasis></para>
+</note>
+
+
+	<para>New developments have central heating systems of one kind or other. These systems might be independent, serving each home, or a shared system (district heating). </para>
+
+	<para>Most apartments now have closed-combustion, central-heating gas boilers. (Each boiler, even the modern closed systems, is restricted by the height of exhaust flues needed.)</para>
+
+	<para>If a building has a shared (district) gas heating plant, special care must be taken due to the risk of explosions. The boiler room should be designed in such a way as to allow for a wall or the roof to blow out in the case of an explosion. This prevents further damage to the rest of the building. Remember gas appliances are usually used on the &quot;full&quot; power setting. The boiler is designed to supply the building’s maximum energy demands, and a mechanical engineer should be consulted regarding its design. The mechanical engineer should also assist in the design of the boiler room and space required for all equipment. When boilers are located in the basement only, sealed gas combustion chambers can be used. This will require special attention being taken when designing the considerably large chimney.</para>
+
+	<para>Ventilation is also required for underground garages in terms of the vertical expulsion of gases, including the provision of ventilation equipment and service ducts.</para>
+
+	<para>At the initial stages of the building’s design, mechanical and electrical engineers should be consulted.</para>
+
+
+<note>
+	<para><emphasis>Provision of hot water can be based on individual dwelling units or the building as a whole. In the latter case, solar energy might be beneficial, since it will help reduce costs, supply hot water when demanded and can be designed so that stored hot water reconciles the fact that not all the residents will require hot water at the same time. In multi-unit buildings, the required area of solar panels and associated equipment is less than that of a conventional family home.</emphasis></para>
+
+	<para><emphasis>Larger buildings might benefit from rainwater harvesting. If monthly rain fall is calculated, roof areas and paved areas could provide enough water for the flushing of toilets and irrigation of garden areas. (AN)</emphasis></para>
+</note>
+
+</sect2>
+</sect1>
+
+<sect1>
+	<title>5.6. Common access systems to individual housing units</title>
+
+	<para>The approach to apartments in multi-story buildings is usually by means of vertical staircases and lifts. Once the given floor is reached by lift or stairs, each apartment is subsequently accessed via corridors. These common circulation spaces are included in the cost of each apartment (m² cost per home). Considering the higher proportion of habitable space provided, this makes economic sense when choosing access methods.</para>
+
+	<para>Core access homes are those which open directly onto a stairwell and/or lift shaft. Depending upon how many homes are placed on each level, this can be achieved by use of a single core. In rare instances, double- or triple-core homes are built. Due to the limited size of landings serving each stairwell, only a limited number of apartments can be accessed. That is why more stairwells are required in buildings with many apartments on each floor. Access at each level can only be achieved via common staircase. Core access staircases are shown in <link linkend="abra_5_26">diagram 5.26a</link>. Each apartment is separated by fire resistant walls. In multi-sectional core buildings, staircases are usually accessed separately from the outside. This can be seen as a contradiction of use where individual units are separated and lie in isolation from the building as a whole.</para>
+
+<para><figure id="abra_5_26"><title>
+Multi-storey, multi-unit housing shared circulation systems
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_26_tblrendsz.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_26_tblrendsz.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Multi-storey, multi-unit housing shared circulation systems
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Corridor access is required when the distance from the vertical core is relatively far, resulting in the need for horizontal circulation spaces of various lengths. Obviously, buildings with corridor access can accommodate far more apartments than homes with core only access. This corridor might be located along the building’s elevation, in a suspended corridor, or as a closed corridor within the building’s volume. (<link linkend="abra_5_26">fig. 5.26b and 5.26c</link>)</para>
+
+	<para>The above categories overlap to some degree. A straight flight of stairs where apartments are accessed via landings can be referred to as a corridor. A core access building might afford access to apartments directly from the stairs where the landing is widened into a corridor (5-6 apartments). These can be seen in <link linkend="abra_5_27">diagram 5.27</link>.</para>
+
+<para><figure id="abra_5_27"><title>
+Transitional forms of corridor and stair core systems
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_27_tbrendatm.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_27_tbrendatm.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Transitional forms of corridor and stair core systems
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Access methods have to be linked to other regulations. For example, a core access building with a closed corridor must have a smoke-free escape stair. Fire prevention regulations state that any corridor serving four or more homes is to be treated as a closed corridor.</para>
+
+	<para>A common system of access, usually used in buildings on narrow or infill sites, is that of a core staircase with access to a corridor. This might result in some of the apartments being narrower than others or assist in the design of corner-site buildings. (<link linkend="abra_5_28">fig. 5.28</link>)</para>
+
+<para><figure id="abra_5_28"><title>
+Combined forms of corridor and stair core systems
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_28_tbrendatm2.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_28_tbrendatm2.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Combined forms of corridor and stair core systems
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Ambiguity might occur when more that one access core is provided. For example, a building with two or more cores can be connected by common corridors, but only one staircase can be managed by a security guard or porter service. In other examples, separate core staircases might be connected on the upper floor level by a common corridor (usual in high rise buildings).</para>
+
+</sect1>
+
+<sect1>
+	<title>5.7. Single core accessed residential building</title>
+
+<sect2>
+	<title>5.7.1. Single core residential building types</title>
+
+	<para>Core homes are usually served by one staircase, or they are divided into sections with each served by its own staircase.</para>
+
+	<para>Free-standing dwellings served by a common staircase are also known as core buildings.</para>
+
+	<para>(In some situations, &quot;core buildings” are referred to in critical literature as &quot;housing blocks&quot; or &quot;housing towers&quot;. These definitions refer to a building’s height. For lack of better terms, a core building is a multi-story building that is usually not too high where the planned width and depth are similar.)</para>
+
+	<para>On sites that are not very wide, buildings developed in rows are often served by a single stairwell.</para>
+
+	<para>Row houses can be developed in sections. Each section might be planned in linear rows or staggered. A certain degree of plasticity might even be applied to each section’s design, allowing for external modeling of the building’s volume. This form of building is ideal for urban infill sites and corner buildings. Where a site is relatively wide, then a building might be divided into sections for greater efficiency. (<link linkend="abra_5_29">fig. 5.29</link>)</para>
+
+<para><figure id="abra_5_29"><title>
+Basic types of stair core systems in multi-unit housing
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_29_fogatfglm.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_29_fogatfglm.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Basic types of stair core systems in multi-unit housing
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+</sect2>
+
+<sect2>
+	<title>5.7.2. Urban development types</title>
+
+	<para>Classification demonstrates how a single, infill building can be used to complete a row of buildings.</para>
+
+	<para>Single apartments accessed via a common core at each level are rare due to density and cost. This technique may be appropriate in smaller infill projects. (<link linkend="abra_5_30">fig. 5.30a</link>)</para>
+
+<para><figure id="abra_5_30"><title>
+Modular and corner unit housing blocks (examples)
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_30_fogatsav.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_30_fogatsav.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Modular and corner unit housing blocks (examples)
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Two apartments accessed from a single core is a system used for larger apartments. This allows for positive passive ventilation &quot;cross drafts&quot; on hot summer days. The two apartments can be identical (mirror image), or they may differ from each other according to site restrictions or floor plan.</para>
+
+	<para><link linkend="abra_5_30">Figure 5.30b</link> shows examples of linear plan types, as well as staggered and corner-site schemes.</para>
+
+	<para>Three apartments accessed from a single core give rise to more favorable plan types. The most common provides for two large apartments and one small on each floor (rarely two small and one large). Placed on corner sites, this arrangement affords the chance to build three large apartments. (<link linkend="abra_5_30">fig. 5.30c</link>)</para>
+
+	<para>Four apartments accessed from a single core usually occur where a higher proportion of homes are to be provided. These are often, for reasons of economy, accessed by corridors and best used when developing infill sites. Similar to situation with three apartments per floor, this arrangement leads to the development of different sized homes, possibly two larger apartments and two studio flats. For larger apartments, corner sites work better. (<link linkend="abra_5_30">fig. 5.30d</link>)</para>
+
+	<para>Refer to previous sections of this chapter for 5- to 6-apartment layouts. (<link linkend="abra_5_27">fig. 5.27</link>)</para>
+
+	<para>Site orientation can also affect the location of the building’s core. Current regulations state a minimum of one habitable room should have direct exposure to the sun. This means northern-exposed apartments cannot be developed. This does not pose problems for two or three apartment arrangements so long as the east and west elevations (along the north-south axis) are exposed. When the axis is east-west, ensure that each apartment has an exposed southern elevation.</para>
+
+	<para>When buildings have four or more apartments per floor, ensure that rooms along the north-south axis have elevations exposed to daylight.</para>
+
+	<para>In addition to satisfying minimal requirements to ensure that more than room has direct daylight, the living room and the majority of bedrooms should face east or south. <link linkend="abra_5_31">Figure 5.31</link> provides some theoretical schemes for orienting rooms to gain optimal daytime lighting in building plan types with two or three apartments per floor.</para>
+
+<para><figure id="abra_5_31"><title>
+Examples of core housing unit orientation
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_31_fogtaj.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_31_fogtaj.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of core housing unit orientation
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Free-standing buildings should be divided in such a way as to provide three free elevations for optimal use. The layout might be similar or variations on a theme.</para>
+
+	<para>(Note: Orientation is just one factor to consider when developing ideas. Existing infill sites may have many variations. A well-placed elevation might face a noisy or polluted street, while a poorly-placed elevation might face a beautifully landscaped park or garden. Balancing these issues must also be taken into consideration).</para>
+
+</sect2>
+
+
+
+<sect2>
+	<title>5.7.3. Free-standing types</title>
+
+	<para>Free-standing core houses have four free elevations, making them more favorable than core houses built n rows.</para>
+
+	<para>This building type is dedicated to &quot;urban villas&quot; (condominiums) where it is not possible to build single apartments on each floor due to site restrictions. This type of arrangement also applies to luxury residential high-rise towers where large apartments might occupy an entire floor.</para>
+
+	<para>Often two apartments are provided on each floor, but usually on smaller sites or where the build ratio is limited. This is usually employed when the design schedule calls for larger apartments. </para>
+
+
+	<para>Three or more apartments per floor are more common types, as shown in examples given in <link linkend="abra_5_32">figure 5.32</link> (based upon existing building schematics).</para>
+
+<para><figure id="abra_5_32"><title>
+Schematic examples of core house arrangements
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_32_fogpont.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_32_fogpont.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Schematic examples of core house arrangements
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+</sect2>
+
+
+<sect2>
+	<title>5.7.4. Spatial arrangement within individual units</title>
+
+	<para>Shown here are examples of individual unit plans within core buildings. In reality, the options are far greater. Consider factors generated by site conditions and the development program. The design program usually indicates the required sizes (e.g, square meters and number of rooms) and the amount of apartments in the building. The architect is responsible for spatial organization.</para>
+
+	<para>Rooms that require direct sunlight (the kitchen, for example) must be placed with at least one wall along the external elevation. Rooms that do not require daylight (e.g., bathroom, toilet, corridors and storage space) should be placed elsewhere. Therefore, it is crucial to consider the relationship between the floor plan arrangement and elevations.</para>
+
+	<para><link linkend="abra_5_33">Figure 5.33</link> suggests different floor plan arrangements at the sketch level. These refer to standard and not luxury housing categories.</para>
+
+<para><figure id="abra_5_33"><title>
+Individual examples of apartments within core house developments
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_33_foglakas.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_33_foglakas.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Individual examples of apartments within core house developments
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>(The measurements given in half-meter increments are for guideline purposes only. These should not be used as working examples).</para>
+
+	<para>In most developments, an apartment will have one elevation that receives natural sunlight. This means that rooms should be placed in a linear arrangement, which is best suited to apartments with a small amount of rooms (living room and one bedroom). Kitchens may be placed internally.</para>
+
+	<para>If an apartment has two or more bedrooms, a linear plan is not desirable, since it tends to give rise to long access corridors and uncomfortable spatial arrangements.</para>
+
+	<para>It is more characteristic for apartments in this building type to have rooms placed on opposing or different elevations. With smaller homes of one living room and one bedroom, this does not really work due to depth of building. However, with larger homes (of one living room and two or more bedrooms), this works well.</para>
+
+	<para>Two elevations that meet on the corner of a building often occur within one apartment. These are ideal for the design of small and larger apartments, even more so when two bedrooms or multiple homes are required.</para>
+
+</sect2>
+
+<sect2>
+	<title>5.7.5. Arrangement of ground floor areas</title>
+
+	<para>The ground floor of all core buildings has a plan that is a modification of all upper level plans with consideration for the building's main entrance, common circulation areas, as well as storage and refuse disposal areas.</para>
+
+	<para><link linkend="abra_5_34">Figure 5.34</link> shows examples for buildings with no lift.</para>
+
+	<para>A comfortable, architecturally pleasing entrance hall can be created when the stairwell faces the entrance door. (<link linkend="abra_5_34">fig. 5.34a, 5.34b and 5.34c</link>)</para>
+
+	<para>In these situations, the intermediate landings on the stairwell need to have a minimum headroom clearance of 2.20 m; however efficient this use of space though, in buildings that have a ground floor level around 1.00 m above street level, it can be uncomfortable. Try to avoid this option. (<link linkend="abra_5_34">fig. 5.34d</link>) It is always better to enter a building through a spacious, impressive space.</para>
+
+	<para>When developed in rows, core houses can have the stairwell and entrance placed in such a way so that a second door can provide access to the garden. This might open directly from the staircase or at the landing level. (<link linkend="abra_5_34">fig. 5.34c</link>)</para>
+
+<para><figure id="abra_5_34"><title>
+Examples of development of staircase at ground floor level
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_34_tbfszmet_m.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_34_tbfszmet_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of development of staircase at ground floor level
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<note>
+	<para><emphasis>The entry level of the building needs to take into consideration lifestyle questions of comfort: pushchairs, shopping trolleys, the elderly, delivery of luggage, etc. In order to improve the building’s comfort, try to ensure that the difference between the outdoor street level and the indoor floor level is no more than 2 cm.</emphasis></para>
+
+	<para><emphasis>When a lift is to be included in the design, for reasons of barrier-free access, make sure that there is no difference in floor levels at the entrance level. If care is not taken, it will reduce the development’s market value.</emphasis></para>
+
+	<para><emphasis>In principle, a building’s market value will be enhanced if barrier-free access is provided to all common areas, lifts, storage rooms, bicycle and pushchair storage areas, postal boxes and garden doors. (AP)</emphasis></para>
+</note>
+
+	<para><link linkend="abra_5_35">Figure 5.35</link> shows different schematic arrangements for developing the ground floor. (Specific design schedules will vary, as will site requirements.)</para>
+
+<para><figure id="abra_5_35"><title>
+Examples of core house developments at ground floor level
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_35_fogfszv_modos.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_35_fogfszv_modos.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of core house developments at ground floor level
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<note>
+	<para><emphasis>Apartments built on the ground floor usually differ from those on upper levels. They may be smaller or less in number. (Consider load-bearing walls, pillars and service ducts – all of which must not be ignored!)</emphasis></para>
+
+	<para><emphasis>In most multi-story, multi-unit housing developments, it is highly recommended to devote the ground floor to barrier-free apartments. Upper-level homes can easily adapt to changes in level, internal arrangements and general flexibility. Both situations are rational in terms of construction costs and marketable value. (AP)</emphasis></para>
+</note>
+
+	<para>Free-standing buildings offer more freedom in terms of entrance placement. However, try to avoid placing the main entrance on the rear elevation. </para>
+
+</sect2>
+
+</sect1>
+
+<sect1>
+	<title>5.8. Corridor accessed residential building</title>
+
+<sect2>
+	<title>5.8.1. Open corridor apartments</title>
+
+	<para>Open corridors in some situations are enclosed with glazing.</para>
+
+	<para>In some situations, when supported on consoles, these corridors are referred to as suspended corridors. Open corridors are usually used to allow for ventilation and better daytime sunlight to apartments. These corridors are usually protected from rain by the corridor of the floor above – except for the top floor, which is usually sheltered by the roof’s projecting eaves. (Experience has shown, residents of top-floor apartments sooner or later cover the corridor themselves with lightweight, makeshift roofs). Some people do not like these open corridors, because they can induce feelings of vertigo; hence, measures are taken to enclose the balustrade. (<link linkend="abra_5_36">fig. 5.36</link>)</para>
+
+<para><figure id="abra_5_36"><title>
+Design of side access corridors
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_36_oldalfoly.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_36_oldalfoly.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Design of side access corridors
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>When considering rooms adjacent to the corridor, recognize the fact that passers-by can see in. A higher parapet window might be used where tolerable (bathrooms or kitchens). However, living rooms and bedrooms placed in this location are very uncomfortable, requiring translucent curtains. Residents wishing to prevent a loss of privacy or malicious intrusion may not be able to open these windows.</para>
+
+	<para>In some situations, an open corridor may be pulled away from the elevation as an independent structure, allowing access to homes by short &quot;bridges&quot;. Although this is an interesting solution to the problem, it would be better to plan apartments with non-habitable rooms adjacent to corridor.</para>
+
+	<para>Rarely are these open corridors enclosed. In such instances, where a kitchen is not part of an open-plan apartment, mechanical ventilation must be provided. Consider glazing for the corridor, especially if it is on an exposed north side, since this might be of help regarding energy efficiency issues. This &quot;buffer zone&quot; can be beneficial, but might reduce the effectiveness of natural ventilation. It is also prohibited to use enclosed corridors for ventilation of apartments; therefore, alternative ventilation must be provided.</para>
+
+	<para>Correct orientation of open corridor buildings is relatively problem-free. Buildings placed on a north-south access are ideal, as both sides will receive light in the daytime, so one is free to choose which side will house the corridor. When a building is placed on an east-west axis, ensure that the corridor does not run along habitable rooms. When a building faces north on the street side, then place the open corridor on the northern elevation.  Open corridors facing the street can often look bizarre, so take care to detail the building appropriately with this in mind.</para>
+
+	<para>Even in buildings with only a few floors, it is advisable to include a lift. The cost in proportion to the overall development is not significantly increased, but the amount of apartments served is often relatively high. It is also recommended to use a larger, eight-person elevator to allow for wheelchair and pushchair access, even when a smaller lift might be suited in terms of actual resident capacity. Remember that this should also offer barrier-free access to all floors and corridors.</para>
+
+	<para>The narrowest unobstructed width for this corridor type should be 1.10 m, although 1.20 m is more recommended. In buildings deemed to be barrier-free, a width of 1.50 m is better, since this allows for easy access to the lift and turning space for wheelchairs. The furthest distance to an apartment’s entrance door must not exceed 30 m from the stairs. Even now, this is considered the extreme limit in terms of calculating the &quot;evacuation time&quot;. Evacuation time is not calculated at each level; it is based upon the time needed to evacuate the building in case of fire. Therefore, corridor length and width might vary from floor to floor according to the number of people served and the build ratio at different heights.</para>
+
+	<para>The stairwell should be placed where there is the greatest concentration of use. The stairwell is usually placed on the outside of the corridor, but often located between two apartments. (<link linkend="abra_5_37">fig. 5.37</link>) In mid-rise buildings, the stairwell should be smoke free. In many mid-rise buildings, a second escape staircase is provided to reduce evacuation times. In high-rise buildings, the second staircase is mandatory, and one of the stairs must be smoke free.</para>
+
+<para><figure id="abra_5_37"><title>
+Examples of vertical circulation cores in side access corridor residential buildings
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_37_oldfolylepcso.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_37_oldfolylepcso.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of vertical circulation cores in side access corridor residential buildings
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+</sect2>
+
+
+
+<sect2>
+	<title>5.8.2. Closed corridor apartments</title>
+
+	<para>Closed corridors are those found within the building’s interior. Some buildings might have a dual system of closed corridors (parallel corridors to separate residential and non-residential users, accessing the central core from different directions in linear developments). These corridors are placed along the building's axis and are also referred to as an &quot;aisle&quot;.</para>
+
+	<para>Both sides of a closed corridor provide access to apartments; therefore, it is ideal for the building to be placed along a north-south axis, or as close to it as possible.</para>
+
+	<para>An enclosed corridor needs ventilation at both ends, from windows or from hallways connected at the sides. Mechanical ventilation can be provided when natural ventilation is not achievable. Fire regulations might call for mandatory high-power smoke extraction systems. Mechanical ventilation consumes energy with high operating costs. Long corridors require artificial lighting, even during the day, increasing energy use. It is preferable to design for natural daylight and ventilation.</para>
+
+	<para>Corridor length and width should be calculated in terms of evacuation times. Unless otherwise stated, corridors should be a minimum width of 1.50 m, although 1.80 m is more recommended. (Narrow corridors can seem claustrophobic.) Doors to apartments must open in to prevent the obstruction of escape routes. (Doors in corridors must open in the direction of evacuation where the number of potential evacuees exceeds 50 people. Individual apartments do not require an escape route for 50 people.)</para>
+
+</sect2>
+
+
+
+
+<sect2>
+	<title>5.8.3. Correlation between rooms provided and floor areas</title>
+
+	<para>Due to the size of corridors and circulation routes, it makes economic sense to provide the maximum number of apartments possible over the building’s entire planned area. <link linkend="abra_5_39">Figure 5.39</link> illustrates different plan types in relation to corridors and their respective economic impact. The sizes given are based on average apartment width, rarely exceeding 4.50-5.00 meters. These apartments are well suited to open corridor buildings, since their floor areas (30-40 m²) are relatively small, providing a depth of 7.00-8.00 meters. Nonetheless, smaller building depths have proportionally larger elevation areas (hence, higher heating and construction costs). Single-room apartments can have internal kitchens with windows facing the corridor. This might require additional corridor space within the home. Where a building depth is 14-18 m, smaller unit homes are still favorable when used in conjunction with a closed corridor. If a building developer requests a building with one-room dwellings (studio apartments), it makes economic sense to provide access to them via a closed central corridor.</para>
+
+<para><figure id="abra_5_39"><title>
+Various apartment schematics for corridor accessed homes
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_39_folylakas.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_39_folylakas.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Various apartment schematics for corridor accessed homes
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>From an occupant’s point of view, closed corridors are less preferable than open corridors. From an economical standpoint, an open corridor building might cost more to build than a closed corridor building and have increased real estate potential. Marketing of properties is not always related to the economics of construction. In this example, cost of construction is being compared.</para>
+
+	<para>Living room plus one bedroom (or two-bedroom) homes are favorable when apartment width is between 7.00-8.00 meters. The kitchen can be lit naturally from an open corridor. These apartments are best suited to open corridor developments when the depth is within the range of 8.00-9.00 meters. This size of residence also works in closed corridor homes if the developer does not demand natural light and ventilation for kitchens. When this type of home is planned with apartments that are 9.00-10.00 meters wide, the size of corridors comes under question. (A 30-meter-long corridor can only support six apartments.)</para>
+
+	<para>Placing two-bedroom apartments (even three-bedroom) can be critical if traditional corridor arrangements are required. Open corridor buildings in this situation are best provided one bedroom opens onto a corridor. If not, three bedrooms will need to be placed along the elevation, which could become 10.00-12.00 meters in width. This will require all ancillary rooms to be placed on the corridor side of the apartment or absurdly shallow building depths.</para>
+
+	<para>Conventional corridor arrangements are best suited to smaller apartments – this being for guideline purposes only. In some cases, a relatively short open corridor might have larger apartments placed at each end, in which case bedrooms overlook the corridor side of the building. Similar corridor arrangements are also used in hotels or guest apartment buildings, but these fall into a different economic class. (Single entrance is required due to continuous porter service.)</para>
+
+	<para>Where narrow apartment widths are developed, two-storey (duplex) homes are often planned. The access corridor is placed at alternate levels. The interior arrangement of these apartments is usually referred to as &quot;maisonette&quot;. (<link linkend="abra_5_40">fig. 5.40</link>) No doubt, the individual cost of construction per residence is greater (including interior stairs), but this can be offset by the fact that half as many access corridors need to be built. Maisonettes can not be developed as barrier-free homes on both floors.</para>
+
+<para><figure id="abra_5_40"><title>
+Double storey homes in side access corridor buildings
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_40_maisonette.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_40_maisonette.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Double storey homes in side access corridor buildings
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>It is also common for two-floor loft apartments to be built on the uppermost level of open corridor buildings.</para>
+
+</sect2>
+
+<sect2>
+	<title>5.8.4. Complex planning arrangements</title>
+
+	<para>Larger homes have many varied approaches to the design of access corridors (sometimes very complex), often seen in Western European developments in the 60s and 70s. This obviously has an ideological basis, based upon a preference for higher buildings.</para>
+
+	<para>A beautiful example of two-story homes being arranged around a closed corridor was developed by Le Corbusier in the &quot;Unié d'Habitation&quot;. (<link linkend="abra_5_41">fig. 5.41a</link>)</para>
+
+	<para>The corridor provides access to the home at a split level (shown in <link linkend="abra_5_41">figure 5.41b</link>), creating what was termed a &quot;semi-duplex&quot; (shown in three dimensions in <link linkend="abra_5_41">figure 5.41c</link>).</para>
+
+<para><figure id="abra_5_41"><title>
+Spatial arrangement of corridor access (examples)
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_41_folyterben.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_41_folyterben.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Spatial arrangement of corridor access (examples)
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Despite the interesting architectural spatial arrangement of interior spaces in these &quot;semi-duplex&quot; homes, barrier-free access is not possible, and residents do not enjoy the continuous need to use the stairs.</para>
+
+	<para>Originally, the building was developed with the intention of creating complex spatial arrangements that are either seldom used today or thought more applicable to lower-rise buildings. These brave feats of engineering and often complex spatial layouts are not possible now, even in lower-level buildings.</para>
+
+</sect2>
+
+</sect1>
+
+<sect1>
+	<title>5.9. External spatial arrangement</title>
+
+	<para>Obviously, apartments in multi-story buildings cannot all have direct contact with a garden, but a relationship to the environment is an important design consideration. Visual contact is important via windows from all habitable rooms. Therefore, a well-paced window can afford a beautiful view, as opposed to a poorly-placed window affording an ugly view.</para>
+
+	<para>Upstairs apartments might require a &quot;transitional&quot; between the interior and exterior.</para>
+
+	<para>A French balcony or French window refers to a door with a full-height opening protected by a balustrade. When this door is open, a few square meters within the room act as the &quot;transitional&quot; space, providing a more intense connection between internal and external spheres. (<link linkend="abra_5_42">fig. 5.42a</link>)</para>
+
+<para><figure id="abra_5_42"><title>
+Multi-storey apartment connection to external space
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_42_tberkter.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_42_tberkter.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Multi-storey apartment connection to external space
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Projecting balconies provide a useful way of extending interior functions towards the exterior. Balconies should be designed to maximize use with enough room for deck chairs, playpens, breakfast tables, etc. Care should be taken to design balustrades which cannot be climbed by children. A useful depth for a balcony is 1.50 m. (<link linkend="abra_5_42">fig. 5.42b</link>)</para>
+
+	<para>Often balconies interfere with neighbors’ privacy, especially when placed within a few meters of each other. Sometimes a balcony can be provided with a windshield that also provides visual privacy. These offer a practical, but often architecturally displeasing appearance. If the contour of a building's external wall is varied, corner balconies providing shelter and privacy can be established. (<link linkend="abra_5_42">fig. 5.42c</link>) </para>
+
+
+	<para>Sometimes balconies, usually on linear elevations, are placed side by side. (<link linkend="abra_5_42">fig. 5.42d</link>) These shared balconies must be separated for visual and acoustic reasons. This type of arrangement is best avoided, since they create disharmony due to the pretence that two separate spaces act as one.</para>
+
+	<para>Galleries or loggias can be set back form the building line, providing a covered &quot;transitional&quot; space. (<link linkend="abra_5_42">fig. 5.42e</link>) While the advantage is visual privacy, disadvantages include a reduction of daylight due to overshadowing and more complex construction. A loggia might also be combined with a balcony by use of a projecting floor slab to create a hybrid space. (<link linkend="abra_5_42">fig. 5.42f</link>)</para>
+
+	<para>Balconies and loggias can, without limit, extend the whole width of a building; yet, care should be taken with regard to proportions. In terms of use, deeper balconies and loggias are favorable. Even so, one must take into account the shadows on spaces behind them. Therefore, care must be taken when designing these spaces with regard to structural height as well to prevent restricting daylight to the rooms they serve. (<link linkend="abra_5_43">fig. 5.43</link>)</para>
+
+<para><figure id="abra_5_43"><title>
+Balcony depth in relation to daylighting interior spaces
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_43_tbterkial1_mod.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_43_tbterkial1_mod.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Balcony depth in relation to daylighting interior spaces
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Nevertheless, balconies can be placed beside rooms that do not require high levels of direct sunlight (the dining room, for example) or those accessed on all sides by doors. (<link linkend="abra_5_44">fig. 5.44</link>) In this situation, an outside room is formed that might function as a secondary dining room or a place to entertain guests. This is best suited to larger apartments.</para>
+
+<para><figure id="abra_5_44"><title>
+Examples of how to provide for larger depth balconies
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_44_tbterkial2.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_44_tbterkial2.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of how to provide for larger depth balconies
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Roof terraces can also be created. (<link linkend="abra_5_42">fig. 5.42h</link>) (Fewer homes will be possible at this level due to reduced footprint area.) These roof terraces do not provide shade from the sun and are best designed as green roofs of roof gardens. This can also lead to construction problems if the terrace is not the same size as the load-bearing walls. Roof terraces are better supported by pillar frame buildings. (See variations on this in <link linkend="abra_5_45">figure 5.45</link>.) </para>
+
+<para><figure id="abra_5_45"><title>
+Roof terraces schematic design for framed buildings
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_45_tbterkial3.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_45_tbterkial3.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Roof terraces schematic design for framed buildings
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Ground-floor terraces are best established when direct access to a garden is provided. This can also increase the market value of respective apartments. The garden can also be subdivided as discussed in previous chapters.</para>
+
+	<para>Ground-floor terraces can only be used by a limited number of the building’s occupants and suffer several disadvantages. They are often enclosed by high fences, glazed walls or even security grills. These solutions reduce the overall quality of the development and can be regarded as a design flaw in terms of cultural relationships (i.e., between public and private spheres).</para>
+
+	<para>The connection of ground-floor spaces to the surrounding environment in the case of multi-story, multi-unit buildings has an effect on the urban fabric, leading to specific, characteristic use types. These connecting spaces might form part of the public domain, include public use or be private in nature (i.e., public, semi-private and private, respectively).</para>
+
+	<para><link linkend="abra_5_46">Figure 5.46</link> demonstrates various approaches to the development of ground-floor spaces.</para>
+
+<para><figure id="abra_5_46"><title>
+Multi-unit housing connection to external space at ground floor level
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_46_tbkulkap.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_46_tbkulkap.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Multi-unit housing connection to external space at ground floor level
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>If a ground-floor room is for private use and is directly connected to the public domain, it is better placed 75 cm above ground level to restrict visual intrusion.</para>
+
+	<para>Public areas (referring to common use by residents) should be designed in proportion to occupancy levels for cooperative use. When larger developments are established, ground-floor apartments should be provided with enhanced visual protection, allowing for the mutual respect of privacy. Only then can private terraces and gardens be provided. Even still, access paths and roads should not be compromised for the sake of individual comfort.</para>
+
+</sect1>
+
+
+<sect1>
+	<title>5.10. Terraced developments</title>
+
+	<para>Terraced houses are multi-story, multi-unit apartments which are directly connected by large roof terraces.</para>
+
+	<para>(In Hungary, this refers to buildings that are built as a staggered development on hill sides, although similar developments can occur on flat sites.)</para>
+
+	<para>Due to the sloping terrain, terraced houses are stepped back as the hill rises. A proportion of each home is below ground and below the home above. The roof of each apartment serves as a terrace to the place above.</para>
+
+	<para>There is a direct correlation between the terracing of apartments, depth of roof terraces and terrain. (<link linkend="abra_5_47">fig. 5.47</link>) Theoretically, the leading edge of each roof terrace is parallel to the ground line. If the ground slopes gently, then so does the terracing of apartments, allowing for larger roof terraces. If the ground slopes steeply, then so does the terracing of apartments, resulting in small roof terraces. In reality, this does not occur, as sites rarely have an even slope. Land must be adapted for access by pedestrians and vehicles, resulting in the need to modify terrain. (<link linkend="abra_5_48">fig. 5.48</link>)</para>
+
+<para><figure id="abra_5_47"><title>
+Geometric relationship between terrace sizes and sloping terrain
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_47_trlejtmer.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_47_trlejtmer.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Geometric relationship between terrace sizes and sloping terrain
+</phrase></textobject>
+</mediaobject>
+</figure>
+
+<figure id="abra_5_48"><title>
+Terraced housing in relationship to terrain (fictive schematic)
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_48_terpeld.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_48_terpeld.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Terraced housing in relationship to terrain (fictive schematic)
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Apartments are usually accessed by exterior staircases. A straight flight of steps and required landings result in a slope of 47%. (<link linkend="abra_5_49">fig. 5.49a</link>) Steeper sites will require more complex arrangements of steps and landings. (<link linkend="abra_5_49">fig.5.49b, 5.49c and 5.49d</link>) Steps can provide access to apartments from both sides and are often covered by glazed roofs.</para>
+
+<para><figure id="abra_5_49"><title>
+Design of external access stairs to terraced housing
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_49_terszlep.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_49_terszlep.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Design of external access stairs to terraced housing
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Some form of visual protection should be provided to roof terraces for privacy reasons. To do so, parapet walls are often developed with integral planters, or they are dedicated to planting strips or green roofs. (<link linkend="abra_5_50">fig. 5.50</link>)</para>
+
+<para><figure id="abra_5_50"><title>
+Visual shielding between roof terraces
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_50_terkial.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_50_terkial.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Visual shielding between roof terraces
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Depending upon the site’s gradient, apartments can be placed perpendicularly or parallel to the site. (<link linkend="abra_5_51">fig. 5.51</link>) The first case is better suited to narrow, steep sites. On not so steep sites, longer flights of steps will be required. If a slope is steep, then shorter flights of steps will be required. In both cases, the plan type is rectangular. Individual apartments are usually accessed from the side opposite the garden.</para>
+
+<para><figure id="abra_5_51"><title>
+Common schematics for terraced housing
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_51_terhtip.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_51_terhtip.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Common schematics for terraced housing
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>When apartments are placed on wider sites, then the development can run parallel to the slope. In this case, atrium-like homes are often planned, affording greater privacy to the roof terraces. (The smaller roof is often a green roof.)</para>
+
+	<para>As these homes are not planned directly above each other, some areas of design need greater attention. So-called wet areas cannot be placed one above the other, so take care when situating windows and ventilation ducts. (Do not place them near the roof terrace of adjoining homes.) Therefore, direct ventilation of secondary spaces should be placed towards side elevations. The same applies to chimneys. This can be solved if the whole building is heated by a shared boiler placed on the upper floor. Sewage can be drained via external drains connected horizontally, at each level, to individual apartments.</para>
+
+	<para>As the back wall of each apartment is in fact a retaining wall, it might be wise to introduce a &quot;buffer zone&quot;. Avoid using this area for habitable spaces. Try to ensure that living areas are placed in locations that do not require intense damp-proof insulation. (Damaged waterproofing to retaining walls is generally not repairable.) Developments on sloping sites present problems regarding groundwater extraction.</para>
+
+	<para>Another problem posed by these developments is that created by slab construction, acting in part as floor slab and part as roof terrace. The latter will need to be detailed differently to provide additional thermal insulation and waterproofing. A common aesthetic mistake occurs when access to the roof terrace requires a step up from the interior spaces.</para>
+
+	<para>Another problem with terraced housing occurs when attempts are made to install lifts. It is possible in developments of two or three levels to establish a central core that includes a lift. (There are examples of homes that are accessed by funicular railway, but this is not available as a product and results in the need for a high-cost custom item). When developments have four or more levels, the required amount of steps can detract from the market value, even when balanced against the positive aspect of having roof terraces. Barrier-free access can really only occur at street level.</para>
+
+	<para>Terraced developments are best suited to sites where a large build ratio is allowed for (also where the allowed build height is equivalent to that of a two-story home). The footprint of this building is also considerably larger than that of a normal multi-story building. (Terraced house can be labeled as low-rise, high-density developments.) As these buildings occupy most of the site, attention to regulations regarding green areas should be accounted for by including the design of green roofs. </para>
+
+
+	<para>When terraced houses are developed on flat sites, interior arrangements will vary in relationship to roof terraces. These buildings have been described as &quot;artificial hill houses&quot; where each level is gradually smaller than the level below. These pose design problems, since each floor is different in plan. Roof terraces and structural walls remain the same in size, but apartments decrease in size. Take care that the upper level apartments and core sizes do not become absurdly small. (<link linkend="abra_5_12">fig. 5.12</link>)</para>
+
+	<para>Within reason, it is possible, where structural design allows, to terrace the back of the building. (<link linkend="abra_5_13">fig. 5.13</link>)</para>
+
+</sect1>
+
+
+<sect1>
+	<title>5.11. Vehicular storage</title>
+
+	<para>Regulations currently state that multi-story, multi-unit buildings should provide an amount of onsite parking spaces equal to the number of apartments planned. However, if the building program demands that more spaces be provided (as affluent home owners may have two or three cars), then the design should account for this.</para>
+
+	<para>The easiest place to locate parking spaces is at ground level. This is only applicable where a low ratio of the site is to be developed, usually on smaller developments of &quot;affordable housing&quot; where land prices are relatively low. In these situations, it might also be possible to provide for a second parking space instead of the single parking place required by law.</para>
+
+	<para>Semi-enclosed carports are simple enough to build, since they are simple shelters on legs. The advantage is that they create little visual obstruction. Disadvantages include the fact that they occupy area that might be developed for other, more useful purposes. Often the architectural execution of these carports can be poor in quality, so they are best avoided when designing multi-story, multi-unit buildings.</para>
+
+	<para>Enclosed garages are more secure and can even be sold or rented out depending upon market requirements.</para>
+
+	<para>Sizes for single and double garages were included in Sections 3.22. and 3.23. This is better suited to low-level buildings at street level. If a larger building has its entire width occupied by garage doors, the entire elevation may appear rugged, desolate and even architecturally poor. Also, developing the entire ground floor as garages can detract from the property value and space allocated by build ratio. This does not make sense in terms of selling or renting, because the profit margin achievable by developing ground-floor apartments is still higher. Try to avoid ground-level development of car parking garages at all costs for aesthetic, financial and build ratio reasons.</para>
+
+	<para>Underground garages are usually built on more expensive plots, providing freedom for the better development of the area allowed in build ratio calculations. For this reason, seemingly expensive construction costs can be justified. When used in residential buildings, underground garage plans can take many forms that provide for low-volume use, usually parking in perpendicular rows as shown in <link linkend="abra_5_42">figure 5.42</link>.</para>
+
+	<para>Special attention must be paid to the design of access ramps. The head and foot of the ramp should have an arc radius of 20.00 m to allow for the transition between horizontal surfaces and the main body of the ramp, the length of which depends on the depth of garage from ground level (<link linkend="abra_5_53">fig. 5.53</link>) In some situations such as urban infill sites, a car lift will be used, since there might not be enough room to build a ramp. The cost of this can be offset by the cost of space saved by excluding a ramp. The disadvantages are that these lifts are slow and costly to maintain. If they fail, it may be impossible to enter or exit the garage, thus necessitating a back-up lift.</para>
+
+<para><figure id="abra_5_53"><title>
+Dimensioning of garage access ramps
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_53_tbauramp_m_.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_53_tbauramp_m_.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Dimensioning of garage access ramps
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>The preferred location for an underground garage is in the building’s basement. To achieve this, opposing rows of parking spaces and a central access road must be provided, requiring a width of around 16.00 meters. (<link linkend="abra_5_55">fig. 5.55</link>) Sections 5.7.4 and 5.8.4. describe economical depth arrangements. From this, it can be seen that satisfactory structural solutions are limited.</para>
+
+<para><figure id="abra_5_55"><title>
+Relationship between garages and residential buildings
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_55_melygar_mod.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_55_melygar_mod.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Relationship between garages and residential buildings
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para><link linkend="abra_5_52">Figure 5.52</link> shows where pillars can be placed in relation to parking spaces. Pillars are best located centrally with spacing of 5.00 or 7.20 meters. This location of pillars must be continued throughout the building at higher floor levels. Given the fact that most homes are based on a structural pillar center spacing of 3.60 or 4.20 meters, this should be reflected in the parking area. Therefore, to create structural harmony, car parking spaces are often oversized, leading to increased construction costs.</para>
+
+<para><figure id="abra_5_52"><title>
+Dimensioning of garages
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_52_trmgarazs_m.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_52_trmgarazs_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Dimensioning of garages
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>As most residential building developments are usually about 11.00-12.00 m deep, basement parking only provides enough room for a single row of parking spaces and the access road. This, in effect, increases the cost of parking spaces by 40% per unit, which is not economical.</para>
+
+	<para>To resolve this, additional parking must be provided below the garden area, protruding from the building’s contour. This will reduce the development’s green area, perhaps requiring expensive green roofs or resulting in different floor slab levels.</para>
+
+	<para>Another option is to place the underground garage next to the building. This will not interfere with the residential building’s structural composition. Allow the basement to be used for general storage and provide more distance to develop an access ramp to the garage. (fig. 5.55)</para>
+
+	<para>Access to and from an underground garage must be via a ventilated, smoke-free, fire resistant staircase through an &quot;airlock&quot;. No other access (lifts included) should be available to this area. </para>
+
+	<para>Due to the nature of car exhaust fumes, mechanical ventilation must be provided. The mechanical service room for this purpose must be placed beside the garage, within the building’s volume, ensuring that all exhaust fumes are extracted vertically to above the building’s highest roof level. These extractor fans can have ducts with cross-sections of around 1.00 m². Design of such systems should be undertaken by mechanical engineers employed from at the initial stage of building design.</para>
+
+</sect1>
+
+<sect1>
+	<title>5.12. Waste management</title>
+
+	<para>Waste management and the size of facilities depend upon the size of the building and frequency of removal. Waste is collected in storage receptacles commonly known as &quot;bins&quot; (<link linkend="abra_5_56">fig. 5.56</link>) or larger &quot;containers&quot;. These need to be emptied by special waste disposal vehicles. As the size of the developments increase, so does the frequency of removal.</para>
+
+<para><figure id="abra_5_56"><title>
+Refuse collection receptacles
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_56_szemetedeny.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_56_szemetedeny.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Refuse collection receptacles
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>The required number of bins depends upon occupancy levels and frequency of disposal services. Budapest's regulatory council calculates that each person creates 3 liters of domestic waste per day. (This is actually a little optimistic, and more should be allowed for.) City-wide collection periods vary from three times a week (in the city center) to once a week (in the suburbs). This service is provided by agreement with specialist waste management contractors. The amount of bins provided should be calculated on the assumption of the building’s full occupation.</para>
+
+	<para>Domestic waste should be stored within the building or on the building's land in an area devoted to bin storage. Waste storage must not be placed more than 10.00 meters from the disposal vehicle. Waste receptacles must not be transported via stairs. Waste storage should be accessed via a public part of building opening onto public space. Waste storage can be placed in the entrance hall or vestibule. This area should be naturally ventilated, easily cleaned and sized in proportion to the building’s occupancy level. <link linkend="abra_5_57">Figure 5.57</link> provides an indication of how &quot;waste containers&quot; can be optimally provided for.</para>
+
+<para><figure id="abra_5_57"><title>
+Dimensioning of refuse storage areas
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_57_szemetes.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_57_szemetes.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Dimensioning of refuse storage areas
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Bin cupboards can be placed on the land of multi-unit residences and urban villas, within a practical distance, as part of the boundary fence or retaining wall. These are usually small cabins of about 80 cm depth with a minimum interior height of 150 cm. (<link linkend="abra_5_57">fig. 5.57</link>) Obviously, this should be designed in an architecturally sensitive manner with respect to garden facilities and greenery – in some cases, even hidden by vegetation. This must also be easy to clean, so it is best placed close to garden irrigation, hose or tap.</para>
+
+	<para>Public waste disposal contractors are only expected to collect waste from buildings that open onto public space. Larger developments, including private housing estates, cannot be entered (unless under separate terms of contract, usually at additional cost and with proof of access road being provided). In these situations, it is more usual for the private development management to provide a central waste disposal station.</para>
+
+	<para>In the past, examples of waste disposal chutes were installed in middle-size high-rise buildings, the residents not wishing to descend to the ground floor to dispose of rubbish. This was usually a shaft, 40 cm in diameter, placed on each floor and leading to a waste receptacle at the end of the shaft. This created many problems, mostly connected with hygiene, since it was not cleaned often enough. The shaft could become blocked, providing a breading ground for maggots. This method is best avoided, as waste disposal now includes selective waste collection.</para>
+
+	<para>Although selective waste disposal is in its early days, it is imminent. This service requires use of designated waste receptacles. To date, the sizing and types of waste to be collected have not always been defined. Therefore, provide more space for waste storage to allow lee-way with regard to future developments.</para>
+
+</sect1>
+
+
+<sect1>
+	<title>5.13. Non-residential areas</title>
+
+	<para>In previous chapters, shared spaces, car parking, boiler rooms, machine rooms and waste storage have been discussed.</para>
+
+	<para>The entrance hall or vestibule should house the intercom and postal boxes. It should also be sheltered from the rain.</para>
+
+	<para>In case of fire, the escape route should be sufficiently large enough to allow for easy evacuation. When used in middle-size high-rise buildings, this escape route must allow for the evacuation of at least 50 people. Therefore, doors must open in direction of escape.</para>
+
+	<para>The purpose of the vestibule is to create a barrier between the outside and inside spaces (preventing drafts and heat loss). A vestibule is highly recommended in middle-size high-rise buildings, but left to the designers’ discretion in smaller developments. If a building’s entrance has direct access to a heated space (waiting rooms, lounges), then a vestibule is highly recommended.</para>
+
+	<para>Common storage rooms are usual in residential buildings and usually located near the main entrance. Better still, they can be placed in the basement, providing more room for storage of less frequently or seasonally used items (e.g., sledges, skis, cots, sports equipment and furniture). These facilities are usually not developed as individual rooms, but as secure cages.</para>
+
+	<para>Shared facilities (such as a fitness room, sauna, game room or craft workshop) might also be provided. The cost for this is included in the price of each home. In the case of poor management or maintenance, it can have a negative effect on market values. </para>
+
+
+	<para>Non-residential areas of the building require maintenance service providers, usually provided by an outside contractor. In luxury developments, this might extend to porter service, cleaning service, maintenance service, etc. In some developments, this might include common lounges, sauna, body-building gym or even a swimming pool. All of these extra requirements will need to be correctly planned, as well as financially managed and maintained in order for them to succeed.</para>
+
+	<para>Retirement homes are also being developed in larger numbers, usually operated by a business or charitable organization. (Elderly residents might transfer part of their pension funds, or they may have sold their homes in order to live in such a development.) It will be important to provide medical services, doctor’s offices, space for daytime activities and craft rooms. The subject of housing for the elderly covers a wide social range – from low-income to high-end luxury facilities. This type of development, though partially a residential building, is viewed, in fact, as a public building.</para>
+
+	<para>Non-residential functions are more common in urban developments. In Budapest (regulation states in denser districts), residential functions cannot be planned on the ground floor due to traffic noise and air pollution. These areas are ideal for commercial functions or service providers. Obviously, these functions should not be accessed by the same door as the residential development, so provide extra doors. Another possibility is for ground-floor facilities (car park, waste storage, etc.) to share the space with non-residential occupants.</para>
+
+</sect1>
+
+
+<sect1>
+	<title>5.14. Sustainable and energy efficient design (Dr. JB, AN)</title>
+
+	<para>Reduction of heat loss and use of solar energy will be cost effective in multi-story, high-rise buildings. As apartments are placed side by side, heat loss decreases (per m²). Orientation of apartments is harder due to site, road and urban fabric restrictions.</para>
+
+	<para>Core houses built in the 30s were oriented on a north-south axis, reducing the size of the south elevation and thus reducing the surface area that can be used for positive solar gains.</para>
+
+	<para>Sustainable ideology would place a building along an east-west axis, increasing the amount of southern-facing windows. Even bedrooms could face south, with other spaces being placed in better insulated areas.</para>
+
+	<para>This is not possible with closed corridor buildings. Open corridor buildings are ideal, since it affords a buffer space. When correctly used, this can tip the scale towards positive energy conservation. If glazed, it can be controlled through the use of upper and lower windows that may be opened to balance air quality, wind and noise barriers.</para>
+
+	<para>Often residents take advantage of loggias by glazing them to create solar rooms. Also, projecting balconies can provide shade to apartments below and prevent overheating in the summer months.</para>
+
+	<para>It is important in multi-story, multi-unit buildings to prevent excessive heat loss through filtration. Elevations facing the windward side create suction on the opposite side of the building. This, in turn, creates increased air exchange rates, greater than those actually needed, and hence heat loss. However, care should be taken to prevent sealing the building, since moisture can not escape and condensation will lead to fungal mold developing on interior surfaces.</para>
+
+	<para>Prevention of filtration can be assisted by the placement of buffer zones, shading devices and enclosed balconies. Wind pressure can also be reduced by use of &quot;planted wall&quot; systems. This is practical for heights of up to 4 or 5 stories. (See next chapter.)</para>
+
+	<para>One of the greatest problems with mid-size high-rise buildings is the effect of gravity upon stairwells and lift shafts. The difference in height means that they act as natural ventilation routes, drawing heat out of the building. This can be prevented by reducing the size of the main entrance door. Design the stairwell as a smoke-free escape route (with fire doors that are airtight). This obviously works when one stairwell is provided, but when a development has two stairwells, then both must be smoke-free escape routes. These factors can bring into question the ecological viability of high-rise buildings.</para>
+
+	<para>Care should be taken, even at the sketch design stage, to avoid structures that might be hard to insulate, cause thermal bridging or require unnecessarily complex detail solutions in order to be developed. Good examples of this are balconies and open corridors supported on consoles. They can solve thermal transmission issues, but are expensive to install. This applies to all design stages and specialist structural solutions. (<link linkend="abra_5_58">Figure 5.58</link> demonstrates how well designed fenestration can support energy efficiency, the same being applied to the multi-story project in Oslo, <link linkend="abra_5_17">figure 5.17</link>.)</para>
+
+<para><figure id="abra_5_58"><title>
+Examples of energy conscious placement of fenestration (interactive). Oslo. Multi-unit housing
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_58_oslohoablak.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_58_oslohoablak.jpg" format="JPG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of energy conscious placement of fenestration (interactive). Oslo. Multi-unit housing
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Choosing a heating system for multi-story, multi-unit buildings can also impact energy balance issues. (Should each home have independent systems, or should the building have a central heating plant?) Consult with mechanical and electrical engineers. Use solar devices on the roof to aid in the generation of hot water and to support the heating system.</para>
+
+</sect1>
+
+<sect1>
+	<title>5.15. Integration of soft landscape (AN)</title>
+
+	<para>Green space planning is not always considered part of the design program. However, in dense urban areas, courtyards might provide green areas or water features. Green roofs could be developed or &quot;planted walls&quot;. All of these providing beneficial microclimatic conditions, reducing the need for mechanical solutions in summer months. They improve the aesthetic environment and create visual comfort.</para>
+
+	<para>Vegetation reduces noise and dust pollution. Sound waves and vibrations are absorbed by plants, reducing noise pollution to walls. Dust and other airborne particles or pollutants settle on leaves and are subsequently washed away by rainfall. </para>
+
+
+	<para>A green roof is specially designed to provide vegetation cover. In the summer, these roofs use physical mass and moisture to draw heat away from the building. In the winter, they act as an insulating blanket, preventing ice build up and heat loss. </para>
+
+	<para>At the design stage, insulation thickness should be taken into account in order to balance slab and green roof sizes. The total thickness of the roof above the structural slab will be about 40-50 cm, depending upon the intended growing medium. Green roofs are not always flat and can be established on pitched or curved roofs, too. &quot;Extensive&quot; green roofs are those that do not require regular irrigation – such as sedum, rock garden plants, herbs and fragrant, colorful perennials. &quot;Intensive&quot; green roofs are best developed when easily accessed, since the vegetation requires regular irrigation (via roof terraces).</para>
+
+	<para>&quot;Planted walls&quot; or green facades are best used in dense urban areas where dust and sound reduction are required. These walls also provide cooler interior spaces, offering shade to prevent overheating. Evaporation from the plants also creates air currents which flow over the building’s surface, creating a concealed, cooling effect.</para>
+
+	<para>Older buildings support spontaneous green facades (ivy or vine-covered walls) as shown in <link linkend="abra_5_59">figure 5.59</link>. This often occurs on front walls, creating low-weight lush vegetation. The roots of these plants need little maintenance. Care must be taken not to over-prune this type of vegetation, since it can grow naturally up to a few floors in height without any form of structural assistance. When required to grow higher, support structures are needed for safety reasons and to protect the plant from wind damage. (<link linkend="abra_5_60">fig. 5.60</link>)</para>
+
+<para><figure id="abra_5_59"><title>
+Spontaneous formation of green elevations
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_58_oslohoablak.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_58_oslohoablak.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Spontaneous formation of green elevations
+</phrase></textobject>
+</mediaobject>
+</figure>
+
+<figure id="abra_5_60"><title>
+Built green elevations
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E5/web/eng_5_60_zoldhoml.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E5/eng_5_60_zoldhoml.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Built green elevations
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>New design trends favor &quot;planted walls&quot;. These require specialist suspended planters to be fixed to the elevation and need continuous irrigation. The building’s wall must be well-insulated against this regular watering. (These walls need continuous maintenance and are expensive.) The area between the plants and wall require an air gap.</para>
+
+	<para>New technologies have been developed to assist in the architectural design of planted walls. These can even help in the choice of plants used to create picturesque displays of color and patterns. In this case, one also needs to consult a botanist who has specialist knowledge not only of the plants required, but also of how to build these structures.</para>
+
+</sect1>
+</chapter>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simpledc 
+ xmlns:dc="http://purl.org/dc/elements/1.1/" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:noNamespaceSchemaLocation="http://dublincore.org/schemas/xmls/qdc/2003/04/02/simpledc.xsd">
+<dc:title xml:lang="en">Housing design</dc:title>
+<dc:creator xml:lang="en">János Bitó</dc:creator>
+<dc:contributor xml:lang="en">András Pandula</dc:contributor>
+<dc:contributor xml:lang="en">Ágnes Novák</dc:contributor>
+<dc:contributor xml:lang="en">Oliver Sales</dc:contributor>
+<dc:subject xml:lang="en">residental</dc:subject>
+<dc:subject xml:lang="en">building</dc:subject>
+<dc:subject xml:lang="en">design</dc:subject>
+<dc:subject xml:lang="en">residental building</dc:subject>
+<dc:description xml:lang="en">This material is primarily for those who will use this knowledge in the course of their studies and while practicing design work. While the information contained here is enough to assist in the design of residential buildings, it is not does cover everything. The creative architectural design process should also include a certain knowledge and an innate judgment of values and emotions, a sense of taste and imagination. These skills can not be mastered with a single book. Development is best achieved through personal experience and continuous cooperation with skilled tutors. The majority of material published within has been revised and expanded from a previous book by János Bitó entitled Lakóházak Tervezése, copyrighted 2004, János Bitó and B+V lap és Könvykiadó Kft.</dc:description>
+<dc:publisher xml:lang="en">Budapest University of Technology and Economics, Department of Residential Buildings</dc:publisher>
+<dc:type>Text</dc:type>
+<dc:format>text/xml</dc:format>
+<dc:format>application/pdf</dc:format>
+<dc:format>application/epub</dc:format>
+<dc:identifier>[URI, ISBN, ISSN]</dc:identifier>
+<dc:source>Bitó János: Lakóházak tervezése, B+V Lap és Könyvkiadó, 2004</dc:source>
+<dc:date>2013-11-11</dc:date>
+<dc:language>en</dc:language>
+<dc:rights>Budapest University of Technology and Economics, Department of Residential Buildings</dc:rights>
+</simpledc>

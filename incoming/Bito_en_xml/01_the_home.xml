@@ -1,0 +1,1877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE chapter PUBLIC "-//OASIS//DTD DocBook XML V4.5//EN" "http://www.oasis-open.org/docbook/xml/4.5/docbookx.dtd">
+
+<chapter id="E1_hte_home"> 
+	<title>The Home</title>
+
+<sect1 id="E1_Preface">
+	<title>1.1 Preface</title>
+
+	<para>Defining the term <emphasis>home</emphasis> is not easy to do, but it is necessary, especially when asked to define a nation's housing stock. When a home has no hygienic infrastructure – whether it be an urban home that is totally eroded due to a lack of maintenance, or a rural room that houses an extended family – the question arises, “How does one calculate this?” Obviously, this is housing at its very lowest extreme, a standard would not be acceptable for new residential dwellings.</para>
+
+	<para>Previous government standards described a minimum requirement for home building (entrance hall, lounge, kitchen, bathroom and toilet) that did not include certain use types. This had a shortcoming, however, since it did not encourage the design of new homes, because it did not cover issues of practicality – an entrance porch or separate location for the kitchen, for example. Defining these practical means as mere technical objects alone is not sufficient; it can only hinder innovation.</para>
+
+	<para>Would it not be more appropriate to assess the meaning of the noun <emphasis>home</emphasis> as a place covered by the verb <emphasis>live</emphasis>? We can live not only in an apartment; it is possible to live in a hotel, youth hostel, nursing home, etc., which allow for sleep, recreation, meals and personal hygiene. Prisoners are not referred to as living in prison; they are said to be held in a penal institution.</para>
+
+	<para><emphasis>Live</emphasis> refers to a refuge for the sensations, a place that provides mental comfort.</para>
+
+	<para>An orphanage or juvenile facility is not a home in the traditional sense, but within its structure, it does provide, at a foster-parenting level, a home in terms of cooking, washing, cleaning and other domestic activities.</para>
+
+	<para>Homes can be seen as places that provide for two-generation families (parents with children). It is now increasingly rare to find homes with three-generation families (grandparents, parents and children), childless families, older couples, broken homes (divorced parent and children) and mixed families. It is also true to say a large number of people live alone. There are also homes that occupy non-family groups (loose connections of older children living with relatives or other community types including shared housing among friends and students). These shared occupancy groups are viewed socially as a <emphasis>household</emphasis>.</para>
+
+	<para>The <emphasis>home</emphasis> within a home communicates a message of close human relationships as well.  This might be as individuals or as a group encompassing friends and social relationships, occasionally welcoming guests. Members of the household also need times of safe passage to the wider community of work, education or private activities. Family homes must also facilitate child care and child rearing, even though this is not present in some homes. (Often homes intended for one or two users have to accommodate children as well, but usually in emergency situations.)</para>
+
+	<para>The concept of home may be written as follows: The home consists of a group of spaces in which an individual or group of people in close relationship can reside for extended periods of time – allowing for appropriate physical and mental comfort, humane relationships and activities at home, as well as providing storage for basic needs, objects, equipment, etc. Housing's basic activities include leisure (common pastimes, receiving guests), common meals, sleep and relaxation, the residents’ individual activities, preparation of food, cleaning, washing, hygiene and storage of items.</para>
+
+	<para>Accordingly, you can not enforce quality criteria, since what would be viewed as <emphasis>appropriate</emphasis> should not be left out of this definition. A village hut with a single room also serves as a <emphasis>home</emphasis>, but does not meet the terms described.</para>
+
+	<para>In order to establish a goal for housing requirements, we must make sure that our assessment of the national housing stock takes into account income-related solutions, from low-cost rental social housing to luxury homes.</para>
+
+	<para>Once the criteria for a nation’s current economic norm (usually fixed) can be agreed upon, then it is possible to establish the lower limit at which planning and construction licenses may be issued. This should ensure the right of life and health, while preventing harmful solutions (e.g., defining a normative level of heating, ventilation and pollution-control measures). On the other hand, wealthier, advanced societies should provide a centralized norm that ensures and guarantees the increased value of housing as a national asset.</para>
+
+	<para>The following observations about housing design issues do not attempt to discuss conventional uses of space or functions as expected under current socio-economic conditions, but those that are considered spatial and objective concepts necessary to provide a standard of living.</para>
+
+<note>
+	<para>A slow but continuous change can be observed in the development of housing. Connections or even separations might be observed due to work-related activities, entertainment, as well as cultural or even social environments. The home of the twenty-first century often revisits themes of the twentieth century. In many cases, these are purely functional forms which, due to work or leisure activities, might require nothing more than furnishing solutions, but the phenomenon of &quot;abundance&quot; design, which might have financial drawbacks over  the  lifetime of a given project, allows these spaces to be adapted for different uses over time. (AN)</para>
+</note>
+
+</sect1>
+
+
+<sect1 id="E1_Dimensions_of_residential_spaces">
+<title>1.2. Dimensions of residential spaces</title>
+
+<sect2 id="E1_Measurement_systems">
+<title>1.2.1. Measurement, measurement systems, scale, scale systems</title>
+
+	<para>The Hungarian word for engineer, <emphasis>mérnök</emphasis>, vividly expresses the foundation for technical activities. Its meaning is &quot;one who measures&quot;, derived from the ancient idea of the human body serving a measuring tool. Some countries still use these ancient techniques related to body size (thumb, palm, span, foot, elbow, ell and fathom). This served well for primitive construction, allowing for differences in the actual size of the builder's body; but later these units where fixed on various measurement devices, obviously at different intervals of time depending on the geographic location.</para>
+
+	<para>The inch-and-foot measurement system is still used in some countries, including the United States, Canada and Australia, as well as in international aviation. (<link linkend="abra_1_03">fig. 1.3</link>)</para>
+
+<para><figure id="abra_1_03"><title>
+Comparison between ISO and other systems of measurement
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_03_meretrend.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_03_meretrend.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Comparison between ISO and other systems of measurement
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+
+	<para>Some systems used prior to the introduction of the metric system are still used in Hungary today – for land units, the <emphasis>negyszögöl</emphasis> (square foot). One Viennese foot (or <emphasis>Klafter</emphasis>) is equal to 189.65 meters; therefore, 1 <emphasis>négyszögöl</emphasis> = 3.597 m². Construction timber is often measured in units of <emphasis>cölös</emphasis> (inches) derived from the German word <emphasis>Zoll</emphasis>.</para>
+
+	<para>Measurement systems based upon the human body have been useful in architecture due to the direct relationship between body and spatial dimensions. It is often said that beautiful architecture takes its proportions from a well-formed man's body.</para>
+
+<note>
+	<para>VITRUVIUS (Architect to Roman Emperor Augustus) in his works titled &quot;De Architectura&quot; writes, &quot;the proportion of all works, together with all units of measurement overall, are ordered by symmetries. The symmetry and proportion applied to the design of a temple can only be exact proportions, as exist among the members of a man's physique.&quot; After an analysis of fine human physique, Vitruvius proposes, &quot;In addition, the body's natural centre is the navel. Should a man be placed supine with arms and legs outstretched with a compass placed in the centre of the navel, a circle thus described will touch the fingers and toes. Just as the body describes a circular form, squares might also be found within. It is also possible to observe that if one measures the distance from the sole of the feet to the top of the skull, it is equal to that of the outstretched arms. This width and height in turn is equal to the square which it also describes&quot;. (Translation by Dénes Gulyás)</para>
+</note>
+
+	<para>The Ancient system for division of parts is known as the &quot;Golden Section&quot;, which states that &quot;Two quantities are fall within the golden ratio if the ratio of the sum of the quantities to the larger quantity is equal to the ratio of the larger quantity to the smaller one.&quot; Leonardo da Vinci's well known illustration of the Vitruvian Man (fig. 1.1) adopts the golden section by using the public bone as the center of the square in proportion to the centre of the navel.</para>
+
+<para><figure id="abra_1_01"><title>
+Leonardo (Vitruvian illustration) constructing the golden figure and the golden ratio
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_01_aranyleonrd.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_01_aranyleonrd.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Leonardo (Vitruvian illustration) constructing the golden figure and the golden ratio
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Towards the end of the 18th century, the French National Assembly adopted a decimal system of measurement proposed by their Academy of Sciences: metric, which is based upon a unit one forty-millionth of the distance through the Earth from Paris to South Korea (the Earth’s meridian through Paris). The metric system has been broadly adopted in most industrialized countries in 1889 (excluding Great Britain and the United States). This system is much easier to use, since it is not related to complicated measurements of the human body as is in the inch-and-foot system. (One centimeter, one decimeter and one meter are not related to any bodily dimensions.)</para>
+
+	<para>In the last century, the brilliant Swiss/French architect Le Corbusier, for his own design purposes, developed his own measurement system based upon the body and the golden section, as well as metric and inch-foot units. This system is known as Modulor. (fig. 1.2)</para>
+
+	<para>A brief description of Modulor, as a geometric system, is as follows:</para>
+
+<para><figure id="abra_1_02"><title>
+Le Corbusier: MODULAR. First golden figure and final version
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_02_modulor.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_02_modulor.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+<textobject><phrase>
+Le Corbusier: MODULAR. First golden figure and final version
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+
+	<para>A six-foot-tall (183 cm) figure is based upon the human form. The golden section places the navel at a height of 113 cm. Double this (226 cm) for the height of the raised hands. The differences in among these measurements give us a set of values (226, 183, 113, 70, 43 cm) that conform to the Fibonacci sequence, where the larger value is the sum of its two predecessors. Then draw two columns – one in red which is 183 cm high, and one in blue which is 226 cm high. Then subdivide these columns according to the golden section in ascending scale, and it will become apparent that these measurements approximate, with some degree of tolerance, the metric and inch systems. This provides a wealthy variation of measurement units.</para>
+
+	 <para>The proportional Modulor figure may have been proved quite instructive – Le Corbusier's original was based upon the average height of European people at the time (175 cm) and later adjusted to six feet (183 cm) – since it returned to the fact that rooms need to be based upon the measurement of the human body, best described in feet and inches. Still, Le Corbusier's Modulor system is rarely used, although it is regarded as a brilliant intellectual performance.</para>
+
+	<para>The construction of building elements requires a system of lines with sizes and dimensions, including distribution of units or joints.</para>
+
+	<para>(From ancient times to the present, the brick has been used as a standard scale of measurement. These are otherwise known as scale coordinated products.)</para>
+
+	 <para>International Organization for Standardization (ISO) specifies that the decimeter, H=10 cm, be adopted as the construction industry’s standard module, with larger measurements described as Multi-Modules and smaller ones as Sub-Modules.</para>
+
+	<para>Upon examining the ISO Module system, it is apparent that 3M Multi-Module is similar to the measurement of a foot. 9M Multi-Module is almost a yard, and a measurement of 1/4 Sub-Module approximates one inch. All of these are components of the British Imperial system. The common measurement of a footprint, or 3M (30 cm), often forms the basis for residential buildings design. Structures in multiples of 6M (60 cm) and certain products including interior doors, kitchen furniture and appliances are similarly based upon the size 1.5M (15 cm).  (<link linkend="abra_1_03">fig. 1.3</link>)</para>
+
+	 <para>With respect to the dimensions in residences, values in subsequent examples are often rounded to the closest 0.5M (5 cm) Sub-Module. This accuracy should prove adequate to determine the spatial demands of household activities.</para>
+
+</sect2>
+
+
+<sect2 id="E1_Ergonomic_data">
+<title>1.2.2. Ergonomic data and movement-related situations</title>
+
+	<para>The use of domestic spaces and appliances, although related to the size of the human body, cannot be solely adapted as a basis for design. Some consider this a basis for design, but on closer examination, use of the average population’s size would only guarantee the comfort of half the population. Nor is it appropriate to correct the height of the kitchen counter and sink to suit a taller than average person; this also would be a mistake. Anthropometric data suggests that some items might need to be higher or lower than the given size of an average individual.</para>
+
+	<para>Some residential buildings, such as homes for the elderly or disabled persons, require that certain functions be adapted to suit occupants. (See chapter 1.7.)</para>
+
+<note>
+	<para><emphasis>Houses and homes need to consider the diverse needs of their respective residents over its lifespan. This must be taken into consideration when the building is new. Variations in household living patterns occur due to the birth of children, youths leaving home, or even elderly members of the family being taken into the extended family’s care. Changes might also occur due to temporary or permanent injury, illness or disability. A home should be readily adaptable, so any likely changes to its elements can occur without major disruption or redevelopment in its primary structure and infrastructure. (AP)</emphasis></para>
+</note>
+
+	<para>Architectural design does not have to be restricted to the size of the human body in terms of spatial units, although it is recommended to consider the sizes of the human body during the planning process, since they are fixed in design standards and specifications. At different times, documented information has been made available to assist in the process. Separate disciplines have also described the human body in terms of anthropometry, including the garment industry, furniture industry, automotive industry, etc. Continuous measurement is also required as the average human changes from generation to generation.</para>
+
+	<para>To take a Dutch example, the average 18-year-old’s height is 181cm, approx. 190 cm for males and a little over 170 cm for females. It is also recorded that, over the last half of the 20th century, the average height increased by 1.3 cm every ten years, reflecting a mean overall increase of 6cm, due to better nutrition and quality of health care. This does not mean that Dutch figures will continue to rise at such a pace, but it might indicate similar future increases in domestic Hungarian growth patterns.</para>
+
+<note>
+	<para>Based on these figures it was recommended by the EU in 1996 that the industry standard for internal doors have a minimum clearance height of 210 cm. (AN)</para>
+</note>
+
+	<para>Ergonomics is the science which deals with the reasonable amount of space and energy required to perform a task to gain highest performance results. This publication deals with information based upon previous academic research, both domestic and EU-wide, into specific ergonomic requirements where sizes are rounded to multiples of 5 cm (sufficient in accuracy for design of residential spaces and areas). Doing so facilitates the learning process by removing the need to refer to several manuals at one time. This system, however, is too rough for highly-detailed, specialist, interior design dimensions; therefore, it is recommended to refer to other manuals where more accurate information might be found. Illustrations showing dimensions have been rounded to the nearest 1M or 0.5M for easy use. (fig. 1.4) Movement around and within the home (unfurnished surfaces) are described in terms of the minimum dimensions required. (fig. 1.5)</para>
+
+<para><figure id="abra_1_04"><title>
+Various spatial requirements and postures
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_04_testhelyzetek.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_04_testhelyzetek.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+<textobject><phrase>
+Various spatial requirements and postures
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+
+<para><figure id="abra_1_05"><title>
+Circulation in the home. Circulation routes
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_05_kozlekedok.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_05_kozlekedok.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Circulation in the home. Circulation routes
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<note>
+	<para><emphasis>Note that these values provided reflect the lower range of recommended sizes and appropriate use. When considering the conservation of sustainable housing stock, long-term practicality should be insured, so current regulations should be forward-looking. When changing the design quality of new homes – and not just with the aim of alleviating housing shortages – the design can include an increase of 5-10% upon the lower limit. Higher standards of living should reflect comfort in terms of the ability to satisfy demand by means of ability to finance such projects. Long-term higher-comfort homes should be constructed to meet that specific demand. (AN)</emphasis></para>
+</note>
+
+</sect2>
+
+
+<sect2>
+<title>1.2.3. Spatial requirement for domestic furniture and appliances</title>
+
+
+	<para>The majority of furniture, fixtures and fittings used in residential building design can be grouped according to function. Built-in furniture and equipment must be indicated on design plans, as they are integral parts of the construction process. A separate plan, often labeled &quot;furnishing plan&quot;, indicates mobile items, although it is not compulsory in Hungary to provide such a plan. (In some countries, it is part of the statutory requirements.) Nonetheless, it is recommended to do so at the initial design stage to assist in schematic development.</para>
+
+	<para>On rare occasions, a client might request the full design of a home including a total interior design package incorporating the selection of all furniture and fittings. For individual home design, it is recommended to discuss furnishing arrangements with the client beforehand. A wise investor, however, is quite aware that a home can maintain its high value over the long term if the furnishing is appropriately arranged. Individually, use of furnishing will change with time according to specific needs. Generally, in most cases, multi-unit residential buildings are repetitive in the design of fixed items, allowing individual users the freedom to arrange mobile furniture at a later date.</para>
+
+	<para>The &quot;furnishing plan&quot; is not intended as an instruction guide for how to place furniture. It is provided to demonstrate how core activities might be performed throughout the home. Therefore, it is inappropriate to allow for specialist furnishing items when planning homes. It is advisable to design with commercially available manufactured items that meet cultural expectations in mind.</para>
+
+	<para>Commercial furniture – even standard items – also varies in dimensions, as does the human body (as previously discussed). It should be taken into account that most furniture is designed in accordance with the average home size. When designing smaller than average homes, care should be taken to be economic in design.</para>
+
+	<para>The space required for an individual item of furniture is usually larger than the item itself. When designing the floor plan, this should be taken into consideration. Standard-sized furniture occupies a furniture zone area. (<link linkend="abra_1_06">fig. 1.6</link>) Some furniture is larger than standard size (within reasonable limits), and some smaller, but they still occupies the same furniture zone. (<link linkend="abra_1_07">fig. 1.7</link>).  It is also possible to benchmark the size of furnishings at lower or different sizes, so long as one allows for the replacement of furniture over the building’s entire lifespan.</para>
+
+<para><figure id="abra_1_06"><title>
+Spatial requirements for furniture (example: armchair)
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_06_fotzona.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_06_fotzona.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Spatial requirements for furniture (example: armchair)
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+
+<para><figure id="abra_1_07"><title>
+Various items of furniture and respective use zones
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_07_butorzona.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_07_butorzona.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+<textobject><phrase>
+Various items of furniture and respective use zones
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+
+
+ 	<para>Important dimensions of most furniture items and their respective use zones are shown in <link linkend="abra_1_08">figure 1.8</link>. Important dimensions of sanitary fittings and their respective use zones are shown in <link linkend="abra_1_09">figure 1.9</link>.</para>
+
+<para><figure id="abra_1_08"><title>
+Important spatial requirements for furniture
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_08_butorok.png" format="PNG" align="center"  width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_08_butorok.png" format="PNG" align="center"  width="100"/>
+	</imageobject>
+<textobject><phrase>
+Important spatial requirements for furniture
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para><figure id="abra_1_09"><title>
+Spatial requirements for sanitary equipment
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_09_berendezesek.png" format="PNG" align="center"  width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_09_berendezesek.png" format="PNG" align="center"  width="100"/>
+	</imageobject>
+<textobject><phrase>
+Spatial requirements for sanitary equipment
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+
+<note>
+	<para><emphasis>Furnishing in some areas may differ significantly from standard values – for example, mobility aids (wheelchairs) or child-care-orientated furniture (baby baths and toilet training seats). Standard designs need not take these extremes functions into account; however, if allowed for in the overall development of a project, it might increase a home’s value. Larger areas in the home should allow for adaptation and the installation of large-scale items. Multi-unit housing and other forms of repetitive development should allow a leeway of 5-10% as a starting point when considering possible extremes in the space provided for furniture, fixtures and fittings. (AP)</emphasis></para>
+</note>
+</sect2>
+
+<sect2>
+	<title>1.2.4. Headroom allowances</title>
+
+
+	<para>In most homes, the headroom provided is continuous throughout, this being the vertical distance between the finished floor and ceiling surfaces. Where a home is built on several levels, the headroom is fixed depending upon individual floor slab heights. Lower headroom might occur in subordinate spaces (storage rooms) or throughout entire floor levels of the building (basements). Sometimes headroom may vary when the floor level differs within a room, or when the ceiling is not built horizontally. The latter case usually occurs when the closing slab is found at roof level (built-in roof space).</para>
+
+	<para>The standard size of a human requires a vertical height of 1.90 m for all activities involving movement while standing. Therefore, any floor area, according to some building codes, that has headroom of more than 1.90 m is classified as &quot;Usable Space&quot; and can be calculated as part of the minimum required floor area.</para>
+
+	<para>&quot;Ancillary Spaces&quot; are usually regarded as less than 1.90 m in vertical height and are often appropriate for embedded and mobile storage facilities, as well as equipment and furniture placement if they are accessible via a usable space with 1.90 m headroom or more. These areas can be used when the occupant is not in a standing position (bed, toilet, etc.).</para>
+
+	<para>&quot;Reduced Utility Spaces&quot; are usually to be found where a higher than minimum (2.20m) headroom is required (corridors and storage areas).</para>
+
+	<para>&quot;Full Utility Spaces&quot; refers to areas where headroom of 2.50 m (<link linkend="abra_1_10">fig. 1.10</link>) may be found as a lower limit for activities where ones hands are raised above head level, including an upper band of space for such uses as the placement of light fittings. This is considered to be lower limit, while the general, average headroom of 2.70 m is usually adopted for medium-standard homes. Spatial comfort is usually proportional to floor area; therefore, a larger room might have a higher ceiling. Take care not to provide ceilings that are too high in small rooms, since this is often considered confusing.</para>
+
+<para><figure id="abra_1_10"><title>
+Domestic headroom
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_10_belmagassag_mod.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_10_belmagassag_mod.png" format="PNG" align="center" width="100"/>
+	</imageobject>
+<textobject><phrase>
+Domestic headroom
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+
+<note>
+	<para><emphasis>The prescribed minimum headroom (2.50 m or 2.20 m) can also benefit construction costs. Obviously higher headroom in core spaces allows for larger windows that provide proportionally smoother and brighter lighting throughout. Areas with greater headroom will also allow for better ventilation and internal airflow, which is more favorable in the summer. Heat loss (cost) is not directly related to a room’s volume, but the ration of surface area/volume. Compact forms of construction do not imply an increase in operational costs in proportion to height. It can signal an increase in comfort and may obviate the need for mechanic assistance (no air conditioners required). For this reason, in some countries, the minimum interior headroom for family houses is set higher at 3.00 m to allow for greater comfort. (AN)</emphasis></para>
+</note>
+
+	<para>Current town planning and building code in Hungary (OTÉK) has fixed average headroom requirements as follows: primarily used room (living room), minimum average height 2.50 m (excluding secondary spaces); less frequently used rooms, 2.20 m (not including living rooms). However, compliance with regulations does not guarantee usability. Check that residential spaces meet performance requirements in all respects. Bedrooms with an inclined ceiling, averaging 2.20 m, might be appropriate but not necessarily recommended with a horizontal ceiling. Let the latter be a space of full utility, which is standard in all cases. A space with less than 2.20 m average headroom may be sufficient for the placement of a toilet. Ancillary spaces below an angled ceiling might be appropriate for locating some furniture, fixtures and fittings depending upon the depth of space available. Demand for use of space might dictate terms regarding lofts outfitted as children's rooms. <link linkend="abra_1_11">Figure 1.11</link> illustrates options for built-in furniture (sanitary fittings, kitchens, wardrobes, etc.). It is advisable to avoid going more than 1.00 m deep into spaces lower than 1.90 m, as it will be problematic to clean without physical discomfort.</para>
+
+<para><figure id="abra_1_11"><title>
+Use of furniture and fittings below sloping ceilings
+</title><mediaobject>
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_11_belmag.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_11_belmag.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Use of furniture and fittings below sloping ceilings
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+</sect2>
+
+<sect2>
+	<title>1.2.5. Door dimensions</title>
+
+
+	<para>Doors in residential buildings are usually single- or double-leaf and, in some cases, sliding. (Sometimes openings between rooms are sealed off by curtains or plastic harmonica doors; however, these options are not air or sound proof, and therefore can not be applied where separation of individual rooms is required.) Double-leaf doors are usually symmetrical, but asymmetrical leaves are occasionally fitted (e.g., entrance doors), the larger leaf being used on a regular basis and the smaller leaf being opened for such tasks as delivery of furniture. Single leaf doors can be described in two ways. When facing the door on its opening side, if the hinges are on the left hand side, this is referred to as a &quot;left hung&quot; door. Conversely, if the hinges are on the right hand side, this is referred to as a &quot;right hung&quot; door. (<link linkend="abra_1_13">fig. 1.13</link>) Doors are provided with or without thresholds. The latter usually applies to doors that separate wet and dry function rooms (e.g., a door to bathroom). Thresholds can be omitted if the difference in floor levels is less than 1 cm (the wet function room being lower) and this difference is covered by a thin metal strip.</para>
+
+<para><figure id="abra_1_13"><title>
+Basic door opening types
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_13_ajtonyit_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_13_ajtonyit_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Basic door opening types
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>In terms of sound insulation, doors without thresholds are not as good as those that have one. Yet, raised thresholds can pose a barrier to disabled users.</para>
+
+<note>
+	<para><emphasis>A home with fewer raised thresholds is advisable in terms of utility and comfort. Consider that small children learning to walk or running around do not lift their feet very high. The same applies to older people shuffling about the home, who risk of falling. This also applies to children in all buildings and nursing homes for the elderly. Where sound insulation and air-tight barriers are issues, automatic  thresholds can be used. Automatic thresholds come in various forms, but are usually of two types: those which rise from the floor when the door is closed, or those which extend from the bottom of the door to meet a rubber sealing strip. The latter is ideal in locations adjoining wet places. (AP)</emphasis></para>
+</note>
+
+
+	<para>On plan drawings, a line is drawn through the center of the door. Above this line, the door’s width is indicated; below this line, the door’s height is shown. Door measurements display two characteristics: the clear opening between frames and the nominal size. The nominal size is fractionally larger than the real, manufactured size to allow leeway for onsite installation. The numbers indicated on architectural plans are nominal sizes. (<link linkend="abra_1_12">fig. 1.12</link>)</para>
+
+<para><figure id="abra_1_12"><title>
+Basic door measurements
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_12_ajtok_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_12_ajtok_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Basic door measurements
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>The recommended clear opening height for internal doors is 205 cm, which most manufacturers provide at a nominal height of 210 cm. </para>
+
+	<para>The actual &quot;use size&quot; of a door is found to be 10 cm larger in width and depth, on both sides, than the inner measurement of the frame. (The door’s actual opening size is larger than indicated on plans.) These larger measurements constitute the door’s use zone. </para>
+
+
+<note>
+	<para><emphasis>Doors placed near corners of walls are best placed 10 cm away from the corner to allow space for the door handle when the door is open position at a 90° angle. The path through this opening then remains clear. (AP)</emphasis></para>
+</note>
+
+
+<para>It is usual to provide an &quot;additional use zone&quot; of 20 cm at the opening side of a door. This allows for ease of use and an ideal place to locate light switches and power supply sockets usually used for vacuum cleaners. (<link linkend="abra_1_14">fig. 1.14</link>)</para>
+
+<para><figure id="abra_1_14"><title>
+Door use zones
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_14_ajtohasznzona_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_14_ajtohasznzona_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Door use zones
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<note>
+	<para><emphasis>The main entrance door is ideally installed in a flat area, at the same level as the interior. Try to avoid ramps and steps. Also allow adequate space for finding door keys to facilitate locking and unlocking. The entrance door is one of the most frequently used places in a home for delivery of parcels and carrying of equipment.</emphasis></para>
+
+	<para><emphasis>(The same applies to the pantry, storage room and laundry room.)  Therefore, it requires a larger than usual &quot;additional use zone&quot; of about 50 cm to ensure comfortable use. This &quot;additional use zone&quot; could be increased still further, which is quite beneficial when we consider children being carried, larger packages being handled, tools (suitcases, clothes baskets, shopping bags,  vacuum cleaner) and even physical aid equipment (wheelchairs, walking frames) to allow for barrier-free access. (AP)</emphasis></para>
+</note>
+
+	<para>Sliding doors can be advantageous in some situations, as they occupy little space. Still, they are not as air-tight or sound proof as conventional doors. Sliding doors can be mounted to the door opening without the need for a frame, or they can be built into a framed opening if required. These doors do extend in front of walls when open. (<link linkend="abra_1_15">fig. 1.15</link>) This surface can be hidden behind furniture (e.g., a bookshelf) or placed into a demountable bulkhead wall.</para>
+
+<para><figure id="abra_1_15"><title>
+Sliding door dimensions
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_15_toloajto_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_15_toloajto_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Sliding door dimensions
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+ 	<para>Placing a sliding door between two masonry walls is not advisable, since it is hard to fit the guiding track and even harder to repair should the system fail. The latter might result in the need to demolish then rebuild one of the side walls.</para>
+</sect2>
+
+<sect2>
+	<title>1.2.6. Window placement</title>
+
+
+ 	<para>The primary function of windows is to provide daylight and ventilation (later discussed in parts 1.5.1. and 1.5.2., respectively). The development of residential spaces is influenced by the placement of windows in relation to where optimal lighting is required for practical reasons.</para>
+
+	<para>The windowsill level is determined by location and light requirements. (<link linkend="abra_1_16">fig. 1.16</link>) The windowsill in living rooms and bedrooms is usually located at a height of 90 cm, which allows for a clear horizontal view out of the window from a sitting position. In attic space rooms, which are a little more ambiguous, windows should be placed so that the bottom edge of the glass surface is not above the eye level of a person seated at 110 cm or 120 cm.</para>
+
+<para><figure id="abra_1_16"><title>
+Placement of windows
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_16_ablakfajt_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_16_ablakfajt_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Placement of windows
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Lower sills or windows without sills may be used where intensive visual contact is desired with the outdoors. This usually occurs in rooftop terraces or living room windows overlooking gardens. When using these windows one should also consider heating the room, since radiators cannot be paced below them (or only with limitations). Where the external ground level is more than 80 cm below the finished floor’s interior level, a sill level of 80 cm or more should be employed as an inhibitory safety wall. When upper floor windows have sill levels lower than 80 cm, a horizontal safety measure should be placed at a height of 95 cm above the floor level. This must be fixed and reduce the risk of falling out of the window. It is also recommended to use shock-resistant safety glazing in these locations.</para>
+
+	<para>Where larger than standard areas are used, vertical glass structures generally require some form of solar shading device to provide protection against overheating in the summer. Vertical surfaces, glass doors and windows, do not provide the interior with much lighting below 60-80 cm in height (unless the interior floor’s finish is reflective, which could be disturbing). This should be taken into account when calculating interior illumination levels. When considering heating, security and maintenance, a 20 cm zone should be provided along the solid structural line of the wall. In cases where the glazing starts at floor level, sunken radiators or heated floors should be used to prevent condensation at lower levels. Low-level windowsills also compromise a building’s thermal performance, especially in winter conditions, due to the glazing’s lower surface temperature. This brings about a need for high-performance glazing solutions.</para>
+
+	<para>Larger-plan area spaces require more light at eye level, which is best achieved by increasing the number of light sources by introducing vertical windows that are higher than usual instead of wider horizontal windows (with the same area of glass being used to do so).</para>
+
+
+
+<note>
+	<para><emphasis>Inclined glazed surfaces can increase summer overheating. Therefore, consider the orientation of windows to take this into account. A good example of this is when a bedroom has an east-facing inclined window. It will be exposed to more direct sunlight for a longer time than a vertical window and lead to discomfort through overheating in summer months. This demonstrates that increasing the size of inclined windows is not always beneficial unless used in specific design situations (studios, greenhouses, etc.). (AN)</emphasis></para>
+</note>
+
+	<para>Some bands of furniture might be placed below parapet level (desks, kitchen units, etc.), but they should not be deeper than 75 cm, or it would be hard to reach the window handle.</para>
+
+	<para>The usual location for a heating element (radiator) is below the windowsill. This wall also conceals the heating pipes. Therefore, allow a clear zone of 15 cm in front of windows (fittings zone) that should not be furnished. Built-in furniture can occupy this fittings zone so long as it is provided with cover units. In some situations, the heating pipes are placed in the floor, and the fittings zone will only need to occupy the width of the window, not the wall adjacent to it. When preparing construction drawings, take care to consider where pipe work and wiring run and provide a safety margin for later furnishings. (<link linkend="abra_1_16">fig. 1.16</link>)</para>
+
+ 	<para>If built-in kitchens are placed below windows, sills should not be lower than 120 cm (100 cm in some cases)  as side hung windows will interfere with activities on the worktop. In this situation, the radiator will be located elsewhere, unless the kitchen unit functions solely as a work surface without cabinets below. A ventilation gap will still be required along the work surface to prevent any obstacle to the free circulation of air. (Note: Homes for disabled users do not accept this practice, as radiators could burn people’s legs without them being aware.)</para>
+
+ 	<para>Bathrooms and toilets often have higher sill levels to prevent people from looking in. Windows might also have opaque glazing (e.g., cathedral glass and sand blasted glass), but this is often detrimental to the elevational treatment. It is advisable not to place bathtubs in front of windows, especially with high sills, as they are hard to open without specialized handle systems.</para>
+
+	<para>Window sizes and placement often create problems when designing a building’s elevations. A single window might have a negative impact on the rhythm or proportion of a building’s elevational treatment. It falls upon the architect to balance these problems and solve the design, often leading to the redesign of an entire room, to create a positive elevation. That is why it is advisable to consider the design of elevations when beginning the very first sketch plan.</para>
+
+</sect2>
+
+<sect2>
+	<title>1.2.7. Determination and dimensioning of spaces</title>
+
+	<para>Dimensioning is an important part of process required to determine which activities take place within residential spaces. This is also combined with use of certain furniture and furniture groups.</para>
+
+	<para>If individual items of furniture are placed in usage groups, then the use zones will overlap and then circulation spaces will become visible. (<link linkend="abra_1_17">fig. 1.17</link>)</para>
+
+<para><figure id="abra_1_17"><title>
+Compilation of furniture groups
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_17_butcsprt1m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_17_butcsprt1m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Compilation of furniture groups
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>A residential area (room) can be assigned its given area once each item of furniture, as well as the fixtures, fittings and circulation spaces are assigned minimum floor-plan dimensions. (<link linkend="abra_1_16">fig. 1.16</link>) Obviously, the use zones and circulation areas do not have to be marked on plans. If furniture arrangements are considered – initially, in minimal spatial terms – it is easy to expand these sizes later on; and if possible, it is recommended to do so. One does not want a room to be furnished solely in one way, so allow a desired amount of flexibility or &quot;reserve space”. A careful architect will dimension with these furnishing variations in mind.</para>
+
+	<para>Experience often shows that furnishing zones and circulation areas often seem to be smaller than required. In fact, given the size of most plans, some reserve space should be allowed for.</para>
+
+	<para>Sanitary equipment is built in during a home’s construction phase and has to be precisely sized, allowing for use zones. (<link linkend="abra_1_19">fig. 1.19</link>) It is possible to increase this area, therefore allowing a higher standard of amenities that will be better in terms of furnishing, floor area and comfort provided.</para>
+
+<para><figure id="abra_1_19"><title>
+Bathroom size defined by fixtures spatial requirements
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_19_fszmeretez_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_19_fszmeretez_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Bathroom size defined by fixtures spatial requirements
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>When preparing 1:100 or 1:50 scale plans, the room's dimensions apply to structural wall sizes and do not take into account the real thickness of finished walls. This means that a wall's real size might vary in terms of millimeters, but traditionally a wall is about 5 cm thicker than indicated on plans, since each side can be finished with about 2.5 cm of adhesive plaster and wall tiles. This, in turn, reduces the actual size of a room by 5 cm in all directions. In smaller spaces, this can lead to health problems. Although, in larger spaces, the use zone for furniture items provides enough leeway to deal with this; in smaller areas, the thickness of the wall finish must be taken into consideration. (<link linkend="abra_1_20">fig. 1.20</link>)  In most situations, this simply reduces the usable area of a room; but in some situations, neglecting the thickness of the wall’s finish can make the placement of fixed-site fittings or built-in elements impossible. For instance, where kitchen units are placed near doors, variations in wall finishing treatments must be taken into account to avoid problems.</para>
+
+<para><figure id="abra_1_20"><title>
+Wall finishes should be taken into consideration as shown in shorter measurements
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_20_burkmeret.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_20_burkmeret.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Wall finishes should be taken into consideration as shown in shorter measurements
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>The next chapter contains accommodation requirements for lower-level performance criteria. These are poor in appearance and therefore not to be reduced further. Unfortunately, most publications dwell upon items used in the planning of luxury-category housing, while other projects fail to meet minimum standards.</para>
+
+	<para>Some residential dimensions are derived from occupancy levels (e.g., dining room, living room and sanitary areas). The occupancy level shows how many residents can live in the home at the appropriate standard without saturation. However, the housing market is not based upon occupancy levels and cannot be expected to operate so. This is something the architect must consider. Larger homes often reflect affluence, not the size of the family or how many children live there. Still, it is desirable that the home should withstand being fully occupied by the maximum number of residents. The number of potential residents can be determined by the number of beds that are placed, given the proper conditions, within the home. (See Section 1.3.3. on sleep and relaxation.)</para>
+
+</sect2>
+</sect1>
+
+<sect1>
+	<title>1.3. Residential spatial requirements</title>
+
+<sect2>
+	<title>1.3.1. Recreation and entertaining</title>
+
+	<para>The home is where a close emotionally-related group of people (usually a family) communicate and spend their leisure time together. This</para>
+
+	<para>&quot;family time&quot; is not just important for mental comfort, but fosters personality development – primarily, the social acclimatization of children.</para>
+
+	<para>Family cohabitation relationships today are not as close as they previously were. Conversation and board games have been replaced by watching the television. Increasingly, individual members of the household have personal radios or even televisions in their rooms, in addition to a television set shared by the family.</para>
+
+	<para>A common pastime in most homes is receiving guests. That is why the living area is often larger than that required by actual number of people who reside there.</para>
+
+	<para>Generally furniture should be arranged in a group around a readily available coffee table that can be accessed from comfortable armchairs and sofas. A large number of families live in different locations, which leads to the need, in many cases, for family members to visit for a few nights as overnight guests. For this reason, it is unwise to consider sofas that are smaller in size than a bed (for example, the so-called “love chairs” on sale), since they should serve as spare beds. Variations on these furnishing arrangements can be seen in <link linkend="abra_1_21">figure 1.21</link>.</para>
+
+<para><figure id="abra_1_21"><title>
+Shared time, hospitality furnishing	
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_21_kozosido.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_21_kozosido.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Shared time, hospitality furnishing	
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<variablelist>
+	<title>Requirements and recommendations</title>
+
+<varlistentry>
+	<term>Basic requirement:</term>
+<listitem><para>Ensure that members of the household can spend their leisure time together, that guests can be welcomed into the household and that every family member has access to common audio-visual entertainment.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+	<term>Furniture requirements:</term>
+<listitem><para>Lounge furniture group to include seating, a sofa that can double as a spare bed, a coffee table, audio and visual equipment, as well as a storage area for books and other commonly used household items. Storage of books in this area might be waived if the home includes other possibilities such as a library, work room, den, etc.</para></listitem>
+</varlistentry>
+
+
+<varlistentry>
+	<term>Sufficient furniture in lounge group:</term>
+
+<listitem>
+	<itemizedlist>
+		<listitem><para>1- or 2-person homes, seating for 4 people</para></listitem>
+		<listitem><para>3- or 4-person homes, seating for 5 people</para></listitem>
+		<listitem><para>homes for 5 persons or more, seating for 6 people</para></listitem>
+	</itemizedlist>
+</listitem>
+</varlistentry>
+</variablelist>
+	
+<para>Common living rooms or lounge areas should be as large as affordably possible. (OTÉK stipulates a minimum 17 m².) For smaller apartments, a minimum 18 m² is recommended. In homes for 3 or more people, a lower limit of 20 m² will suffice. Room width or depth is best kept to a minimum of 3.60 m.</para>
+<para>In smaller homes of 1-2 persons, it is possible to use the living room as a sleeping area. In some cases (such as social housing or more affordable models), it is inevitable that the living room will be used as a sleeping area when the number of bedrooms is not enough for the whole family. In this case, the living room must be separable, even from the kitchen and dining room, although the latter can serve as a provisional place to receive unexpected guests. (See Section 1.3.3. on sleep and relaxation.)</para>
+<para>A living room without sleeping space can function as a circulation area if the planning schedule does not specify otherwise. (See also Sections 1.5.1. and 1.5.2.)</para>
+
+</sect2>
+
+<sect2>
+	<title>1.3.2. Dining</title>
+
+	<para>Preparation of meals is described later on. Here the theme of meal times is discussed, which does not mean dietary intake. As common “family time” spent chatting in the living room becomes increasingly rare, togetherness in the family is better represented by common meal times. The dining room should be capable of accommodating shared meals on festive occasions.</para>
+
+ 	<para>One of the problems of panel housing developments from the ‘60s and ‘70s was the lack of a common dining area. Once furnished, the small living area did not leave enough room for a dining table beside the small kitchen, which also had no space for dining. In these homes, some families tried to improvise folding tables to provide dining areas; but, as many social surveys showed, family members chose to eat at different times.</para>
+
+	<para>The dining table rarely functions solely as a place for meals. It often serves as a place for playing cards and board games, or for smaller children to draw in close proximity to their mother. A well-sized dining table can compliment the living room. Dining tables in the vicinity of the cooking area can, when not used for dining, provide additional kitchen space.</para>
+
+	<para>Families often receive guests, so it is therefore recommended to have a table larger than that required solely for use by family members. <link linkend="abra_1_22">Figure 1.22</link> shows variations in dining furniture arrangements.</para>
+
+<para><figure id="abra_1_22"><title>
+Shared dining furniture
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_22_etkezes.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_22_etkezes.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Shared dining furniture
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<variablelist>
+	<title>Requirements and recommendations</title>
+
+<varlistentry>
+	<term>Basic requirement:</term>
+	<listitem><para>Ensure that all members of the household and occasional guests can dine together in comfortable circumstances.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+	<term>Furniture requirements:</term>
+<listitem><para>Dining table and chairs. Recommend that seating allow for two extra places (for guests) in addition to the actual occupancy number.</para></listitem>
+</varlistentry>
+
+</variablelist>
+
+
+	<para>The dining area may be located in the dining room or living room, or it can be an integral part of the kitchen. In larger homes (where occupancy is more than 2-person), it is not possible to have a dining area in the living room when the living room is also used as a sleeping area. The dining area should be in proper vicinity to the site of cooking (not more than one door apart) except in cases where an alternative dining area is in the kitchen. There should be no steps between the dining area and kitchen, since this increases the risk of accidents. The dining area can be used as a general circulation area.</para>
+
+</sect2>
+
+
+<sect2>
+	<title>1.3.3. Sleep and relaxation</title>
+
+	<para>The primary purpose of the home is a place to recharge and regenerate. This means undisturbed sleep (usually at night) and relaxation throughout the day. The usual setting for sleep is the bedroom, although other places are possible (sleeping gallery, sleeping cubicles accessed via other rooms, or the living room). Traditionally, bedrooms are on the upper level and also provide learning and study space, but not always. These other activities are discussed in another chapter. There is a continuous relation between the room (or rooms) for sleeping and other spaces in the home. To guarantee unity of design, this, too, must be examined. When the place for sleep is not properly separated from another adjoining space, then both spaces must jointly meet the requirements for sleep.</para>
+
+	<para>Obviously couples (parents) require intimacy regarding sleep area. Therefore, privacy should be allowed for in the design. Individuals within the household may also require sleeping areas of their own. Often, due to financial constraints, this is not possible. Hence, two or more people may have to share one room. For two, sharing requires a degree of mutual tolerance regarding individual life rhythms; but if three or more share, this could lead to congestion problems, so it is unacceptable. Younger children, even boys and girls, can be comfortable sharing; while teenagers or older siblings of different sexes might be disturbed by this. Consequently, it is important to design with these factors in mind.</para>
+
+	<para>As with other domestic activities, in a small home that provides sleeping facilities for one or two people, the users’ rhythms can be coordinated throughout. One or two users can easily avoid sleeping, preparing food and receiving guests at the same time. In this case, common areas such as the lounge can be used as a living room / bedroom.</para>
+
+	<para>Social housing – or affordable housing, in general – often does not provide sufficient sleeping areas in bedrooms unless this is also provided in the living room itself. The latter, in some situations, can be achieved at a modest level of acceptability. In this case, the living room / bedroom must meet the requirements for sleep.</para>
+
+	<para>Furniture requirements should take into account older or even elderly users. Older family members might move in, children grow up soon and leave, or parents grow older. Some furniture comes in the form of bunk beds (usually children’s beds), which is not appropriate. Double beds for parents, or those narrower than 180 cm, can only be used comfortable for a limited period of the life cycle. Also, they are not accepted under the same criteria as a double bed. </para>
+
+	<para>Draughty areas and cold surfaces can be bad for health. Thus, do not place beds directly under windows and, if possible, not along external walls. Direct proximity to radiant surfaces and radiators also interferes with sleep patterns, so try to avoid this, too.</para>
+
+	<para>Sleeping furniture and its respective layouts are shown in <link linkend="abra_1_23">figure 1.23.</link></para>
+
+<para><figure id="abra_1_23"><title>
+Sleeping, relaxation furniture
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_23_alvas.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_23_alvas.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Sleeping, relaxation furniture
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<variablelist>
+	<title>Requirements and recommendations</title>
+
+<varlistentry>
+	<term>Basic requirement:</term>
+<listitem><para>Ensure that users can rest or sleep without being disturbed.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+	<term>Furniture requirements:</term>
+<listitem><para>Each person should be provided with a bed, 90 x 200 cm (plan area). To the side of each bed, provide at least 45 x 45 cm (plan area) and maximum 75-cm-high storage area (low cabinet, shelf, table, etc.).</para></listitem>
+</varlistentry>
+
+</variablelist>
+
+
+	<para>Each sleeping area, for usually a maximum of two people, should be acoustically shielded. The main householders, a couple or parents, should be provided with a twin bed, min 180 x 200 cm, which should be accessed along both long sides. A double (pull-out) sofa bed is also acceptable in bedroom / living rooms. Beds used by other family members or siblings should not be connected along the longer side. Where a home can provide for only one bedroom, this should be a double or master bedroom. The beds should be arranged in such a way as to avoid inconvenience, damage to health, and surfaces that are radiant, hot or cold.</para>
+
+	<para>Any area within the home that is dedicated to the purpose of sleep should have a minimum volume of 15 m³ per person. (See Section 1.5.2.) Single bedrooms require a minimum floor area of 8m², double bedrooms 12m², both taking into account a minimum volume for ventilation purposes.</para>
+
+	<para>In larger homes of more than two occupants, the sleeping area should be acoustically separate, isolated from the rest of the domestic activities and not used as general circulation space, since this would disturb the purpose of sleep.</para>
+
+	<para>One- or two-occupant homes do allow for the possibility of providing a living / sleeping room. In larger than two occupancy homes, it is possible to use the living room as a sleeping area (although not for children) as long as it is acoustically separate from other domestic functions (e.g., cooking and dining) and does not interfere with common pastimes, activities and welcoming guests.</para>
+
+</sect2>
+
+<sect2>
+	<title>1.3.4. Individual activities</title>
+
+
+	<para>Various members of the household are often engaged in some form of activity that often requires a degree of privacy. School-aged children are occupied with studying, or white-collar workers might be working from home. The latter is of growing importance. Some experts have predicted that an information technology-orientated society will necessitate an increase in home-workplace relationships, with employers and co-workers communicating via personal computers.</para>
+
+
+<note>
+	<para><emphasis>Distance working creates opportunities, diverse in respect of non-residential information technology solutions, which can strengthen pillars of economic and social sustainability. Working from home reduces pressure on transport networks and the environmental impact, while the work force has more available leisure and work time. Therefore, more time is obviously spent at home. (AN)</emphasis></para>
+</note>
+
+	<para>If someone is not working from home, most of the time is spent in various personal activities (internet browsing, reading, listening to music, needlework, etc.). Since there are so many possible activities that people might be engaged in at home, it is impossible to design for all situations. Usually, the minimum requirement for such activities is to provide each household member with space for a desk and chair. The same space also applies to sitting on a lounge chair (for reading, music and handicrafts), at a home computer desk or hobby bench. If one does not have extra room for such activities, these functions usually take place in the bedroom, as it is suitably isolated acoustically. In some cases, the householders’ place of work might be the living room. The furniture zone for a desk and a chair in the master bedroom might also serve for a dressing table if one parent does not require the space there for work. A baby’s cot may provisionally take the place of the dressing table during the period when care is required at night. The parent's personal items and books can be moved to the living room. Meanwhile, other household members’ possessions should be placed in proper proximity to the site of their individual activities. Whatever practical solution is decided upon, it should not interfere with anyone's comfort levels.</para>
+
+	<para>If financial or spatial wealth is above minimum, it might be possible to develop a more spacious working area within the home, including more storage, a separate TV area and guest seating area. <emphasis>Bedroom</emphasis> usually refers to the master bedroom, but the other bedrooms can function as living rooms – particularly when there are teenagers present, when adults are sharing a home, or when elderly family members are part of the household. Alternative furniture arrangements for individual activities are shown in <link linkend="abra_1_24">Figure 1.24.</link></para>
+
+<para><figure id="abra_1_24"><title>
+Furniture for other activities
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_24_egyeni_m_.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_24_egyeni_m_.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Furniture for other activities
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<variablelist>
+	<title>Requirements and recommendations</title>
+
+<varlistentry>
+	<term>Basic requirement:</term>
+<listitem><para>Ensure that individual household members can pursue their various individual activities (e.g., studies and hobbies) without being disturbed or disturbing others and that the tools or objects required can be stored at hand.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+	<term>Furniture requirements:</term>
+<listitem><para>Minimum requirement: A table of at least 60 x 120 cm (plan area) with chair and suitable use zone. Also, a low-height storage cabinet / bookcase measuring 90 x 45 cm (plan area) per person.</para></listitem>
+</varlistentry>
+
+</variablelist>
+
+<para>Spaces for Individual tasks should be located separately. If sound is a problem, they should be acoustically isolated from other noisy domestic functions. Sleep and individual activities can take place in the same area, but the two functions can be distinct (for example, a bedroom and study in one) if affordable. One acoustically cohesive space should not be shared by more than two users. The individual activities of one person (householder) can take place in the living room if required. The parents’ bedroom can provide room for individual activities or an alternative, temporary spot for a baby’s bed.</para>
+
+</sect2>
+
+<sect2>
+	<title>1.3.5. Food preparation</title>
+
+	<para>Food, while traditionally prepared in the kitchen, is not always cooked in a separate room nowadays. Kitchens, furniture and equipment, and the use zone might be located in a single space or form part of another room (living / dining room).</para>
+
+ 	<para>Kitchens contain worktops, stove, water supply and utensils required to prepare food. Storage space is also provided for eating utensils and cutlery. (Older kitchens were made up of a free-standing stove, wall tap, kitchen table and kitchen cabinet). Modern kitchens are derived from ideas developed in the 1930s. (<link linkend="abra_1_25">fig. 1.25</link>)</para>
+
+<para><figure id="abra_1_25"><title>
+The "Frankfurt Kitchen". 1931
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_25_frankfurti_kha.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_25_frankfurti_kha.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+The "Frankfurt Kitchen". 1931
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Developed over the last century, since the ‘20s and ‘30s, physical ideas of housework based upon ergonomic and functionalist theory, especially regarding food preparation, have lead to more space efficient solutions that required less effort. The prototype for modern, fitted kitchens was developed by Grete Lihotzky, in order to provide kitchens in workers’ housing designed by Ernst May in Frankfurt-am-Main, These kitchens widely became known as the &quot;Frankfurt Kitchen&quot;.  The same format kitchen was a great success at a housing exhibition in Stockholm, which is why it also referred to as the &quot;Swedish Kitchen&quot;.</para>
+
+	<para>Modern kitchens are usually mass produced and therefore size coordinated to allow for manufacture of base storage units, wall-mounted units and work surfaces. The process of cooking and storage are described in <link linkend="abra_1_26">figure 1.26</link>.</para>
+
+<para><figure id="abra_1_26"><title>
+Domestic kitchen technology
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_26_khatech.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_26_khatech.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Domestic kitchen technology
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>The most frequently used part of a kitchen is the space between the stove and sink. This should not be smaller than 60 x 60 cm. The surface on the other side of the stove is used for freshly prepared food. The work surface on the other side of the sink is used for food preparation, raw material and cleaning. After meals, this process is reversed, allowing the sink to be used for the washing of utensils, a second basin for rinsing, drying and storage of dishes.</para>
+
+	<para>Built-in components are coordinated to provide base units that are 60 cm deep and between 85-90 cm high. Wall mounted units, starting at a height of 135 cm from floor level, are usually 32-35 cm deep, the upper height not being fixed. Upper storage units can be built even up to the ceiling when the topmost parts are used to store less frequently used items that can only be reached by standing on a kitchen stool. A use zone of at least 120 cm depth should be provided in front of opening appliances (e.g., stove and dishwasher) and 90 cm with other furniture.</para>
+
+ 	<para>Stoves are usually gas or electric. Gas stoves are cheaper to operate, although open-flame combustion creates air-born pollution that is often deposited on curtains and other textiles in the direct vicinity. If the kitchen forms part of the same space as a living room, it is recommended to avoid using gas stoves. Electric stoves are available as a combined cooking ring and oven unit, though sometimes the oven might be supplied separately. The latter has the advantage of allowing ovens to be built into more convenient upright wall units. Space below the cooking top that does not house an integral oven can be used for additional storage.</para>
+
+	<para>Extractor fans are available in two types – one that filters the air before recycling it, and one that leads to the open air via a ventilated conduit. When kitchens are located in shared spaces, the latter is recommended and care should be taken to ensure a fresh air supply. If an extractor fan and central heating boiler are located in the kitchen, the latter must be a sealed combustion furnace.</para>
+
+	<para>Sinks are usually single or double units, with or without dish drainers. If a dishwashing machine is not fitted into a kitchen, it is advisable to install a double sink; since a single sink requires constant rinsing with hot water, and the naturally consumes great amounts of water, energy and detergent. From an environmental point of view, kitchen detergents are damaging to the natural water supply chain.</para>
+
+	<para>Dishwashing machines are now widely available, and obviously space needs to be provided for them. The plan area of 60 x 120 cm, usually provided for a double sink, can accommodate a single sink and dishwashing machine – the reasoning being that once a dishwasher is used, a single sink will suffice, since the amount of hand-washing will be minimized. Still, if possible, install a double sink together with a built-in dishwasher, since the sink will be a supply of fresh water. (<link linkend="abra_1_27">fig. 1.27b</link>) Dishwashing machines are usually next to the sink and best built into fitted kitchen systems.</para>
+
+<para><figure id="abra_1_27"><title>
+Food preparation furniture and equipment
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_27_khaelem.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_27_khaelem.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Food preparation furniture and equipment
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Refrigerators can be integral parts of the kitchen system or free-standing items. Technological development has not designated a specific location for these units. A refrigerator should be located in the kitchen – not in the pantry, as this machine generates heat. A 200-liter refrigerator should suffice in most households. A single- or two-person occupancy home can be provided for with a smaller refrigerator located in the lower storage units, but a larger one (150-200 liters) is better here as well. A combined deep freezer / refrigerator unit (150-200 liters) occupies a plan area of 60 x 90 cm; or this can be achieved by using individual units, each occupying a plan area of 60 x 60 cm.</para>
+
+
+<note>
+	<para><emphasis>Waste collection, as in most locations in the home, needs to be provided, allowing for selective disposal. Waste disposal in the kitchen should be directly connected to the kitchen technology and take into account that consumer habits have lead to a rise in waste per capita (packaging and consumption levels). Regulations regarding waste disposal and environmental protection have lead to the development of recycling standards, including the provision of selective waste disposal points. The so-called &quot;American Kitchen&quot; is based more upon the spectacular than the &quot;background model&quot; (food storage, waste disposal, etc.) functions, while often kitchens in small towns provide more space for other activities (canning, bottling, packaging and deep-freezing). Most families now consider the kitchen as a place in which value-added tasks can take place. (AN)</emphasis></para>
+</note>
+
+ 	<para>Kitchen furnishing units, equipment and ancillary fittings are widely available in various sizes. Some manufactures work to a standard Module of 15 cm and others according to the ISO 1M standard of 10 cm. Both of these accommodate the Sub-Module 0.5M (5 cm) as shown in figure 1.27. Once the base units are fitted, a single work top can be installed which covers all joints, resulting in an easy to clean surface. (Better manufacturers supply this as standard.)</para>
+
+	<para>Mini-kitchens are available when space is limited (1.00 meter long), although these are really intended for use as tea kitchens in office developments and not sufficient residential use. (They might be used when a family member needs a separate place to prepare coffee or breakfast, but are not suitable for use as a full kitchen.) A single- or double-occupancy home requires a fitted kitchen width of at least 230 cm, and a family kitchen width of at least 270cm. In both cases, additional space is required for a refrigerator. It is strongly recommended that a family kitchen be 360 cm wide to allow for full furnishing excluding refrigeration.</para>
+
+	<para>Undersized kitchens can give rise to dwellings that are &quot;morally impaired&quot; due to developments in technology that result in lack of space to store new equipment.</para>
+
+	<para>Depending on the kitchen size and geometric form, the work surface might be arranged in a continuous line or broken line. Continuous lines may conform to an L-shaped or U-shaped plan. (<link linkend="abra_1_28">fig. 1.28</link>)  A broken line kitchen is usually arranged in two parallel units – one side should house all the kitchen technology (cooking, preparation and washing functions), while the other side should house storage units including refrigeration and an additional worktop. Take care to not arrange functions otherwise, because this can give rise to accidents – for example, when moving hot water form one side to the other. Even when an additional worktop is located on the opposite side of all the technology, make sure that the minimum distance between the stove and sink is not less than 60 cm. Linear kitchens and L-shaped kitchens can be supplemented with other functions outside the continuous line (e.g., extra work surfaces, refrigerators and storage). Kitchens can also include a dining table as an additional work surface. Seats may be pushed below the table top, since food preparation and consumption of meals does not occur at the same time.</para>
+
+<para><figure id="abra_1_28"><title>
+Alternative kitchen arrangements. Examples
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_28_khaelrnd.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_28_khaelrnd.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Alternative kitchen arrangements. Examples
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>L-shaped and U-shaped kitchens result in corner units that can be handled as shown in <link linkend="abra_1_29">figure 1.29</link>. The stove should not be placed in the corner or right beside the corner unit, since a 90-cm-wide use zone cannot be provided. In addition, the side wall just next to the oven will be harder to keep clean. The same applies even to specialized units designed with stoves in the corner position.</para>
+
+<para><figure id="abra_1_29"><title>
+Detailed kitchen unit
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_29_khareszl.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_29_khareszl.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Detailed kitchen unit
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+ 	<para>Gas stoves must not be placed next to water taps, the sink, or just below windows. Wind or splashing water might extinguish the flame, which is dangerous. The same applies to electric stoves. When the oven is right under a window, it is not possible to fit an extractor fan, and it is not suitable to leave the window open continuously for ventilation purposes. Also, a window adjacent to a stove will always be dirty due to the oily steam given off during cooking.</para>
+
+	<para>Most accidents occurring in the home involve children and stoves. Do not place stoves near doors or at the open end of kitchen units.</para>
+
+	<para>Some kitchens, including &quot;American Kitchens&quot;, provide visual contact with the living room. Therefore, care should be taken to ensure that the quality of both spaces is balanced.  These kitchens are more suited to the processing of pre-cleaned, ready-made meals. The other approach, in homes that often receive diner guests, is to provide a kitchen that resembles that of a small restaurant. With the latter type of kitchen, it is advisable to make this a separate space.</para>
+
+	<para>Larger L-shaped or U-shaped kitchens have led to the idea that an additional preparation space may be required, usually taking the form of an &quot;island kitchen&quot;. (<link linkend="abra_1_30">fig. 1.30</link>) This island might also include a stove or sink and even, in some cases, all the kitchen technology, leaving the surrounding kitchen units free for storage space.</para>
+
+<para><figure id="abra_1_30"><title>
+Centrally located work surface ("Island" system)
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_30_szigetes.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_30_szigetes.png" format="PNG" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Centrally located work surface ("Island" system)
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<note>
+	<para><emphasis>Society is seeing a growth in allergy-related problems. (Currently, 25% of the population suffers from some form of allergy, usually pollen-related. Among children, 6-8% suffers from some form of dietary allergy, and this trend is appearing the adult population.) Food allergies in the family might require a need for separate food storage and preparation facilities. The standard design process does not take into account that variations in kitchen technology might be required to suit different lifestyles: vegetarian, vegan, kosher, etc. These might require elements to be &quot;oversized&quot; or changed in time. These variables (e.g., allergies, life-styles and selective waste) will obviously lead to an increase in demand for kitchen units. (AN)</emphasis></para>
+</note>
+
+
+<variablelist>
+	<title>Requirements and recommendations</title>
+
+<varlistentry>
+	<term>Basic requirement:</term>
+
+<listitem><para>The kitchen should provide enough space to prepare food for all the daily meals, based upon the requirements of the permanent occupants plus two guests. Storage of cooking utensils, dining utensils, washing of said utensils and storage of food, including the provision of a refrigeration.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+	<term>Furniture and equipment:</term>
+
+<listitem><para>Electric or gas stove with integral oven or separate oven, sink with running hot water, preparation work surfaces and storage units at both lower and higher levels, as well as tall storage cabinet(s). Dishwashing machine and refrigeration units.</para></listitem>
+</varlistentry>
+
+</variablelist>
+
+<para>Excluding refrigeration units, a single- or double-occupancy home requires a fitted kitchen width of at least 230 cm, and at least 270 cm for a family kitchen (max. occupancy: 3 people). In both cases, additional space is required for a refrigerator. In a family kitchen serving 4-5 people, it is strongly recommended that the total row of fitted units be at least 360 cm in length and 420 cm for higher occupancy, excluding refrigeration. The cooking area can be a separate room or form part of the living room. The space directly in front of kitchen units should not function as a general circulation space (or corridor) unless used in single- or double-occupancy homes. If cooking is undertaken in the same space as the living room, mechanical ventilation must be provided directly above stove. Gas stoves are not recommended in spaces shared with the living room and are not allowed in spaces shared with sleeping areas.</para>
+
+</sect2>
+
+<sect2>
+	<title>1.3.6. Housekeeping</title>
+
+
+	<para>Housekeeping: chores undertaken within the household such as washing, drying, ironing, laundry, clothes repairs, cleaning and tidying. In most homes, space should be allowed for. In larger homes, a room dedicated to &quot;utility&quot; might be provided.</para>
+
+	<para>Laundering is commonly done in the washing machine. This can be placed in the bathroom or kitchen. (Automatic washing machines fit within the standard kitchen module.) Do not place a washing machine in the kitchen if it is not isolated acoustically from the living areas, since the machine is noisy. Clothes can be dried on a rack or clothesline above the bath, although some consider this to be aesthetically displeasing. A possible option is a clothes-drying machine or washer-dryer in some cases.</para>
+
+ 	<para>Ironing can take place in most rooms, because the ironing board is easy to assemble. For this purpose, larger kitchens or living rooms are preferable. Clothes can be repaired at the dining table or a parent's work table. Cleaning equipment and materials can be stored in a 60 x 60 cm cupboard usually located in the entrance hall or as part of the kitchen.</para>
+
+ 	<para>In larger homes, washing, drying, ironing, laundry, clothes repairs, cleaning and tidying can be undertaken in a &quot;utility&quot; room. (<link linkend="abra_1_31">figs. 1.31b and c</link>) This room is also ideal as a place to situate the boiler of a central gas heating system (for homes that are not connected to a shared heating facility).</para>
+
+<para><figure id="abra_1_31"><title>
+Domestic chores furniture and equipment
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_31_haztart.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_31_haztart.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Domestic chores furniture and equipment
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<note>
+	<para><emphasis>Housekeeping can increase the life of a building and sustainability via cleaning, maintenance and repair activities.  Psychologically, even dull household tasks like vacuum cleaning can be viewed positively as creative pastimes. Even though household chores have been mechanized, time spent doing them has not decreased, even though the physical effort required has. (It has been recorded that, from 1986-2000, women spend 5% less time undertaking household chores; meanwhile, with men, the trend has reversed, increasing by 16%. Despite this, women spend on average 249 minutes a day and men 101 minutes a day actively engaged in housework, including shopping and maintenance). Housekeeping requires a space large enough to store the necessary tools and is not location specific. Smaller areas are harder to maintain due to accessibility. (AN)</emphasis></para>
+</note>
+
+<variablelist>
+	<title>Requirements and recommendations</title>
+
+<varlistentry>
+	<term>Basic requirement:</term>
+
+<listitem><para>Ensure that tasks including washing, drying, ironing, laundry and repairs can be undertaken and the necessary tools appropriately stored.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+	<term>Furniture and equipment:</term>
+
+<listitem><para>Minimum requirement: automatic washing machine and clothes-drying rack/rail if no dryer available. Folding ironing board, table and equipment or tool storage. If a utility room is possible, automatic washing (and drying) machine, hand-basin sink for washing and cleaning, dirty clothes closet, repairs and work surface, folding ironing board and equipment or tool storage. </para></listitem>
+</varlistentry>
+
+</variablelist>
+
+</sect2>
+
+<sect2>
+	<title>1.3.7. Personal hygiene</title>
+
+
+ 	<para>Newly built residential homes must provide within the premises a flushing toilet and washing facilities with hot water (in a bathroom or shower room).</para>
+
+	<para>Personal hygiene equipment is usually (with rare exceptions) in a separate room. That is why   we discuss not just the functions, but also the room sizes required.</para>
+
+ 	<para>For standard wash basins, see figure 1.32. Larger washbasins are also available, but these usually fit a use zone of 90 cm. Double wash basins are also available for two people to use at one time. If two people are sharing, make sure the basins are placed apart at a radius of 90 cm. Washbasins often have storage space below and / or beside them. (<link linkend="abra_1_32">fig. 1.32</link>)</para>
+
+<para><figure id="abra_1_32"><title>
+Various washbasins
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_32_34_terhigi.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_32_34_terhigi.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Various washbasins
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Small washbasins are not suitable for washing purposes and should only serve as hand washbasins in separate toilet areas.</para>
+
+	<para>Shower bases are usually recommended at 90 x 90 cm in size. Smaller showers bases (75 cm or 80 cm) are acceptable, but usually when used to compliment the bathtub.</para>
+
+	<para>Bathtub sizes are given in <link linkend="abra_1_35">figure 1.35</link>. Variations are available, including double baths, whirlpool baths and plunge pools that usually serve, not only as places to wash, but also as places to relax and recuperate. These types of baths are usually found in specialist manufacturers’ catalogues and are fitted in a manner typical of items in more affluent homes.</para>
+
+<para><figure id="abra_1_35"><title>
+Personal hygiene sanitary fittings
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_35_higenia.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_35_higenia.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Personal hygiene sanitary fittings
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Toilets facilities are usually mounted according to available plumbing allowances. If a smaller footprint is preferred, toilets are mounted differently. High cistern toilets are rarely fitted these days. Most have the cistern in close proximity to or actually mounted upon the toilet bowl itself. Toilet bowls have back or floor waste outlet pipes.  Toilets with floor outlet pipes are usually fitted in homes that have sewage pipes below in the basement area. Toilets with back waste outlet pipes can be used with wall-mounted, cantilever toilets. The latter are preferred for hygienic reasons, since they are easier to clean. (<link linkend="abra_1_32">fig. 1.33</link>) </para>
+
+	<para>Toilets cisterns can be concealed behind a mountable bulkhead. A similar solution is generally applied when pipes cannot be placed in the wall – for example, when the toilet is located on the external wall, and the risk of freezing prevents situating pipes the in wall. Also design requirements may call for surfaces to be attached to a metal framing system that is later covered and tiled. This panel can be the full height of the room, or lower and used as storage shelf. (<link linkend="abra_1_32">fig. 1.34</link>) </para>
+
+	<para>A bidet is not a standard requirement; it is an optional extra, not favored by all. For practical reasons, this is placed beside the toilet and usually wall-mounted. There are also combined toilet / bidet units available.</para>
+
+ 	<para>For alternative layouts to personal hygiene spaces, see figure 1.36. If a toilet is separately located, it must have its own hand wash basin. (It would be pointless to use a toilet, then a bathroom, since this would result in two door handles being dirtied). Although it is not mandatory in residential buildings, it is advisable to have outward-opening toilet doors. Thus, if someone elderly or ill lies unconscious on the floor and needs to be helped exiting the toilet, it can prevent injury caused by a forcefully-operated, inward-opening door. The same can be said for all bathroom doors. If it is not possible to use such a door – i.e., the use of an inward-opening door is inevitable – please allow a 20-cm ease of use zone. (<link linkend="abra_1_14">fig. 1.14</link>) </para>
+
+ 	<para>The toilet cubicle should have a normal-sized washbasin if it is not located on the same floor as the bathroom. This also can occur when the toilet serves as a guest area for the application of makeup or combing hair; thus, a mirror is also appropriate. There is an option for situating the washing machine here. In larger homes, try to avoid this and place washing machine in utility room.</para>
+
+
+<variablelist>
+	<title>Requirements and recommendations:</title>
+
+<varlistentry>
+	<term>Basic requirement:</term>
+<listitem><para>To provide access to warm water for washing and bathing. Ensure that the toilet can be used in tolerable circumstances with regard to other occupants.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+	<term>Hygiene-related lower limits for occupancy levels:</term>
+
+
+<listitem>
+	<itemizedlist>
+		<listitem><para>1-2 occupants, provide toilet, shower and washbasin.</para></listitem>
+		<listitem><para>3-4 occupants, provide toilet, bathtub and washbasin.</para></listitem>
+		<listitem><para>4-5 occupants, provide separate toilet and wash basin, in addition to main bathroom.</para></listitem>
+		<listitem><para>6 or more occupants, provide separate toilet and wash basin besides the main bathroom with toilet.</para></listitem>
+	</itemizedlist>
+</listitem>
+</varlistentry></variablelist>
+
+ 	<para>If a home has two bathrooms or a shower in addition to the first bathroom, and both rooms are provided with a toilet, then an extra toilet is not compulsory. If a home is on more than one level, then provide a toilet and washbasin on all levels. In split-level homes, the toilet can be located in the mid-level area. Bathrooms accessed via bedrooms should be solely for the use of that bedroom’s occupants. Another bathroom should be provided for the other occupants.</para>
+</sect2>
+
+
+<sect2>
+	<title>1.3.8. Storage</title>
+
+
+	<para>In previous chapters, storage for recreation, entertaining, activities and household chores have been discussed.</para>
+
+	<para>Clothes can be stored in mobile cabinets or built-in wardrobes and closets. (fig. 1.38) Jackets, coats and shoes, including those belonging to visitors, should be stored close to the main entrance. Other clothing should be placed in a bedroom wardrobe or in a corridor closet in the immediate vicinity.</para>
+
+ 	<para>Urban housing has seen a fall in the demand for food storage facilities, since supplies are easily and quickly made available. Suburban, green-belt housing tends toward the idea of an intensive, weekly trip for food and groceries, usually accomplished by car. Rural homes tend towards a pantry-type storage area for smoked goods, preserves, vegetables and bulk buying. Hungarian householders in general prefer the idea of a pantry (or <emphasis>spájz</emphasis>) to storing food in the kitchen.</para>
+
+ 	<para>Grocery storage (excluding that which is stored in the kitchen or refrigerator) requires a storage cupboard or pantry. (fig. 1.39) The kitchen cupboard is only suitable for dry, canned and bottled food. Perishable foods (such as fruits and vegetables) are suited to independently ventilated storage. The so-called “cupboard pantry” is built into the kitchen, but provided with independent ventilation. A well-designed pantry or food storage area should maximize the amount of floor area occupied by shelves. Often smaller pantries are more efficient than badly-planned cupboards in terms of food storage.</para>
+
+	<para>The pantry should be independently ventilated and allow shelving on at least two, possibly three walls. The door should open out, as this prevents items that might fall form shelves from blocking easy access. A larger pantry or food storage area can be better ventilated via a window, while also large enough to accommodate a deep freeze, which also needs ventilation, since this machine generates heat.</para>
+
+ 	<para>Other objects (sports equipment, large toys, unused play pens, tools, etc.) can be stored outside the home, as long as this storage place is within close proximity (in a basement, attic, storage room, communal storage space or outbuildings). This idea of external storage is preferable, since it is usually cheaper to construct. Homes with gardens should provide storage areas for garden tools and outdoor furniture.</para>
+
+
+<variablelist>
+	<title>Requirements and recommendations:</title>
+
+<varlistentry>
+	<term>Basic requirement:</term>
+<listitem><para>Appropriate storage must be provided (in furniture or rooms) for food and clothing inside the home, while other articles not for everyday use should be either inside or near the home.</para>
+	<para>Clothes storage – including cupboards, closets, built-in wardrobes or walk-in closets – should be provided. The depth of cupboards and built-in wardrobes should be a minimum of 60 cm. Ideally, a minimum of 1.20 running meters of clothing storage should be provided per occupant. Of this, at least 0.6 running meters of clothes storage should be provided in the sleeping area or in a corridor next to the bedrooms. Storage facilities for coats, hats, bags, wet shoes, etc., should be provided near the entrance.</para></listitem>
+</varlistentry>
+
+<varlistentry>
+	<term>Food storage, in addition to that stored in a refrigerator, should be calculated thus:</term>
+
+<listitem>
+	<itemizedlist>
+	<listitem><para>for 1-2 occupants, a minimum 60 x 60 cm (plan area) food cabinet to full ceiling height</para></listitem>
+	<listitem><para>for 3 occupants, minimum 60 x 60 cm (plan area) ventilated pantry</para></listitem>
+	<listitem><para>for 4 or more occupants - ventilated pantry with minimum 1.20 running meters of shelves</para></listitem>
+</itemizedlist>
+</listitem>
+</varlistentry>
+
+</variablelist>
+
+<para>It is strongly recommended that, when designing for food storage, the actual location of the home, lifestyle issues and proximity of grocery suppliers be taken into account. A general storage area of 4m² per dwelling should be provided. This may be outside the actual home, in which case, it should be lockable.</para>
+
+</sect2>
+
+<sect2>
+	<title>1.3.9. Child care</title>
+
+	<para>One of the main considerations in the design of family homes is that of child care. When designing homes for three or more occupants, children should be taken into account and provided for, even if the home is commissioned for a household with no children. Homes change hands, and those that do not allow for children often sell at lower prices.</para>
+
+	<para>In previous chapters, spatial and furnishing requirements have been addressed but not in a child-specific manner. The simple reason for this is that, as a child reaches adolescence, adult measurements will suffice, but until then child proportions should prevail.</para>
+
+ 	<para>A baby or infant requires constant parental contact and supervision, even while other activities take place. A crib can be located in the parent's bedroom, and the kitchen should be located to allow visual contact with children at play. Children feel comfortable if they are in contact with parents; therefore, try to place bedrooms within an earshot, and avoid placing them on separate levels or in opposite corners of the home.</para>
+
+	<para>Try to ensure that it is easy to carry small children around the home – through corridors, doorways and use zones – without obstruction. The same applies to toddlers just as it does to impaired or elderly occupants, as seen in part 1.7.</para>
+
+	<para>Spatial and use development of a home should be analyzed to allow for babies and infants. For example, a baby requires bathing in a small bath, which can not be fitted into a shower cubicle.</para>
+
+ 	<para>It is extremely important to consider safety in the home. Most accidents happen in the kitchen, as mentioned in part 1.3.5. Safety devices (such as safety barriers) should be considered and designed keeping in mind that children are smaller in proportion. They can navigate smaller openings and lack a developed sense of danger. A safety barrier is not adequate if children can climb over it. This will be discussed later.</para>
+
+</sect2>
+
+</sect1>
+
+<sect1>
+	<title>1.4. Residential spaces</title>
+
+
+	<para>We would like to stress that the following dimensions given are indicative of the nominal requirements for the furnishing and use of residential spaces. By no means do these features represent real use patterns. In fact, they change over time with domestic use. The measurements given are practical minimums and should be increased by at least 5-10% in planning process.</para>
+
+ 	<para>The development of interior areas, depending on the scope of activities taking place within the housing, has been discussed in detail in previous chapters. Aspects of architectural space formation might also influence the result. Spaces within a home are grouped into elements that are usually separate from each other. </para>
+
+<itemizedlist>
+	<title>Spatial separation can occur as</title>
+
+<listitem><para>Physical separation (air-tight walls or glass surfaces, air-tight doors)</para></listitem>
+<listitem><para>Visual separation (non-transparent surfaces)</para></listitem>
+<listitem><para>Acoustic separation (sound proof walls and doors)</para></listitem>
+<listitem><para>Architectural separation (wherein a space located adjacent to another is differently executed, not physically, visually or acoustically, but by means of architectural language)</para></listitem>
+</itemizedlist>
+
+	<para>Spaces separated by walls and solid panel doors can come under all the heading of all the aforementioned spatial separation types. Such intense separation is needed in spaces for sleep, relaxation and personal hygiene; yet, there is rich variation in the possible interrelation of distinct domestic spaces. (Some examples shown in figure 1.51.) </para>
+
+	<para><emphasis>Passages through the home's space</emphasis> refers to actual movement.  These passages or corridors can, at times, afford space for storage (clothes cupboards). The home's most common passages are the entrance hall and inner hallway. These areas are often used to store items of clothing and are referred to as the wardrobe. Clear width in these spaces should be at least 1.20 m (excluding furniture) for the entrance hall, and not less than 1.00 m (excluding furniture) in all other corridors where openings to rooms appear at either side.</para>
+
+
+<note>
+	<para><emphasis>When determining the size of the entrance hall, ensure there is enough room to pass through this space, in addition to storing clothes and shoes, even when the door is open. Some situations require variations. If a chair is placed in the entrance hall to assist the elderly or children, make sure that it does not restrict passage. In addition, in the case of small children, provide a storage space of 0.90 x 1.20 m for pushchairs, or a suitable place to store a wheelchair and or other mobility aids. This can be a walk-in closet, best arranged with direct access to the foyer, which prevents wet and dirty shoes, pushchairs, wheelchairs, mobility aids and shopping trolleys from being taken into the home. (Multi-unit housing developments often provide communal storage for pushchairs, wheelchairs and/or bicycles.) The larger entrance hall can also serve as a place to welcome guests and prepare for post-breakfast departures as a family unit. (AP)</emphasis></para>
+</note>
+
+	<para>The living room’s actual function can vary according the size and arrangement of the dwelling. Living rooms of different sizes and arrangements are shown in <link linkend="abra_1_40">fig. 1.40</link>. Common pastimes and receiving visitors are general functions. This can be supplemented by a furniture zone for the “individual activity” of one resident. This area always should always be provided, since it also serves as a reserve area for any unforeseeable ancillary functions. The living room can be a place for dining also – in this case, in proper proximity to the site of cooking, unless there is an alternative dining spot is in the kitchen.</para>
+
+<para><figure id="abra_1_40"><title>
+Living room examples
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_40_nappali_m_.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_40_nappali_m_.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Living room examples
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>The living room can be a place to sleep, especially in small apartments. Single- or double-occupancy homes do not require acoustic separation (unless it is part of the client’s brief), since this is tolerable if sleep and other functions do not occur at the same time. Larger than double occupancy homes can allow for sleeping in the living room, in cases of necessity, if other functions within the home are isolated acoustically and visually (chiefly, food preparation and consumption).</para>
+
+ 	<para>Although it is not common practice, more homes are being provided with a kitchen as part of the general living area. This is usually required by developers in order to reduce construction costs, and it can result in the production of smaller living areas.</para>
+
+ 	<para>A detached dining room can perform at a higher standard or can act as a “second living room”, usually when sleeping in the main living room cannot be avoided. The dining room is usually directly connected to the kitchen and living room. See <link linkend="abra_1_41">figure 1.41</link> for various dining room arrangements. The area required can also depend upon the number of users and how food is to be served. Examples of how this might be achieved efficiently are given in figure 1.41a. Apart from the dining table and chairs, storage may have to be provided for tablecloths, cutlery and serving utensils, as well as ornamental pieces such as decorative glass or bone china tableware. The dining room does not have to be visually or acoustically separate form the rest of the home.</para>
+
+<para><figure id="abra_1_41"><title>
+Dining room examples
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_41_etkezok.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_41_etkezok.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Dining room examples
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<note>
+	<para><emphasis>Sitting around the dining table can be beneficial for everyone, but especially for the hearing impaired. It is best to sit opposite one another, not side by side or at right angles, because this makes it easier to lip-read. Better still, if the window is at a right angle to those seated at the table, light distribution reduces the shadows on people’s faces, thus making lip-reading, perception of facial expressions, and communication easier. (AP)</emphasis></para>
+</note>
+
+	<para>The eat-in kitchen offers an economical use of space, with the dining table also made available as a food preparation area between meals. In rural houses, where the residents deal with vegetable gardening and animal husbandry, the kitchen table is indispensible for processing items. Naturally, eat-in kitchens are found in urban homes as well. The demand often arises, even in more spacious homes with a separate dining room, for a small breakfast nook or place to eat within the kitchen. (This can be achieved economically, too. See figure 1.22b.) For alternative eat-in kitchen layouts, see <link linkend="abra_1_42">figure 1.42</link>. </para>
+
+<para><figure id="abra_1_42"><title>
+Dining kitchen examples
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_42_etkhak.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_42_etkhak.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Dining kitchen examples
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Cooking utensils and kitchen layout are discussed in Section 1.3.5., <link linkend="abra_1_28">figure 1.28</link>.</para>
+
+	<para>Sanitary facilities are detailed in Section 1.3.7., figure 1.36. These areas require visual and acoustic separation (a rare possible exception being private bathrooms accessed only from the master bedroom).</para>
+
+	<para>The bedroom’s main function is sleep, but this room can also serve other functions, including study. Therefore, it should be isolated visually and acoustically. Examples of bedroom plans are given in <link linkend="abra_1_43">figure 1.43</link>. (Sizes given are practical minimums, so larger dimensions can be allowed for in designs.)</para>
+
+<para><figure id="abra_1_43"><title>
+Bedroom examples
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_43_halok_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_43_halok_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Bedroom examples
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Single bedrooms are at least 8.00m², which, when occupied by teenagers, tend to serve as their own living room. If this is required, it is better to build a single bedroom at double bedroom proportions. Bedrooms, in general, should be considered multifunctional spaces. In multi-unit apartment buildings, families of different compositions well move into a similar and repeated dwelling type. Thus, a &quot;nursery&quot; might also function as a study room if there are no children present. Grandparents move in, children leave home, rooms become personalized, etc. For alternative layouts, refer to figure 1.44.</para>
+
+ 	<para>Conventional rooms have been discussed, but other options are possible within the home. We are talking of galleries, chat spaces or interlocking seating areas which might not be so easily defined. The design should allow for these other functions, since they have an impact upon the levels of convenience or comfort required. Specific design briefs might require alternative spaces (body-building room, sauna, swimming pool, hobby room, craft room, studio, etc.), all of which can only be designed correctly following consultation with one’s client.</para>
+
+</sect1>
+
+<sect1>
+	<title>1.5. Residential comfort</title>
+
+<sect2>
+	<title>1.5.1. Lighting</title>
+
+	<para>Care should be taken to provide adequate light for all rooms and residential spaces. This includes the provision of both natural and artificial lighting.</para>
+
+	<para>Natural illumination may be direct or indirect. Direct light from outside is provided to the interior via glazed surfaces (windows), while indirect natural light is provided via translucent surfaces or unobstructed openings from adjoining rooms that receive direct light. (<link linkend="abra_1_45">fig. 1.45</link>)</para>
+
+<para><figure id="abra_1_45"><title>
+Ventilation and lighting concepts
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_45_szellvil.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_45_szellvil.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Ventilation and lighting concepts
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Building codes (OTÉK) recommend ratios for glazed surfaces in proportion to useful floor area, such as &quot;[…] provide a 1:8 minimum for adequate light in rooms where people remain for long periods. Where appropriate, provide 1:10 […] further, when light is from above, provide at least 1:10.&quot; This calculation must take into account the effective glazed surface (excluding window frames), which is significantly smaller than the windows nominal size.</para>
+
+	<para>At the sketch design stage, it is useful to count the clear glazed area as 13 cm smaller on all sides of the frame in comparison to the window’s nominal size. When final plans are prepared, this can be adjusted to fit manufacturers’ actual dimensions, with the product catalogues providing a variety of window types, frames and sash profiles that allow for precise calculation.</para>
+
+	<para>Compliance with regulations does not guarantee that the natural lighting levels will be lesser or greater than required. If the window overlooks a narrow street, courtyard or larger building, then a ration of 1:8 will not suffice. Conversely, for a hilltop home that commands the entire horizon, it is more than adequate.</para>
+
+	<para>Direct sunlight upon a given point varies in intensity across the sky's hemisphere depending upon angle of incidence to the horizon. Light from the zenith can be three times more intense than that from the horizon.  This is why windows facing the sky are more effective than vertically glazed surfaces. This is also why slanted skylights are preferred for the provision of natural light, because they can provide much more light than a vertical window.</para>
+
+	<para>Room illumination may not only depend upon window to floor-area ratio, but also the depth of spaces or height of surfaces to be illuminated. Professional convention holds to the belief that the depth of a properly illuminated part of a space should not exceed two and a half times the size of the perpendicular height from the finished floor to the top of the window. (<link linkend="abra_1_46">fig. 1.46</link>)</para>
+
+<para><figure id="abra_1_46"><title>
+Window sizes and sufficient illumination depth
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_46_megvilhatar.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_46_megvilhatar.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Window sizes and sufficient illumination depth
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Indirect natural light is usually weaker than direct, but not always – for example, at times when light comes from an entirely glazed intermediate space. Therefore, consider indirect lighting the equivalent of direct lighting in spaces that require natural light for given activities. For instance, the kitchen might be indirectly illuminated via a dining area that adjoins it without obstruction. By analogy, similar situations might occur (room depth in comparison to window size) where direct light does not penetrate far enough into a room for given activities, but sufficient light levels are attained for others.</para>
+
+
+
+<itemizedlist>
+	<title>Residential lighting requirements:</title>
+
+<listitem><para>Direct natural light should be provided to all rooms that are used for two or more hours daily over long periods. These rooms include shared spaces, rooms where guests are entertained, reading rooms (the living room), individual activity spaces (for study or working from home) and daytime relaxation areas (bedrooms). This also applies to kitchens for homes with two or more occupants where direct visual contact is not made with living rooms or any other naturally-lighted spaces.</para></listitem>
+
+<listitem><para>Indirect natural light should be provided to all areas where artificial light can be employed while in use and natural light is required for reasons of mental comfort. These rooms include dining rooms and kitchens (both with visual contact to directly illuminated spaces), as well as sleeping areas (bunks or galleries) that open onto directly illuminated spaces without obstruction.</para></listitem>
+
+<listitem><para>Artificial light should be sufficient for infrequently used areas (corridors, bathrooms, storerooms and even kitchenettes in single- or double-occupancy homes).</para></listitem>
+</itemizedlist>
+
+
+<para>These descriptions are indicative of a lower limit requirement. In most situations, more light, if possible, is to be recommended. In the home, general lighting may arise from many sources according to the use of a given space. If a room in the home is used for more than two hours continuously, then direct natural light must be provided.</para>
+
+</sect2>
+
+
+<sect2>
+	<title>1.5.2. Ventilation</title>
+
+	<para>While at home, people consume oxygen and expel carbon dioxide. To maintain suitable levels of comfort, the carbon dioxide level should not exceed more than one thousandth of the air content. Therefore, air must be replaced and ventilated. The intensity of ventilation is the rate of air exchange. Two-hourly ventilation means that the air is changed at a rate of two times the volume of air per hour.</para>
+
+	<para>Ventilation occurs when air can flow between the interior and exterior of a building (direct ventilation). Air flowing from one space to another before reaching the exterior is referred to as indirect ventilation. (fig. 1.45)</para>
+
+	<para>Air flow is created by the action of layers of air at different temperatures and the specific difference in gravity of external air movement (wind). This is called natural (gravitational) ventilation. If air flow is created by a fan or any other mechanical device, this is called artificial (mechanical) ventilation.</para>
+
+	<para>Natural (gravitational) ventilation requires an external door (window or balcony door) or air duct (e.g., a vent, pipe or vent grill).</para>
+
+	<para>Old types of external doors and windows in the closed position can allow for an hourly air change rate of one or one and a half (depending on the door’s dimensions and air-tight qualities). Modern, energy-efficient door and window types are increasingly air-tight, which can be detrimental. Lack of air exchange can lead to health problems, including fungal- and allergen-related issues. Such windows can be opened from time to time to ventilate a room, but not bedrooms. This is why regulations require a minimum air volume of 15m³ per person in all bedrooms.</para>
+
+	<para>Gravitational air exchange is best achieved when the distance between the bottom and top of a window are increased, so vertical windows are favorable. For the same reason, it is preferable to have the top of a window as close to the ceiling as possible.</para>
+
+<note>
+	<para><emphasis>The amount of air exchange needed depends upon the activities undertaken and the constitution of the people involved. Natural air exchange should be smooth (no drafts) to provide comfort, easily achieved when a building is ventilated on two opposite elevations, or when close to vegetation or water (even a row of trees planted along the facade), allowing for temperature differences to occur through the day. The exchange of air in air-tight buildings and &quot;passive houses&quot; (see later section) is critical to design. During the summer season, it is necessary to increase air exchange to prevent overheating. During the heating season, air exchange must be reduced to prevent excessive cooling. These two situations are contradictory and must be allowed for when designing buildings’ structural and mechanical systems. Window manufacturers are seeking to improve air-tight technology; therefore, solutions must be found to provide fresh air. (AN)</emphasis></para>
+</note>
+
+	<para>It is not possible to locate all functions close to the elevation and near a window. Inner spaces can be ventilated naturally (gravitationally) by means of a horizontal ventilation duct. If a room is close to the façade, natural horizontal ventilation can work. In this situation, the duct should not exceed two meters in length. (<link linkend="abra_1_47">fig. 1.47</link>) OTÉK provides minimum requirements for duct sizes, but they must be calculated respectively when mechanical systems are applied. Vertical ventilation should discharge stale air above the building’s roof. Formerly made of masonry and frequently concrete tubes, they are generally made of lighter metal in thermally insulated ducts nowadays.</para>
+
+<para><figure id="abra_1_47"><title>
+Ventilation via horizontal ducts
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_47_atszellozes.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_47_atszellozes.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Ventilation via horizontal ducts
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Vertical air ducts are not uniform in their efficiency. In winter, when the outside temperature is significantly cooler than the ventilated space, the rate of airflow will intensify. Sometimes meteorological situations might arise in which temperatures are the same or there is no wind. As a result, the ventilation duct will not function. In summer, outside temperatures might be so high that the ventilation duct will reverse the flow, bringing stale air into the home.</para>
+
+	<para>(Luckily, the windows are usually open in such meteorological conditions.)</para>
+
+	<para>Gravitation air ducts require air to be supplied from within the home via gaps under doors or ventilation grills in the doors. Secondary intake ducts for fresh air (<link linkend="abra_1_48">fig. 1.48b</link>) are complicated and expensive to construct; hence, they are rarely used. Each space must be individually ventilated, resulting in a large footprint, especially in multi-story and multi-unit buildings.</para>
+
+<para><figure id="abra_1_48"><title>
+Ventilation by means of installed duct systems
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_48_szellozo_rendszerek.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_48_szellozo_rendszerek.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Ventilation by means of installed duct systems
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Mechanical ventilation provides controlled and constant intensity. In some cases, a single collector duct serves to ventilate several rooms, and the permanently running fan is situated on the roof. Each ventilated room can be provided by an independent fan joined to the collector duct via non-return valves. These fans are controlled automatically, so they keep running for the necessary amount of time. These facilities consume energy, but not significantly, so they are applied with increasing frequency. (<link linkend="abra_1_48">fig. 1.48c</link>)</para>
+
+
+<note>
+	<para><emphasis>Modern &quot;energy conscious&quot; systems allow for heat recovery solutions that use already warm exhaust to preheat incoming fresh air. This has the effect of reducing energy costs. If one chooses to use such central ventilation systems in the home (or building), care must be taken to provide space for the mechanical equipment. Higher than usual rooms make it easier to install mechanical ventilation systems. Overall, excessive use of mechanical systems should be avoided where possible. Try to abide by passive solutions that employ suitable orientation and proper structures to provide sufficient air exchange. (AN)</emphasis></para>
+</note>
+
+
+<itemizedlist>
+	<title>Residential ventilation requirements:</title>
+
+	<listitem><para>Direct natural ventilation, via windows, should be provided to all rooms that require direct natural light.  (section 1.5.1.) This applies to kitchens, kitchen/dining rooms and all closed (closable) spaces in the home apart from kitchens in one- or two-occupant homes.</para></listitem>
+
+	<listitem><para>Indirect natural ventilation should be provided to corridor spaces, dining rooms, storage rooms, storage areas for non-perishable materials (e.g., wardrobes, built-in cupboards and general storage), and sleeping areas (galleries or cubicles) that feature a large unobstructed opening onto adjoining living areas that are continually supplied with direct natural ventilation.</para></listitem>
+</itemizedlist>
+
+
+<para>Direct ventilation – via windows, air ducts or mechanical systems – must be provided to all sanitary spaces (e.g., bathroom, shower and toilet), housekeeping rooms and pantries.</para>
+
+<para>Mechanical ventilation (extractor fans) should be used, with caution, over cookers, in food preparation areas that are not separated from other rooms, and in windowless kitchenettes in one- or two-occupant homes.</para>
+
+<note>
+	<para><emphasis>Extractor fans (cooker hoods) should not be used in the same spaces as fireplaces or heating stoves. The hood creates a drop in pressure that could cause a back draft from the chimney. The same applies to chimneys of incorrect height as well. In the past, this has also occurred where gas appliances were used. More recently, though, gas appliances have a closed combustion chamber where oxygen is drawn directly from outdoors. This back draft problem might also occur with other ventilation systems, central vacuum cleanings and bathroom extractor fans. Therefore, if such mechanical systems are built into a home, simultaneous use should be avoided. (AN)</emphasis></para>
+</note>
+
+
+<para>Previously not mentioned, and not generally required, is ventilation in residential spaces depending on the nature of its intended use. Direct ventilation (i.e., windows) is necessary to exhaust odors, steam or the residue of pollution-producing activities.</para>
+
+</sect2>
+
+
+<sect2>
+	<title>1.5.3. Thermal comfort and heating</title>
+
+<para>Thermal comfort does not refer solely to the air temperature within the home; other factors also apply. We can feel cold near a large window due to a chill wind (cold radiates from the surface of glass), so more heating is required. Or we may feel warm when near heat-radiating surfaces (heated floors and walls) even though the air is cooler. Thermal comfort can also be affected by the movement of air and ambient humidity levels.</para>
+
+
+<note>
+	<para><emphasis>Well insulated walls and floors are associated with thermal comfort. A better insulated outer wall leads to better inner surface temperatures, so inside air temperatures can be lower than usual for thermal comfort. For general good health and physical well-being, the inner wall surface temperature should be not less than 16ºC, even in corners of rooms. To maintain a surface temperature of 16ºC, the air temperature should be about 23-24ºC for an activity in the sitting position. If the wall surface can be kept at about 20ºC, then so can the air temperature. This means that with better insulation, less energy is required. Further savings can be achieved by providing a lower interior air temperature inlet level and high comfort levels. The heating of homes and buildings can be solved in many ways, and technology is providing even more, ever newer methods of doing so. One thing is certain, design should strive to reduce winter heat loss (good insulation, good surface/volume ratio and avoidance of thermal bridging) and increase heat gains (orientation, juxtaposing spaces and zoning). (AN)</emphasis></para>
+</note>
+
+
+	<para>The heating of a building is usually designed by a mechanical engineer. However, energy demand is a function of architectural and structural design. The following paragraphs refer to all different energy-efficiency aspects of residential buildings.</para>
+
+	<para>Solid fuel heating systems are rarely used, gas-fired central heating being widespread. Individual homes or multi-unit homes employ an independent central heating system or shared heating network, respectively. The most commonly used system is a wall mounted boiler and exhaust flue (or chimney). Dimensions are given in <link linkend="abra_1_49">figure 1.49</link>. </para>
+
+<para><figure id="abra_1_49"><title>
+Gas fired boiler
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_49_cirko_m_.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_49_cirko_m_.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Gas fired boiler
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Not only low temperatures are uncomfortable, high temperatures also are not so pleasant, especially on a hot summer day. Over a 24-hour period, the temperature varies form cooler overnight and in the morning to warmer at noon. A building with a higher physical mass loses the ability to gain or shed heat over time, creating a stable average daily temperature; while external materials with a high thermal inertia remain cooler (traditional thick-walled brick and stone buildings). Summer overheating tends to occur in light building structures. An important factor is the ventilation of dwellings. Multi-unit housing is better when windows are provided on opposite sides of the building, allowing for a cross-draft overnight when the walls shed the heat absorbed during the day. The worse type of dwelling is that which only has openings on a single high heat-load elevation.</para>
+
+	<para>Solar heat gain upon windows can be reduced by shielding methods. Summer sun on a south-facing wall can be shielded with a horizontal projection (<link linkend="abra_1_50">figs. 1.50a, 1.50b and 1.50c</link>), but they are not effective on the east or west sides, where the angle of the summer sun is low in the sky. This mostly applies to the western side when outside air temperature is also high in times of direct solar radiation. Shielding against this can be achieved using mobile shielding devices. (<link linkend="abra_1_50">figs. 1.50d and 1.50e</link>)</para>
+
+<para><figure id="abra_1_50"><title>
+Commonly used domestic shading devices
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_50_arnyekolas_m_.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_50_arnyekolas_m_.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Commonly used domestic shading devices
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Demanding residential buildings often have mechanical cooling devices installed (air conditioners), but their energy consumption is very high. In light of global &quot;sustainable development&quot;, this is a negative phenomenon; it is preferable to design homes that do not require energy consumption to provide sufficient thermal comfort in the summer.</para>
+
+</sect2>
+
+<sect2>
+	<title>1.5.4. Daylight, orientation and energy awareness</title>
+
+	<para>Daylight in the home can serve as a source of solar energy, for the sake of health and comfort as well. Direct sunlight can be germicidal, preventing the growth of harmful micro-organisms and fungi. Rooms orientated so that they receive no sunlight can be depressing, resulting in bad moods. </para>
+
+	<para>A sunlit room uses external energy to generate savings. Today, homes have become more affordable when energy costs are taken into consideration – with the creation of space, the layout of glazed surfaces and orientation giving rise to &quot;passive solar principles&quot;. Aside from technical devices (e.g., solar collectors and solar cells), this means the building’s fabric itself becomes active.</para>
+
+	<para>In general, the building should use appropriate structural materials and finishes (concrete, brick and ceramic tiles) to absorb solar energy.</para>
+
+	<para>Solar gain is a positive phenomenon during most of the year in this climate; yet, during hot summer days, it can be detrimental, causing overheating. (See previous section.)</para>
+
+ 	<para>East-facing bedrooms are beneficial, since they receive solar radiation in the morning hours when the outside air temperature is lower after a cool dawn. At noon, when temperatures become higher, eastern elevations are not sunny. Conversely, this is why west-facing bedrooms are at a disadvantage due to overheating and discomfort at night time. In kitchens, overheating is exacerbated by the oven, and a warm pantry is also detrimental. A room’s orientation should take into account two conflicting viewpoints: 1) does the room have enough daylight, and 2) does the room disturb users through overheating?</para>
+
+
+<itemizedlist>
+	<title>Professional convention favors generally accepted guidelines that rooms be orientated as follows:</title>
+
+<listitem><para>living room: south (south-west, west)</para></listitem>
+<listitem><para>master bedroom: east (north-east)</para></listitem>
+<listitem><para>additional bedrooms: east (south-east, south)</para></listitem>
+<listitem><para>kitchen and pantry: north (north-east, north-west)</para></listitem>
+<listitem><para>other rooms: neutral </para></listitem>
+</itemizedlist>
+
+<para>These preferences do not apply to all clients, and they are often not always possible. Passive solar principles often rewrite these conventions. Specific problems of orientation and day-time lighting in different building types are discussed in the following chapters.</para>
+
+</sect2>
+
+<sect2>
+	<title>1.5.5. Noise prevention, acoustic comfort</title>
+
+	<para>Sources of audio disturbance (emissions) can be inside or outside the home, from the neighboring home or the immediate surroundings. To reduce disturbances, either reduce emissions at the source or use sound-insulating structures.</para>
+
+	<para>The hardest sound to protect against is that generated from the immediate neighborhood (street, railway, aviation and industrial activities), requiring intensive sound insulation measures to be taken, including structures and glazing solutions, which only work when windows are closed. This is not really desirable in residential buildings (unless they are combined with air conditioning systems, which are expensive). In areas where excessive noise is generated, residential developments are usually avoided. If this is not possible in individual cases (e.g., vacant plots), windows should be located on facade that faces the quieter area, even if this is undesirable from other points of view (e.g., orientation). Such situations should be considered or weighed individually.</para>
+
+	<para>Noise generated by neighbors should be adequately insulated against with suitable walls and floor-slab construction. Protection against noise should be provided in study areas and sleep areas (usually the bedroom). Noise generated within the home (watching TV or listening to music) should be at levels that are tolerable for all household members. It is possible to isolate acoustically the living room, too. Most other noise in the home is generated in the kitchen or by sanitary appliances. In larger homes of two occupants or more, it should be possible to isolate sleeping areas from the kitchen acoustically. Although modern mechanical engineering solutions are relatively quiet, try to avoid situating plumbing pipes in bedroom walls.</para>
+
+<note>
+	<para><emphasis>For householders, protection from noise in the immediate environment requires a great deal of attention. Almost every room in the average home contains sound-emitting devices: television, radio, CD player, personal computer, etc. However, householders still want to protect against sound from within their own home, as well as that generated by neighbors. This can be achieved with sound proof doors and partitions, in addition to sound proof electrical and mechanical ducting. Placement of interior furniture can assist acoustic properties. Rooms with hard finishes can be provided with acoustic dampening if windows are fitted with and if carpets are laid. Wet rooms function better when ceramic wall tiles are only placed where required, not throughout, since they generate echoes which can lead to disturbances and accidents. External noise is also increasing, becoming harder to tolerate; therefore, the building's structure should be designed to protect against vibration or airborne sound. Multilayered soft structures can protect against the former, while heavier structures (i.e., walls and floors) ensure against the latter.</emphasis></para>
+	<para><emphasis>When preparing plans, the sizing of floor slabs and walls should be take some flexibility into consideration. Once these walls are located, it will help to designate noisy and quiet zones within the home. It always helps to design a home surrounded by vegetation (e.g., plants along the facade, a green roof or more garden area), since leaves and plants act as sound absorbers. (AN).</emphasis></para>
+</note>
+
+</sect2>
+
+
+<sect2>
+	<title>1.5.6. Visual comfort (AN)</title>
+
+	<para>Housing also requires comfort in visual terms. Most of our time is spent indoors, and most of that at home. In terms of the senses, visual perception and images are just as important as noise. </para>
+
+	<para>Visual perception in the home’s interior – including the interior design and colors used – applies to issues of the design. When approaching a home, the first strong impression is visual.</para>
+
+	<para>When entering a hallway, or any other room, leading to the living room, visual contact to other rooms (such as the kitchen/dining room) can be disturbed by an intrusive door, or if the light levels are brighter or duller.</para>
+
+	<para>Good design should allow for the eyes of a newcomer to negotiate the interiors in comfort. This will help inspire calming spaces. The home is a reflection of the occupant's lifestyle. Good design should assist in achieving soothing spaces for individual users. Good light, color contrasts and choice of materials (mainly flooring) help those that are not experts settle into their homes.</para>
+
+	<para>Non-residential spaces of the home can be customized and opened up to the outside world, acting as a filter. These include balconies, loggias, terraces and planted areas with individual furnishing to bring peace of mind, establishing either a retreat from or a connection to the outside environment.</para>
+
+</sect2>
+
+<sect2>
+	<title>1.5.7. Healthy, allergen-free homes (AN)</title>
+
+	<para>The majority of Europeans spend most of their time indoors. (There are extremes: the British spend the most time indoors, while the Swedish spend the most outdoors). Outdoor and indoor air quality, though, is important to everyone. The percentage of people with allergies is increasing. While some people, perhaps, are not sensitive to a specific form of pollution, the unpleasant symptoms can still appear given a certain combination of factors.</para>
+
+	<para>Few allergies are curable. Relief from symptoms is not easy, which has a negative impact on our ability to work, social relationships and quality of life.</para>
+
+	<para>Specific allergies are not discussed in this text, since that would require specialist knowledge when designing for the environment.</para>
+
+	<para>Allergens (dust, pollen and various pollutants) pose a special problem to those who are affected outdoors in the summer. Those who suffer from seasonal pollen-related allergies try to avoid contact by staying indoors or avoiding contaminated areas when possible. Dust and airborne pollutants are harder to avoid, but good planning can reduce their impact. The best solution for dust and pollutant problems is to increase the amount of binding surfaces, which may include mass vegetation, rows of trees, plants along the facades and the formation of parks. Water surfaces and water spray is also preferable. Damp, moist air is heavier and settles towards the ground, which helps. Warm air, on the other hand, rises, causing discomfort as dust settles on the skin or in people’s hair and airways. Outdoor living for health reasons requires an important an important role played by vegetation and water.  Building orientation should take into consideration the location of vegetation and prevailing wind directions.</para>
+
+ 	<para>The main objective is to reduce the amount of allergens indoors (inside buildings and homes). This is best achieved by preventing the entry of allergens and pollutants through ventilation systems. This is best reduced first on the outside (see previous paragraph), or by the use of controlled ventilation. Ventilation with filtration systems are an even greater help.</para>
+
+ 	<para>Another task is to reduce the amount of dust/allergens within the home. To this end, designs should include easy-to-clean surfaces that can withstand frequent cleaning. Try to avoid carpets and other dust-binding floor coverings. Generally, technology should strive for materials that are easy to clean with wet surface treatments, and the occupant should develop a customized sense of taste and health awareness when selecting interior finishes, carpets and textiles.</para>
+
+	<para>Pets can also cause allergies, so try to avoid cats, dogs and birds in the home. Bed clothes made from linen or containing feathers can be allergenic, so find correct cleaning methods or choose different materials instead. This does not apply to all custom-made homes, but it is wise to learn from the example of hotel-style buildings to find an acceptable solution for all.</para>
+
+ 	<para>Contact allergies (usually to metals) have not grown at the same rate as respiratory allergies; still, but be prepared when designing for children or the elderly. Contact dermatitis is often caused by construction materials that contain nickel and/or formaldehyde.</para>
+
+</sect2>
+
+</sect1>
+
+
+<sect1>
+<title>1.6. Residential space composition and connections</title>
+
+	<para>Access to most rooms within a home are made through circulation spaces (e.g., entrance hall and corridors), but some movement might occur through given rooms (e.g., dining room and living room). The latter can be viewed as hidden paths. &quot;Hidden paths&quot; are not usual in most rooms in the home and not acceptable as exclusive access to another room through bedrooms (unless solely for the purpose of accessing a private bathroom, dressing room or study), through sanitary areas (unless to access shower, bath or toilet) or through technological areas of the kitchens (unless to access a pantry and/or utility room).</para>
+
+	<para>Comfort within the home has a significant impact upon the householders’ mental state and personal relationships. It is mainly spatial relationships that determine whether a home is &quot;friendly, intimate, cozy, elegant, generous,&quot; etc.</para>
+
+	<para>Activities within the home can be realized as a sequence or process. These repetitive sequences can be grouped closely, with a use relationship assumed. Though generally accepted, however, such correlations (for example, food storage, cooking, eating, washing or sleep, wake up, grooming, dressing, etc.) are never, in reality, so rigidly applied.</para>
+
+	<para>The householders’ (or family’s) communication (not only conversation) occurs in many ways. This communication may be established by means of shared activities (e.g., conversation, watching television or doing housework) and may overlap from room to room or by activity.</para>
+
+	<para>&quot;Family Time&quot; does not only apply to time spent in the living room; it applies to the entire residence.</para>
+
+	<para>Modular relationships between individual areas are described in <link linkend="abra_1_51">figure 1.51</link>. Spaces may be separated and linked by doors or without doors, with openings or purely symbolic as &quot;rooms&quot;.</para>
+
+<para><figure id="abra_1_51"><title>
+Connection of spaces within the home
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_51_terkapcs.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_51_terkapcs.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Connection of spaces within the home
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+ 	<para><link linkend="abra_1_52">Figure 1.52</link> shows the relationship between &quot;living, eating and food preparation&quot;. A variety of activities are accessed via circulation areas and individual entrances (<link linkend="abra_1_52">fig. 1.52a</link>). In this case, direct communication is broken, but activities are grouped in fields.</para>
+
+<para><figure id="abra_1_52"><title>
+Examples of connection between entrance, kitchen and living room
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_52_trkpcsnapkh.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_52_trkpcsnapkh.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of connection between entrance, kitchen and living room
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para><link linkend="abra_1_52">Figure 1.52b</link> shows the traditional residential layout model, where the kitchen/dining room serves as the family’s central point. The mother cooks, and children play under supervision. <link linkend="abra_1_52">Figure 1.52c</link> shows how a central dining room with access to the living room via a &quot;hidden path&quot; creates a more spacious sensation.</para>
+
+	<para>The previous three versions show the living room separated from cooking/dining areas by a door. This is absolutely necessary if someone wishes to sleep in the living room. Moreover, this allows for the living room to be a room with a higher standard of cleanliness, where more expensive furnishing and textiles are used. Therefore, separation is required to prevent damage by frequent use.</para>
+
+	<para><link linkend="abra_1_52">Figure 1.52d</link> shows an option where the living room is constantly open. Figure 1.52e shows a kitchen that is part of the general &quot;living space&quot;, where the kitchen, dining and living rooms are essentially one big space. This kitchen concept (the American kitchen) is generally urban. Professional working mothers prefer this, as time spent at home can be spent as part of the family unit. If the kitchen is part of the general living area, then the need for an entrance via the entrance hall is not really required, as <link linkend="abra_1_52">figure 1.52f</link> shows. The kitchen is accessed directly from the dining area</para>
+
+	<para>Another group of activities and their respective arrangements are shown in <link linkend="abra_1_53">figure 1.53</link>, bedroom - bathroom - corridor. The home can have infinite numbers of plan arrangements. Those presented in <link linkend="abra_1_54">figure 1.54</link> are frequently used and based upon actual floor plans.</para>
+
+<para><figure id="abra_1_53"><title>
+Examples of connection between bedrooms, corridor and bathroom
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_53_trkpcshalok_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_53_trkpcshalok_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of connection between bedrooms, corridor and bathroom
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+<para><figure id="abra_1_54"><title>
+Examples of schematic layout of spaces
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_54_lakterkpcs.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_54_lakterkpcs.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of schematic layout of spaces
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+
+	<para>Single corridor plans are best suited to small homes, for reasons of spatial economy.</para>
+
+	<para>Arrangements that divide the plan into two zones (open and intimate) are frequently applied. Bedrooms and living rooms are usually separated to allow for guests to be received without disturbing anyone who wants to rest or not join the social activity. Likewise, bedrooms and bathrooms are visually separated by corridors for reasons of privacy, so &quot;night dress traffic&quot; is not viewed by guests.</para>
+
+	<para>This relationship between spaces in the home is commonly accepted, although some of the original motives (i.e., rationale) are now highly questionable.</para>
+
+	<para>Outside the family group, relationships are less formal than seventy or eighty years ago. No longer are visitors expected to obey a &quot;Code of Conduct or Propriety&quot;. Each family member now has separate contact groups, and it is no longer thought of as objectionable should teenagers receive a guest (even of the opposite sex) in their bedroom or the very &quot;intimate zone&quot; of the home.</para>
+
+	<para>On the other hand a &quot;business party&quot; that does not involve close friends might take place at a wealthier home or villa, since this is intended to strengthen corporate contacts and business interests.</para>
+
+	<para>The &quot;intimate zone&quot; established for bedrooms, sleep and study needs to be separate from the usual sources of noise in the &quot;living zone&quot;. This is why access corridors to bedrooms usually serve as buffer zones. This corridor can be linked directly to the entrance hall, but sometimes a hidden path can be found between the two (dining room and living room). See <link linkend="abra_1_54">figure 1.54b</link>.</para>
+
+	<para>Sometimes bedrooms are not linked to a single, common corridor, but located in different parts of the home. A bedroom accessed directly from the entrance hall is beneficial for a grandparent or adult offspring due to different living patterns. In this case, next to the unattached bedroom, a second bathroom or shower is recommended which can also serve as a common or guest toilet.  (<link linkend="abra_1_53">Fig.1.53.d</link>) The master bedroom with its own bathroom can be separated from the children's rooms (<link linkend="abra_1_54">fig. 1.54c and 1.55c</link>) although this is disadvantageous when caring for smaller children.</para>
+
+	<para>The ratio of living space to circulation space can be minimized by applying rooms with “hidden paths” instead of corridors. In Hungary, traditionally, the entrance hall doubles as a dining space, through which other rooms are accessed. (<link linkend="abra_1_54">fig. 1.54d</link>)</para>
+
+	<para>Recently, Scandinavian countries have adopted the idea or arrangement scheme that transforms the living room into an access point for all other rooms, including the bedrooms. The idea is to lower the cost of homes by reducing the amount of walls and doors needed, while providing comfortably large spaces to create a &quot;corridor-free home&quot;. Windows for living areas can be reduced in size to create more comfort, too. These homes encourage – and practically enforce – intensive communication among family members, which in some situations could be harder to tolerate.</para>
+
+	<para>Recently, it has become fashionable to have an &quot;American kitchen&quot; (open to the living room), which in some situations might be inappropriate – for instance, where freshly-slaughtered animals are to be cleaned and butchered (village tradition) or where cooking habits are intensive and create large amounts of waste or odor.</para>
+
+	<para>Current residential developments should allow for a degree of flexibility in their planning, giving opportunities for incoming resident to choose among suitable options – e.g., the relationship between kitchen, dining and living spaces. (<link linkend="abra_1_55">fig. 1.55a</link>)</para>
+
+<para><figure id="abra_1_55"><title>
+Examples of systematic composition of homes and structure
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_55_lakkomp_m2.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_55_lakkomp_m2.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of systematic composition of homes and structure
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Certain lifestyles patterns fit into specific plan types. <link linkend="abra_1_55">Figure 1.55b</link> shows a typical rural dining room. This also functions as a second living room, where it is possible to enter in work clothes, with rubber boots still on, bearing in mind that it is not convenient to change clothes when entering the home – a regular occurrence, especially when working in the garden or when involved with animals.</para>
+
+	<para><link linkend="abra_1_55">Figure 1.55c</link> shows an L-shaped building. This is a bipolar building arranged around a courtyard with hidden paths to access rooms via the living room.</para>
+
+	<para>The housing market also effects the type of plan arrangements, as does the segment of society to which a property is to be marketed.</para>
+
+	<para>Proven wrong in earlier functionalist theories and socialist nations’ ideology is the hypothesis that homes can be designed based upon equity and need alone. It only served to categorize homes in terms of “a larger family needs a larger home”. In reality, markets are governed by opportunities for providing housing. Homes are available to families that are solvent. In some advanced countries, even government subsidies might be of assistance.</para>
+
+	<para>The first pair of illustrations in <link linkend="abra_1_56">figure 1.56</link> shows a comparison between traditional two-and-a-half-room flats: the first being more conventional, the second more relaxed. The second is better suited to a family of three that wants an open communication between the kitchen and living rooms.</para>
+
+<para><figure id="abra_1_56"><title>
+Examples of homes and their respective types according to market values
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_56_lakfrh_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_56_lakfrh_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Examples of homes and their respective types according to market values
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>A family of four members with two children of the opposite sex might be able to live in a two-and-a-half-room flat if the parents adopt the living room as a bedroom. However, this will only work if the home is more traditionally planned and 74 m². Even for families with three children, this traditionally planned home can be suitable; nevertheless, a home of 85-90 m² would be needed in cases where it is impossible to use the living room as a bedroom. Homes of the latter size are hardly affordable for most families with three children. Unfortunately, the current housing situation in this country cannot always achieve this standard, even when social benefits are awarded to families with three or more children.</para>
+
+	<para>When subsidized housing projects take aim at larger families of low income</para>
+<para>– or when developments are located in less frequented destinations at lower construction costs affordable for relatively low-income families – try to take into account family sizes, the number of children and limited floor area. These factors often necessitate the use of the living room as a bedroom as well. Obviously, then, the living room cannot be shared with the kitchen or serve as a common circulation area or “hidden path”. </para>
+
+	<para>It is also possible to view the property market from the opposite point of view. A well-off couple with no children might desire to build a large villa. However, take care, because when selling such a home, if it has been designed to be suitable for the use of only two people, its market value will be remarkably reduced, even in times of financial growth.</para>
+
+</sect1>
+
+
+<sect1>
+	<title>1.7. Barrier-free – universal design (AN and AP)</title>
+
+<sect2>
+	<title>1.7.1. Accessible housing</title>
+
+	<para>General architectural variations based upon theories and ideologies for people have been around for a long time, more or less concerned with abstracting the concept of the model-human that can be used as the basis for measurement. (See section 1.2.1.) This idealized design is based upon a man in his prime and of good physique, which is not applicable to most people. For some reason, about 10% of the population has declined in performance, or else suffers from perception-related problems, poor vision, poor hearing or assorted physically disabilities. (By comparison, we consider it usual – routine, even – to design a home for six occupants without allowing for members of society who are less fortunate than the average, even though the demand for special circumstances is larger than the demand for six-occupant homes).</para>
+
+	<para>A barrier-free environment is one where anybody can independently and safely exist regardless of physical, sensory or mental capabilities.</para>
+
+	<para>Barrier-free access to buildings or structures is achieved when anyone – regardless of physical, sensory or mental disabilities – can gain access without outside help and with no special effort. To accomplish this, correctly-sized heights at sites and locations must be secured, so the use of aids (canes, crutches, walking frames and wheelchairs) is not limited.</para>
+
+	<para>A building is considered barrier-free when its structure, fixtures and fittings can be used independently – regardless of physical, sensory and mental disabilities; or, in the case of extreme disabilities, with the aid of a constant companion. Tools, physical aids and their respective use should also be considered barrier-free.</para>
+
+	<para>Everyone's life cycle covers stages of human ability: children in pushchairs; an adult, who may have suffered an injury, needing crutches; or the elderly, in a state weakened physical and sensory capability, might require a cane, walking frame or even a wheelchair. If current trends continue, 25% of the European population will be over the age of 60 in the near future. Barrier-free design must serve the population as a whole and should not be thought of as positive discrimination towards any specific group of people. Barrier-free living is intended to achieve equality between people, to eliminate discrimination through, for example, restricting access to workplaces for those with decreased mobility, or restricting access to cultural activities, theaters, concerts, restaurants or night clubs. Official formalities should also be accessible based on the basic citizens' right to life.</para>
+
+	<para>From the 1970s onward, organizations that advocate rights for people with disabilities have grown in size and political force. In many countries, laws now exist to enforce equal opportunities.</para>
+
+	<para>Hungary established Article LXXVII in 1997, which protects the built environment. This law provides precise definitions and system requirements for the design of the built environment. These laws are based upon recommendations found in the &quot;Barrier-free Design Handbook&quot; adopted by the EU Commission in 1996. These regulations actually refer to public domain buildings. Under Act XXVI of 1998, in § 5 of the paragraph &quot;ensuring equal rights and opportunities for disabled people&quot;, it states that &quot;disabled persons have the right to accessibility and perceived safety in the built environment&quot;, which implies that housing should be designed as barrier-free. General requirements state that the whole structure (family homes) or part of it (ground-floor residential units or communal spaces in multi-storey apartment blocks) should be barrier-free or easily adapted for that purpose.</para>
+
+	<para>Access to and use of residential buildings does not have to be barrier-free or normally required, but the general trend is moving in this direction. Human diversity in terms of age, culture and ability is growing at unprecedented proportions, thus increasing demand for new residential buildings which must be flexible, not to mention economical and free of environmental burden throughout their life cycle.</para>
+
+	<para>From the late 1990s, the planning process for barrier-free design shifted towards a newer design paradigm: the idea of universal design.</para>
+
+</sect2>
+
+
+<sect2>
+	<title>1.7.2. Universal design</title>
+
+	<para>Universal design is a preventative approach to thinking and planning strategy, which, at the initial stags of the design process, takes into account the different capabilities of the end user. The design strategy for the exercise of designing such buildings is to ensure that no specific features or adaptations restrict the opportunity for a building to be used by the largest possible number of people.</para>
+
+	<para>The main target in residential design is to minimize requirements needed to adapt spaces and spatial composition to suit the needs of users in different situations at different times.</para>
+
+	<para>This means that all the elements of a home are not necessarily barrier-free, but a suitably sized home could be adapted at any time without the need for total reconstruction. Otherwise, unobstructed access to housing should be strongly recommended in some cases (ground-floor apartments) or enforced throughout in other cases (e.g., homes for the elderly and homes for those with disabilities).</para>
+
+	<para>Sometimes, the specification for a home might require a barrier-free design – for example, a house where a family member is disabled, a house is to be constructed which will include such a family, or an existing home needs to be adapted to allow accessibility for someone who has become disabled through illness or as a  result of an accident.</para>
+
+	<para>Among the design concepts and theories identified, there are several trends. Although subtly different, their conditions and objectives are effectively the same. From the 1960s and onwards, German-speaking countries have seen &quot;Barrier-free Design&quot;; English-speaking countries, &quot;Accessible Design&quot;; and from the 1990s onwards, throughout the European Union, there have existed three main trends: &quot;Universal Design&quot;, &quot;Design For All&quot; and &quot;Inclusive Design&quot;. In Hungary, design professionals prefer to apply &quot;Universal Design&quot; to the built environment and &quot;Inclusive Design&quot; when referring to the design of individual items.</para>
+
+</sect2>
+
+
+
+<sect2>
+	<title>1.7.3. Barrier-free spatial requirements</title>
+
+	<para>The space within a home should be determined to suit someone using a wheelchair. (These routes are also common to those who need canes, crutches or walking frames.) Dimensions and spatial requirements for wheelchairs are provided in <link linkend="abra_1_57">figure 1.57</link>. Note that this information varies between manual and electrically operated wheel chairs, the latter being considered a benchmark for further consideration. </para>
+
+<para><figure id="abra_1_57"><title>
+Dimensions and spatial requirements for wheelchairs
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_57_59_mzgsrl1_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_57_59_mzgsrl1_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Dimensions and spatial requirements for wheelchairs
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Movement within homes requires that a minimum circulation space of 90 cm should be provided between furniture items and corridor walls. Shared corridors require a minimum width of 120 cm; and where doors open sideway, a minimum width of 150 cm is needed. See <link linkend="abra_1_57">figure 1.58</link>.</para>
+
+
+	<para>Ensure that the free space to an open doorway is at least 90 cm, In the case of double-leaf doors, ensure that at least one leaf provides the opening necessary for a push chair or wheelchair to pass through without causing difficulties and without opening the second leaf. This requirement is easiest to fulfill when double doors have asymmetrical leaves.</para>
+
+	<para>Avoid raised thresholds! If this can not be avoided (e.g., doors to wet rooms), ensure that the threshold is no higher than 2cm with rounded edges to allow wheelchairs smooth access and to prevent others from tripping over it.</para>
+
+	<para>To allow easy use of doors for wheelchair users, provide adequate space on each side to allow for opening and closing. On the outside of the door (facing the direction the door opens), provide at least 50-55 cm; on the other side, at least 30 cm. Door use zones are explained in <link linkend="abra_1_57">figure 1.59</link>.</para>
+
+	<para>Preference should be given to sliding doors. The door panel must be installed with an easy-grip handle on the leading edge. </para>
+
+	<para>Common pastime and conversation areas should allow for wheelchairs. Sofas and other chairs can be arranged to leave a free space, so a wheelchair user can join the group without constantly knocking into others’ chairs. Also, ensure that users of canes, crutches and walking frames are not obstructed from joining the conversation, watching TV, etc. As longer periods of time are spent in the living room, it is recommended to make sure that wheelchair users can transfer comfortably to a sofa or lounge chair.</para>
+
+	<para>Seating positions can be taken into consideration for those who are hard of hearing. Allow for people to sit at right angles to or directly opposite each other, so as to make lip reading easier. It is best not to situate windows behind chairs, since the occupant will cast shadows which make facial expressions harder to detect, and communication may become more difficult.</para>
+
+	<para>Meal times require careful dimensioning and planning of spaces to allow for wheelchairs. (See <link linkend="abra_1_60">figure 1.60b</link>.) Free access to the table should be provided, allowing for the positioning of open knee wheelchairs. The best position might be at one end (or both ends) of the table and should not require the wheelchair user to move chairs away before smoothly taking their place at the table. Provide space for people with canes, crutches and walking frames to put their mobility aids to one side without disturbing others while taking their place at the table.</para>
+
+<para><figure id="abra_1_60"><title>
+Barrie free access requirements specific to domestic occupancy
+</title><mediaobject> 
+	<imageobject condition="web">
+<imagedata fileref="./images/E1/web/eng_1_60_mzgsr2_m.png" format="PNG" width="100" align="center"/>
+	</imageobject>
+	<imageobject condition="print">
+<imagedata fileref="./images/E1/eng_1_60_mzgsr2_m.pdf" format="PDF" align="center"/>
+	</imageobject>
+<textobject><phrase>
+Barrie free access requirements specific to domestic occupancy
+</phrase></textobject>
+</mediaobject>
+</figure>
+</para>
+
+	<para>Sleeping space requires a 90 x 200 cm bed with a transfer zone for the wheelchair of at least 120 x 150 cm. (<link linkend="abra_1_60">fig. 1.60c</link>)</para>
+
+	<para>Severely ill people or those with multiple disabilities should be provided with lifting equipment to help them get into or out of bed. This equipment might be on wheels or mounted to the wall or ceiling rails. Care must be taken to ensure that it is not obstructed by other furniture and that free space is given for support staff. This area should be at least 2.0 m wide at the side of the bed.</para>
+
+	<para>Bedroom furniture and cupboards should have enough room beside them to accommodate users of mobility aids – for example, wheelchairs. Ensure that this also applies when furniture doors or drawers are open for ease of use. It would be better still if all cabinet doors have &quot;wide-opening hinges&quot; that allow a clear angle of 180°. There may be an advantage to using sliding doors or specialist-designed furniture with roller-blind.</para>
+
+	<para>A study table should have a minimum width of at least 80 cm, a &quot;free knee&quot; zone under the table, as well as a work surface not higher than 85 cm from the floor. The use zone should be at a depth of 110 cm and width of 120 cm, with a shelf to place books and tools not higher than 120 cm from the floor. (<link linkend="abra_1_60">fig. 1.60d</link>)</para>
+
+	<para>Knee-free design means that any open space provided for built-in equipment and furniture allows for comfortable wheelchair access (e.g., counters and tables). The knees of the user, their wheelchair, as well as its arm and foot rests should not be restricted by any protruding elements below the work surface.</para>
+
+	<para>Storage surfaces for wheelchair users should not be lower than 30 cm or higher than 130 cm. Use zones for cabinets with opening doors should be provided according to <link linkend="abra_1_60">figure 1.60e</link>. Preference should be given to sliding doors when cabinets are designed.</para>
+
+	<para>Kitchen design principles need to be described in greater than usual, taking into account the location of appliances relative to workflow, the arrangement of work surfaces, and the interfacing of technologies. Otherwise, this will be uncomfortable for all. Preparation times will be increased, especially for those in wheelchairs, with crutches or with walking frames, since they have to use both hands just to move in the kitchen. Therefore, kitchen tasks are harder, sometimes even impossible to move an item from one place to another and relocate necessary object (e.g., to move a cooking pot filled with hot water). The food preparation (kitchen) equipment must be designed as an uninterrupted knee-free area (including sink, worktop and cooker). Obviously, there can be no storage below counter height, the ideal counter height being 85-90 cm. As with wheelchair users, the elderly might need to prepare food from a sitting position as well. To this end, the distance between the food preparation surface and cooker should not be more than 80 cm.</para>
+
+	<para>Washing up of dishes is also paramount to the completion of the process. Ensure that dishwashing can be undertaken from one position, allowing for dirty items to be deposited on one side of the sink and left to dry after on the other. The under side of the sink must be thermally insulated to prevent burns to insensitive knees caused by hot water. If a dishwashing machine is used, make sure that it is accessible and proper for use by wheelchair users. </para>
+
+	<para>The oven should be fixed at a high lever above the floor, preferably in a built-in cabinet. Ovens, stoves and microwave ovens should have a work surface on one side for the easy placement of hot dishes. If this is not part of the work surface, it could be a pull-out shelf built into adjacent kitchen cabinets.</para>
+
+	<para>Kitchen cabinet doors should either be sliding or equipped with &quot;wide-opening hinges&quot; that allow a clear angle of 180°, since doors should not obstruct the operating zone. Drawers are preferred, because the contents can be checked and removed from above. Where kitchen units have doors, a use zone with a depth of 150 cm should be provided; where the kitchen has a knee-free work surface, a use zone with a depth of 120 cm should be provided. The wheelchair should have a turning circle diameter of not less than 170 cm, part of which may be below the work surface. (<link linkend="abra_1_60">fig. 1.60f</link>)</para>
+
+	<para>The refrigerator should be located with ease access for wheelchair users. Refrigerators placed below the work surface can be problematic when reaching for the lowest shelf. It is better to place refrigerators 30 cm above the floor level and even to use combination freezer/refrigerator units where the freezer is located in the lower section.</para>
+
+	<para>The design of sanitary spaces in barrier-free homes is critical and also depends upon the individual ability of the user. (<link linkend="abra_1_60">fig. 1.60g</link>)</para>
+
+ 	<para>For toilets, folding grab rails for wheelchair users should be provided. Transfer from the wheelchair to the toilet can be parallel when the wheelchair is situated side by side with the toilet bowl.</para>
+
+	<para>(This is rather rare and mainly practiced by leg amputees.) Usually the wheelchair is placed at a right angle or at an offset position in relation to the toilet bowl. This situation might depend also upon the muscular mobility of the user and might change form one side to the other depending upon the individual concerned. In some situations, the user might place the wheelchair directly in front of the toilet and make a 180° transfer to the toilet bowl.</para>
+
+	<para>The hand-washing basin might be used by other occupants of the home and can be mounted to slide vertically, which calls for flexible pipe connections.</para>
+
+	<para>Showers that have no flange should be installed, and the floor finish should be the same as the rest of the bathroom with a slope of 2% towards a corner drain. Provide adequate hand holds and a folding seat to be used by wheelchair users. This type of folding shower seat is also beneficial for the elderly. Transfer to a shower seat is the same as transfer to a toilet bowl. For ease and safety of use, place the shower head and faucet perpendicular to the wall where the seat is fixed not behind it. Optimally showers should be tailored to fit corner locations. (<link linkend="abra_1_60">fig. 1.60h</link> and <link linkend="abra_1_60">1.60i</link>)</para>
+
+	<para>In some situations, a disabled person might find it preferable to have a bathtub installed for reasons of personal hygiene. Transfer to this can be done by means of a bathtub seat, which allows for transfer form wheelchair to seat, then turning and lowering into the water. Some may require (the elderly included) bathtub grip handles. Some wheelchair users have highly developed, muscular upper bodies and would prefer to transfer to a seat at the back of the bath and lower themselves into the water with the help of side-grip bars. (<link linkend="abra_1_60">fig. 1.60k</link>)</para>
+
+	<para>Variations for situating the toilet and hand-washing basin are given in <link linkend="abra_1_60">figure 1.60j</link>. Options “A” and “B” are preferred where the user can wash hands just after using the toilet and before transferring back to the wheelchair. Option “A” is located in the corner and also allows room for a helper to stand by. It is recommended to have a flexible shower attachment fitted to enable washing of the lower body.</para>
+
+	<para>Bathrooms should have a free turning circle with a diameter 150-170 cm. This might be, at foot height, located below appliances.</para>
+
+	<para>Other arrangements need to be provided when a physically disabled person cannot use sanitary facilities alone. That is when specific facilities need to be individually designed. Specialist literature and advisors are available to assist in these situations.</para>
+
+	<para>The home should be designed to allow straight access routes, and the design should aim to reduce the number of corridors. Direct connection between the bedroom and bathroom is recommended.</para>
+
+	<para>Special-needs housing for disabled persons who are visually impaired, hearing impaired or mentally handicapped is not discussed here. In these cases helpful literature does exist, providing information regarding design issues (e.g., signs, fixtures, flooring, railings, handrails, etc.).</para>
+
+	<para>Non-dwelling spaces and barrier-free portions within different types of homes are discussed in later chapters.</para>
+
+</sect2>
+</sect1>
+</chapter>
