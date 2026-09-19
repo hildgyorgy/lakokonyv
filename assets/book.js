@@ -3,6 +3,46 @@
 
   var toc = document.querySelector(".toc");
   var article = document.querySelector(".book-content");
+  var header = document.querySelector(".site-header");
+  var tocToggle = document.querySelector(".toc-toggle");
+  var tocBackdrop = document.querySelector(".toc-backdrop");
+
+  if (header && toc && tocToggle && tocBackdrop) {
+    function updateHeaderHeight() {
+      document.documentElement.style.setProperty("--header-height", header.offsetHeight + "px");
+    }
+    function setMobileToc(open, returnFocus) {
+      document.body.classList.toggle("toc-open", open);
+      tocToggle.setAttribute("aria-expanded", String(open));
+      tocToggle.setAttribute("aria-label", open ? tocToggle.dataset.closeLabel : tocToggle.dataset.openLabel);
+      tocToggle.querySelector("span").textContent = open ? "×" : "☷";
+      if (open) {
+        var activeLink = toc.querySelector("a.is-active");
+        if (activeLink) {
+          var tocRect = toc.getBoundingClientRect();
+          var linkRect = activeLink.getBoundingClientRect();
+          toc.scrollTop += linkRect.top - tocRect.top - (toc.clientHeight - linkRect.height) / 2;
+        }
+      } else if (returnFocus) {
+        tocToggle.focus();
+      }
+    }
+    updateHeaderHeight();
+    window.addEventListener("resize", function () {
+      updateHeaderHeight();
+      if (window.matchMedia("(min-width: 50.01rem)").matches) setMobileToc(false, false);
+    });
+    tocToggle.addEventListener("click", function () {
+      setMobileToc(!document.body.classList.contains("toc-open"), false);
+    });
+    tocBackdrop.addEventListener("click", function () { setMobileToc(false, true); });
+    toc.addEventListener("click", function (event) {
+      if (event.target.closest('a[href^="#"]')) setMobileToc(false, false);
+    });
+    document.addEventListener("keydown", function (event) {
+      if (event.key === "Escape" && document.body.classList.contains("toc-open")) setMobileToc(false, true);
+    });
+  }
 
   var languageData = document.getElementById("language-targets");
   if (languageData && article) {

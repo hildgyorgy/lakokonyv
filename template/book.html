@@ -15,6 +15,9 @@
 </head>
 <body>
   <header class="site-header">
+    <button class="toc-toggle" type="button" aria-controls="book-toc" aria-expanded="false" aria-label="{{ toc_open }}" data-open-label="{{ toc_open }}" data-close-label="{{ toc_close }}">
+      <span aria-hidden="true">☷</span>
+    </button>
     <a class="site-title" href="#top">{{ title }}</a>
     <nav class="language-switch" aria-label="{{ language_label }}">
       <a href="index.html" lang="hu" hreflang="hu" data-language="hu" {{ hu_current }} aria-label="Magyar">HU</a>
@@ -22,9 +25,10 @@
       <a href="index_en.html" lang="en" hreflang="en" data-language="en" {{ en_current }} aria-label="English">EN</a>
     </nav>
   </header>
+  <div class="toc-backdrop" aria-hidden="true"></div>
   <main id="top" class="page">
     <div class="sidebar-shell">
-      <aside class="toc" aria-label="{{ contents }}">
+      <aside id="book-toc" class="toc" aria-label="{{ contents }}">
       <h2>{{ contents }}</h2>
       {{ toc }}
       </aside>

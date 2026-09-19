@@ -1,6 +1,8 @@
 {
   "hu": {
     "contents": "Tartalomjegyzék",
+    "toc_open": "Tartalomjegyzék megnyitása",
+    "toc_close": "Tartalomjegyzék bezárása",
     "description": "Lakóépületek tervezése – digitális tankönyv",
     "reading_settings": "Olvasási beállítások",
     "accent": "Kiemelt szín",
@@ -20,6 +22,8 @@
   },
   "en": {
     "contents": "Contents",
+    "toc_open": "Open contents",
+    "toc_close": "Close contents",
     "description": "Housing design – digital textbook",
     "reading_settings": "Reading settings",
     "accent": "Accent colour",
