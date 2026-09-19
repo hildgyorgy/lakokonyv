@@ -1,0 +1,14 @@
+{
+  "name": "Lakóépületek tervezése",
+  "short_name": "Lakókönyv",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "./Lako_icon.png",
+      "sizes": "591x591",
+      "type": "image/png"
+    }
+  ]
+}

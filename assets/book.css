@@ -1,0 +1,142 @@
+:root {
+  --ink: #171717;
+  --muted: #686868;
+  --rule: #d9d4ca;
+  --paper: #ffffff;
+  --accent: #8A2432;
+  --link: #245d70;
+  font-family:
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+  color: var(--ink);
+  background: var(--paper);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ink: #eeeeee;
+    --muted: #b5b5b5;
+    --rule: #3b3b3b;
+    --paper: #000000;
+    --accent: #8A2432;
+    --link: #8fc9dc;
+  }
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; line-height: 1.68; font-size: 1.08rem; }
+a { color: var(--link); }
+.site-header { border-bottom: 1px solid var(--rule); padding: 1rem 2rem; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+.site-title { color: var(--ink); font-weight: 700; text-decoration: none; }
+.page { display: grid; grid-template-columns: minmax(12rem, 18rem) minmax(0, 48rem); gap: 3rem; max-width: 74rem; margin: 0 auto; padding: 2.5rem 2rem 5rem; }
+.toc { position: sticky; top: 1rem; align-self: start; max-height: calc(100vh - 2rem); overflow: auto; font: .9rem/1.35 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+.sidebar-shell { display: contents; }
+.reading-controls { display: none; }
+.color-picker { margin-bottom: 1rem; color: var(--accent); }
+.color-picker-label { display: block; margin-bottom: .35rem; font-weight: 600; }
+.reading-controls .color-picker-label { text-transform: uppercase; color: var(--ink); letter-spacing: .04em; }
+.reading-controls .color-picker-label { margin-bottom: .55rem; }
+.color-options { display: flex; gap: .45rem; align-items: center; padding-left: .35rem; }
+.color-swatch { width: 1.1rem; height: 1.1rem; padding: 0; border: 1px solid var(--ink); border-radius: 50%; background: var(--swatch-color); cursor: pointer; }
+.color-swatch[data-color="#8A2432"] { --swatch-color: #8A2432; }
+.color-swatch[data-color="#777777"] { --swatch-color: #777777; }
+.color-swatch[data-color="#a75348"] { --swatch-color: #a75348; }
+.color-swatch[data-color="#E5D352"] { --swatch-color: #E5D352; }
+.color-swatch.is-selected { outline: 2px solid var(--accent); outline-offset: 2px; }
+.alignment-picker { margin-top: 1.25rem; }
+.alignment-picker .color-picker-label { margin-bottom: .55rem; }
+.alignment-option { border: 0; border-bottom: 1px solid transparent; border-radius: 0; background: transparent; color: var(--accent); padding: .1rem .2rem; font: inherit; font-size: .9em; }
+.alignment-option.is-selected { border-bottom-color: var(--accent); font-weight: 700; }
+.toc h2 { font-size: 1rem; margin: 0 0 .75rem; text-transform: uppercase; letter-spacing: .08em; }
+.toc ol { list-style: none; padding: 0; margin: 0; }
+.toc li { margin: .35rem 0; }
+.toc a { color: var(--accent); text-decoration: none; }
+.toc a:hover, .toc a:focus-visible { text-decoration: none; }
+.book-content a[href^="#abra_"] { color: var(--accent); }
+.toc a.is-active { background: var(--accent); color: var(--paper); padding: .12rem .35rem; border-radius: .2rem; }
+.toc summary { color: var(--accent); cursor: pointer; }
+.toc summary::marker { color: var(--accent); }
+.toc details > ol { padding-left: 1.15rem; margin-top: .35rem; }
+.book-content { min-width: 0; }
+.book-content.text-justified p { text-align: justify; hyphens: auto; }
+h1, h2, h3, h4 { line-height: 1.2; scroll-margin-top: 1.5rem; }
+h1 { color: var(--accent); font-size: clamp(2rem, 4vw, 3.2rem); margin: 3rem 0 1.5rem; padding-top: 1.5rem; border-top: 2px solid var(--accent); }
+h1:first-child { border-top: 0; padding-top: 0; margin-top: 0; }
+.book-content > p:first-child { color: var(--accent); font-size: clamp(2rem, 4vw, 3.2rem); line-height: 1.2; font-weight: 700; margin: 0; }
+.book-content > h1:first-of-type { border-top: 0; padding-top: 0; margin-top: 0; }
+h2 { font-size: 1.7rem; margin-top: 2.7rem; }
+h3 { font-size: 1.32rem; margin-top: 2rem; }
+h4 { font-size: 1.12rem; margin-top: 1.5rem; }
+p { margin: 0 0 1.1rem; }
+ul, ol { margin: 0 0 1.2rem; padding-left: 1.6rem; }
+blockquote, .note { margin: 1.8rem 0 1.8rem 2rem; padding: 1rem 1.4rem; border-left: 4px solid var(--accent); background: transparent; }
+.note { color: var(--accent); background: transparent; border-left: 0; font-size: .95em; padding-top: 0; padding-bottom: 0; }
+.note > :first-child { margin-top: 0; }
+.note > :last-child { margin-bottom: 0; }
+blockquote { color: var(--accent); font-style: italic; }
+figure { margin: 2rem auto; text-align: center; scroll-margin-top: 1.5rem; }
+figure img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
+@media (prefers-color-scheme: dark) {
+  .book-content img.dark-invert { filter: invert(1); }
+}
+figure img[style*="--figure-width"] { width: var(--figure-width); }
+figcaption { color: var(--muted); font-size: .92rem; font-style: italic; max-width: 80%; margin: .65rem auto 0; }
+.project-logos { margin: 2rem 0; }
+.project-logos figure { margin: 0; text-align: left; }
+.project-logos img { width: 10%; margin: 0; }
+.missing-figure { border: 1px dashed var(--accent); padding: 1rem; }
+code { font-size: .9em; }
+.site-footer { border-top: 1px solid var(--rule); color: var(--muted); max-width: 70rem; margin: 0 auto; padding: 1.5rem 2rem 3rem; font-size: .9rem; }
+@media (min-width: 90rem) {
+  .page { max-width: none; grid-template-columns: minmax(0, 1fr) minmax(0, 40rem) minmax(0, 1fr); gap: 4rem; }
+  .toc { grid-column: 1; grid-row: 1; justify-self: end; width: min(18rem, 100%); }
+  .book-content { grid-column: 2; grid-row: 1; }
+  .reading-controls { display: block; grid-column: 3; grid-row: 1; position: sticky; top: 1rem; align-self: start; justify-self: start; width: min(18rem, 100%); font: .9rem/1.35 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+}
+@media (min-width: 50.01rem) and (max-width: 89.99rem) {
+  .sidebar-shell { display: flex; flex-direction: column; gap: 2.5rem; grid-column: 1; grid-row: 1; align-self: start; width: 100%; position: sticky; top: 1rem; max-height: calc(100vh - 2rem); overflow: auto; }
+  .reading-controls { display: block; position: static; width: 100%; font: .9rem/1.35 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; order: 1; }
+  .toc { order: 2; }
+  .toc { position: static; max-height: none; overflow: visible; }
+  .book-content { grid-column: 2; grid-row: 1; }
+}
+@media (max-width: 50rem) {
+  .page { display: flex; flex-direction: column; padding: 1.5rem 1rem 3rem; }
+  .sidebar-shell { display: flex; flex-direction: column; gap: 2rem; order: 1; }
+  .reading-controls { display: block; position: static; font: .9rem/1.35 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; order: 1; }
+  .toc { order: 2; }
+  .book-content { order: 3; }
+  .toc { position: static; max-height: none; margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--rule); }
+  body { font-size: 1rem; }
+  blockquote, .note { margin-left: 1rem; }
+  .site-header { padding: .8rem 1rem; }
+}
+@media print {
+  :root { background: white; }
+  .site-header, .toc { display: none; }
+  .page { display: block; max-width: none; padding: 0; }
+  .site-footer { padding-left: 0; }
+  a { color: inherit; text-decoration: none; }
+  figure, h1, h2, h3 { break-inside: avoid; }
+}
+
+/* The language control stays in the header on desktop and mobile alike. */
+.site-header { display: flex; align-items: center; justify-content: space-between; gap: 1rem; position: sticky; top: 0; z-index: 10; background: var(--paper); }
+.language-switch { display: flex; align-items: center; gap: .35rem; flex-shrink: 0; font-size: .9rem; }
+.language-switch a { padding: .5rem .35rem; text-decoration: none; color: var(--muted); }
+.language-switch a[aria-current="page"] { color: var(--accent); font-weight: 700; text-decoration: underline; text-underline-offset: .3em; }
+.language-switch a:hover { color: var(--accent); }
+.language-switch a:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+h1, h2, h3, h4, h5, h6, figure[id] { scroll-margin-top: 6rem; }
+@media (min-width: 90rem) {
+  .toc, .reading-controls { top: 6rem; }
+  .toc { max-height: calc(100vh - 7rem); }
+}
+@media (min-width: 50.01rem) and (max-width: 89.99rem) {
+  .sidebar-shell { top: 6rem; max-height: calc(100vh - 7rem); }
+}
+@media print { .site-header, .language-switch { display: none; } }

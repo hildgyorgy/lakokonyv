@@ -1,0 +1,774 @@
+{
+  "abra_1_01_aranyleonrd.png": {
+    "width": 74,
+    "invert": true
+  },
+  "abra_1_02_modulor.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_03_meretrend.png": {
+    "width": 76,
+    "invert": true
+  },
+  "abra_1_06_fotzona.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_1_07_butorzona.png": {
+    "width": 76,
+    "invert": true
+  },
+  "abra_1_09_berendezesek.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_10_belmagassag_mod.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_12_ajtok_m.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_1_13_ajtonyit_m.png": {
+    "width": 76,
+    "invert": true
+  },
+  "abra_1_14_ajtohasznzona_m.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_1_15_toloajto_m.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_17_butcsprt1m.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_18_butorcsprt2_m.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_19_fszmeretez_m.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_20_burkmeret.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_1_26_khatech.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_29_khareszl.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_1_30_szigetes.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_05_kozlekdok.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_04_testhelyzetek.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_04_ujhazfrm.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_03_satoros.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_02_mezovr.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_01_fesusbe.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_60_mzgsr2_m.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_57_59_mzgsrl1_m.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_1_56_lakfrh_m.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_55_lakkomp__m2.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_54_lakterkpcs.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_53_trkpcshalok_m.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_52_trkpcsnapkh.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_51_terkapcs.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_1_46_megvilhatar.png": {
+    "width": 51,
+    "invert": true
+  },
+  "abra_1_47_atszellozes.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_48_szellozo_rendszerek.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_49_cirko_m_.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_50_arnyekolas_m_.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_08_butorok.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_11_belmag.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_16_ablakfajt_m.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_22_etkezes.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_21_kozosido.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_23_alvas.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_24_egyeni_m_.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_25_frankfurti_kha.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_27_khaelem.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_32_34_terhigi.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_31_haztart.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_28_khaelrnd.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_35_higenia.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_36_higenhelys_m.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_38_ruhatarolas.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_39_elelemtarolas.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_40_nappali_m_.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_45_szellvil.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_1_44_halotc.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_43_halok_m.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_42_etkhak.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_1_41_etkezok.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_06_wekerle.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_11_csbepmsz.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_12_cshelk_ok.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_13_nappalya.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_3_14_napdiaszerk.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_3_16_napdiagram.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_3_18_arnyekol_m_.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_19_kertlatv.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_20_cshtelken_m_.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_21_cshkertben_m_.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_22_autohelymod.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_3_23_cshgarazshely_m.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_3_24_rampamer_m.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_26_algarazs_m_.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_27_terepill.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_3_28_szintterepen.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_29_tereprend.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_25_cshgarashely.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_35_cshfalu.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_34_cshohfal.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_33_cshelioh.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_32_csbepmoh.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_30_31_lejtgar.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_36_cshohgarazs.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_37_csbepmik.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_38_ikhfoglm.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_39_cshikcsatl.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_3_40_cshikfal.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_41_ikhtajol.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_42_cshikgarazs.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_44_zshatarvonal.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_45_zsatjar.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_46_cszsgarazs.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_7_01_statisztika.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_6_08_komposztwcmagyar.png": {
+    "width": 40,
+    "invert": true
+  },
+  "abra_6_06_weeknd3_100as.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_6_05_weeknd2_100as.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_6_04_weeknd1.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_6_07_weekndtlk.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_6_02_ajnyaralo.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_6_01_tipusud.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_60_zoldhoml.png": {
+    "width": 40,
+    "invert": true
+  },
+  "abra_5_58_oslohoablak.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_5_57_szemetes.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_51_terhtip.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_52_trmgarazs_m.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_5_53_tbauramp_m_.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_5_55_melygar_mod.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_5_56_szemetedeny.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_5_50_terkial.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_5_49_terszlep.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_48_terpeld.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_47_trlejtmer.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_5_46_tbkulkap.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_3_51_cshtetok_m_.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_50_cshthszerk.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_49_pincablak.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_48_cshpince.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_47_cshszintek_m_.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_52_tefoforma.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_3_53_54_tetotbeepit.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_55_cshlepcso_mod.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_56_cshlpcshuzott_m.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_57_cshlpcsfajt_mod.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_04_romerstadt.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_03_angolsorh.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_01_alinttabl_m.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_59_terblepcso.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_3_58_cshlpcszerk.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_05_hilberseimer.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_06_utzon.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_08_bakema.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_09_ratingen.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_15_aiosszh.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_4_18_aitlelkhasz.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_4_19_fszsh_m.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_4_16_aitelekfh_mod.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_17_megkozel.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_24_skertved_mod.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_23_shbnell.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_22_shbnp.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_4_21_shterb.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_20_shfunkcs.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_4_29_atriumtip.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_28_shvzeselr.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_4_27_shvizes.png": {
+    "width": 50,
+    "invert": true
+  },
+  "abra_4_26_shlpcelh.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_25_srhgpktar.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_30_atriumfajtak1.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_31_atriumfajtak2.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_32_atriumtetok.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_4_33_atriumsorolas1.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_34_atriumsorolas2.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_02_berhazalap.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_01_berhazf.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_37_aienergia.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_36_atriumegytts.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_4_35_atriumgkptar.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_5_03_minimalw.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_05_gropiussema.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_06_hallos.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_07_beepfejlds.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_13_lakodomb.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_12_dombhaz.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_10_candilis.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_09_roehampton.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_15_ritterstr.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_16_nouvel.png": {
+    "width": 100,
+    "invert": false
+  },
+  "abra_5_18_hazgyar.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_5_24_lift_modos1.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_5_19_ferencv.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_21_tblszerkr.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_22_tbllpcso_mod.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_23_lift_modos2.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_29_fogatfglm.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_5_28_tbrendatm2.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_5_27_tbrendatm.png": {
+    "width": 75,
+    "invert": true
+  },
+  "abra_5_26_tblrendsz.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_25_liftlepcs_mod_.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_30_fogatsav.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_31_fogtaj.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_32_fogpont.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_33_foglakas.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_34_tbfszmet_m.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_40_maisonette.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_39_folylakas.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_37_oldfolylepcso.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_36_oldalfoly.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_35_fogfszv_modos.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_41_folyterben.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_42_tberkter.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_43_tbterkial1_mod.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_44_tbterkial2.png": {
+    "width": 100,
+    "invert": true
+  },
+  "abra_5_45_tbterkial3.png": {
+    "width": 100,
+    "invert": true
+  }
+}

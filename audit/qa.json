@@ -1,0 +1,28 @@
+{
+  "source_chunks": 52,
+  "master_bytes": 671604,
+  "headings_h1": 9,
+  "headings_h2": 52,
+  "headings_h3": 70,
+  "notes": 104,
+  "expected_figure_occurrences": 212,
+  "figure_anchors": 212,
+  "image_occurrences_in_markdown": 214,
+  "unique_image_assets_referenced": 212,
+  "image_assets_in_folder": 212,
+  "internal_crossrefs": 355,
+  "unresolved_internal_targets": [],
+  "duplicate_explicit_ids": [],
+  "missing_referenced_image_paths": [],
+  "leftover_epub_text_links": 0,
+  "leftover_epub_image_links": 0,
+  "review_comments": 2,
+  "missing_comments": 1,
+  "visible_missing_figure_markers": 1,
+  "status_counts": {
+    "OK": 201,
+    "AUTO-FIX": 8,
+    "REVIEW": 2,
+    "MISSING": 1
+  }
+}
