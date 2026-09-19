@@ -166,7 +166,7 @@ code { font-size: .9em; }
     font: 700 1.55rem/1 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     cursor: pointer;
   }
-  .toc-toggle span { display: flex; align-items: center; height: 1em; line-height: 1; }
+  .toc-toggle span { display: flex; align-items: center; height: 1em; line-height: 1; transform: translateY(-.16rem); }
   .toc-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   body { font-size: 1rem; }
   blockquote, .note { margin-left: 1rem; }
