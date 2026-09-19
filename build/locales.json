@@ -16,7 +16,7 @@
     "yellow_green": "Sárgászöld",
     "alignment": "Szöveg igazítása",
     "left": "BALRA",
-    "justify": "SORKIZÁRT (elválasztással)",
+    "justify": "SORKIZÁRT",
     "footer": "BME Lakóépülettervezési Tanszék · 2013",
     "language_label": "Nyelv"
   },
@@ -37,7 +37,7 @@
     "yellow_green": "Yellow green",
     "alignment": "Text alignment",
     "left": "LEFT",
-    "justify": "JUSTIFIED (with hyphenation)",
+    "justify": "JUSTIFIED",
     "footer": "BME Department of Residential Buildings · 2013",
     "language_label": "Language"
   }
