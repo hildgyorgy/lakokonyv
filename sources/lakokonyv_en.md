@@ -35,7 +35,7 @@ This material is primarily for those who will use this knowledge in the course o
 The majority of material published within has been revised and expanded from a previous book by János Bitó entitled Lakóházak Tervezése, copyrighted 2004, János Bitó and B+V lap és Könvykiadó Kft.
 
 <a id="E0_bevezetes"></a>
-# INTRODUCTION
+# Introduction
 
 This material is primarily for those who will use this knowledge in the course of their studies and while practicing design work. While the information contained here is enough to assist in the design of residential buildings, it is not does cover everything. The creative architectural design process should also include a certain knowledge and an innate judgment of values and emotions, a sense of taste and imagination. These skills can not be mastered with a single book. Development is best achieved through personal experience and continuous cooperation with skilled tutors.
 
