@@ -55,9 +55,7 @@
 
   var picker = document.querySelector(".color-picker");
   if (picker) {
-    var storedColor = localStorage.getItem("lakokonyv-accent-color-v2");
-    if (storedColor && storedColor.toLowerCase() === "#7b3f2a") storedColor = "#a75348";
-    if (storedColor && storedColor.toLowerCase() === "#9b6d17") storedColor = "#E5D352";
+    var storedColor = localStorage.getItem("lakokonyv-accent-color-v3");
     var swatches = picker.querySelectorAll(".color-swatch");
     var storedColorAvailable = Array.prototype.some.call(swatches, function (swatch) {
       return storedColor && swatch.dataset.color.toLowerCase() === storedColor.toLowerCase();
@@ -65,7 +63,7 @@
     if (!storedColorAvailable) storedColor = null;
     function setAccent(color) {
       document.documentElement.style.setProperty("--accent", color);
-      localStorage.setItem("lakokonyv-accent-color-v2", color);
+      localStorage.setItem("lakokonyv-accent-color-v3", color);
       swatches.forEach(function (swatch) {
         swatch.classList.toggle("is-selected", swatch.dataset.color.toLowerCase() === color.toLowerCase());
       });
@@ -73,7 +71,7 @@
     swatches.forEach(function (swatch) {
       swatch.addEventListener("click", function () { setAccent(swatch.dataset.color); });
     });
-    setAccent(storedColor || "#8A2432");
+    setAccent(storedColor || "#2A398F");
   }
 
   var alignmentPicker = document.querySelector(".alignment-picker");
