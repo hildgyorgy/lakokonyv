@@ -426,15 +426,12 @@ Generally furniture should be arranged in a group around a readily available cof
 **Requirements and recommendations**
 
 **Basic requirement:**
-
 Ensure that members of the household can spend their leisure time together, that guests can be welcomed into the household and that every family member has access to common audio-visual entertainment.
 
 **Furniture requirements:**
-
 Lounge furniture group to include seating, a sofa that can double as a spare bed, a coffee table, audio and visual equipment, as well as a storage area for books and other commonly used household items. Storage of books in this area might be waived if the home includes other possibilities such as a library, work room, den, etc.
 
 **Sufficient furniture in lounge group:**
-
 - 1- or 2-person homes, seating for 4 people
 - 3- or 4-person homes, seating for 5 people
 - homes for 5 persons or more, seating for 6 people
@@ -465,14 +462,10 @@ Families often receive guests, so it is therefore recommended to have a table la
 **Requirements and recommendations**
 
 **Basic requirement:**
-
 Ensure that all members of the household and occasional guests can dine together in comfortable circumstances.
 
 **Furniture requirements:**
-
-Dining table and chairs. Recommend that seating allow for two extra places (for guests) in addition to the actual occupancy number.
-
-The dining area may be located in the dining room or living room, or it can be an integral part of the kitchen. In larger homes (where occupancy is more than 2-person), it is not possible to have a dining area in the living room when the living room is also used as a sleeping area. The dining area should be in proper vicinity to the site of cooking (not more than one door apart) except in cases where an alternative dining area is in the kitchen. There should be no steps between the dining area and kitchen, since this increases the risk of accidents. The dining area can be used as a general circulation area.
+Dining table and chairs. Recommend that seating allow for two extra places (for guests) in addition to the actual occupancy number. The dining area may be located in the dining room or living room, or it can be an integral part of the kitchen. In larger homes (where occupancy is more than 2-person), it is not possible to have a dining area in the living room when the living room is also used as a sleeping area. The dining area should be in proper vicinity to the site of cooking (not more than one door apart) except in cases where an alternative dining area is in the kitchen. There should be no steps between the dining area and kitchen, since this increases the risk of accidents. The dining area can be used as a general circulation area.
 
 <a id="E1_Alvas_pihenes"></a>
 ### 1.3.3. Sleep and relaxation
@@ -500,20 +493,14 @@ Sleeping furniture and its respective layouts are shown in [figure 1.23.](#abra_
 **Requirements and recommendations**
 
 **Basic requirement:**
-
 Ensure that users can rest or sleep without being disturbed.
 
 **Furniture requirements:**
-
-Each person should be provided with a bed, 90 x 200 cm (plan area). To the side of each bed, provide at least 45 x 45 cm (plan area) and maximum 75-cm-high storage area (low cabinet, shelf, table, etc.).
-
-Each sleeping area, for usually a maximum of two people, should be acoustically shielded. The main householders, a couple or parents, should be provided with a twin bed, min 180 x 200 cm, which should be accessed along both long sides. A double (pull-out) sofa bed is also acceptable in bedroom / living rooms. Beds used by other family members or siblings should not be connected along the longer side. Where a home can provide for only one bedroom, this should be a double or master bedroom. The beds should be arranged in such a way as to avoid inconvenience, damage to health, and surfaces that are radiant, hot or cold.
-
-Any area within the home that is dedicated to the purpose of sleep should have a minimum volume of 15 m³ per person. (See Section 1.5.2.) Single bedrooms require a minimum floor area of 8m², double bedrooms 12m², both taking into account a minimum volume for ventilation purposes.
-
-In larger homes of more than two occupants, the sleeping area should be acoustically separate, isolated from the rest of the domestic activities and not used as general circulation space, since this would disturb the purpose of sleep.
-
-One- or two-occupant homes do allow for the possibility of providing a living / sleeping room. In larger than two occupancy homes, it is possible to use the living room as a sleeping area (although not for children) as long as it is acoustically separate from other domestic functions (e.g., cooking and dining) and does not interfere with common pastimes, activities and welcoming guests.
+- Each person should be provided with a bed, 90 x 200 cm (plan area). To the side of each bed, provide at least 45 x 45 cm (plan area) and maximum 75-cm-high storage area (low cabinet, shelf, table, etc.).
+- Each sleeping area, for usually a maximum of two people, should be acoustically shielded. The main householders, a couple or parents, should be provided with a twin bed, min 180 x 200 cm, which should be accessed along both long sides. A double (pull-out) sofa bed is also acceptable in bedroom / living rooms. Beds used by other family members or siblings should not be connected along the longer side. Where a home can provide for only one bedroom, this should be a double or master bedroom. The beds should be arranged in such a way as to avoid inconvenience, damage to health, and surfaces that are radiant, hot or cold.
+- Any area within the home that is dedicated to the purpose of sleep should have a minimum volume of 15 m³ per person. (See Section 1.5.2.) Single bedrooms require a minimum floor area of 8m², double bedrooms 12m², both taking into account a minimum volume for ventilation purposes.
+- In larger homes of more than two occupants, the sleeping area should be acoustically separate, isolated from the rest of the domestic activities and not used as general circulation space, since this would disturb the purpose of sleep.
+- One- or two-occupant homes do allow for the possibility of providing a living / sleeping room. In larger than two occupancy homes, it is possible to use the living room as a sleeping area (although not for children) as long as it is acoustically separate from other domestic functions (e.g., cooking and dining) and does not interfere with common pastimes, activities and welcoming guests.
 
 <a id="E1_Egyeni_tevekenysegek"></a>
 ### 1.3.4. Individual activities
@@ -537,14 +524,11 @@ If financial or spatial wealth is above minimum, it might be possible to develop
 **Requirements and recommendations**
 
 **Basic requirement:**
-
 Ensure that individual household members can pursue their various individual activities (e.g., studies and hobbies) without being disturbed or disturbing others and that the tools or objects required can be stored at hand.
 
 **Furniture requirements:**
-
-Minimum requirement: A table of at least 60 x 120 cm (plan area) with chair and suitable use zone. Also, a low-height storage cabinet / bookcase measuring 90 x 45 cm (plan area) per person.
-
-Spaces for Individual tasks should be located separately. If sound is a problem, they should be acoustically isolated from other noisy domestic functions. Sleep and individual activities can take place in the same area, but the two functions can be distinct (for example, a bedroom and study in one) if affordable. One acoustically cohesive space should not be shared by more than two users. The individual activities of one person (householder) can take place in the living room if required. The parents’ bedroom can provide room for individual activities or an alternative, temporary spot for a baby’s bed.
+- Minimum requirement: A table of at least 60 x 120 cm (plan area) with chair and suitable use zone. Also, a low-height storage cabinet / bookcase measuring 90 x 45 cm (plan area) per person.
+- Spaces for Individual tasks should be located separately. If sound is a problem, they should be acoustically isolated from other noisy domestic functions. Sleep and individual activities can take place in the same area, but the two functions can be distinct (for example, a bedroom and study in one) if affordable. One acoustically cohesive space should not be shared by more than two users. The individual activities of one person (householder) can take place in the living room if required. The parents’ bedroom can provide room for individual activities or an alternative, temporary spot for a baby’s bed.
 
 <a id="E1_Etelkeszites"></a>
 ### 1.3.5. Food preparation
@@ -636,14 +620,11 @@ Larger L-shaped or U-shaped kitchens have led to the idea that an additional pre
 **Requirements and recommendations**
 
 **Basic requirement:**
-
 The kitchen should provide enough space to prepare food for all the daily meals, based upon the requirements of the permanent occupants plus two guests. Storage of cooking utensils, dining utensils, washing of said utensils and storage of food, including the provision of a refrigeration.
 
 **Furniture and equipment:**
-
-Electric or gas stove with integral oven or separate oven, sink with running hot water, preparation work surfaces and storage units at both lower and higher levels, as well as tall storage cabinet(s). Dishwashing machine and refrigeration units.
-
-Excluding refrigeration units, a single- or double-occupancy home requires a fitted kitchen width of at least 230 cm, and at least 270 cm for a family kitchen (max. occupancy: 3 people). In both cases, additional space is required for a refrigerator. In a family kitchen serving 4-5 people, it is strongly recommended that the total row of fitted units be at least 360 cm in length and 420 cm for higher occupancy, excluding refrigeration. The cooking area can be a separate room or form part of the living room. The space directly in front of kitchen units should not function as a general circulation space (or corridor) unless used in single- or double-occupancy homes. If cooking is undertaken in the same space as the living room, mechanical ventilation must be provided directly above stove. Gas stoves are not recommended in spaces shared with the living room and are not allowed in spaces shared with sleeping areas.
+- Electric or gas stove with integral oven or separate oven, sink with running hot water, preparation work surfaces and storage units at both lower and higher levels, as well as tall storage cabinet(s). Dishwashing machine and refrigeration units.
+- Excluding refrigeration units, a single- or double-occupancy home requires a fitted kitchen width of at least 230 cm, and at least 270 cm for a family kitchen (max. occupancy: 3 people). In both cases, additional space is required for a refrigerator. In a family kitchen serving 4-5 people, it is strongly recommended that the total row of fitted units be at least 360 cm in length and 420 cm for higher occupancy, excluding refrigeration. The cooking area can be a separate room or form part of the living room. The space directly in front of kitchen units should not function as a general circulation space (or corridor) unless used in single- or double-occupancy homes. If cooking is undertaken in the same space as the living room, mechanical ventilation must be provided directly above stove. Gas stoves are not recommended in spaces shared with the living room and are not allowed in spaces shared with sleeping areas.
 
 <a id="E1_Haztartasi_munkak"></a>
 ### 1.3.6. Housekeeping
@@ -669,11 +650,9 @@ In larger homes, washing, drying, ironing, laundry, clothes repairs, cleaning an
 **Requirements and recommendations**
 
 **Basic requirement:**
-
 Ensure that tasks including washing, drying, ironing, laundry and repairs can be undertaken and the necessary tools appropriately stored.
 
 **Furniture and equipment:**
-
 Minimum requirement: automatic washing machine and clothes-drying rack/rail if no dryer available. Folding ironing board, table and equipment or tool storage. If a utility room is possible, automatic washing (and drying) machine, hand-basin sink for washing and cleaning, dirty clothes closet, repairs and work surface, folding ironing board and equipment or tool storage.
 
 <a id="E1_Szemelyi_higienia"></a>
@@ -722,11 +701,9 @@ The toilet cubicle should have a normal-sized washbasin if it is not located on 
 **Requirements and recommendations:**
 
 **Basic requirement:**
-
 To provide access to warm water for washing and bathing. Ensure that the toilet can be used in tolerable circumstances with regard to other occupants.
 
 **Hygiene-related lower limits for occupancy levels:**
-
 - 1-2 occupants, provide toilet, shower and washbasin.
 - 3-4 occupants, provide toilet, bathtub and washbasin.
 - 4-5 occupants, provide separate toilet and wash basin, in addition to main bathroom.
@@ -764,9 +741,9 @@ Other objects (sports equipment, large toys, unused play pens, tools, etc.) can 
 **Requirements and recommendations:**
 
 **Basic requirement:**
-
 Appropriate storage must be provided (in furniture or rooms) for food and clothing inside the home, while other articles not for everyday use should be either inside or near the home.
 
+**Furniture and equipment:**
 Clothes storage – including cupboards, closets, built-in wardrobes or walk-in closets – should be provided. The depth of cupboards and built-in wardrobes should be a minimum of 60 cm. Ideally, a minimum of 1.20 running meters of clothing storage should be provided per occupant. Of this, at least 0.6 running meters of clothes storage should be provided in the sleeping area or in a corridor next to the bedrooms. Storage facilities for coats, hats, bags, wet shoes, etc., should be provided near the entrance.
 
 **Food storage, in addition to that stored in a refrigerator, should be calculated thus:**
@@ -837,7 +814,7 @@ A detached dining room can perform at a higher standard or can act as a “secon
 >
 > *Sitting around the dining table can be beneficial for everyone, but especially for the hearing impaired. It is best to sit opposite one another, not side by side or at right angles, because this makes it easier to lip-read. Better still, if the window is at a right angle to those seated at the table, light distribution reduces the shadows on people’s faces, thus making lip-reading, perception of facial expressions, and communication easier. (AP)*
 
-The eat-in kitchen offers an economical use of space, with the dining table also made available as a food preparation area between meals. In rural houses, where the residents deal with vegetable gardening and animal husbandry, the kitchen table is indispensible for processing items. Naturally, eat-in kitchens are found in urban homes as well. The demand often arises, even in more spacious homes with a separate dining room, for a small breakfast nook or place to eat within the kitchen. (This can be achieved economically, too. See figure 1.22b.) For alternative eat-in kitchen layouts, see [figure 1.42](#abra_1_42).
+The eat-in kitchen offers an economical use of space, with the dining table also made available as a food preparation area between meals. In rural houses, where the residents deal with vegetable gardening and animal husbandry, the kitchen table is indispensable for processing items. Naturally, eat-in kitchens are found in urban homes as well. The demand often arises, even in more spacious homes with a separate dining room, for a small breakfast nook or place to eat within the kitchen. (This can be achieved economically, too. See figure 1.22b.) For alternative eat-in kitchen layouts, see [figure 1.42](#abra_1_42).
 
 <a id="abra_1_42"></a>
 
