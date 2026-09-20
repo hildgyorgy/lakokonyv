@@ -67,6 +67,9 @@ class BilingualBookTests(unittest.TestCase):
                 if link.startswith('#'): self.assertIn(link[1:], page.ids)
             self.assertNotRegex(page.html, r'{{ [a-z_]+ }}')
 
+        css = (ROOT / 'dist/book.css').read_text(encoding='utf-8')
+        self.assertIn('.book-content a[href^="#"] { color: var(--accent); font-weight: 600; }', css)
+
     def test_semantic_html_and_explicit_note_blocks(self):
         for source, page, expected_notes in (
             (ROOT / 'sources/lakokonyv.md', self.hu, 83),

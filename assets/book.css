@@ -90,7 +90,7 @@ a { color: var(--link); }
 .toc-number { grid-column: 1; }
 .toc-link-numbered .toc-title { grid-column: 2; }
 .toc a:hover, .toc a:focus-visible { text-decoration: none; }
-.book-content a[href^="#abra_"] { color: var(--accent); font-weight: 600; }
+.book-content a[href^="#"] { color: var(--accent); font-weight: 600; }
 .toc a.is-active { background: var(--accent); color: var(--paper); padding: .12rem .35rem; border-radius: .2rem; }
 .toc .has-children > ol { padding-left: 1.15rem; margin-top: .35rem; }
 .book-content, .book-section { min-width: 0; }
