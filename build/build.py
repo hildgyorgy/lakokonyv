@@ -15,6 +15,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 SOURCE = ROOT / "sources"
 DIST = ROOT / "dist"
+WORKBENCH = ROOT / "workbench"
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 IMAGE_RE = re.compile(r"!\[([^]]*)\]\(([^)]+)\)")
@@ -341,7 +342,7 @@ def main() -> None:
             shutil.rmtree(child)
         else:
             child.unlink()
-    for filename in ("book.css", "book.js", "workbench.css", "workbench.js", "Lako_icon.png", "site.webmanifest"):
+    for filename in ("book.css", "book.js", "Lako_icon.png", "site.webmanifest"):
         shutil.copy2(ROOT / "assets" / filename, DIST / filename)
     shutil.copytree(ROOT / "assets" / "fonts", DIST / "fonts")
     shutil.copytree(SOURCE / "images", DIST / "images")
@@ -355,8 +356,9 @@ def main() -> None:
     image_data = [{"file": path.name} for path in sorted((SOURCE / "images").iterdir()) if path.is_file() and not path.name.startswith(".")]
     workbench = workbench.replace("{{ layout }}", json.dumps(layout, ensure_ascii=False))
     workbench = workbench.replace("{{ images }}", json.dumps(image_data, ensure_ascii=False))
-    (DIST / "workbench.html").write_text(workbench, encoding="utf-8")
-    print(f"Bilingual build complete: {len(shared_ids)} shared IDs; one shared image directory and workbench.")
+    WORKBENCH.mkdir(exist_ok=True)
+    (WORKBENCH / "index.html").write_text(workbench, encoding="utf-8")
+    print(f"Bilingual build complete: {len(shared_ids)} shared IDs; local workbench refreshed outside dist.")
 
 
 if __name__ == "__main__":

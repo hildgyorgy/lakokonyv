@@ -16,6 +16,7 @@ magyar–angol statikus webes kiadása.
 - `build/locales.json` – magyar és angol felületi feliratok.
 - `build/build.py` – függőségmentes Python build és hivatkozásellenőrzés.
 - `audit/image_layout.json` – közös ábraméretezés és invertálhatóság.
+- `workbench/index.html` – helyben, szerver nélkül megnyitható ábra-munkapad.
 - `audit/english_import.md`, `audit/english_import.json` – az angol átvétel és a kiadások eltérései.
 - `dist/` – generált kimenet, nem verziózandó.
 
@@ -29,8 +30,10 @@ python3 build/test_bilingual.py
 ```
 
 A build a két Markdown-forrásból elkészíti a `dist/index.html` magyar és a
-`dist/index_en.html` angol oldalt, a közös stílusokat, szkripteket, képmappát
-és a `dist/workbench.html` munkapadot. A korábbi magyar URL-ek megmaradnak.
+`dist/index_en.html` angol oldalt, a közös stílusokat, szkripteket és
+képmappát. Emellett frissíti a publikációtól elkülönített
+`workbench/index.html` munkapad beágyazott képjegyzékét és beállításait. A
+korábbi magyar URL-ek megmaradnak.
 Minden megőrzött forrás a `sources/` mappában található. A build újragenerálja
 a teljes `dist` mappát; oda ne kerüljön kézzel szerkesztett forrás.
 Az XML-ekben megmaradt régi képútvonalak archivált hivatkozások. A korábbi
@@ -59,11 +62,13 @@ megnyithatók, de a böngésző helyi fájlokra vonatkozó tárolási szabályai
 
 ## Ábra-munkapad
 
-A `dist/workbench.html` az összes közös képet mutatja. A csúszkával állítható
-szélesség és a sötét módbeli invertálhatóság exportálható a „Méretlista
-exportálása” gombbal. Az exportált fájl kerüljön az `audit/image_layout.json`
-helyére. Új build után a beállítások mindkét nyelven érvényesek; a
-`sources/images/` fájljai változatlanok maradnak.
+A `workbench/index.html` az összes közös képet mutatja, és közvetlenül,
+szerver nélkül megnyitható. A csúszkával állítható szélesség és a sötét
+módbeli invertálhatóság exportálható a „Méretlista exportálása” gombbal. Az
+exportált fájl kerüljön az `audit/image_layout.json` helyére. Új build után a
+beállítások mindkét nyelven érvényesek, a munkapad beágyazott adatai
+frissülnek, a `sources/images/` fájljai pedig változatlanok maradnak. A
+`dist/` nem tartalmazza a munkapadot, ezért az nem kerül a GitHub Pages oldalra.
 
 ## Forráshűség és szerkesztői ügyek
 

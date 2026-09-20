@@ -13,7 +13,7 @@
     var setting = settingFor(item.file);
     var card = document.createElement("article");
     card.className = "image-card";
-    card.innerHTML = '<h2>' + item.file + '</h2><div class="preview" style="--preview-width:' + setting.width + '%"><img src="images/' + item.file + '" alt="' + item.file + '"></div><label class="controls"><input type="range" min="25" max="100" step="1" value="' + setting.width + '"><output>' + setting.width + '%</output></label><label class="invert-control"><input type="checkbox" ' + (setting.invert ? 'checked' : '') + '> invertálható sötét módban</label>';
+    card.innerHTML = '<h2>' + item.file + '</h2><div class="preview" style="--preview-width:' + setting.width + '%"><img src="../sources/images/' + item.file + '" alt="' + item.file + '"></div><label class="controls"><input type="range" min="25" max="100" step="1" value="' + setting.width + '"><output>' + setting.width + '%</output></label><label class="invert-control"><input type="checkbox" ' + (setting.invert ? 'checked' : '') + '> invertálható sötét módban</label>';
     var input = card.querySelector("input"), output = card.querySelector("output"), preview = card.querySelector(".preview");
     var invert = card.querySelector(".invert-control input");
     function save() {

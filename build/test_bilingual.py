@@ -101,6 +101,17 @@ class BilingualBookTests(unittest.TestCase):
             self.assertGreater(int(image['width']), 0)
             self.assertGreater(int(image['height']), 0)
 
+    def test_workbench_is_local_and_outside_publication(self):
+        workbench = (ROOT / 'workbench/index.html').read_text(encoding='utf-8')
+        self.assertFalse((ROOT / 'dist/workbench.html').exists())
+        self.assertFalse((ROOT / 'dist/workbench.js').exists())
+        self.assertFalse((ROOT / 'dist/workbench.css').exists())
+        self.assertIn('../assets/workbench.css', workbench)
+        self.assertIn('../assets/workbench.js', workbench)
+        self.assertIn('window.LAYOUT_DATA =', workbench)
+        self.assertIn('window.IMAGE_DATA =', workbench)
+        self.assertIn('../sources/images/', (ROOT / 'assets/workbench.js').read_text(encoding='utf-8'))
+
     def test_requirement_labels_and_loose_lists(self):
         self.assertIn(
             '<h4>KÖVETELMÉNYEK ÉS AJÁNLÁSOK</h4>',
