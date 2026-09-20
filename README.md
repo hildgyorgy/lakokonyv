@@ -37,6 +37,12 @@ Az XML-ekben megmaradt régi képútvonalak archivált hivatkozások. A korábbi
 DocBook JPG/PNG exportok többszörös másolatai nem részei a repónak; a webes
 kiadás ellenőrzött képei a `sources/images/` mappában vannak.
 
+A Markdown szerkezeti konvenciói közvetlenül tükrözik a könyvet: az első három
+címszint kerül a tartalomjegyzékbe, a `####` szint a „KÖVETELMÉNYEK ÉS
+AJÁNLÁSOK” blokkok címe, a szerzői sorok pedig `— Teljes név` alakú önálló
+bekezdések. A `> **Megjegyzés**`, illetve `> **Note**` kezdetű idézetblokkok
+megjegyzésként jelennek meg.
+
 A fejléc HU / EN váltója a megfelelő fejezetre vagy ábrára visz. Ha egy elem
 csak az egyik kiadásban szerepel, a legközelebbi közös szülőfejezet a célpont.
 A fejléc görgetés közben is elérhető. JavaScript nélkül a nyelvi oldalak

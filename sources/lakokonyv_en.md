@@ -57,7 +57,7 @@ The majority of material published within has been revised and expanded from a p
 
 This revised edition brings the work into line with current curriculum issues of sustainability, autonomy and universal design concepts regarding residential buildings and their surroundings, as they are inescapably important both in education and in practice.
 
-New additions to this publication include PhD research work undertaken in the field of universal design (accessibility) by the co-authors Ágnes Novák and András Pandula, who are identified in certain chapters by the respective initials (AN) and (AP).
+New additions to this publication include PhD research work undertaken in the field of universal design (accessibility) by the co-authors Ágnes Novák and András Pandula, whose full names are shown alongside the chapters and supplementary passages they authored.
 
 OTÉK appears throughout this publication and refers to Országos Településrendezési és Építési Követelmények (National Town Planning and Building Requirements). For this publication, Hungarian standards are adopted as an educational medium.
 
@@ -69,7 +69,7 @@ Budapest
 # 1. The Home
 
 <a id="E1_A_fejezet_temakore"></a>
-## 1.1 Preface
+## 1.1. Preface
 
 Defining the term *home* is not easy to do, but it is necessary, especially when asked to define a nation's housing stock. When a home has no hygienic infrastructure – whether it be an urban home that is totally eroded due to a lack of maintenance, or a rural room that houses an extended family – the question arises, “How does one calculate this?” Obviously, this is housing at its very lowest extreme, a standard would not be acceptable for new residential dwellings.
 
@@ -97,7 +97,9 @@ The following observations about housing design issues do not attempt to discuss
 
 > **Note**
 >
-> A slow but continuous change can be observed in the development of housing. Connections or even separations might be observed due to work-related activities, entertainment, as well as cultural or even social environments. The home of the twenty-first century often revisits themes of the twentieth century. In many cases, these are purely functional forms which, due to work or leisure activities, might require nothing more than furnishing solutions, but the phenomenon of "abundance" design, which might have financial drawbacks over the lifetime of a given project, allows these spaces to be adapted for different uses over time. (AN)
+> A slow but continuous change can be observed in the development of housing. Connections or even separations might be observed due to work-related activities, entertainment, as well as cultural or even social environments. The home of the twenty-first century often revisits themes of the twentieth century. In many cases, these are purely functional forms which, due to work or leisure activities, might require nothing more than furnishing solutions, but the phenomenon of "abundance" design, which might have financial drawbacks over the lifetime of a given project, allows these spaces to be adapted for different uses over time.
+>
+> — Ágnes Novák
 
 <a id="E1_A_lakasterek_meretei"></a>
 ## 1.2. Dimensions of residential spaces
@@ -166,7 +168,9 @@ Some residential buildings, such as homes for the elderly or disabled persons, r
 
 > **Note**
 >
-> *Houses and homes need to consider the diverse needs of their respective residents over its lifespan. This must be taken into consideration when the building is new. Variations in household living patterns occur due to the birth of children, youths leaving home, or even elderly members of the family being taken into the extended family’s care. Changes might also occur due to temporary or permanent injury, illness or disability. A home should be readily adaptable, so any likely changes to its elements can occur without major disruption or redevelopment in its primary structure and infrastructure. (AP)*
+> *Houses and homes need to consider the diverse needs of their respective residents over its lifespan. This must be taken into consideration when the building is new. Variations in household living patterns occur due to the birth of children, youths leaving home, or even elderly members of the family being taken into the extended family’s care. Changes might also occur due to temporary or permanent injury, illness or disability. A home should be readily adaptable, so any likely changes to its elements can occur without major disruption or redevelopment in its primary structure and infrastructure.*
+>
+> — András Pandula
 
 Architectural design does not have to be restricted to the size of the human body in terms of spatial units, although it is recommended to consider the sizes of the human body during the planning process, since they are fixed in design standards and specifications. At different times, documented information has been made available to assist in the process. Separate disciplines have also described the human body in terms of anthropometry, including the garment industry, furniture industry, automotive industry, etc. Continuous measurement is also required as the average human changes from generation to generation.
 
@@ -174,7 +178,9 @@ To take a Dutch example, the average 18-year-old’s height is 181cm, approx. 19
 
 > **Note**
 >
-> Based on these figures it was recommended by the EU in 1996 that the industry standard for internal doors have a minimum clearance height of 210 cm. (AN)
+> Based on these figures it was recommended by the EU in 1996 that the industry standard for internal doors have a minimum clearance height of 210 cm.
+>
+> — Ágnes Novák
 
 Ergonomics is the science which deals with the reasonable amount of space and energy required to perform a task to gain highest performance results. This publication deals with information based upon previous academic research, both domestic and EU-wide, into specific ergonomic requirements where sizes are rounded to multiples of 5 cm (sufficient in accuracy for design of residential spaces and areas). Doing so facilitates the learning process by removing the need to refer to several manuals at one time. This system, however, is too rough for highly-detailed, specialist, interior design dimensions; therefore, it is recommended to refer to other manuals where more accurate information might be found. Illustrations showing dimensions have been rounded to the nearest 1M or 0.5M for easy use. (fig. 1.4) Movement around and within the home (unfurnished surfaces) are described in terms of the minimum dimensions required. (fig. 1.5)
 
@@ -192,7 +198,9 @@ Ergonomics is the science which deals with the reasonable amount of space and en
 
 > **Note**
 >
-> *Note that these values provided reflect the lower range of recommended sizes and appropriate use. When considering the conservation of sustainable housing stock, long-term practicality should be insured, so current regulations should be forward-looking. When changing the design quality of new homes – and not just with the aim of alleviating housing shortages – the design can include an increase of 5-10% upon the lower limit. Higher standards of living should reflect comfort in terms of the ability to satisfy demand by means of ability to finance such projects. Long-term higher-comfort homes should be constructed to meet that specific demand. (AN)*
+> *Note that these values provided reflect the lower range of recommended sizes and appropriate use. When considering the conservation of sustainable housing stock, long-term practicality should be insured, so current regulations should be forward-looking. When changing the design quality of new homes – and not just with the aim of alleviating housing shortages – the design can include an increase of 5-10% upon the lower limit. Higher standards of living should reflect comfort in terms of the ability to satisfy demand by means of ability to finance such projects. Long-term higher-comfort homes should be constructed to meet that specific demand.*
+>
+> — Ágnes Novák
 
 <a id="E1_A_lakas_fontosabb_butorainak"></a>
 ### 1.2.3. Spatial requirement for domestic furniture and appliances
@@ -235,7 +243,9 @@ Important dimensions of most furniture items and their respective use zones are 
 
 > **Note**
 >
-> *Furnishing in some areas may differ significantly from standard values – for example, mobility aids (wheelchairs) or child-care-orientated furniture (baby baths and toilet training seats). Standard designs need not take these extremes functions into account; however, if allowed for in the overall development of a project, it might increase a home’s value. Larger areas in the home should allow for adaptation and the installation of large-scale items. Multi-unit housing and other forms of repetitive development should allow a leeway of 5-10% as a starting point when considering possible extremes in the space provided for furniture, fixtures and fittings. (AP)*
+> *Furnishing in some areas may differ significantly from standard values – for example, mobility aids (wheelchairs) or child-care-orientated furniture (baby baths and toilet training seats). Standard designs need not take these extremes functions into account; however, if allowed for in the overall development of a project, it might increase a home’s value. Larger areas in the home should allow for adaptation and the installation of large-scale items. Multi-unit housing and other forms of repetitive development should allow a leeway of 5-10% as a starting point when considering possible extremes in the space provided for furniture, fixtures and fittings.*
+>
+> — András Pandula
 
 <a id="E1_A_lakasterek_belmagassaga"></a>
 ### 1.2.4. Headroom allowances
@@ -258,7 +268,9 @@ The standard size of a human requires a vertical height of 1.90 m for all activi
 
 > **Note**
 >
-> *The prescribed minimum headroom (2.50 m or 2.20 m) can also benefit construction costs. Obviously higher headroom in core spaces allows for larger windows that provide proportionally smoother and brighter lighting throughout. Areas with greater headroom will also allow for better ventilation and internal airflow, which is more favorable in the summer. Heat loss (cost) is not directly related to a room’s volume, but the ration of surface area/volume. Compact forms of construction do not imply an increase in operational costs in proportion to height. It can signal an increase in comfort and may obviate the need for mechanic assistance (no air conditioners required). For this reason, in some countries, the minimum interior headroom for family houses is set higher at 3.00 m to allow for greater comfort. (AN)*
+> *The prescribed minimum headroom (2.50 m or 2.20 m) can also benefit construction costs. Obviously higher headroom in core spaces allows for larger windows that provide proportionally smoother and brighter lighting throughout. Areas with greater headroom will also allow for better ventilation and internal airflow, which is more favorable in the summer. Heat loss (cost) is not directly related to a room’s volume, but the ration of surface area/volume. Compact forms of construction do not imply an increase in operational costs in proportion to height. It can signal an increase in comfort and may obviate the need for mechanic assistance (no air conditioners required). For this reason, in some countries, the minimum interior headroom for family houses is set higher at 3.00 m to allow for greater comfort.*
+>
+> — Ágnes Novák
 
 Current town planning and building code in Hungary (OTÉK) has fixed average headroom requirements as follows: primarily used room (living room), minimum average height 2.50 m (excluding secondary spaces); less frequently used rooms, 2.20 m (not including living rooms). However, compliance with regulations does not guarantee usability. Check that residential spaces meet performance requirements in all respects. Bedrooms with an inclined ceiling, averaging 2.20 m, might be appropriate but not necessarily recommended with a horizontal ceiling. Let the latter be a space of full utility, which is standard in all cases. A space with less than 2.20 m average headroom may be sufficient for the placement of a toilet. Ancillary spaces below an angled ceiling might be appropriate for locating some furniture, fixtures and fittings depending upon the depth of space available. Demand for use of space might dictate terms regarding lofts outfitted as children's rooms. [Figure 1.11](#abra_1_11) illustrates options for built-in furniture (sanitary fittings, kitchens, wardrobes, etc.). It is advisable to avoid going more than 1.00 m deep into spaces lower than 1.90 m, as it will be problematic to clean without physical discomfort.
 
@@ -283,7 +295,9 @@ In terms of sound insulation, doors without thresholds are not as good as those 
 
 > **Note**
 >
-> *A home with fewer raised thresholds is advisable in terms of utility and comfort. Consider that small children learning to walk or running around do not lift their feet very high. The same applies to older people shuffling about the home, who risk of falling. This also applies to children in all buildings and nursing homes for the elderly. Where sound insulation and air-tight barriers are issues, automatic thresholds can be used. Automatic thresholds come in various forms, but are usually of two types: those which rise from the floor when the door is closed, or those which extend from the bottom of the door to meet a rubber sealing strip. The latter is ideal in locations adjoining wet places. (AP)*
+> *A home with fewer raised thresholds is advisable in terms of utility and comfort. Consider that small children learning to walk or running around do not lift their feet very high. The same applies to older people shuffling about the home, who risk of falling. This also applies to children in all buildings and nursing homes for the elderly. Where sound insulation and air-tight barriers are issues, automatic thresholds can be used. Automatic thresholds come in various forms, but are usually of two types: those which rise from the floor when the door is closed, or those which extend from the bottom of the door to meet a rubber sealing strip. The latter is ideal in locations adjoining wet places.*
+>
+> — András Pandula
 
 On plan drawings, a line is drawn through the center of the door. Above this line, the door’s width is indicated; below this line, the door’s height is shown. Door measurements display two characteristics: the clear opening between frames and the nominal size. The nominal size is fractionally larger than the real, manufactured size to allow leeway for onsite installation. The numbers indicated on architectural plans are nominal sizes. ([fig. 1.12](#abra_1_12))
 
@@ -299,7 +313,9 @@ The actual "use size" of a door is found to be 10 cm larger in width and depth, 
 
 > **Note**
 >
-> *Doors placed near corners of walls are best placed 10 cm away from the corner to allow space for the door handle when the door is open position at a 90° angle. The path through this opening then remains clear. (AP)*
+> *Doors placed near corners of walls are best placed 10 cm away from the corner to allow space for the door handle when the door is open position at a 90° angle. The path through this opening then remains clear.*
+>
+> — András Pandula
 
 It is usual to provide an "additional use zone" of 20 cm at the opening side of a door. This allows for ease of use and an ideal place to locate light switches and power supply sockets usually used for vacuum cleaners. ([fig. 1.14](#abra_1_14))
 
@@ -313,7 +329,9 @@ It is usual to provide an "additional use zone" of 20 cm at the opening side of 
 >
 > *The main entrance door is ideally installed in a flat area, at the same level as the interior. Try to avoid ramps and steps. Also allow adequate space for finding door keys to facilitate locking and unlocking. The entrance door is one of the most frequently used places in a home for delivery of parcels and carrying of equipment.*
 >
-> *(The same applies to the pantry, storage room and laundry room.) Therefore, it requires a larger than usual "additional use zone" of about 50 cm to ensure comfortable use. This "additional use zone" could be increased still further, which is quite beneficial when we consider children being carried, larger packages being handled, tools (suitcases, clothes baskets, shopping bags, vacuum cleaner) and even physical aid equipment (wheelchairs, walking frames) to allow for barrier-free access. (AP)*
+> *(The same applies to the pantry, storage room and laundry room.) Therefore, it requires a larger than usual "additional use zone" of about 50 cm to ensure comfortable use. This "additional use zone" could be increased still further, which is quite beneficial when we consider children being carried, larger packages being handled, tools (suitcases, clothes baskets, shopping bags, vacuum cleaner) and even physical aid equipment (wheelchairs, walking frames) to allow for barrier-free access.*
+>
+> — András Pandula
 
 Sliding doors can be advantageous in some situations, as they occupy little space. Still, they are not as air-tight or sound proof as conventional doors. Sliding doors can be mounted to the door opening without the need for a frame, or they can be built into a framed opening if required. These doors do extend in front of walls when open. ([fig. 1.15](#abra_1_15)) This surface can be hidden behind furniture (e.g., a bookshelf) or placed into a demountable bulkhead wall.
 
@@ -346,7 +364,9 @@ Larger-plan area spaces require more light at eye level, which is best achieved 
 
 > **Note**
 >
-> *Inclined glazed surfaces can increase summer overheating. Therefore, consider the orientation of windows to take this into account. A good example of this is when a bedroom has an east-facing inclined window. It will be exposed to more direct sunlight for a longer time than a vertical window and lead to discomfort through overheating in summer months. This demonstrates that increasing the size of inclined windows is not always beneficial unless used in specific design situations (studios, greenhouses, etc.). (AN)*
+> *Inclined glazed surfaces can increase summer overheating. Therefore, consider the orientation of windows to take this into account. A good example of this is when a bedroom has an east-facing inclined window. It will be exposed to more direct sunlight for a longer time than a vertical window and lead to discomfort through overheating in summer months. This demonstrates that increasing the size of inclined windows is not always beneficial unless used in specific design situations (studios, greenhouses, etc.).*
+>
+> — Ágnes Novák
 
 Some bands of furniture might be placed below parapet level (desks, kitchen units, etc.), but they should not be deeper than 75 cm, or it would be hard to reach the window handle.
 
@@ -423,12 +443,12 @@ Generally furniture should be arranged in a group around a readily available cof
 
 *Figure 1.21 – Shared time, hospitality furnishing*
 
-**Requirements and recommendations**
+#### REQUIREMENTS AND RECOMMENDATIONS
 
-**Basic requirement:**
+**BASIC REQUIREMENT:**
 Ensure that members of the household can spend their leisure time together, that guests can be welcomed into the household and that every family member has access to common audio-visual entertainment.
 
-**Furniture requirements:**
+**FURNITURE REQUIREMENTS:**
 Lounge furniture group to include seating, a sofa that can double as a spare bed, a coffee table, audio and visual equipment, as well as a storage area for books and other commonly used household items. Storage of books in this area might be waived if the home includes other possibilities such as a library, work room, den, etc.
 
 **Sufficient furniture in lounge group:**
@@ -459,12 +479,12 @@ Families often receive guests, so it is therefore recommended to have a table la
 
 *Figure 1.22 – Shared dining furniture*
 
-**Requirements and recommendations**
+#### REQUIREMENTS AND RECOMMENDATIONS
 
-**Basic requirement:**
+**BASIC REQUIREMENT:**
 Ensure that all members of the household and occasional guests can dine together in comfortable circumstances.
 
-**Furniture requirements:**
+**FURNITURE REQUIREMENTS:**
 Dining table and chairs. Recommend that seating allow for two extra places (for guests) in addition to the actual occupancy number. The dining area may be located in the dining room or living room, or it can be an integral part of the kitchen. In larger homes (where occupancy is more than 2-person), it is not possible to have a dining area in the living room when the living room is also used as a sleeping area. The dining area should be in proper vicinity to the site of cooking (not more than one door apart) except in cases where an alternative dining area is in the kitchen. There should be no steps between the dining area and kitchen, since this increases the risk of accidents. The dining area can be used as a general circulation area.
 
 <a id="E1_Alvas_pihenes"></a>
@@ -490,12 +510,12 @@ Sleeping furniture and its respective layouts are shown in [figure 1.23.](#abra_
 
 *Figure 1.23 – Sleeping, relaxation furniture*
 
-**Requirements and recommendations**
+#### REQUIREMENTS AND RECOMMENDATIONS
 
-**Basic requirement:**
+**BASIC REQUIREMENT:**
 Ensure that users can rest or sleep without being disturbed.
 
-**Furniture requirements:**
+**FURNITURE REQUIREMENTS:**
 - Each person should be provided with a bed, 90 x 200 cm (plan area). To the side of each bed, provide at least 45 x 45 cm (plan area) and maximum 75-cm-high storage area (low cabinet, shelf, table, etc.).
 - Each sleeping area, for usually a maximum of two people, should be acoustically shielded. The main householders, a couple or parents, should be provided with a twin bed, min 180 x 200 cm, which should be accessed along both long sides. A double (pull-out) sofa bed is also acceptable in bedroom / living rooms. Beds used by other family members or siblings should not be connected along the longer side. Where a home can provide for only one bedroom, this should be a double or master bedroom. The beds should be arranged in such a way as to avoid inconvenience, damage to health, and surfaces that are radiant, hot or cold.
 - Any area within the home that is dedicated to the purpose of sleep should have a minimum volume of 15 m³ per person. (See Section 1.5.2.) Single bedrooms require a minimum floor area of 8m², double bedrooms 12m², both taking into account a minimum volume for ventilation purposes.
@@ -509,7 +529,9 @@ Various members of the household are often engaged in some form of activity that
 
 > **Note**
 >
-> *Distance working creates opportunities, diverse in respect of non-residential information technology solutions, which can strengthen pillars of economic and social sustainability. Working from home reduces pressure on transport networks and the environmental impact, while the work force has more available leisure and work time. Therefore, more time is obviously spent at home. (AN)*
+> *Distance working creates opportunities, diverse in respect of non-residential information technology solutions, which can strengthen pillars of economic and social sustainability. Working from home reduces pressure on transport networks and the environmental impact, while the work force has more available leisure and work time. Therefore, more time is obviously spent at home.*
+>
+> — Ágnes Novák
 
 If someone is not working from home, most of the time is spent in various personal activities (internet browsing, reading, listening to music, needlework, etc.). Since there are so many possible activities that people might be engaged in at home, it is impossible to design for all situations. Usually, the minimum requirement for such activities is to provide each household member with space for a desk and chair. The same space also applies to sitting on a lounge chair (for reading, music and handicrafts), at a home computer desk or hobby bench. If one does not have extra room for such activities, these functions usually take place in the bedroom, as it is suitably isolated acoustically. In some cases, the householders’ place of work might be the living room. The furniture zone for a desk and a chair in the master bedroom might also serve for a dressing table if one parent does not require the space there for work. A baby’s cot may provisionally take the place of the dressing table during the period when care is required at night. The parent's personal items and books can be moved to the living room. Meanwhile, other household members’ possessions should be placed in proper proximity to the site of their individual activities. Whatever practical solution is decided upon, it should not interfere with anyone's comfort levels.
 
@@ -521,12 +543,12 @@ If financial or spatial wealth is above minimum, it might be possible to develop
 
 *Figure 1.24 – Furniture for other activities*
 
-**Requirements and recommendations**
+#### REQUIREMENTS AND RECOMMENDATIONS
 
-**Basic requirement:**
+**BASIC REQUIREMENT:**
 Ensure that individual household members can pursue their various individual activities (e.g., studies and hobbies) without being disturbed or disturbing others and that the tools or objects required can be stored at hand.
 
-**Furniture requirements:**
+**FURNITURE REQUIREMENTS:**
 - Minimum requirement: A table of at least 60 x 120 cm (plan area) with chair and suitable use zone. Also, a low-height storage cabinet / bookcase measuring 90 x 45 cm (plan area) per person.
 - Spaces for Individual tasks should be located separately. If sound is a problem, they should be acoustically isolated from other noisy domestic functions. Sleep and individual activities can take place in the same area, but the two functions can be distinct (for example, a bedroom and study in one) if affordable. One acoustically cohesive space should not be shared by more than two users. The individual activities of one person (householder) can take place in the living room if required. The parents’ bedroom can provide room for individual activities or an alternative, temporary spot for a baby’s bed.
 
@@ -575,7 +597,9 @@ Refrigerators can be integral parts of the kitchen system or free-standing items
 
 > **Note**
 >
-> *Waste collection, as in most locations in the home, needs to be provided, allowing for selective disposal. Waste disposal in the kitchen should be directly connected to the kitchen technology and take into account that consumer habits have lead to a rise in waste per capita (packaging and consumption levels). Regulations regarding waste disposal and environmental protection have lead to the development of recycling standards, including the provision of selective waste disposal points. The so-called "American Kitchen" is based more upon the spectacular than the "background model" (food storage, waste disposal, etc.) functions, while often kitchens in small towns provide more space for other activities (canning, bottling, packaging and deep-freezing). Most families now consider the kitchen as a place in which value-added tasks can take place. (AN)*
+> *Waste collection, as in most locations in the home, needs to be provided, allowing for selective disposal. Waste disposal in the kitchen should be directly connected to the kitchen technology and take into account that consumer habits have lead to a rise in waste per capita (packaging and consumption levels). Regulations regarding waste disposal and environmental protection have lead to the development of recycling standards, including the provision of selective waste disposal points. The so-called "American Kitchen" is based more upon the spectacular than the "background model" (food storage, waste disposal, etc.) functions, while often kitchens in small towns provide more space for other activities (canning, bottling, packaging and deep-freezing). Most families now consider the kitchen as a place in which value-added tasks can take place.*
+>
+> — Ágnes Novák
 
 Kitchen furnishing units, equipment and ancillary fittings are widely available in various sizes. Some manufactures work to a standard Module of 15 cm and others according to the ISO 1M standard of 10 cm. Both of these accommodate the Sub-Module 0.5M (5 cm) as shown in figure 1.27. Once the base units are fitted, a single work top can be installed which covers all joints, resulting in an easy to clean surface. (Better manufacturers supply this as standard.)
 
@@ -615,14 +639,16 @@ Larger L-shaped or U-shaped kitchens have led to the idea that an additional pre
 
 > **Note**
 >
-> *Society is seeing a growth in allergy-related problems. (Currently, 25% of the population suffers from some form of allergy, usually pollen-related. Among children, 6-8% suffers from some form of dietary allergy, and this trend is appearing the adult population.) Food allergies in the family might require a need for separate food storage and preparation facilities. The standard design process does not take into account that variations in kitchen technology might be required to suit different lifestyles: vegetarian, vegan, kosher, etc. These might require elements to be "oversized" or changed in time. These variables (e.g., allergies, life-styles and selective waste) will obviously lead to an increase in demand for kitchen units. (AN)*
+> *Society is seeing a growth in allergy-related problems. (Currently, 25% of the population suffers from some form of allergy, usually pollen-related. Among children, 6-8% suffers from some form of dietary allergy, and this trend is appearing the adult population.) Food allergies in the family might require a need for separate food storage and preparation facilities. The standard design process does not take into account that variations in kitchen technology might be required to suit different lifestyles: vegetarian, vegan, kosher, etc. These might require elements to be "oversized" or changed in time. These variables (e.g., allergies, life-styles and selective waste) will obviously lead to an increase in demand for kitchen units.*
+>
+> — Ágnes Novák
 
-**Requirements and recommendations**
+#### REQUIREMENTS AND RECOMMENDATIONS
 
-**Basic requirement:**
+**BASIC REQUIREMENT:**
 The kitchen should provide enough space to prepare food for all the daily meals, based upon the requirements of the permanent occupants plus two guests. Storage of cooking utensils, dining utensils, washing of said utensils and storage of food, including the provision of a refrigeration.
 
-**Furniture and equipment:**
+**FURNITURE AND EQUIPMENT:**
 - Electric or gas stove with integral oven or separate oven, sink with running hot water, preparation work surfaces and storage units at both lower and higher levels, as well as tall storage cabinet(s). Dishwashing machine and refrigeration units.
 - Excluding refrigeration units, a single- or double-occupancy home requires a fitted kitchen width of at least 230 cm, and at least 270 cm for a family kitchen (max. occupancy: 3 people). In both cases, additional space is required for a refrigerator. In a family kitchen serving 4-5 people, it is strongly recommended that the total row of fitted units be at least 360 cm in length and 420 cm for higher occupancy, excluding refrigeration. The cooking area can be a separate room or form part of the living room. The space directly in front of kitchen units should not function as a general circulation space (or corridor) unless used in single- or double-occupancy homes. If cooking is undertaken in the same space as the living room, mechanical ventilation must be provided directly above stove. Gas stoves are not recommended in spaces shared with the living room and are not allowed in spaces shared with sleeping areas.
 
@@ -645,14 +671,16 @@ In larger homes, washing, drying, ironing, laundry, clothes repairs, cleaning an
 
 > **Note**
 >
-> *Housekeeping can increase the life of a building and sustainability via cleaning, maintenance and repair activities. Psychologically, even dull household tasks like vacuum cleaning can be viewed positively as creative pastimes. Even though household chores have been mechanized, time spent doing them has not decreased, even though the physical effort required has. (It has been recorded that, from 1986-2000, women spend 5% less time undertaking household chores; meanwhile, with men, the trend has reversed, increasing by 16%. Despite this, women spend on average 249 minutes a day and men 101 minutes a day actively engaged in housework, including shopping and maintenance). Housekeeping requires a space large enough to store the necessary tools and is not location specific. Smaller areas are harder to maintain due to accessibility. (AN)*
+> *Housekeeping can increase the life of a building and sustainability via cleaning, maintenance and repair activities. Psychologically, even dull household tasks like vacuum cleaning can be viewed positively as creative pastimes. Even though household chores have been mechanized, time spent doing them has not decreased, even though the physical effort required has. (It has been recorded that, from 1986-2000, women spend 5% less time undertaking household chores; meanwhile, with men, the trend has reversed, increasing by 16%. Despite this, women spend on average 249 minutes a day and men 101 minutes a day actively engaged in housework, including shopping and maintenance). Housekeeping requires a space large enough to store the necessary tools and is not location specific. Smaller areas are harder to maintain due to accessibility.*
+>
+> — Ágnes Novák
 
-**Requirements and recommendations**
+#### REQUIREMENTS AND RECOMMENDATIONS
 
-**Basic requirement:**
+**BASIC REQUIREMENT:**
 Ensure that tasks including washing, drying, ironing, laundry and repairs can be undertaken and the necessary tools appropriately stored.
 
-**Furniture and equipment:**
+**FURNITURE AND EQUIPMENT:**
 Minimum requirement: automatic washing machine and clothes-drying rack/rail if no dryer available. Folding ironing board, table and equipment or tool storage. If a utility room is possible, automatic washing (and drying) machine, hand-basin sink for washing and cleaning, dirty clothes closet, repairs and work surface, folding ironing board and equipment or tool storage.
 
 <a id="E1_Szemelyi_higienia"></a>
@@ -698,9 +726,9 @@ For alternative layouts to personal hygiene spaces, see [figure 1.36](#abra_1_36
 
 The toilet cubicle should have a normal-sized washbasin if it is not located on the same floor as the bathroom. This also can occur when the toilet serves as a guest area for the application of makeup or combing hair; thus, a mirror is also appropriate. There is an option for situating the washing machine here. In larger homes, try to avoid this and place washing machine in utility room.
 
-**Requirements and recommendations:**
+#### REQUIREMENTS AND RECOMMENDATIONS
 
-**Basic requirement:**
+**BASIC REQUIREMENT:**
 To provide access to warm water for washing and bathing. Ensure that the toilet can be used in tolerable circumstances with regard to other occupants.
 
 **Hygiene-related lower limits for occupancy levels:**
@@ -738,12 +766,12 @@ The pantry should be independently ventilated and allow shelving on at least two
 
 Other objects (sports equipment, large toys, unused play pens, tools, etc.) can be stored outside the home, as long as this storage place is within close proximity (in a basement, attic, storage room, communal storage space or outbuildings). This idea of external storage is preferable, since it is usually cheaper to construct. Homes with gardens should provide storage areas for garden tools and outdoor furniture.
 
-**Requirements and recommendations:**
+#### REQUIREMENTS AND RECOMMENDATIONS
 
-**Basic requirement:**
+**BASIC REQUIREMENT:**
 Appropriate storage must be provided (in furniture or rooms) for food and clothing inside the home, while other articles not for everyday use should be either inside or near the home.
 
-**Furniture and equipment:**
+**FURNITURE AND EQUIPMENT:**
 Clothes storage – including cupboards, closets, built-in wardrobes or walk-in closets – should be provided. The depth of cupboards and built-in wardrobes should be a minimum of 60 cm. Ideally, a minimum of 1.20 running meters of clothing storage should be provided per occupant. Of this, at least 0.6 running meters of clothes storage should be provided in the sleeping area or in a corridor next to the bedrooms. Storage facilities for coats, hats, bags, wet shoes, etc., should be provided near the entrance.
 
 **Food storage, in addition to that stored in a refrigerator, should be calculated thus:**
@@ -788,7 +816,9 @@ Spaces separated by walls and solid panel doors can come under all the heading o
 
 > **Note**
 >
-> *When determining the size of the entrance hall, ensure there is enough room to pass through this space, in addition to storing clothes and shoes, even when the door is open. Some situations require variations. If a chair is placed in the entrance hall to assist the elderly or children, make sure that it does not restrict passage. In addition, in the case of small children, provide a storage space of 0.90 x 1.20 m for pushchairs, or a suitable place to store a wheelchair and or other mobility aids. This can be a walk-in closet, best arranged with direct access to the foyer, which prevents wet and dirty shoes, pushchairs, wheelchairs, mobility aids and shopping trolleys from being taken into the home. (Multi-unit housing developments often provide communal storage for pushchairs, wheelchairs and/or bicycles.) The larger entrance hall can also serve as a place to welcome guests and prepare for post-breakfast departures as a family unit. (AP)*
+> *When determining the size of the entrance hall, ensure there is enough room to pass through this space, in addition to storing clothes and shoes, even when the door is open. Some situations require variations. If a chair is placed in the entrance hall to assist the elderly or children, make sure that it does not restrict passage. In addition, in the case of small children, provide a storage space of 0.90 x 1.20 m for pushchairs, or a suitable place to store a wheelchair and or other mobility aids. This can be a walk-in closet, best arranged with direct access to the foyer, which prevents wet and dirty shoes, pushchairs, wheelchairs, mobility aids and shopping trolleys from being taken into the home. (Multi-unit housing developments often provide communal storage for pushchairs, wheelchairs and/or bicycles.) The larger entrance hall can also serve as a place to welcome guests and prepare for post-breakfast departures as a family unit.*
+>
+> — András Pandula
 
 The living room’s actual function can vary according the size and arrangement of the dwelling. Living rooms of different sizes and arrangements are shown in [fig. 1.40](#abra_1_40). Common pastimes and receiving visitors are general functions. This can be supplemented by a furniture zone for the “individual activity” of one resident. This area always should always be provided, since it also serves as a reserve area for any unforeseeable ancillary functions. The living room can be a place for dining also – in this case, in proper proximity to the site of cooking, unless there is an alternative dining spot is in the kitchen.
 
@@ -812,7 +842,9 @@ A detached dining room can perform at a higher standard or can act as a “secon
 
 > **Note**
 >
-> *Sitting around the dining table can be beneficial for everyone, but especially for the hearing impaired. It is best to sit opposite one another, not side by side or at right angles, because this makes it easier to lip-read. Better still, if the window is at a right angle to those seated at the table, light distribution reduces the shadows on people’s faces, thus making lip-reading, perception of facial expressions, and communication easier. (AP)*
+> *Sitting around the dining table can be beneficial for everyone, but especially for the hearing impaired. It is best to sit opposite one another, not side by side or at right angles, because this makes it easier to lip-read. Better still, if the window is at a right angle to those seated at the table, light distribution reduces the shadows on people’s faces, thus making lip-reading, perception of facial expressions, and communication easier.*
+>
+> — András Pandula
 
 The eat-in kitchen offers an economical use of space, with the dining table also made available as a food preparation area between meals. In rural houses, where the residents deal with vegetable gardening and animal husbandry, the kitchen table is indispensable for processing items. Naturally, eat-in kitchens are found in urban homes as well. The demand often arises, even in more spacious homes with a separate dining room, for a small breakfast nook or place to eat within the kitchen. (This can be achieved economically, too. See figure 1.22b.) For alternative eat-in kitchen layouts, see [figure 1.42](#abra_1_42).
 
@@ -902,7 +934,9 @@ Gravitational air exchange is best achieved when the distance between the bottom
 
 > **Note**
 >
-> *The amount of air exchange needed depends upon the activities undertaken and the constitution of the people involved. Natural air exchange should be smooth (no drafts) to provide comfort, easily achieved when a building is ventilated on two opposite elevations, or when close to vegetation or water (even a row of trees planted along the facade), allowing for temperature differences to occur through the day. The exchange of air in air-tight buildings and "passive houses" (see later section) is critical to design. During the summer season, it is necessary to increase air exchange to prevent overheating. During the heating season, air exchange must be reduced to prevent excessive cooling. These two situations are contradictory and must be allowed for when designing buildings’ structural and mechanical systems. Window manufacturers are seeking to improve air-tight technology; therefore, solutions must be found to provide fresh air. (AN)*
+> *The amount of air exchange needed depends upon the activities undertaken and the constitution of the people involved. Natural air exchange should be smooth (no drafts) to provide comfort, easily achieved when a building is ventilated on two opposite elevations, or when close to vegetation or water (even a row of trees planted along the facade), allowing for temperature differences to occur through the day. The exchange of air in air-tight buildings and "passive houses" (see later section) is critical to design. During the summer season, it is necessary to increase air exchange to prevent overheating. During the heating season, air exchange must be reduced to prevent excessive cooling. These two situations are contradictory and must be allowed for when designing buildings’ structural and mechanical systems. Window manufacturers are seeking to improve air-tight technology; therefore, solutions must be found to provide fresh air.*
+>
+> — Ágnes Novák
 
 It is not possible to locate all functions close to the elevation and near a window. Inner spaces can be ventilated naturally (gravitationally) by means of a horizontal ventilation duct. If a room is close to the façade, natural horizontal ventilation can work. In this situation, the duct should not exceed two meters in length. ([fig. 1.47](#abra_1_47)) OTÉK provides minimum requirements for duct sizes, but they must be calculated respectively when mechanical systems are applied. Vertical ventilation should discharge stale air above the building’s roof. Formerly made of masonry and frequently concrete tubes, they are generally made of lighter metal in thermally insulated ducts nowadays.
 
@@ -928,7 +962,9 @@ Mechanical ventilation provides controlled and constant intensity. In some cases
 
 > **Note**
 >
-> *Modern "energy conscious" systems allow for heat recovery solutions that use already warm exhaust to preheat incoming fresh air. This has the effect of reducing energy costs. If one chooses to use such central ventilation systems in the home (or building), care must be taken to provide space for the mechanical equipment. Higher than usual rooms make it easier to install mechanical ventilation systems. Overall, excessive use of mechanical systems should be avoided where possible. Try to abide by passive solutions that employ suitable orientation and proper structures to provide sufficient air exchange. (AN)*
+> *Modern "energy conscious" systems allow for heat recovery solutions that use already warm exhaust to preheat incoming fresh air. This has the effect of reducing energy costs. If one chooses to use such central ventilation systems in the home (or building), care must be taken to provide space for the mechanical equipment. Higher than usual rooms make it easier to install mechanical ventilation systems. Overall, excessive use of mechanical systems should be avoided where possible. Try to abide by passive solutions that employ suitable orientation and proper structures to provide sufficient air exchange.*
+>
+> — Ágnes Novák
 
 - **Residential ventilation requirements:**
 - Direct natural ventilation, via windows, should be provided to all rooms that require direct natural light. (section 1.5.1.) This applies to kitchens, kitchen/dining rooms and all closed (closable) spaces in the home apart from kitchens in one- or two-occupant homes.
@@ -940,7 +976,9 @@ Mechanical ventilation (extractor fans) should be used, with caution, over cooke
 
 > **Note**
 >
-> *Extractor fans (cooker hoods) should not be used in the same spaces as fireplaces or heating stoves. The hood creates a drop in pressure that could cause a back draft from the chimney. The same applies to chimneys of incorrect height as well. In the past, this has also occurred where gas appliances were used. More recently, though, gas appliances have a closed combustion chamber where oxygen is drawn directly from outdoors. This back draft problem might also occur with other ventilation systems, central vacuum cleanings and bathroom extractor fans. Therefore, if such mechanical systems are built into a home, simultaneous use should be avoided. (AN)*
+> *Extractor fans (cooker hoods) should not be used in the same spaces as fireplaces or heating stoves. The hood creates a drop in pressure that could cause a back draft from the chimney. The same applies to chimneys of incorrect height as well. In the past, this has also occurred where gas appliances were used. More recently, though, gas appliances have a closed combustion chamber where oxygen is drawn directly from outdoors. This back draft problem might also occur with other ventilation systems, central vacuum cleanings and bathroom extractor fans. Therefore, if such mechanical systems are built into a home, simultaneous use should be avoided.*
+>
+> — Ágnes Novák
 
 Previously not mentioned, and not generally required, is ventilation in residential spaces depending on the nature of its intended use. Direct ventilation (i.e., windows) is necessary to exhaust odors, steam or the residue of pollution-producing activities.
 
@@ -951,7 +989,9 @@ Thermal comfort does not refer solely to the air temperature within the home; ot
 
 > **Note**
 >
-> *Well insulated walls and floors are associated with thermal comfort. A better insulated outer wall leads to better inner surface temperatures, so inside air temperatures can be lower than usual for thermal comfort. For general good health and physical well-being, the inner wall surface temperature should be not less than 16ºC, even in corners of rooms. To maintain a surface temperature of 16ºC, the air temperature should be about 23-24ºC for an activity in the sitting position. If the wall surface can be kept at about 20ºC, then so can the air temperature. This means that with better insulation, less energy is required. Further savings can be achieved by providing a lower interior air temperature inlet level and high comfort levels. The heating of homes and buildings can be solved in many ways, and technology is providing even more, ever newer methods of doing so. One thing is certain, design should strive to reduce winter heat loss (good insulation, good surface/volume ratio and avoidance of thermal bridging) and increase heat gains (orientation, juxtaposing spaces and zoning). (AN)*
+> *Well insulated walls and floors are associated with thermal comfort. A better insulated outer wall leads to better inner surface temperatures, so inside air temperatures can be lower than usual for thermal comfort. For general good health and physical well-being, the inner wall surface temperature should be not less than 16ºC, even in corners of rooms. To maintain a surface temperature of 16ºC, the air temperature should be about 23-24ºC for an activity in the sitting position. If the wall surface can be kept at about 20ºC, then so can the air temperature. This means that with better insulation, less energy is required. Further savings can be achieved by providing a lower interior air temperature inlet level and high comfort levels. The heating of homes and buildings can be solved in many ways, and technology is providing even more, ever newer methods of doing so. One thing is certain, design should strive to reduce winter heat loss (good insulation, good surface/volume ratio and avoidance of thermal bridging) and increase heat gains (orientation, juxtaposing spaces and zoning).*
+>
+> — Ágnes Novák
 
 The heating of a building is usually designed by a mechanical engineer. However, energy demand is a function of architectural and structural design. The following paragraphs refer to all different energy-efficiency aspects of residential buildings.
 
@@ -1010,10 +1050,14 @@ Noise generated by neighbors should be adequately insulated against with suitabl
 >
 > *For householders, protection from noise in the immediate environment requires a great deal of attention. Almost every room in the average home contains sound-emitting devices: television, radio, CD player, personal computer, etc. However, householders still want to protect against sound from within their own home, as well as that generated by neighbors. This can be achieved with sound proof doors and partitions, in addition to sound proof electrical and mechanical ducting. Placement of interior furniture can assist acoustic properties. Rooms with hard finishes can be provided with acoustic dampening if windows are fitted with and if carpets are laid. Wet rooms function better when ceramic wall tiles are only placed where required, not throughout, since they generate echoes which can lead to disturbances and accidents. External noise is also increasing, becoming harder to tolerate; therefore, the building's structure should be designed to protect against vibration or airborne sound. Multilayered soft structures can protect against the former, while heavier structures (i.e., walls and floors) ensure against the latter.*
 >
-> *When preparing plans, the sizing of floor slabs and walls should be take some flexibility into consideration. Once these walls are located, it will help to designate noisy and quiet zones within the home. It always helps to design a home surrounded by vegetation (e.g., plants along the facade, a green roof or more garden area), since leaves and plants act as sound absorbers. (AN).*
+> *When preparing plans, the sizing of floor slabs and walls should be take some flexibility into consideration. Once these walls are located, it will help to designate noisy and quiet zones within the home. It always helps to design a home surrounded by vegetation (e.g., plants along the facade, a green roof or more garden area), since leaves and plants act as sound absorbers.*
+>
+> — Ágnes Novák
 
 <a id="E1_Vizualis_komfort"></a>
-### 1.5.6. Visual comfort (AN)
+### 1.5.6. Visual comfort
+
+— Ágnes Novák
 
 Housing also requires comfort in visual terms. Most of our time is spent indoors, and most of that at home. In terms of the senses, visual perception and images are just as important as noise.
 
@@ -1026,7 +1070,9 @@ Good design should allow for the eyes of a newcomer to negotiate the interiors i
 Non-residential spaces of the home can be customized and opened up to the outside world, acting as a filter. These include balconies, loggias, terraces and planted areas with individual furnishing to bring peace of mind, establishing either a retreat from or a connection to the outside environment.
 
 <a id="E1_Allergen-mentes_kornyezet"></a>
-### 1.5.7. Healthy, allergen-free homes (AN)
+### 1.5.7. Healthy, allergen-free homes
+
+— Ágnes Novák
 
 The majority of Europeans spend most of their time indoors. (There are extremes: the British spend the most time indoors, while the Swedish spend the most outdoors). Outdoor and indoor air quality, though, is important to everyone. The percentage of people with allergies is increasing. While some people, perhaps, are not sensitive to a specific form of pollution, the unpleasant symptoms can still appear given a certain combination of factors.
 
@@ -1146,7 +1192,9 @@ When subsidized housing projects take aim at larger families of low income
 It is also possible to view the property market from the opposite point of view. A well-off couple with no children might desire to build a large villa. However, take care, because when selling such a home, if it has been designed to be suitable for the use of only two people, its market value will be remarkably reduced, even in times of financial growth.
 
 <a id="E1_Az_akadalymentes_lakas-egyetemes_tervezes"></a>
-## 1.7. Barrier-free – universal design (AN and AP)
+## 1.7. Barrier-free – universal design
+
+— Ágnes Novák and András Pandula
 
 <a id="E1_Akadalymentes_lakas"></a>
 ### 1.7.1. Accessible housing
@@ -1273,7 +1321,9 @@ Architecturally, residential buildings can only be developed in specific locatio
 
 > **Note**
 >
-> *The concept of "sustainable development" is applied not to "sustainability" when discussing residential environments. Development is often publicly misunderstood to mean an increase. For example, housing stock development no longer means building to suit population growth, but more importantly to reduce inefficient quality and/or to create cost-effective solutions for housing. The question "Where is your new home?" is being replaced by "What is your new home?" Sustainability examines the use of existing urban sites or new residential development land. Environmental sustainability concerns itself with the use of existing sites for development to avoid taking more land away from nature. It would also be desirable to ensure that, when land is redeveloped for housing, the correct planning tools are used to create improvements. Finally, the residential environment should examine the use of existing and new areas as one. (AN)*
+> *The concept of "sustainable development" is applied not to "sustainability" when discussing residential environments. Development is often publicly misunderstood to mean an increase. For example, housing stock development no longer means building to suit population growth, but more importantly to reduce inefficient quality and/or to create cost-effective solutions for housing. The question "Where is your new home?" is being replaced by "What is your new home?" Sustainability examines the use of existing urban sites or new residential development land. Environmental sustainability concerns itself with the use of existing sites for development to avoid taking more land away from nature. It would also be desirable to ensure that, when land is redeveloped for housing, the correct planning tools are used to create improvements. Finally, the residential environment should examine the use of existing and new areas as one.*
+>
+> — Ágnes Novák
 
 <a id="E2_kornyezet"></a>
 ## 2.2. Environment
@@ -1293,7 +1343,9 @@ A developed culture is based upon production and exchange of wealth, often refer
 Objects created by human activity form part of the artificial environment, and this includes the built environment. The built environment is often socially referred to as cultural tradition or "collective memory". This environmental type is artificial, but borrows from nature and society.
 
 <a id="E2_fenntarthato_lakokornyezet"></a>
-### 2.2.1. Sustainable residential environment (AN)
+### 2.2.1. Sustainable residential environment
+
+— Ágnes Novák
 
 Housing has developed over thousands of years, while new aspects of "sustainability" have evolved, partly due to changes in technology and lifestyle, in order to maintain a healthy environment that the planet Earth has the capacity to support.
 
@@ -1347,7 +1399,9 @@ A settlement is divided into land use areas or units which may or may not be use
 Public areas are usually owned and maintained by the local government, and their respective use is made available to everyone (e.g., streets, squares and parks). These public areas also serve as a network for utility servers.
 
 <a id="E2_telepulesrendezes_egyeb_aspektusai"></a>
-### 2.3.3. Other aspects of town planning (AN)
+### 2.3.3. Other aspects of town planning
+
+— Ágnes Novák
 
 Town planning might also be used to assist with design of the microclimate.
 
@@ -1431,7 +1485,9 @@ Limiting the build ratio does not offer any guarantee that a desirable proportio
 (The specific subdivision of a plot and development methods are discussed in further detail in chapter 3.)
 
 <a id="E2_Epuletek_akadalymentes_megkozelitese"></a>
-## 2.7. Barrier-free access (AP)
+## 2.7. Barrier-free access
+
+— András Pandula
 
 Approach to a residential building should be by car, public transport, bicycle or on foot; and should be convenient yet secure, to protect the home's value and comfort.
 
@@ -1485,119 +1541,117 @@ Housing quality might be income-related; therefore, the better quality homes wil
 
 In this section, we discuss the differences between "rural" and "urban" family home types. The distinction is based upon differences in the overall structure of a settlement. Indeed, urban areas may contain rural-style homes, and the same applies to rural locations where urban-style homes might be found.
 
-> **Note**
->
-> **Rural Homes**
->
-> Rural family homes generally apply to those found in places where agricultural and livestock activities take place. These homes are not found on only residential land; they may be farm buildings where functions could overlap. The rural home is a result of a historic development in the built environment, as well as cultural and farming needs.
->
-> Throughout the centuries, villages developed almost spontaneously. Then, about two hundred years ago, two dominant village types appeared – the cluster and the linear form.
->
-> Starting in the 18th century and continuing into the early 19th century, engineers (under strict governance) deployed the "comb" planning structure with respect to the subdivision of land and placement of buildings. In cases where land was inherited, it was then split longitudinally, resulting in long narrow plots. The home was a single tract building located right against the site boundary without buildings in linear connection. The home provided a "clear yard" with the farm land and vegetable garden located behind. Spontaneous functions developed in relation to the home parallel to the street. To this day, these homes follow suit. ([fig. 3.1](#abra_3_01))
->
-> <a id="abra_3_01"></a>
->
-> ![Traditional "comb" arrangement found in villages](images/abra_3_01_fesusbe.png)
->
-> *Figure 3.1 – Traditional "comb" arrangement found in villages*
->
-> The comb-type home continued to develop until the turn of the 19th and 20th centuries. At this time, changes came about due to the development of railways, bringing prosperity to rural towns and an inflow of capital. Rural towns developed with a growth in population, including an influx of artisans, merchants and intellectuals. Meanwhile, farmers with larger detached farms established inns, another new type of dwelling. The existing comb-shaped houses where altered to take on an "L" shape that closed the yard from the street, the yard usually being accessed by a narrow, covered passageway, with this driveway closing off the street. On approaching the town center, multi-story apartment houses were developed. At this point, a unique, small-town character and streetscape evolved. ([fig. 3.2](#abra_3_02)) Following the Second World War, the former lifestyle of the bourgeoisie ceased to exist, and so did the requirement for these types of home.
->
-> <a id="abra_3_02"></a>
->
-> ![Rural town row housing arrangement](images/abra_3_02_mezovr.png)
->
-> *Figure 3.2 – Rural town row housing arrangement*
->
-> Following the Second World War, rapid changes took place in the rural towns and villages due to forced land surrender, distribution of land and collective agriculture, which continued until the mid-60s. Peasantry, as a specific cultural type or social class, was liquidated. Prior to this age, half the population of Hungary was employed in agriculture, but membership in cooperatives only provided employment for 10% of the population. The rest of the population, therefore, had to commute to industrial worksites on a daily basis. At the same time, the productivity of agricultural estates did not decrease. Those forced to commute retained gardens to supplement their low incomes.
->
-> (Sociologists of the time labeled these people "amphibious".) A working class subculture developed, trying to maintain the cultural patterns of the previous hierarchy.
->
-> History has left distinct traces on village architecture. Throughout the 60s, an explosive spread of square-planned, double-tract, pyramid-roofed houses took place. These obviously drew inspiration from suburban-style housing, but legislation enforced the presence of a front garden. The house, pushed back from the street, was not allowed to enter the so-called contaminated zone, so a square plan was adopted. The previous side access gave way to a narrow gateway which prevented access to neighbors on either side. Therefore, orientation could only be to the street or garden. The rooms facing the garden are viewed as daily-use rooms connected to agricultural functions, while the rooms facing the street are clean rooms for nighttime use and days of rest. These houses are considered ideal for the amphibious lifestyle. They are also the last home types to follow a patterned type. ([fig. 3.3](#abra_3_03))
->
-> <a id="abra_3_03"></a>
->
-> ![Break-up of comb format, to establish pitched roof house development](images/abra_3_03_satoros.png)
->
-> *Figure 3.3 – Break-up of comb format, to establish pitched roof house development*
->
-> In the 70s and 80s, backyard farming increased in importance. This was more for reasons of self-sufficiency than part of a productive market economy. During this time, householders developed a mono-culture, raising pigs and chickens. In the 80s, private companies were allowed, often resulting in small workshops established in the entrance hall. Although this helped build up savings and develop the economy, it did not advance agriculture, since people could not buy land. Obviously, people wanted to invest, to derive value from the income saved, and they did so on their own properties. Houses where enlarged, extra stories added, and roofs built. The former residential function was handed over to commercial enterprise, and houses extended vertically to provide living space. These developments followed so-called "recommended plans", which, in turn, led to the development of large, tightly-packed. These tended to pry apart the fabric of the original settlement. These homes overrun each other, creating a disturbed streetscape that is heterogeneous in appearance. ([fig. 3.4](#abra_3_04))
->
-> <a id="abra_3_04"></a>
->
-> ![Break-up of street scape. Changes in scale of homes](images/abra_3_04_ujhazfrm.png)
->
-> *Figure 3.4 – Break-up of street scape. Changes in scale of homes*
->
-> Following the system change, the farming cooperatives collapsed, leaving only smallholders with viable estates, Hungarian agriculture was in a crisis. The 90s saw the economic decline of villages. The age of overbuilt, over-scaled house construction had expired. It is still not clear what form agriculture will take or how it will reflect upon the nature of the Hungarian village structure and house types. Villages are changing in function. Holiday villages are found in areas with beautiful landscapes, even though they are in economic decline. There is also movement out of urban centers into rural locations, pushing up property prices. This results in properties becoming too expensive for those who work in agriculture to remain. These villages now resemble suburbs or garden towns – or, better still, “sleepy towns”.
+<a id="E3_falusi_csaladi_hazak"></a>
+### 3.2.1. Rural Homes
+
+Rural family homes generally apply to those found in places where agricultural and livestock activities take place. These homes are not found on only residential land; they may be farm buildings where functions could overlap. The rural home is a result of a historic development in the built environment, as well as cultural and farming needs.
+
+Throughout the centuries, villages developed almost spontaneously. Then, about two hundred years ago, two dominant village types appeared – the cluster and the linear form.
+
+Starting in the 18th century and continuing into the early 19th century, engineers (under strict governance) deployed the "comb" planning structure with respect to the subdivision of land and placement of buildings. In cases where land was inherited, it was then split longitudinally, resulting in long narrow plots. The home was a single tract building located right against the site boundary without buildings in linear connection. The home provided a "clear yard" with the farm land and vegetable garden located behind. Spontaneous functions developed in relation to the home parallel to the street. To this day, these homes follow suit. ([fig. 3.1](#abra_3_01))
+
+<a id="abra_3_01"></a>
+
+![Traditional "comb" arrangement found in villages](images/abra_3_01_fesusbe.png)
+
+*Figure 3.1 – Traditional "comb" arrangement found in villages*
+
+The comb-type home continued to develop until the turn of the 19th and 20th centuries. At this time, changes came about due to the development of railways, bringing prosperity to rural towns and an inflow of capital. Rural towns developed with a growth in population, including an influx of artisans, merchants and intellectuals. Meanwhile, farmers with larger detached farms established inns, another new type of dwelling. The existing comb-shaped houses where altered to take on an "L" shape that closed the yard from the street, the yard usually being accessed by a narrow, covered passageway, with this driveway closing off the street. On approaching the town center, multi-story apartment houses were developed. At this point, a unique, small-town character and streetscape evolved. ([fig. 3.2](#abra_3_02)) Following the Second World War, the former lifestyle of the bourgeoisie ceased to exist, and so did the requirement for these types of home.
+
+<a id="abra_3_02"></a>
+
+![Rural town row housing arrangement](images/abra_3_02_mezovr.png)
+
+*Figure 3.2 – Rural town row housing arrangement*
+
+Following the Second World War, rapid changes took place in the rural towns and villages due to forced land surrender, distribution of land and collective agriculture, which continued until the mid-60s. Peasantry, as a specific cultural type or social class, was liquidated. Prior to this age, half the population of Hungary was employed in agriculture, but membership in cooperatives only provided employment for 10% of the population. The rest of the population, therefore, had to commute to industrial worksites on a daily basis. At the same time, the productivity of agricultural estates did not decrease. Those forced to commute retained gardens to supplement their low incomes.
+
+(Sociologists of the time labeled these people "amphibious".) A working class subculture developed, trying to maintain the cultural patterns of the previous hierarchy.
+
+History has left distinct traces on village architecture. Throughout the 60s, an explosive spread of square-planned, double-tract, pyramid-roofed houses took place. These obviously drew inspiration from suburban-style housing, but legislation enforced the presence of a front garden. The house, pushed back from the street, was not allowed to enter the so-called contaminated zone, so a square plan was adopted. The previous side access gave way to a narrow gateway which prevented access to neighbors on either side. Therefore, orientation could only be to the street or garden. The rooms facing the garden are viewed as daily-use rooms connected to agricultural functions, while the rooms facing the street are clean rooms for nighttime use and days of rest. These houses are considered ideal for the amphibious lifestyle. They are also the last home types to follow a patterned type. ([fig. 3.3](#abra_3_03))
+
+<a id="abra_3_03"></a>
+
+![Break-up of comb format, to establish pitched roof house development](images/abra_3_03_satoros.png)
+
+*Figure 3.3 – Break-up of comb format, to establish pitched roof house development*
+
+In the 70s and 80s, backyard farming increased in importance. This was more for reasons of self-sufficiency than part of a productive market economy. During this time, householders developed a mono-culture, raising pigs and chickens. In the 80s, private companies were allowed, often resulting in small workshops established in the entrance hall. Although this helped build up savings and develop the economy, it did not advance agriculture, since people could not buy land. Obviously, people wanted to invest, to derive value from the income saved, and they did so on their own properties. Houses where enlarged, extra stories added, and roofs built. The former residential function was handed over to commercial enterprise, and houses extended vertically to provide living space. These developments followed so-called "recommended plans", which, in turn, led to the development of large, tightly-packed. These tended to pry apart the fabric of the original settlement. These homes overrun each other, creating a disturbed streetscape that is heterogeneous in appearance. ([fig. 3.4](#abra_3_04))
+
+<a id="abra_3_04"></a>
+
+![Break-up of street scape. Changes in scale of homes](images/abra_3_04_ujhazfrm.png)
+
+*Figure 3.4 – Break-up of street scape. Changes in scale of homes*
+
+Following the system change, the farming cooperatives collapsed, leaving only smallholders with viable estates, Hungarian agriculture was in a crisis. The 90s saw the economic decline of villages. The age of overbuilt, over-scaled house construction had expired. It is still not clear what form agriculture will take or how it will reflect upon the nature of the Hungarian village structure and house types. Villages are changing in function. Holiday villages are found in areas with beautiful landscapes, even though they are in economic decline. There is also movement out of urban centers into rural locations, pushing up property prices. This results in properties becoming too expensive for those who work in agriculture to remain. These villages now resemble suburbs or garden towns – or, better still, “sleepy towns”.
 
 <!-- Separate source notes. -->
 
-> **Note**
->
-> **Urban Homes**
->
-> Urban homes are those where no agricultural functions can take place. Land used for produce and gardening is only a hobby.
->
-> Tenements started to appear as part of the cities’ housing stock in the mid-19th century. Walled cities, due to limited space, needed high-density housing solutions. Originally, these followed a Germanic cultural pattern, in demand among the German-speaking bourgeoisie. Characteristically, these were built in rows of single-story or often two-story buildings, frequently with side wings, and enclosed on all sides by boundary walls. This generally housed workshops, warehouses and stables, as well as homes for wealthier residents of the city and their house staff. Reaming examples of these buildings, with few exceptions, are now multi-family homes. (Examples can be found within the walls of Buda’s castle district.)
->
-> The rural towns of the Hungarian *Alföld* (Lower Plain) also have examples of early urban homes, but until the mid-19<sup>th</sup> century, these are more like enormous villages, discussed in the previous section. The following is a brief historical overview of urban houses in Budapest.
->
-> Today, the Graz perception of an urban home is one which has a garden, since this brings us closer to nature. This desire to be connected to nature can be traced form the end of the 18th century up to the French Enlightenment of the 19th century, where it became a conscious part of architectural and urban planning. The English "garden city" launched the construction of such settlements throughout Europe, with the English country manor or "manor house" becoming the model for suburban homes everywhere.
->
-> The Villa was a city holiday home for the rich bourgeoisie and members of the aristocracy in an age when they still owned farms. This was typical in Buda and Pest in the first half of the 19th century. At this time, the villas of the Buda hills and Pest's *Városliget* (City Park) were holiday homes that often had acres of vineyards, too. (Some beautiful examples of these neoclassical villas are still standing – for example, the “Barabás Miklós” vineyard house in Városmajor Street, the Jókai Villa on Sváb Hill or "Csendilla” on Budakeszi Road).
->
-> After the unification of Buda and Pest, representative villas were erected for the rich bourgeoisie in the eclectic style of that age, mostly around the outer end of Andrássy Avenue and its environs. ([fig. 3.5](#abra_3_05)) Once bridges over the Danube and roads had been constructed, a trend occurred to occupy villas all year round – e.g., on Rózsadomb (Rose Hill) and Gellérthegy (Gellért Hill). In the period following the First World War, Buda became the focal point for villa construction.
->
-> <a id="abra_3_05"></a>
->
-> ![Upper Middle class villa. 1896. Home of architect Gyula Schweiger. Budapest. Stéfania út.](images/abra_3_05_urivilla.png)
->
-> *Figure 3.5 – Upper Middle class villa. 1896. Home of architect Gyula Schweiger. Budapest. Stéfania út.*
->
-> In addition to the large villas being built, a proliferation of modest homes occurred in Budapest. Due to the turn of the century’s economic boom, a need for worker’s housing became apparent. The flow of capital also led to an increase in rents, making it very depressing to find homes during a housing shortage. To resolve this, the government passed an act in 1908 to provide homes for 10,000 workers. To do this, a new garden city was erected following the English model, named Wekerle Estate after the prime minister at the time, Sándor Wekerle. This site includes family homes and multi-unit buildings totaling 4,000 units and was designed by the best architects and town planners of the time. It is still a fine example of garden city development. ([fig. 3.6](#abra_3_06))
->
-> <a id="abra_3_06"></a>
->
-> ![Budapest, Wekerle Estate. 1909–1926. Detail of semi-detached home and aerial photograph](images/abra_3_06_wekerle.png)
->
-> *Figure 3.6 – Budapest, Wekerle Estate. 1909–1926. Detail of semi-detached home and aerial photograph*
->
-> Some factories even built homes for their officers (e.g., Ganz in Orczy Square and Gázgyár in Óbuda). Construction of housing estates also took place between the two world wars. A typical example of this is the OTI site (750 homes) in Magdolnaváros. It was completed in 1940 according to plans by well known architects, who designed modest two-bedroom detached and semi-detached homes, with single room homes being built as row houses.
->
-> Modest-income families built homes in the suburbs where land prices were still affordable. Land was subdivided to make building affordable, and oftentimes, the homes developed were semi-detached.
->
-> More sophisticated villas were designed for individuals who required the services of leading architects, making it easy to follow trends in 20th century architecture and family house design. Earlier villas followed eclectic styles with elements taken from vernacular architecture. By the 1930s, the European modern movement, especially the Bauhaus, inspired outstanding architectural works. ([fig. 3.7](#abra_3_07)) In 1931, a small group of architects came together to design the Napraforgó Street housing project as an example of "villas for modest people". Despite the fact that the architects involved did not follow the same architectural maxims, it is still a good example of this development type.
->
-> <a id="abra_3_07"></a>
->
-> ![Farkas Molnár: Villa. Budapest, Lejtő út. 1932.](images/abra_3_07_molnarf.png)
->
-> *Figure 3.7 – Farkas Molnár: Villa. Budapest, Lejtő út. 1932.*
->
-> Following the Second World War, housing development came to a halt. The bourgeoisie were liquidated, and villas were taken into state possession, later to be subdivided into multi-unit homes. This dictated ideology placed the nature of individual family homes in question.
->
-> In 1951, Budapest annexed surrounding settlements in order to extend its municipal borders. These areas, apart from their respective centers, are still rural in character.
->
-> In the 60s and 70s, villa plots were sold off in order to develop 4-6 apartment buildings as property prices started to rise.
->
-> In the 70s and early 80s, houses started to be built on land previously used for holiday homes, most of it land on the Buda side that had been previously annexed. At this time, a growth of opposition to political ideals became manifest, which lead to the growth of a new ideology in house design – that of Hungarian "Organic Architecture". ([fig. 3.8](#abra_3_08)) To the end of the 80s and early 90s, a new trend in building large-scale houses on the green sites of Buda began. Land prices went sky-high following the change of system, and a new class of wealthy investors appeared. This new social class’s ideal was a bourgeois form of the Neo-baroque villa – with large buildings, historical references and an often tinsel-town appearance. (Architects of that period had no problem justifying their works, since it all came under the universal heading of "Postmodern Classicism”.) However, against this backdrop, some wealthy, more cultured clients commissioned superior family homes. ([fig. 3.9](#abra_3_09))
->
-> <a id="abra_3_08"></a>
->
-> ![Imre Makovecz: Richter family home. Budapest, Pesthidegkút 1983.](images/abra_3_08_makovecz.png)
->
-> *Figure 3.8 – Imre Makovecz: Richter family home. Budapest, Pesthidegkút 1983.*
->
-> <a id="abra_3_09"></a>
->
-> ![Gábor Turányi: Individual family villa. Budapest. 2000.](images/abra_3_09_turanyi.png)
->
-> *Figure 3.9 – Gábor Turányi: Individual family villa. Budapest. 2000.*
->
-> As capital city plots are now slowly running out, urban-style homes are being built in the outlying villages that now form part of the metropolitan agglomeration.
->
-> As the 20th century came to a close, professional attention has turned towards energy-conscious development (if only to help reduce operational costs), and sustainability (chapter 2.2.1.) will become a key factor regarding the design of family homes. This new approach has not yet been implemented en masse, but it is gaining in importance. In any case, the route of progress can be seen.
+<a id="E3_varosias_csaladi_hazak"></a>
+### 3.2.2. Urban Homes
+
+Urban homes are those where no agricultural functions can take place. Land used for produce and gardening is only a hobby.
+
+Tenements started to appear as part of the cities’ housing stock in the mid-19th century. Walled cities, due to limited space, needed high-density housing solutions. Originally, these followed a Germanic cultural pattern, in demand among the German-speaking bourgeoisie. Characteristically, these were built in rows of single-story or often two-story buildings, frequently with side wings, and enclosed on all sides by boundary walls. This generally housed workshops, warehouses and stables, as well as homes for wealthier residents of the city and their house staff. Reaming examples of these buildings, with few exceptions, are now multi-family homes. (Examples can be found within the walls of Buda’s castle district.)
+
+The rural towns of the Hungarian *Alföld* (Lower Plain) also have examples of early urban homes, but until the mid-19<sup>th</sup> century, these are more like enormous villages, discussed in the previous section. The following is a brief historical overview of urban houses in Budapest.
+
+Today, the Graz perception of an urban home is one which has a garden, since this brings us closer to nature. This desire to be connected to nature can be traced form the end of the 18th century up to the French Enlightenment of the 19th century, where it became a conscious part of architectural and urban planning. The English "garden city" launched the construction of such settlements throughout Europe, with the English country manor or "manor house" becoming the model for suburban homes everywhere.
+
+The Villa was a city holiday home for the rich bourgeoisie and members of the aristocracy in an age when they still owned farms. This was typical in Buda and Pest in the first half of the 19th century. At this time, the villas of the Buda hills and Pest's *Városliget* (City Park) were holiday homes that often had acres of vineyards, too. (Some beautiful examples of these neoclassical villas are still standing – for example, the “Barabás Miklós” vineyard house in Városmajor Street, the Jókai Villa on Sváb Hill or "Csendilla” on Budakeszi Road).
+
+After the unification of Buda and Pest, representative villas were erected for the rich bourgeoisie in the eclectic style of that age, mostly around the outer end of Andrássy Avenue and its environs. ([fig. 3.5](#abra_3_05)) Once bridges over the Danube and roads had been constructed, a trend occurred to occupy villas all year round – e.g., on Rózsadomb (Rose Hill) and Gellérthegy (Gellért Hill). In the period following the First World War, Buda became the focal point for villa construction.
+
+<a id="abra_3_05"></a>
+
+![Upper Middle class villa. 1896. Home of architect Gyula Schweiger. Budapest. Stéfania út.](images/abra_3_05_urivilla.png)
+
+*Figure 3.5 – Upper Middle class villa. 1896. Home of architect Gyula Schweiger. Budapest. Stéfania út.*
+
+In addition to the large villas being built, a proliferation of modest homes occurred in Budapest. Due to the turn of the century’s economic boom, a need for worker’s housing became apparent. The flow of capital also led to an increase in rents, making it very depressing to find homes during a housing shortage. To resolve this, the government passed an act in 1908 to provide homes for 10,000 workers. To do this, a new garden city was erected following the English model, named Wekerle Estate after the prime minister at the time, Sándor Wekerle. This site includes family homes and multi-unit buildings totaling 4,000 units and was designed by the best architects and town planners of the time. It is still a fine example of garden city development. ([fig. 3.6](#abra_3_06))
+
+<a id="abra_3_06"></a>
+
+![Budapest, Wekerle Estate. 1909–1926. Detail of semi-detached home and aerial photograph](images/abra_3_06_wekerle.png)
+
+*Figure 3.6 – Budapest, Wekerle Estate. 1909–1926. Detail of semi-detached home and aerial photograph*
+
+Some factories even built homes for their officers (e.g., Ganz in Orczy Square and Gázgyár in Óbuda). Construction of housing estates also took place between the two world wars. A typical example of this is the OTI site (750 homes) in Magdolnaváros. It was completed in 1940 according to plans by well known architects, who designed modest two-bedroom detached and semi-detached homes, with single room homes being built as row houses.
+
+Modest-income families built homes in the suburbs where land prices were still affordable. Land was subdivided to make building affordable, and oftentimes, the homes developed were semi-detached.
+
+More sophisticated villas were designed for individuals who required the services of leading architects, making it easy to follow trends in 20th century architecture and family house design. Earlier villas followed eclectic styles with elements taken from vernacular architecture. By the 1930s, the European modern movement, especially the Bauhaus, inspired outstanding architectural works. ([fig. 3.7](#abra_3_07)) In 1931, a small group of architects came together to design the Napraforgó Street housing project as an example of "villas for modest people". Despite the fact that the architects involved did not follow the same architectural maxims, it is still a good example of this development type.
+
+<a id="abra_3_07"></a>
+
+![Farkas Molnár: Villa. Budapest, Lejtő út. 1932.](images/abra_3_07_molnarf.png)
+
+*Figure 3.7 – Farkas Molnár: Villa. Budapest, Lejtő út. 1932.*
+
+Following the Second World War, housing development came to a halt. The bourgeoisie were liquidated, and villas were taken into state possession, later to be subdivided into multi-unit homes. This dictated ideology placed the nature of individual family homes in question.
+
+In 1951, Budapest annexed surrounding settlements in order to extend its municipal borders. These areas, apart from their respective centers, are still rural in character.
+
+In the 60s and 70s, villa plots were sold off in order to develop 4-6 apartment buildings as property prices started to rise.
+
+In the 70s and early 80s, houses started to be built on land previously used for holiday homes, most of it land on the Buda side that had been previously annexed. At this time, a growth of opposition to political ideals became manifest, which lead to the growth of a new ideology in house design – that of Hungarian "Organic Architecture". ([fig. 3.8](#abra_3_08)) To the end of the 80s and early 90s, a new trend in building large-scale houses on the green sites of Buda began. Land prices went sky-high following the change of system, and a new class of wealthy investors appeared. This new social class’s ideal was a bourgeois form of the Neo-baroque villa – with large buildings, historical references and an often tinsel-town appearance. (Architects of that period had no problem justifying their works, since it all came under the universal heading of "Postmodern Classicism”.) However, against this backdrop, some wealthy, more cultured clients commissioned superior family homes. ([fig. 3.9](#abra_3_09))
+
+<a id="abra_3_08"></a>
+
+![Imre Makovecz: Richter family home. Budapest, Pesthidegkút 1983.](images/abra_3_08_makovecz.png)
+
+*Figure 3.8 – Imre Makovecz: Richter family home. Budapest, Pesthidegkút 1983.*
+
+<a id="abra_3_09"></a>
+
+![Gábor Turányi: Individual family villa. Budapest. 2000.](images/abra_3_09_turanyi.png)
+
+*Figure 3.9 – Gábor Turányi: Individual family villa. Budapest. 2000.*
+
+As capital city plots are now slowly running out, urban-style homes are being built in the outlying villages that now form part of the metropolitan agglomeration.
+
+As the 20th century came to a close, professional attention has turned towards energy-conscious development (if only to help reduce operational costs), and sustainability (chapter 2.2.1.) will become a key factor regarding the design of family homes. This new approach has not yet been implemented en masse, but it is gaining in importance. In any case, the route of progress can be seen.
 
 [Figure 3.10](#abra_3_10) shows the spirit for using natural materials.
 
@@ -1609,7 +1663,9 @@ In this section, we discuss the differences between "rural" and "urban" family h
 
 > **Note**
 >
-> ***Emerging trends in contemporary architecture: autonomous homes, eco homes and passive homes. (AN)***
+> ***Emerging trends in contemporary architecture: autonomous homes, eco homes and passive homes.***
+>
+> — Ágnes Novák
 >
 > - **In each of these three design categories, the same principles apply – a naturally, with different emphasis:**
 > - Good utilization of solar energy (orientation and thermal storage devices)
@@ -1780,7 +1836,9 @@ Outbuildings are often not regarded as part of the main building’s facilities,
 
 > **Note**
 >
-> *The homes garden, in addition to being visually pleasing, offers recreational opportunities and often economic functions when a plot is large enough. A garden might be for ornamental purposes or for growing food, both a form of recreation. This type of use requires a garden to be creatively planned considering the use of proper surfaces, green houses and other outbuildings, which should all be suitably located. Gardens of this type might require specialized irrigation systems; therefore, a structure to house pumps may be required. It is also important to consider that outbuildings used for gardening and storage should be located with security in mind. (AN)*
+> *The homes garden, in addition to being visually pleasing, offers recreational opportunities and often economic functions when a plot is large enough. A garden might be for ornamental purposes or for growing food, both a form of recreation. This type of use requires a garden to be creatively planned considering the use of proper surfaces, green houses and other outbuildings, which should all be suitably located. Gardens of this type might require specialized irrigation systems; therefore, a structure to house pumps may be required. It is also important to consider that outbuildings used for gardening and storage should be located with security in mind.*
+>
+> — Ágnes Novák
 
 <a id="Gepkocsitarolas"></a>
 ### 3.3.6. Vehicular access
@@ -1839,7 +1897,9 @@ Vehicular storage should also take into account the approach route, so as not to
 >
 > *It is recommended that a garage be 6.00 - 6.50 m in length to allow for trunk access, for wheelchairs, pushchairs and packages. If the home does not include other storage space, the length of the garage can be increased as a general storage area, which may add value to the property.*
 >
-> *Car parking in the basement has several disadvantages such as approaching vehicles. Movement of goods to and from the car by stairs can be strenuous, especially for the elderly. Parking at a level above or below the home’s entrance level might also hinder the ability to adapt for barrier-free access at a later date. (AP)*
+> *Car parking in the basement has several disadvantages such as approaching vehicles. Movement of goods to and from the car by stairs can be strenuous, especially for the elderly. Parking at a level above or below the home’s entrance level might also hinder the ability to adapt for barrier-free access at a later date.*
+>
+> — András Pandula
 
 <a id="Terepre_illesztes"></a>
 ### 3.3.7. Terrain management
@@ -2209,7 +2269,9 @@ Staircases are an important design element. They should be attractive and treate
 *Figure 3.59 – Spatial arrangement of interior stairs*
 
 <a id="energiatudatos"></a>
-### 3.7.3. Sustainable and energy efficient design (AN)
+### 3.7.3. Sustainable and energy efficient design
+
+— Ágnes Novák
 
 The key issues with sustainable construction is to reduce heating and cooling demands, the use of solar and wind energy, alternative renewable energy sources and environmentally friendly materials used to create a healthy interior climate – all to be considered when designing a building's longevity.
 
@@ -2502,7 +2564,9 @@ The listed methods of access can even be combined.
 
 > **Note**
 >
-> *Considering barrier-free access, it is preferable to have direct access from home to vehicular storage. Disabled persons (e.g., active wheelchair users or the elderly) are often regular car users. It is also important to consider that, in bad weather conditions, a disabled person cannot use umbrellas and mobility aids at the same time. Hence, sheltered parking facilities with direct access from the home are preferred. (AP)*
+> *Considering barrier-free access, it is preferable to have direct access from home to vehicular storage. Disabled persons (e.g., active wheelchair users or the elderly) are often regular car users. It is also important to consider that, in bad weather conditions, a disabled person cannot use umbrellas and mobility aids at the same time. Hence, sheltered parking facilities with direct access from the home are preferred.*
+>
+> — András Pandula
 
 How a site is accessed can also determine building types. Direct access to the public domain can be directly related to the width of the development site for economic reasons. (Examples of sites that are 4.0 m wide can be found.) On sites developed with block private access, internal traffic solutions may be sought, although this might lead to problems when trying to provide private gardens. ([fig. 4.18](#abra_4_18))
 
@@ -2545,7 +2609,9 @@ A disadvantage arises – as with all two-story homes – in the continuous need
 >
 > *Located on the ground floor should be a larger than usually toilet block/utility room that also provides space for a washing machine, dryer and household chores. This might be a smaller room.*
 >
-> *Spatial layout should allow the home to adapt at a later date to barrier-free use. A multi-purpose room can be placed next to a bathroom. Therefore, the size of these rooms, their door sizes, and accessibility should be taken into account. (AP)*
+> *Spatial layout should allow the home to adapt at a later date to barrier-free use. A multi-purpose room can be placed next to a bathroom. Therefore, the size of these rooms, their door sizes, and accessibility should be taken into account.*
+>
+> — András Pandula
 
 [Figure 4.20](#abra_4_20) shows a schematic layout for a two-story row house unit. If the upper floor houses three bedrooms, a bathroom and circulation space, then the ground level floor area must be the same.
 
@@ -2609,7 +2675,9 @@ It is hard to obscure the view of neighbors’ gardens from the upper level, alt
 
 > **Note**
 >
-> *The garden terrace is usually one or two steps higher than the garden itself. Take care in the summer, when the garden is most frequently used, to ensure that the difference in level between living room and garden terrace is a maximum of 2 cm from the threshold to door. This difference should accommodate waterproofing issues without hindering ease of access. (AP)*
+> *The garden terrace is usually one or two steps higher than the garden itself. Take care in the summer, when the garden is most frequently used, to ensure that the difference in level between living room and garden terrace is a maximum of 2 cm from the threshold to door. This difference should accommodate waterproofing issues without hindering ease of access.*
+>
+> — András Pandula
 
 <a id="E4_gepkocsitarolas"></a>
 ### 4.4.5. Vehicular storage
@@ -2810,7 +2878,9 @@ Typical courtyard housing usually accommodates car parking within the building's
 
 > **Note**
 >
-> *The most convenient option is a covered carport. This allows for access to and from the vehicle regardless of weather conditions (shelter from rain and snow or overheating in the summer). It even reduces the need to clear snow or fallen leaves from vehicle itself. (AP)*
+> *The most convenient option is a covered carport. This allows for access to and from the vehicle regardless of weather conditions (shelter from rain and snow or overheating in the summer). It even reduces the need to clear snow or fallen leaves from vehicle itself.*
+>
+> — András Pandula
 
 The carport or garage might be placed directly in front of the home ([fig. 4.35.a and 4.35c](#abra_4_35))
 
@@ -2846,7 +2916,9 @@ In Section 3.7.3., most methods discussed can be applied to this building type.
 
 > **Note**
 >
-> *One advantage of this enclosed form of housing is that heat loss due to wind cooling is significantly reduced. Solutions for solar energy use are readily available. Positive solar gains can be achieved with windows, and the roof offers space for the placement of solar energy devices. When developed in groups, it is possible to consider energy generation (solar and wind) with the proper orientation of solar panels and/or a communal wind turbine. These developments are less suited to bio mass heating (supply, storage of energy and exhaust flues). The individual installation of heat pumps is not recommended, since the proximity of neighbors might impair efficiency. Heat pump technology might only work when a group of buildings develops its own communal heating plant, which to date has not been attempted in Hungary. (AN)*
+> *One advantage of this enclosed form of housing is that heat loss due to wind cooling is significantly reduced. Solutions for solar energy use are readily available. Positive solar gains can be achieved with windows, and the roof offers space for the placement of solar energy devices. When developed in groups, it is possible to consider energy generation (solar and wind) with the proper orientation of solar panels and/or a communal wind turbine. These developments are less suited to bio mass heating (supply, storage of energy and exhaust flues). The individual installation of heat pumps is not recommended, since the proximity of neighbors might impair efficiency. Heat pump technology might only work when a group of buildings develops its own communal heating plant, which to date has not been attempted in Hungary.*
+>
+> — Ágnes Novák
 
 Energy awareness might also be dependent upon the building’s physical form. For example, in [figure 4.18a](#abra_4_18), the buildings wall-to-floor ratio results in reducing passive heat loss, although only the southern elevation can assists with passive solar gains. In [figure 4.18b](#abra_4_18), the wider elevation is not so efficient regarding passive heat loss, but does offer a better opportunity to utilize direct solar energy gains. Larger elevations required better insulation and some balance to heat loss problems can be achieved by providing more closed northern elevations.
 
@@ -3025,7 +3097,9 @@ In the 90s, the pace of construction in terms of multi-story, multi-unit housing
 
 > **Note**
 >
-> ***New world trends in sustainability (AN).***
+> ***New world trends in sustainability***
+>
+> — Ágnes Novák
 >
 > *Multi-unit housing is now required to promote sustainability. Building design – urban developments – often seek mixed-use types (residential and service providers in the interest of economics), apartments of different sizes and adaptability, without segregating owner occupants from rental occupants. Many developments, usually urban, call for car-free zones as a question of lifestyle.*
 >
@@ -3140,13 +3214,17 @@ The handrail should be fixed at least 95 cm above the staircase flight line. Thi
 
 > **Note**
 >
-> *When buildings do not have a lift, a secondary handrail should be fitted at 70 cm above the staircase flight line for those who have difficulty using stairs. This might include the elderly or small children. (AP)*
+> *When buildings do not have a lift, a secondary handrail should be fitted at 70 cm above the staircase flight line for those who have difficulty using stairs. This might include the elderly or small children.*
+>
+> — András Pandula
 
 When designing balustrades for stairs and landings, ensure that children can not use them for climbing and that any holes are no larger than 12 cm. The latter is to stop children’s heads from getting stuck in between.
 
 > **Note**
 >
-> *If a door opens onto the staircase, for reasons of safety, make sure that distance from the step to the edge of door is at least 30 cm. (AP)*
+> *If a door opens onto the staircase, for reasons of safety, make sure that distance from the step to the edge of door is at least 30 cm.*
+>
+> — András Pandula
 
 A stair should rise to a maximum of 20 steps before placing a landing. (In homes for the elderly or disabled, a maximum rise of 1.80 meters is accepted.)
 
@@ -3171,7 +3249,9 @@ Current regulations state that lifts should be provided to every building with v
 
 > **Note**
 >
-> *Property investors consider the lower limits for providing lifts in multi-unit buildings: whether to provide a lift or not, if it will affect property value, if it can be installed at a later date for comfort or barrier-free access. (In this case, a three-flight stair should be designed with a lift in mind.) (AP)*
+> *Property investors consider the lower limits for providing lifts in multi-unit buildings: whether to provide a lift or not, if it will affect property value, if it can be installed at a later date for comfort or barrier-free access. (In this case, a three-flight stair should be designed with a lift in mind.)*
+>
+> — András Pandula
 
 In special building types (homes for the elderly), barrier-free lifts must be installed. Here a lift must be safe enough to use as means of escape in case of fire if no other option is available. (A safety lift must be directly related to a smoke-free stairway, fire lobbies or the open air, and it must be operable even if the building is on fire.)
 
@@ -3228,7 +3308,9 @@ Boiler exhaust flues and chimneys should expel gases at the top of a building, b
 
 > **Note**
 >
-> *If the building has a mechanical ventilation system, it might be wise to use heat recovery systems. These can even preheat cold air prior to use in the heating system. These systems are becoming smaller, approaching the size of a wall-mounted air conditioner. (AN)*
+> *If the building has a mechanical ventilation system, it might be wise to use heat recovery systems. These can even preheat cold air prior to use in the heating system. These systems are becoming smaller, approaching the size of a wall-mounted air conditioner.*
+>
+> — Ágnes Novák
 
 New developments have central heating systems of one kind or other. These systems might be independent, serving each home, or a shared system (district heating).
 
@@ -3244,7 +3326,9 @@ At the initial stages of the building’s design, mechanical and electrical engi
 >
 > *Provision of hot water can be based on individual dwelling units or the building as a whole. In the latter case, solar energy might be beneficial, since it will help reduce costs, supply hot water when demanded and can be designed so that stored hot water reconciles the fact that not all the residents will require hot water at the same time. In multi-unit buildings, the required area of solar panels and associated equipment is less than that of a conventional family home.*
 >
-> *Larger buildings might benefit from rainwater harvesting. If monthly rain fall is calculated, roof areas and paved areas could provide enough water for the flushing of toilets and irrigation of garden areas. (AN)*
+> *Larger buildings might benefit from rainwater harvesting. If monthly rain fall is calculated, roof areas and paved areas could provide enough water for the flushing of toilets and irrigation of garden areas.*
+>
+> — Ágnes Novák
 
 <a id="E5_kozlekedo_rendszer"></a>
 ## 5.6. Common access systems to individual housing units
@@ -3409,7 +3493,9 @@ When developed in rows, core houses can have the stairwell and entrance placed i
 >
 > *When a lift is to be included in the design, for reasons of barrier-free access, make sure that there is no difference in floor levels at the entrance level. If care is not taken, it will reduce the development’s market value.*
 >
-> *In principle, a building’s market value will be enhanced if barrier-free access is provided to all common areas, lifts, storage rooms, bicycle and pushchair storage areas, postal boxes and garden doors. (AP)*
+> *In principle, a building’s market value will be enhanced if barrier-free access is provided to all common areas, lifts, storage rooms, bicycle and pushchair storage areas, postal boxes and garden doors.*
+>
+> — András Pandula
 
 [Figure 5.35](#abra_5_35) shows different schematic arrangements for developing the ground floor. (Specific design schedules will vary, as will site requirements.)
 
@@ -3423,7 +3509,9 @@ When developed in rows, core houses can have the stairwell and entrance placed i
 >
 > *Apartments built on the ground floor usually differ from those on upper levels. They may be smaller or less in number. (Consider load-bearing walls, pillars and service ducts – all of which must not be ignored!)*
 >
-> *In most multi-story, multi-unit housing developments, it is highly recommended to devote the ground floor to barrier-free apartments. Upper-level homes can easily adapt to changes in level, internal arrangements and general flexibility. Both situations are rational in terms of construction costs and marketable value. (AP)*
+> *In most multi-story, multi-unit housing developments, it is highly recommended to devote the ground floor to barrier-free apartments. Upper-level homes can easily adapt to changes in level, internal arrangements and general flexibility. Both situations are rational in terms of construction costs and marketable value.*
+>
+> — András Pandula
 
 Free-standing buildings offer more freedom in terms of entrance placement. However, try to avoid placing the main entrance on the rear elevation.
 
@@ -3762,7 +3850,9 @@ Retirement homes are also being developed in larger numbers, usually operated by
 Non-residential functions are more common in urban developments. In Budapest (regulation states in denser districts), residential functions cannot be planned on the ground floor due to traffic noise and air pollution. These areas are ideal for commercial functions or service providers. Obviously, these functions should not be accessed by the same door as the residential development, so provide extra doors. Another possibility is for ground-floor facilities (car park, waste storage, etc.) to share the space with non-residential occupants.
 
 <a id="E5_energiatudatos"></a>
-## 5.14. Sustainable and energy efficient design (Dr. JB, AN)
+## 5.14. Sustainable and energy efficient design
+
+— János Bitó and Ágnes Novák
 
 Reduction of heat loss and use of solar energy will be cost effective in multi-story, high-rise buildings. As apartments are placed side by side, heat loss decreases (per m²). Orientation of apartments is harder due to site, road and urban fabric restrictions.
 
@@ -3791,7 +3881,9 @@ Care should be taken, even at the sketch design stage, to avoid structures that 
 Choosing a heating system for multi-story, multi-unit buildings can also impact energy balance issues. (Should each home have independent systems, or should the building have a central heating plant?) Consult with mechanical and electrical engineers. Use solar devices on the roof to aid in the generation of hot water and to support the heating system.
 
 <a id="E5_novenyzet"></a>
-## 5.15. Integration of soft landscape (AN)
+## 5.15. Integration of soft landscape
+
+— Ágnes Novák
 
 Green space planning is not always considered part of the design program. However, in dense urban areas, courtyards might provide green areas or water features. Green roofs could be developed or "planted walls". All of these providing beneficial microclimatic conditions, reducing the need for mechanical solutions in summer months. They improve the aesthetic environment and create visual comfort.
 
@@ -3953,7 +4045,9 @@ Holiday homes (weekend houses) cover most building types discussed in this book.
 Possession of a weekend home cannot be viewed as a social need, since then it should be made available to a wide spectrum of people. To do so would require an increase in low cost land. This is not desirable, since it is the ideal of society as a whole to preserve areas of natural beauty or interest. Therefore, in recent years, the previous increase in available land has fallen, and some families have opted to find recreation in small villages and farming areas.
 
 <a id="E6_off_grid"></a>
-## 6.5. Off-grid solutions (AN)
+## 6.5. Off-grid solutions
+
+— Ágnes Novák
 
 Among current urban intelligentsia, there is a growing awareness of environmental issues. Beautiful natural areas, villages and farms (with the existing buildings refurbished) now serve as holiday homes, usually as an escape from metropolitan life (more so in Western Europe) or a form of recreation. Fortunately, the motivation is to use recyclable natural building materials and methods. However, many of these areas have little in way of utilities, often no water or electricity supply. Out of this has developed the term "off-grid". (See the foreword by Dr. János Bitó.)
 
@@ -4065,7 +4159,9 @@ Although homes are becoming less crowded, and general conditions have improved, 
 
 > **Note**
 >
-> *During construction of new developments, it should be possible to establish a goal whereby social complexity and diversity are encouraged. A new pattern of homes for single occupants or single-parent families is also emerging. This means that new homes should be flexible enough to embrace new social patterns. (AN)*
+> *During construction of new developments, it should be possible to establish a goal whereby social complexity and diversity are encouraged. A new pattern of homes for single occupants or single-parent families is also emerging. This means that new homes should be flexible enough to embrace new social patterns.*
+>
+> — Ágnes Novák
 
 Locally, the tendency toward 1- and 2-bedroom apartments has grown, this being a negative shift away from older single-room studios which were in demand at the turn of the 19<sup>th</sup> and 20<sup>th</sup> century. Demand now is based upon poor fiscal solvency, not social preference. However, the housing market has experienced booms at times, over the decades, affecting urban and rural housing stock standards at a regional level. The state or government should be active on the housing market, ready to intervene regarding questions of preference, subsidies and "clean" operation of the real estate mechanism.
 
@@ -4075,7 +4171,9 @@ Homes are also unique products, since in a developed society, housing is one of 
 
 > **Note**
 >
-> *Most homes need public funding, in whole or in part (for roads, utilities, social factors, etc.), and they should be appropriately managed and regulated in terms of housing requirements, materials used and quality control. Monitoring by OTÉK can regulate town planning policy, energy demands and aesthetic issues. Financing (through grants, loans and subsidies) can only follow once plans, utilities and working solutions are provided. (AN).*
+> *Most homes need public funding, in whole or in part (for roads, utilities, social factors, etc.), and they should be appropriately managed and regulated in terms of housing requirements, materials used and quality control. Monitoring by OTÉK can regulate town planning policy, energy demands and aesthetic issues. Financing (through grants, loans and subsidies) can only follow once plans, utilities and working solutions are provided.*
+>
+> — Ágnes Novák
 
 Socially, housing stock should be provided where it is actually needed. ([fig. 7.1e](#abra_7_01)) This correlation also reflects the nation’s economic vitality. Where there is a housing demand, the need for construction and the economy grows. Likewise, a lack of demand suggests economic depression. This is reinforced by property prices. A town with a poor economy has homes which can not be sold. In some remote towns and villages, a large house can be purchased for the price of a studio flat in Budapest. To make a return on investments in housing stock levels – as a national asset – a sustainable distribution of the housing market is required, which differs greatly from the construction labor market. Poorer regions face a degradation of housing stock when compared to wealthier regions. When specific areas benefit from an economic boom, this creates a shift in labor and housing needs, leading to permanent regional rearrangement. Privatization in the 90s led to a phenomenon unique in Europe, with 8% of homes forming part of the rental market. (The European average is 30-40%.)
 

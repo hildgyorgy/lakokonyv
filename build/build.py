@@ -20,7 +20,6 @@ HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 IMAGE_RE = re.compile(r"!\[([^]]*)\]\(([^)]+)\)")
 LINK_RE = re.compile(r"(?<!!)\[([^]]+)\]\(([^)]+)\)")
 ANCHOR_RE = re.compile(r'<a\s+id="([^"]+)"\s*></a>')
-MISSING_RE = re.compile(r"<!--\s*MISSING\s+([^:]+):")
 ARTICLE_SPACE_RE = re.compile(r"(?<!\w)([Aa]z?) (?=\S)")
 
 
@@ -96,15 +95,15 @@ def parse_frontmatter(text: str) -> tuple[dict[str, str], str]:
     return metadata, text[end + 4:].lstrip("\n")
 
 
-def render_markdown(text: str, layout: dict | None = None, language: str = "hu") -> tuple[str, str, set[str], list[str]]:
+def render_markdown(text: str, layout: dict | None = None, language: str = "hu") -> tuple[str, str, set[str]]:
     format_inline = lambda value: inline(value, language)
     lines = text.splitlines()
     output: list[str] = []
     toc: list[tuple[int, str, str]] = []
     anchors: set[str] = set()
-    missing: list[str] = []
     i = 0
     pending_anchor: str | None = None
+    pending_heading_credit = False
     while i < len(lines):
         line = lines[i]
         anchor_match = ANCHOR_RE.fullmatch(line.strip())
@@ -113,8 +112,6 @@ def render_markdown(text: str, layout: dict | None = None, language: str = "hu")
             anchors.add(pending_anchor)
             i += 1
             continue
-        if (m := MISSING_RE.search(line)):
-            missing.append(m.group(1).strip())
         if line.strip().startswith("<!--"):
             while i < len(lines) and "-->" not in lines[i]:
                 i += 1
@@ -129,39 +126,40 @@ def render_markdown(text: str, layout: dict | None = None, language: str = "hu")
             continue
         if (m := HEADING_RE.match(line)):
             level, title = len(m.group(1)), m.group(2)
-            # The scan uses terminal punctuation consistently for numbered
-            # subheadings, while the reconstructed master is mixed.
-            title = re.sub(r"^(\d+(?:\.\d+)+)(?=\s)", r"\1.", title)
-            anchor = pending_anchor or "heading-" + re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
-            anchors.add(anchor)
+            anchor = pending_anchor
+            if anchor is None and level <= 3:
+                anchor = "heading-" + re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+            if anchor:
+                anchors.add(anchor)
             pending_anchor = None
-            output.append(f'<h{level} id="{html.escape(anchor, quote=True)}">{format_inline(title)}</h{level}>')
-            if level <= 6:
+            id_attr = f' id="{html.escape(anchor, quote=True)}"' if anchor else ""
+            output.append(f'<h{level}{id_attr}>{format_inline(title)}</h{level}>')
+            if level <= 3:
                 toc.append((level, anchor, title))
+            pending_heading_credit = True
             i += 1
             continue
+        if line.strip().startswith("— "):
+            credit_class = "contributor-credit heading-credit" if pending_heading_credit else "contributor-credit"
+            output.append(f'<p class="{credit_class}">{format_inline(line.strip())}</p>')
+            pending_heading_credit = False
+            i += 1
+            continue
+        pending_heading_credit = False
         if line.startswith(">"):
             block: list[str] = []
             while i < len(lines) and (lines[i].startswith(">") or not lines[i].strip()):
                 if lines[i].startswith(">"):
                     block.append(re.sub(r"^> ?", "", lines[i]))
+                else:
+                    block.append("")
                 i += 1
             note = block and block[0].strip() in {"**Megjegyzés**", "**Note**"}
             body = "\n".join(block[1:] if note else block)
-            if pending_anchor and "Hiányzó ábra" in body:
-                output.append(f'<figure id="{html.escape(pending_anchor, quote=True)}" class="missing-figure"><figcaption>{format_inline(body)}</figcaption></figure>')
-                pending_anchor = None
-                continue
-            # The reconstructed source contains some figures inside Markdown
-            # blockquotes. They are source grouping, not editorial quotations.
-            if (note and language == "en") or "![" in body or "<a id=" in body:
-                nested, _nested_toc, nested_anchors, nested_missing = render_markdown(body, layout, language)
-                output.append(f'<aside class="note">{nested}</aside>' if note else nested)
-                anchors.update(nested_anchors)
-                missing.extend(nested_missing)
-                continue
+            nested, _nested_toc, nested_anchors = render_markdown(body, layout, language)
             tag = "aside class=\"note\"" if note else "blockquote"
-            output.append(f"<{tag}>{render_paragraphs(body, language)}</{tag.split()[0]}>")
+            output.append(f"<{tag}>{nested}</{tag.split()[0]}>")
+            anchors.update(nested_anchors)
             continue
         if re.match(r"^\s*[-*+]\s+", line) or re.match(r"^\s*\d+[.)]\s+", line):
             ordered = bool(re.match(r"^\s*\d+[.)]\s+", line))
@@ -169,9 +167,18 @@ def render_markdown(text: str, layout: dict | None = None, language: str = "hu")
             while i < len(lines):
                 pat = r"^\s*\d+[.)]\s+(.*)$" if ordered else r"^\s*[-*+]\s+(.*)$"
                 match = re.match(pat, lines[i])
-                if not match: break
-                items.append(f"<li>{format_inline(match.group(1))}</li>")
-                i += 1
+                if match:
+                    items.append(f"<li>{format_inline(match.group(1))}</li>")
+                    i += 1
+                    continue
+                # Blank lines may separate the items of a loose Markdown list.
+                next_item = i
+                while next_item < len(lines) and not lines[next_item].strip():
+                    next_item += 1
+                if next_item > i and next_item < len(lines) and re.match(pat, lines[next_item]):
+                    i = next_item
+                    continue
+                break
             tag = "ol" if ordered else "ul"
             output.append(f"<{tag}>" + "".join(items) + f"</{tag}>")
             continue
@@ -184,11 +191,6 @@ def render_markdown(text: str, layout: dict | None = None, language: str = "hu")
             if caption_index < len(lines) and re.match(r"^\*.*\*$", lines[caption_index].strip()):
                 caption = format_inline(lines[caption_index].strip()[1:-1])
                 i = caption_index
-            missing_here = any(key in line or key in (lines[i] if i < len(lines) else "") for key in missing)
-            classes = []
-            if missing_here:
-                classes.append("missing-figure")
-            class_attr = f' class="{" ".join(classes)}"' if classes else ""
             figure_id = f' id="{html.escape(pending_anchor, quote=True)}"' if pending_anchor else ""
             setting = layout.get(Path(src).name) if layout else None
             if isinstance(setting, dict):
@@ -199,24 +201,21 @@ def render_markdown(text: str, layout: dict | None = None, language: str = "hu")
                 invert = False
             style_attr = f' style="--figure-width: {int(width)}%"' if width else ""
             image_class = ' class="dark-invert"' if invert else ""
-            output.append(f'<figure{figure_id}{class_attr}><img{image_class}{style_attr}{image_size_attributes(src)} src="{html.escape(src, quote=True)}" alt="{html.escape(m.group(1), quote=True)}" loading="lazy">{f"<figcaption>{caption}</figcaption>" if caption else ""}</figure>')
+            output.append(f'<figure{figure_id}><img{image_class}{style_attr}{image_size_attributes(src)} src="{html.escape(src, quote=True)}" alt="{html.escape(m.group(1), quote=True)}" loading="lazy">{f"<figcaption>{caption}</figcaption>" if caption else ""}</figure>')
             pending_anchor = None
             i += 1
             continue
         paragraph: list[str] = [line]
         i += 1
-        while i < len(lines) and lines[i].strip() and not HEADING_RE.match(lines[i]) and not lines[i].startswith(">") and not ANCHOR_RE.fullmatch(lines[i].strip()) and not lines[i].strip().startswith("<div"):
+        while i < len(lines) and lines[i].strip() and not HEADING_RE.match(lines[i]) and not lines[i].startswith(">") and not ANCHOR_RE.fullmatch(lines[i].strip()) and not lines[i].strip().startswith("<div") and not re.match(r"^\s*(?:[-*+]|\d+[.)])\s+", lines[i]):
             paragraph.append(lines[i]); i += 1
-        output.append(f"<p>{format_inline(' '.join(paragraph))}</p>")
+        paragraph_text = " ".join(paragraph)
+        output.append(f"<p>{format_inline(paragraph_text)}</p>")
     toc_html = build_toc([
         entry for entry in toc
         if entry[2] not in {"Lakóépületek tervezése", "Kivonat", "Housing design", "Abstract"}
     ], language)
-    return "\n".join(output), toc_html, anchors, missing
-
-
-def render_paragraphs(text: str, language: str = "hu") -> str:
-    return "\n".join(f"<p>{inline(p, language)}</p>" for p in text.split("\n\n") if p.strip())
+    return "\n".join(output), toc_html, anchors
 
 
 def build_toc(entries: list[tuple[int, str, str]], language: str = "hu") -> str:
@@ -255,13 +254,6 @@ def build_toc(entries: list[tuple[int, str, str]], language: str = "hu") -> str:
                 items.append(f"<li>{link}</li>")
         return "<ol>" + "".join(items) + "</ol>" if items else ""
 
-    # The first H1 is the book title, not a structural parent. Keep its link
-    # visible, but promote its children to the TOC root.
-    if root and root[0]["title"] == "Lakóépületek tervezése":
-        title_node = root.pop(0)
-        title_link = f'<li>{render_link(title_node)}</li>'
-        promoted = title_node["children"] + root
-        return "<ol>" + title_link + render(promoted)[4:]
     return render(root)
 
 
@@ -318,7 +310,7 @@ def main() -> None:
     editions = {}
     for language, filename in (("hu", "lakokonyv.md"), ("en", "lakokonyv_en.md")):
         metadata, markdown = parse_frontmatter((SOURCE / filename).read_text(encoding="utf-8"))
-        content, toc, anchors, missing = render_markdown(markdown, layout, language)
+        content, toc, anchors = render_markdown(markdown, layout, language)
         images = IMAGE_RE.findall(markdown)
         missing_images = sorted({path for _, path in images if not (SOURCE / path).is_file()})
         if missing_images:
@@ -334,8 +326,6 @@ def main() -> None:
         inventory.validate(filename)
         editions[language] = {"page": page, "inventory": inventory, "images": images}
         print(f"{language.upper()}: {len(images)} image references, {len(inventory.ids)} IDs; internal links OK.")
-        if missing:
-            print("Documented missing elements: " + ", ".join(missing))
 
     shared_ids = set(editions["hu"]["inventory"].ids) & set(editions["en"]["inventory"].ids)
     for language, edition in editions.items():

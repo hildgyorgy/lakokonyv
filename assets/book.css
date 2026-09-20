@@ -44,7 +44,7 @@
 
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { margin: 0; line-height: 1.68; font-size: 1.08rem; }
+body { margin: 0; line-height: 1.5; font-size: 1.08rem; }
 a { color: var(--link); }
 .site-header { border-bottom: 1px solid var(--rule); padding: 1rem 2rem; font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 .site-title { color: var(--ink); font-weight: 700; text-decoration: none; }
@@ -92,17 +92,22 @@ a { color: var(--link); }
 .book-content p { hyphens: auto; hyphenate-limit-chars: 10 5 5; }
 .book-content.text-justified p { text-align: justify; text-justify: auto; }
 h1, h2, h3, h4 { line-height: 1.2; scroll-margin-top: 1.5rem; }
-h1 { color: var(--accent); font-size: clamp(2rem, 4vw, 3.2rem); margin: 3rem 0 1.5rem; padding-top: 1.5rem; border-top: 2px solid var(--accent); }
+h1 { color: var(--accent); font-size: 1.9rem; margin: 3.75rem 0 1.5rem; padding-top: 1.5rem; border-top: 2px solid var(--accent); }
 h1:first-child { border-top: 0; padding-top: 0; margin-top: 0; }
 .book-content > p:first-child { color: var(--accent); font-size: clamp(2rem, 4vw, 3.2rem); line-height: 1.2; font-weight: 700; margin: 0; }
-.book-content > h1:first-of-type { border-top: 0; padding-top: 0; margin-top: 0; }
-h2 { font-size: 1.7rem; margin-top: 2.7rem; }
-h3 { font-size: 1.32rem; margin-top: 2rem; }
-h4 { font-size: 1.12rem; margin-top: 1.5rem; }
-p { margin: 0 0 1.1rem; }
+.book-content > h1:first-of-type { border-top: 0; padding-top: 0; margin-top: 0; font-size: clamp(2rem, 4vw, 3.2rem); }
+h2 { font-size: 1.65rem; margin-top: 3.4rem; }
+h3 { font-size: 1.28rem; margin-top: 2.5rem; }
+h4 { margin: 2.2rem 0 .7rem; color: var(--accent); font-size: inherit; font-weight: 600; letter-spacing: .04em; }
+p { margin: 0 0 .95rem; }
+h1 + h2 { margin-top: 1.4rem; }
+h2 + h3 { margin-top: 1.1rem; }
+.contributor-credit { margin: -.35rem 0 1.2rem; color: var(--accent); font-size: .86em; line-height: 1.35; font-weight: 400; font-style: normal; letter-spacing: .01em; }
+.heading-credit { margin-top: -1rem; margin-bottom: 1.5rem; }
+blockquote .contributor-credit, .note .contributor-credit { margin: .55rem 0 0; }
 ul, ol { margin: 0 0 1.2rem; padding-left: 1.6rem; }
 blockquote, .note { margin: 1.8rem 0 1.8rem 2rem; padding: 1rem 1.4rem; border-left: 4px solid var(--accent); background: transparent; }
-.note { margin-left: 0; color: var(--accent); background: transparent; border-left: 2px solid var(--accent); font-size: .95em; font-weight: 500; padding: 0 1.4rem 0 1rem; }
+.note { margin-left: 0; color: var(--accent); background: transparent; border-left: 2px solid var(--accent); font-size: .95em; font-weight: 500; padding: 0 0 0 1rem; }
 .note > :first-child { margin-top: 0; }
 .note > :last-child { margin-bottom: 0; }
 blockquote { color: var(--accent); font-style: italic; font-weight: 600; }
@@ -116,7 +121,6 @@ figcaption { color: var(--muted); font-size: .92rem; font-style: italic; max-wid
 .project-logos { margin: 2rem 0; }
 .project-logos figure { margin: 0; text-align: left; }
 .project-logos img { width: 10%; margin: 0; }
-.missing-figure { border: 1px dashed var(--accent); padding: 1rem; }
 code { font-size: .9em; }
 .site-footer { border-top: 1px solid var(--rule); color: var(--muted); max-width: 70rem; margin: 0 auto; padding: 1.5rem 2rem 3rem; font-size: .9rem; }
 @media (min-width: 90rem) {
@@ -209,7 +213,7 @@ code { font-size: .9em; }
   .page { display: block; max-width: none; padding: 0; }
   .site-footer { padding-left: 0; }
   a { color: inherit; text-decoration: none; }
-  figure, h1, h2, h3 { break-inside: avoid; }
+  figure, h1, h2, h3, h4 { break-inside: avoid; }
 }
 
 /* The language control stays in the header on desktop and mobile alike. */

@@ -38,7 +38,7 @@ class BookPage(HTMLParser):
         if tag == 'figure': self.figure_id = attrs.get('id', 'logo')
         if tag == 'img': self.images[self.figure_id] = attrs
         if tag == 'aside' and attrs.get('class') == 'note': self.notes += 1
-        if re.fullmatch(r'h[1-6]', tag) and self.article: self.headings.append(attrs['id'])
+        if re.fullmatch(r'h[1-6]', tag) and self.article and 'id' in attrs: self.headings.append(attrs['id'])
         if self.article and tag in {'p', 'h1', 'h2', 'h3', 'h4', 'li', 'figure', 'aside', 'figcaption'}: self.text.append('\n')
 
     def handle_endtag(self, tag):
@@ -77,13 +77,19 @@ class BilingualBookTests(unittest.TestCase):
                 # The Markdown master normalizes square-metre units typographically.
                 text = re.sub(r'\bm2\b', 'm²', text)
                 # Correct two demonstrably stale figure numbers while retaining
-                # the translated paragraph itself.
+                # the translated paragraph itself, plus one source typo.
                 text = text.replace('(fig. 1.16)', '(fig. 1.18)') if text.startswith('A residential area (room)') else text
                 text = text.replace('(fig. 3.10)', '(fig. 3.11)') if text.startswith('A free-standing building') else text
+                text = text.replace('indispensible', 'indispensable')
+                text = text.replace(
+                    'who are identified in certain chapters by the respective initials (AN) and (AP).',
+                    'whose full names are shown alongside the chapters and supplementary passages they authored.',
+                )
+                text = re.sub(r'\s*\((?:AN|AP)\)\.?$', '', text)
                 self.assertIn(text, self.en.visible_text)
                 checked += 1
         self.assertEqual(checked, 1152)
-        self.assertEqual(self.en.notes, 48)
+        self.assertEqual(self.en.notes, 46)
         self.assertEqual(len(self.en.article_links), 321)
 
     def test_shared_images_keep_workbench_settings(self):
@@ -94,6 +100,47 @@ class BilingualBookTests(unittest.TestCase):
             self.assertTrue((ROOT / 'dist' / image['src']).is_file())
             self.assertGreater(int(image['width']), 0)
             self.assertGreater(int(image['height']), 0)
+
+    def test_requirement_labels_and_loose_lists(self):
+        self.assertIn(
+            '<h4>KÖVETELMÉNYEK ÉS AJÁNLÁSOK</h4>',
+            self.hu.html,
+        )
+        self.assertIn(
+            '<p><strong>ALAPKÖVETELMÉNY:</strong> Biztosítani kell',
+            self.hu.html,
+        )
+        self.assertNotIn('<strong>BÚTORIGÉNY:</strong> -', self.hu.html)
+        self.assertIn(
+            'legalább 4 személynek</li><li>3-4 férőhelyes lakásban legalább 5 személynek',
+            self.hu.html,
+        )
+
+    def test_explicit_contributor_credits(self):
+        monograms = re.compile(r'\((?:N\.\s*Á\.|P\.\s*A\.|B\.\s*J\.|AN|AP|(?:Dr\.\s*)?JB)\)')
+        for source in (ROOT / 'sources/lakokonyv.md', ROOT / 'sources/lakokonyv_en.md'):
+            self.assertNotRegex(source.read_text(encoding='utf-8'), monograms)
+        self.assertIn('<p class="contributor-credit">— Novák Ágnes</p>', self.hu.html)
+        self.assertIn('<p class="contributor-credit">— Ágnes Novák</p>', self.en.html)
+        self.assertIn(
+            '<h3 id="E1_Vizualis_komfort">1.5.6. Vizuális komfort</h3>\n'
+            '<p class="contributor-credit heading-credit">— Novák Ágnes</p>',
+            self.hu.html,
+        )
+        self.assertNotIn('Vizuális komfort (N.', self.hu.html)
+
+    def test_historical_sections_are_explicit_markdown_headings(self):
+        self.assertIn(
+            '<h3 id="E3_falusi_csaladi_hazak">3.2.1. A\u00a0falusi családi házak</h3>',
+            self.hu.html,
+        )
+        self.assertIn(
+            '<h3 id="E3_varosias_csaladi_hazak">3.2.2. Urban Homes</h3>',
+            self.en.html,
+        )
+        for page in (self.hu, self.en):
+            self.assertEqual(page.targets['E3_falusi_csaladi_hazak'], 'E3_falusi_csaladi_hazak')
+            self.assertEqual(page.targets['E3_varosias_csaladi_hazak'], 'E3_varosias_csaladi_hazak')
 
     def test_supplemental_figures_complete_hungarian_set(self):
         expected = {
