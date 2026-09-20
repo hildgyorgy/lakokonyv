@@ -464,15 +464,12 @@ Az itteni bútorok legyenek kényelmes ülő-alkalmatosságok: fotelek és hever
 **Követelmények és ajánlások**
 
 **Alapkövetelmény:**
-
 Biztosítani kell, hogy a lakásban élő háztartás valamennyi tagja otthoni szabad idejét együtt is eltölthesse, audiovizuális szórakoztató eszközöket közösen használhasson, a lakásban vendégeket fogadhasson.
 
 **Bútorigény:**
-
 Társalgó-bútorcsoport: fotelek és pót-fekhelyként is használható heverő, kávézó asztal, kép- és hanglejátszó berendezések, tároló bútorok a közösen használt könyvek és egyéb tárgyak számára. Könyvek tárolásától el lehet tekinteni, ha a lakás más helyiségében (pl. külön könyvtárszobában, dolgozószobában stb.) mód van megfelelő méretű könyvszekrény vagy könyvespolc elhelyezésére.
 
 **A társalgó bútorcsoport legyen elegendő:**
-
 - 1-2 férőhelyes lakásokban legalább 4 személynek
 - 3-4 férőhelyes lakásban legalább 5 személynek
 - 5 férőhelyes vagy annál nagyobb lakásban legalább 6 személynek.
@@ -509,14 +506,12 @@ A családok időnként vendégeket fogadnak ebédre vagy vacsorára, ezért ajá
 **Követelmények és ajánlások**
 
 **Alapkövetelmény:**
-
 Biztosítani kell, hogy a lakásban élő háztartás valamennyi tagja együtt étkezhessen kulturált körülmények között, alkalmanként étkező vendégeket fogadhasson.
 
 **Bútorigény:**
+- Étkező asztal, székekkel. A bútorcsoport férőhelyszáma semmiképp sem lehet a lakás férőhelyszámánál kisebb, de nyomatékosan ajánlott annál két fővel (vendégekkel) nagyobb létszám figyelembe vétele.
 
-Étkező asztal, székekkel. A bútorcsoport férőhelyszáma semmiképp sem lehet a lakás férőhelyszámánál kisebb, de nyomatékosan ajánlott annál két fővel (vendégekkel) nagyobb létszám figyelembe vétele.
-
-2 férőhelyesnél nagyobb lakásoknál nem kerülhet az étkező olyan helyiségbe, amely valamelyik használó alvóhelye. (Nem lehet a nappali szobát alvóhelyként figyelembe venni, ha rendszeresen használt étkező van ott.) Az étkező legyen a főzőhely (konyha) megfelelő közelségében, attól legfeljebb egy ajtó válassza el (kivételt képez az olyan eset, amikor a konyhában is van egy, legalább a használói létszámra méretezett második étkezőhely). A főzőhely és az étkezőhely között ne legyen lépcső (balesetveszély a tálaláskor!). Az étkezés terét közlekedő térként figyelembe lehet venni.
+- 2 férőhelyesnél nagyobb lakásoknál nem kerülhet az étkező olyan helyiségbe, amely valamelyik használó alvóhelye. (Nem lehet a nappali szobát alvóhelyként figyelembe venni, ha rendszeresen használt étkező van ott.) Az étkező legyen a főzőhely (konyha) megfelelő közelségében, attól legfeljebb egy ajtó válassza el (kivételt képez az olyan eset, amikor a konyhában is van egy, legalább a használói létszámra méretezett második étkezőhely). A főzőhely és az étkezőhely között ne legyen lépcső (balesetveszély a tálaláskor!). Az étkezés terét közlekedő térként figyelembe lehet venni.
 
 <a id="E1_Alvas_pihenes"></a>
 ### 1.3.3. Alvás, pihenés
@@ -544,18 +539,16 @@ Az alvás bútorait és a különböző fekhely-elrendezéseket az [1.23. ábra]
 **Követelmények és ajánlások**
 
 **Alapkövetelmény:**
-
 Biztosítani kell, hogy a lakást használók zavartalanul alhassanak, pihenhessenek.
 
 **Bútorigény:**
+- Személyenként 1 db 90 x 200 cm alaprajzi méretű fekhely, ill. a fekhelyről elérhető, legalább 45 x 45 cm alaprajzi méretű (max. 75 cm magas) lerakó felület (alacsony szekrény, polc, esetleg az ágy melletti asztal).
 
-Személyenként 1 db 90 x 200 cm alaprajzi méretű fekhely, ill. a fekhelyről elérhető, legalább 45 x 45 cm alaprajzi méretű (max. 75 cm magas) lerakó felület (alacsony szekrény, polc, esetleg az ágy melletti asztal).
+- Egy, akusztikailag összefüggő térben legfeljebb 2 fekhelyet lehet feltételezni.
 
-Egy, akusztikailag összefüggő térben legfeljebb 2 fekhelyet lehet feltételezni.
+- A lakásban házastársi (élettársi) közösségben élő pár számára biztosítani kell az ágyak „iker”-elrendezését (szülői háló). Ennek befoglaló mérete min. 180 x 200 cm, amely mindkét hosszoldalon megközelíthető („fekhelyes nappali” esetén lehet kihúzható vagy kinyitható pamlag is). Más családtagok (pl. testvérek) számára különálló, hosszoldalon nem érintkező fekhelyek elhelyezését kell lehetővé tenni. Az 1 férőhelyesnél nagyobb lakásban legalább egy helyiséget szülői hálóként kell figyelembe venni.
 
-A lakásban házastársi (élettársi) közösségben élő pár számára biztosítani kell az ágyak „iker”-elrendezését (szülői háló). Ennek befoglaló mérete min. 180 x 200 cm, amely mindkét hosszoldalon megközelíthető („fekhelyes nappali” esetén lehet kihúzható vagy kinyitható pamlag is). Más családtagok (pl. testvérek) számára különálló, hosszoldalon nem érintkező fekhelyek elhelyezését kell lehetővé tenni. Az 1 férőhelyesnél nagyobb lakásban legalább egy helyiséget szülői hálóként kell figyelembe venni.
-
-A fekhelyeket úgy kell elhelyezni, hogy a használók zavaró kényelmetlenséget vagy egészségkárosodást ne szenvedjenek sugárzó hideg vagy erősen sugárzó meleg felületek közelsége miatt.
+- A fekhelyeket úgy kell elhelyezni, hogy a használók zavaró kényelmetlenséget vagy egészségkárosodást ne szenvedjenek sugárzó hideg vagy erősen sugárzó meleg felületek közelsége miatt.
 
 A más lakásterektől légtérben elválasztott hálóhelyiségek térfogata fekvőhelyenként legalább 15 m3 legyen (lásd még 1.5.2. fejezet). Erősen ajánlott, hogy az egyszemélyes hálóhelyiség alapterülete 8 m²-nél, a kétszemélyes hálóhelyiségé 12 m²-nél akkor se legyen kisebb, ha az előírt térfogat ennél alacsonyabb értékek mellett is biztosítható.
 
@@ -587,14 +580,12 @@ Az egyéni tevékenységek bútorait az [1.24. ábra](#abra_1_24) mutatja.
 **Követelmények és ajánlások**
 
 **Alapkövetelmény:**
-
 Biztosítani kell, hogy a lakást használó háztartás tagjai különféle egyéni tevékenységeiket (tanulás, szellemi munka, szabadidő-tevékenység) zavartalanul végezhessék, az ehhez szükséges tárgyakat, eszközöket saját környezetükben tárolhassák.
 
 **Bútorigény:**
+- Minimális követelmény: legalább egy 60 x 120 cm-es asztal és a hozzá tartozó szék többcélúan használható bútorzónája, személyenként legalább 90 x 45 cm-es alapterületű alacsony tároló szekrény és/vagy könyvespolc.
 
-Minimális követelmény: legalább egy 60 x 120 cm-es asztal és a hozzá tartozó szék többcélúan használható bútorzónája, személyenként legalább 90 x 45 cm-es alapterületű alacsony tároló szekrény és/vagy könyvespolc.
-
-Magasabb használati színvonal esetén *ajánlott* nagyobb dolgozóasztalnak, több tárlóhelynek, saját tévé használatának és saját látogató fogadására alkalmas kisebb társalgóhelynek helyet biztosítani.
+- Magasabb használati színvonal esetén *ajánlott* nagyobb dolgozóasztalnak, több tárlóhelynek, saját tévé használatának és saját látogató fogadására alkalmas kisebb társalgóhelynek helyet biztosítani.
 
 Az egyéni tevékenység helye legyen más, egyidejűleg folyó zajosabb lakástevékenységtől akusztikailag elválasztható. Egy akusztikailag összefüggő tér (szoba) lehetőleg legfeljebb csak két személy egyéni tevékenységeinek legyen helye. Az alvás és az egyéni tevékenységek helye lehet azonos tér, de a két funkció el is válaszható (háló + dolgozó). Szükség esetén egy munkahely lehet a nappali térben. A szülői hálóban lévő, egyéni tevékenységre szolgáló bútorzónát, amennyiben lehet, úgy képezzük ki, hogy annak helyén átmenetileg elhelyezhető legyen kisbaba ágya.
 
@@ -700,11 +691,9 @@ A viszonylag nagy alapterületű és nagy kapacitású házi konyháknál újra 
 **Követelmények és ajánlások**
 
 **Alapkövetelmény:**
-
 A lakásban olyan főzőhelyet kell kialakítani, ahol egy teljes ételsort tartalmazó főétkezés ételei elkészíthetők a lakást használó személyek + 2 vendég számára, ahol az edényeket el lehet mosogatni, megfelelő számú konyhaedényt és konyhaeszközt, evőedényt, evőeszközt tárolni lehet, és megfelelő méretű hűtőszekrényt lehet elhelyezni.
 
 **Bútorok és berendezések:**
-
 Elektromos vagy gázüzemű tűzhely sütővel vagy a tűzhelytől külön elhelyezett sütő, mosogató melegvízzel, előkészítő és feldolgozó, valamint lerakó munkafelület, amely beépített alacsony tároló szekrények felső síkján lehet, alsó és felső tárolók, magas tároló szekrény(ek). Mosogatógép, hűtőszekrény.
 
 A hűtőszekrényen kívül az elemsor hossza ne legyen rövidebb 1-2 személyes lakásnál 2,30 m-nél, 3 férőhelyes vagy annál nagyobb lakásnál 2,70 m-nél. Nyomatékosan ajánlott 4-5 férőhelyes lakásnál legalább 3,60 m, annál nagyobb lakásnál legalább 4,20 m hosszú elemsor a hűtőszekrényen kívül.
@@ -741,11 +730,9 @@ Tágasabb lakásoknál igen hasznos külön háztartási helyiség kialakítása
 **Követelmények és ajánlások**
 
 **Alapkövetelmény:**
-
 Biztosítani kell, hogy a lakásban a mosás, szárítás, vasalás, ruhaneműk javítgatása elvégezhető legyen, a takarítóeszközök és takarítószerek számára megfelelő tároló elem álljon rendelkezésre.
 
 **Bútorok és berendezések:**
-
 Minimális felszereltség: automata mosógép, szárítóállvány vagy fregoli, ha szárítógép nincsen. Összecsukható vasalóállvány, asztalfelület, takarítóeszköz-tároló szekrény.
 
 Ha külön háztartási helyiség készül, abban legyen automata mosógép (szárítógép), kézi mosásra és tisztogatásra szolgáló mosogatómedence, szennyesruha-szekrény, javítgatásra, vasalásra szolgáló asztal és lehajtható vasalódeszka, takarítóeszköz-tároló szekrény.
@@ -796,7 +783,6 @@ A WC helyiségben rendes méretű mosdót (nemcsak kézmosót) ajánlatos elhely
 **Követelmények és ajánlások**
 
 **Alapkövetelmény:**
-
 Biztosítani kell, hogy a lakás valamennyi lakója – a tolerálható egyidejűség figyelembe vételével – WC berendezést használhasson, meleg vízben mosakodhasson, fürödhessen.
 
 **A használói létszámtó függő egészségügyi felszereltség alsó határértékei:**
@@ -843,9 +829,9 @@ Az *éléskamrák* mérete legyen kellően széles, legalább két, de kívánat
 **Követelmények és ajánlások**
 
 **Alapkövetelmény:**
-
 A lakáson belül megfelelő nagyságú tárolókban (helyiségben, bútorzatban) kell biztosítani a ruhaneműk, élelmiszerek tárolását, a lakás könnyen elérhető közelségében egyéb használati tárgyak tárolását.
 
+**Bútorigény:**
 *Ruhaneműk tárolására* szekrényt, beépített szekrényt vagy járható szekrényt kell kialakítani. A szekrények mélységi mérete legyen legalább 60 cm.
 
 Egy használóra – a lakás férőhelyszámát figyelembe véve – legalább 1 - 1,2 folyóméter szekrényhosszt kell számítani, mint alsó határértéket. Ebből 0,6 folyóméternyi szekrény legyen a használó alvóterében vagy annak közvetlen közelében lévő közlekedőtérben. A lakás bejáratának közvetlen közelében előszobafalat vagy beépített szekrényt kell elhelyezni a felső kabátok, sapkák, vizes cipők, táskák stb. elhelyezésére.
