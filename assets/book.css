@@ -1,3 +1,17 @@
+@font-face {
+  font-family: "Inter";
+  src: url("fonts/InterVariable.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 100 900;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Inter";
+  src: url("fonts/InterVariable-Italic.woff2") format("woff2");
+  font-style: italic;
+  font-weight: 100 900;
+  font-display: swap;
+}
 :root {
   --ink: #171717;
   --muted: #686868;
@@ -6,6 +20,7 @@
   --accent: #2A398F;
   --link: #245d70;
   font-family:
+    "Inter",
     system-ui,
     -apple-system,
     BlinkMacSystemFont,
@@ -13,6 +28,7 @@
     sans-serif;
   color: var(--ink);
   background: var(--paper);
+  font-optical-sizing: auto;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -30,11 +46,11 @@
 html { scroll-behavior: smooth; }
 body { margin: 0; line-height: 1.68; font-size: 1.08rem; }
 a { color: var(--link); }
-.site-header { border-bottom: 1px solid var(--rule); padding: 1rem 2rem; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+.site-header { border-bottom: 1px solid var(--rule); padding: 1rem 2rem; font-family: "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 .site-title { color: var(--ink); font-weight: 700; text-decoration: none; }
 .toc-toggle, .toc-backdrop { display: none; }
 .page { display: grid; grid-template-columns: minmax(12rem, 18rem) minmax(0, 48rem); gap: 3rem; max-width: 74rem; margin: 0 auto; padding: 2.5rem 2rem 5rem; }
-.toc { position: sticky; top: 1rem; align-self: start; max-height: calc(100vh - 2rem); overflow: auto; font: .9rem/1.35 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+.toc { position: sticky; top: 1rem; align-self: start; max-height: calc(100vh - 2rem); overflow: auto; font: .9rem/1.35 "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 .sidebar-shell { display: contents; }
 .reading-controls { display: none; }
 .color-picker { margin-bottom: 1rem; color: var(--accent); }
@@ -56,18 +72,22 @@ a { color: var(--link); }
 .alignment-picker .color-picker-label { margin-bottom: .55rem; }
 .alignment-option { border: 0; border-bottom: 1px solid transparent; border-radius: 0; background: transparent; color: var(--accent); padding: .1rem .2rem; font: inherit; font-size: .9em; }
 .alignment-option.is-selected { border-bottom-color: var(--accent); font-weight: 700; }
-.toc h2 { font-size: 1rem; margin: 0 0 .75rem; text-transform: uppercase; letter-spacing: .08em; }
+.toc h2 { font-size: .9rem; margin: 0 0 .75rem; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
 .toc ol { list-style: none; padding: 0; margin: 0; }
 .toc li { margin: .35rem 0; }
 .toc a { color: var(--accent); text-decoration: none; }
 .toc a:hover, .toc a:focus-visible { text-decoration: none; }
-.book-content a[href^="#abra_"] { color: var(--accent); }
+.book-content a[href^="#abra_"] { color: var(--accent); font-weight: 600; }
 .toc a.is-active { background: var(--accent); color: var(--paper); padding: .12rem .35rem; border-radius: .2rem; }
-.toc summary { color: var(--accent); cursor: pointer; }
-.toc summary::marker { color: var(--accent); }
+.toc summary { display: grid; grid-template-columns: .7rem minmax(0, 1fr); column-gap: .2rem; align-items: start; color: var(--accent); cursor: pointer; list-style: none; }
+.toc summary::-webkit-details-marker { display: none; }
+.toc summary::before { content: "▸"; grid-column: 1; color: var(--accent); line-height: inherit; transform-origin: center; transition: transform .12s ease; }
+.toc summary > a { grid-column: 2; min-width: 0; }
+.toc details[open] > summary::before { transform: rotate(90deg); }
 .toc details > ol { padding-left: 1.15rem; margin-top: .35rem; }
 .book-content { min-width: 0; }
-.book-content.text-justified p { text-align: justify; hyphens: auto; }
+.book-content p { hyphens: auto; hyphenate-limit-chars: 10 5 5; }
+.book-content.text-justified p { text-align: justify; text-justify: auto; }
 h1, h2, h3, h4 { line-height: 1.2; scroll-margin-top: 1.5rem; }
 h1 { color: var(--accent); font-size: clamp(2rem, 4vw, 3.2rem); margin: 3rem 0 1.5rem; padding-top: 1.5rem; border-top: 2px solid var(--accent); }
 h1:first-child { border-top: 0; padding-top: 0; margin-top: 0; }
@@ -79,10 +99,10 @@ h4 { font-size: 1.12rem; margin-top: 1.5rem; }
 p { margin: 0 0 1.1rem; }
 ul, ol { margin: 0 0 1.2rem; padding-left: 1.6rem; }
 blockquote, .note { margin: 1.8rem 0 1.8rem 2rem; padding: 1rem 1.4rem; border-left: 4px solid var(--accent); background: transparent; }
-.note { color: var(--accent); background: transparent; border-left: 0; font-size: .95em; padding-top: 0; padding-bottom: 0; }
+.note { margin-left: 0; color: var(--accent); background: transparent; border-left: 2px solid var(--accent); font-size: .95em; font-weight: 600; padding: 0 1.4rem 0 1rem; }
 .note > :first-child { margin-top: 0; }
 .note > :last-child { margin-bottom: 0; }
-blockquote { color: var(--accent); font-style: italic; }
+blockquote { color: var(--accent); font-style: italic; font-weight: 600; }
 figure { margin: 2rem auto; text-align: center; scroll-margin-top: 1.5rem; }
 figure img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
 @media (prefers-color-scheme: dark) {
@@ -100,11 +120,11 @@ code { font-size: .9em; }
   .page { max-width: none; grid-template-columns: minmax(0, 1fr) minmax(0, 40rem) minmax(0, 1fr); gap: 4rem; }
   .toc { grid-column: 1; grid-row: 1; justify-self: end; width: min(18rem, 100%); }
   .book-content { grid-column: 2; grid-row: 1; }
-  .reading-controls { display: block; grid-column: 3; grid-row: 1; position: sticky; top: 1rem; align-self: start; justify-self: start; width: min(18rem, 100%); font: .9rem/1.35 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+  .reading-controls { display: block; grid-column: 3; grid-row: 1; position: sticky; top: 1rem; align-self: start; justify-self: start; width: min(18rem, 100%); font: .9rem/1.35 "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
 }
 @media (min-width: 50.01rem) and (max-width: 89.99rem) {
   .sidebar-shell { display: flex; flex-direction: column; gap: 2.5rem; grid-column: 1; grid-row: 1; align-self: start; width: 100%; position: sticky; top: 1rem; max-height: calc(100vh - 2rem); overflow: auto; }
-  .reading-controls { display: block; position: static; width: 100%; font: .9rem/1.35 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; order: 1; }
+  .reading-controls { display: block; position: static; width: 100%; font: .9rem/1.35 "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; order: 1; }
   .toc { order: 2; }
   .toc { position: static; max-height: none; overflow: visible; }
   .book-content { grid-column: 2; grid-row: 1; }
@@ -112,7 +132,7 @@ code { font-size: .9em; }
 @media (max-width: 50rem) {
   .page { display: flex; flex-direction: column; padding: 1.5rem 1rem 3rem; }
   .sidebar-shell { display: flex; flex-direction: column; gap: 2rem; order: 1; }
-  .reading-controls { display: block; position: static; font: .9rem/1.35 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; order: 1; }
+  .reading-controls { display: block; position: static; font: .9rem/1.35 "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; order: 1; }
   .toc { order: 2; }
   .book-content { order: 3; }
   .toc {
@@ -163,13 +183,14 @@ code { font-size: .9em; }
     border: 0;
     background: transparent;
     color: var(--accent);
-    font: 700 1.55rem/1 system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    font: 700 1.55rem/1 "Inter", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     cursor: pointer;
   }
   .toc-toggle span { display: flex; align-items: center; height: 1em; line-height: 1; transform: translateY(-.16rem); }
   .toc-toggle:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
   body { font-size: 1rem; }
-  blockquote, .note { margin-left: 1rem; }
+  blockquote { margin-left: 1rem; }
+  .note { margin-left: 0; padding-left: .75rem; }
   .site-header { gap: .25rem; padding: .8rem 1rem; }
   .site-title { min-width: 0; margin-right: auto; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; line-height: 1.2; }
   .language-switch { gap: .15rem; }

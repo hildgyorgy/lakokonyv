@@ -74,6 +74,8 @@ class BilingualBookTests(unittest.TestCase):
             for para in chapter.iter('para'):
                 if any(e.tag in {'figure', 'itemizedlist', 'variablelist'} for e in para.iter()): continue
                 text = normalized(''.join(para.itertext()))
+                # The Markdown master normalizes square-metre units typographically.
+                text = re.sub(r'\bm2\b', 'm²', text)
                 # Correct two demonstrably stale figure numbers while retaining
                 # the translated paragraph itself.
                 text = text.replace('(fig. 1.16)', '(fig. 1.18)') if text.startswith('A residential area (room)') else text
@@ -126,6 +128,13 @@ class BilingualBookTests(unittest.TestCase):
                         '5.2.1. Hungarian situation since the 1950s',
                         'Additional heating assistance'):
             self.assertNotIn(heading, self.en.visible_text)
+
+    def test_self_hosted_inter_fonts(self):
+        css = (ROOT / 'dist/book.css').read_text(encoding='utf-8')
+        for filename in ('InterVariable.woff2', 'InterVariable-Italic.woff2'):
+            self.assertIn(f'fonts/{filename}', css)
+            self.assertTrue((ROOT / 'dist/fonts' / filename).is_file())
+        self.assertTrue((ROOT / 'dist/fonts/LICENSE.txt').is_file())
 
 
 if __name__ == '__main__':

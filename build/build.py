@@ -339,6 +339,7 @@ def main() -> None:
             child.unlink()
     for filename in ("book.css", "book.js", "workbench.css", "workbench.js", "Lako_icon.png", "site.webmanifest"):
         shutil.copy2(ROOT / "assets" / filename, DIST / filename)
+    shutil.copytree(ROOT / "assets" / "fonts", DIST / "fonts")
     shutil.copytree(SOURCE / "images", DIST / "images")
     for language, filename in (("hu", "index.html"), ("en", "index_en.html")):
         (DIST / filename).write_text(editions[language]["page"], encoding="utf-8")

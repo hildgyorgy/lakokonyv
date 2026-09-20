@@ -12,6 +12,7 @@ magyar–angol statikus webes kiadása.
 - `sources/images/` – közös, eredeti képanyag; a build nem módosítja.
 - `sources/originals/figures-pdf/` – 164 nyomdai ábraforrás későbbi, jobb minőségű képexporthoz; a build nem másolja a `dist` mappába.
 - `template/book.html`, `assets/book.css`, `assets/book.js` – közös megjelenés és működés.
+- `assets/fonts/` – helyben tárolt Inter 4.1 változó webfontok és OFL-licenc.
 - `build/locales.json` – magyar és angol felületi feliratok.
 - `build/build.py` – függőségmentes Python build és hivatkozásellenőrzés.
 - `audit/image_layout.json` – közös ábraméretezés és invertálhatóság.
