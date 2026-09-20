@@ -747,13 +747,13 @@ Nagyobb alapterületű, igényesebb lakásoknál a konyha két, ellenkező előj
 
 A viszonylag nagy alapterületű és nagy kapacitású házi konyháknál újra létjogosultságot kapott a középen lévő feldolgozó felület, amelyet a további technológiai felületek „L” vagy „U” alakban vesznek körül ([1.30. ábra](#abra_1_30)). A középre helyezett „konyhaszigeten” lehet vízvételi hely (mosogató-medence), vagy vizet melegen tartó főzőlap a másutt elhelyezett mosogatón, mosogatógépen és tűzhelyen kívül. Olyan elrendezések is vannak, ahol a teljes technológiai felület a szabadon álló pultfelületen kap helyet.
 
-::: note
-
 <a id="abra_1_30"></a>
 
 ![Középre helyezett feldolgozó felület („szigetes” elrendezés)](images/abra_1_30_szigetes.png)
 
 *1.30. ábra – Középre helyezett feldolgozó felület (‘szigetes’ elrendezés)*
+
+::: note
 
 A civilizációs ártalmak közül leginkább az allergia és az ételallergia terjed. (Jelenleg a hazai népesség több mint 25 %-a allergiás. A pollenallergiák hamar egyéb allergiákká is alakulnak, a gyermekek 6-8%-a ételallergiás, ez az arány felnőtt korra növekszik.) Ha ételallergiás személy van a családban, sokszor szükség lehet elválasztott konyhatechnológiára, akár külön hűtőszekrényre és edényre is. Ennek is van helyigénye, amit szintén figyelembe vehetünk. Egyre terjed a vegetáriánus, vegán, kóser stb. konyha, amit a tervezés során általában nem veszünk figyelembe, de akkor járunk el helyesen a jövendő – és az időben változó – használók érdekében, ha a különleges konyhatechnológiára megfelelő helyet biztosítunk, vagyis a konyhai egységek számát legalább egy elemmel „túlméretezzük”. Ez a későbbiekben lehetőséget ad a speciális igények befogadására. Az előbbiek alapján a szelektív hulladékgyűjtés, a családban előforduló allergiás vagy egyéb speciális étkezési szokású családtag igényeinek figyelembe vétele érdekében javasolt, hogy a korábban leírtakon kívül legalább egy további alsó és felső elemmel bővítsük a konyha méretét.
 
