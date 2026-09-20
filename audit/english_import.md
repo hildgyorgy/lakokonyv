@@ -4,7 +4,7 @@
 
 Az angol kiadás szerkesztési mestere a `sources/lakokonyv_en.md`.
 A szakmai szöveg a kapott nyolc DocBook-fejezetből származik; a kapott HTML-exporttal
-is ellenőriztük. Nem készült új fordítás. Az ellenőrzés után a fejezetfájlok és a
+is ellenőriztük. Az ellenőrzés után a fejezetfájlok és a
 HTML másolatát eltávolítottuk, mert tartalmukat az összefűzött XML és a Markdown
 hiánytalanul megőrzi. A magyar `sources/lakokonyv.md`, a képállomány és az
 `audit/image_layout.json` változatlan.
@@ -18,11 +18,11 @@ működő, közös képútvonalai a Markdownban vannak. Ez nem DocBook DTD-valid
 Az aktuális archiválási forrás SHA-256 ujjlenyomata az `english_import.json`
 mellékletben szerepel.
 
-A `build/import_english.py` az import dokumentált, kézzel futtatható eszköze.
-Alapesetben már létező angol Markdown-mestert nem ír felül; a `--force` kapcsoló
-szándékos újragenerálást tesz lehetővé. A rendes build nem hívja meg. A magyar
-kiadásból visszahelyezett ábrák szabályai az
-importálóban is szerepelnek, ezért újraimportáláskor sem vesznek el.
+A `build/import_english.py` a kezdeti import dokumentált, történeti
+segédeszköze. A rendes build nem hívja meg, és a már szerkesztett angol
+Markdown-mestert nem írhatja felül. Az azóta elvégzett szerkezeti, nyelvi és
+ábra-helyreállítási munkák igazságforrása maga a Markdown; az XML változatlan
+ellenőrző archívum.
 
 ## Szerkezet és megfeleltetés
 
@@ -36,18 +36,25 @@ importálóban is szerepelnek, ezért újraimportáláskor sem vesznek el.
   „Az európai fejlődés” tartalma így közvetlenül a megfelelő magyar szerkezeti
   szinten jelenik meg az angol oldalon is. A címek nem vesznek el: ahol nincs
   külön magyar címsor, a magyar fejezetcím az irányadó.
-- A 48 angol megjegyzés megmaradt, a két egymást követő megjegyzés is külön blokk.
+- Az angol XML 48 `note` elemet tartalmaz. Ezek közül 45 explicit `::: note`
+  blokk maradt a Markdownban. A „Rural Homes” és „Urban Homes” anyagát valódi
+  3.2.1 és 3.2.2 alfejezetté emeltük; az 5.2. történeti áttekintés egykori
+  megjegyzésblokkja pedig a fejezet rendes törzsszövege lett.
 - A könyvcím a DocBook könyvkeret angol címe: „Housing design”. A HTML export
   címlapja még magyar címet tartalmazott; azt nem vettük át angol címként.
 - A közreműködői szerepek magyar metaadatai angol feliratot kaptak. A fordító
-  Oliver Sales. Az angol kivonat és a jogi közlés az eredeti angol XML-ből származik.
+  Oliver Sales. Az angol kivonat a magyar Kivonat fordítása; az eredeti XML
+  helyőrzőként a Bevezetés elejét ismételte. A Markdownban dokumentált
+  szerkesztői javítások nem írják át az archív XML-t.
 
 ## Képek
 
-Az eredeti angol forrás 201 ábrát tartalmazott, a magyar 212-t. A hiányzó
-ábrahelyeket a magyar mester szerkezete alapján visszahelyeztük, ezért a kész
-angol oldalon is mind a 212 könyvábra szerepel. A tanszéki logóval együtt mindkét
-oldalon 213 képelőfordulás van. A két nyelv ugyanazt a `sources/images/`
+Az eredeti angol XML 201 ábrát, a rekonstrukció első magyar mestere 212-t
+tartalmazott. A magyar szerkezet alapján pótolt 11 angol ábrahely mellett az
+archivált egyedi ábra-PDF-ekből további hat, mindkét korai Markdown-mesterből
+kimaradt ábrát állítottunk helyre: 1.37, 3.17, 3.43, 4.2, 5.38 és 5.54. Így a
+kész kiadás mindkét nyelven 218 könyvábrát és a három előzéki logóval együtt
+221 képelőfordulást tartalmaz. A két nyelv ugyanazt a `sources/images/`
 állományt, ugyanazokat a workbench-szélességeket és ugyanazokat a sötét módbeli
 invertálási beállításokat használja.
 
@@ -65,9 +72,9 @@ A pótlás után egyetlen magyar ábra sem hiányzik az angol oldalról.
 
 A visszahelyezett ábrák angol képaláírást és alternatív szöveget kaptak, a
 szövegben pedig működő hivatkozás vezet hozzájuk. A magyar mester 1.38. ábrájának
-képaláírása tévesen higiéniai felszereltséget nevez meg, miközben a rajz
-egyértelműen ruhatárolási megoldásokat mutat; az angol felirat ezért
-„Clothing storage arrangements”. Két nyilvánvaló régi kereszthivatkozást is a
+képaláírása tévesen higiéniai felszereltséget nevezett meg, miközben a rajz
+egyértelműen ruhatárolási megoldásokat mutatott; a magyar és angol feliratot is
+helyesbítettük. Két nyilvánvaló régi kereszthivatkozást is a
 magyar szerkezethez igazítottunk: 1.16 → 1.18 és 3.10 → 3.11.
 
 A képaláírások és alternatív szövegek angolok; **a közös képekbe rajzolt magyar
@@ -86,13 +93,16 @@ mester már helyes képútvonalát használjuk, nem a régi XML útvonalhibájá
   eredeti HTML-exportban is.
 - A fordított irányú összevetés sem mutatott többlet szakmai bekezdést a kapott
   HTML-ben; a további elemek a generált „Table of Contents” feliratok.
-- Mind a 201 eredeti angol ábra megmaradt, és 11 magyar ábrahelyet pótoltunk.
-  A kész oldalon 212 könyvábra, 48 megjegyzés és 321 tartalmi belső link van.
+- Mind a 201 eredeti angol ábra megmaradt, 11 magyar ábrahelyet pótoltunk, majd
+  hat további ábrát az eredeti egyedi PDF-ekből állítottunk helyre. A kész oldalon
+  218 könyvábra és 45 megjegyzés van; az XML két korábbi megjegyzése önálló
+  alfejezetként, egy további pedig az 5.2. történeti áttekintés törzsszövegeként él tovább.
 - A generált oldalakon nincsenek duplikált azonosítók, hibás belső linkek vagy
   hiányzó hivatkozott képek. A nyelvváltó összes célpontja létezik a másik oldalon.
-- Az angol oldalon a címsorok száma a magyaréhoz igazodik: a korábbi 338 helyett
-  333 generált azonosító marad, miközben a 1152 ellenőrzött bekezdés és mind a
-  201 eredeti ábra változatlanul megmarad, a pótlásokkal együtt 212 jelenik meg.
+- Az angol oldalon a címsorok száma a magyaréhoz igazodott: a korábbi 338 helyett
+  333 generált azonosító maradt az első rekonstrukcióban, miközben az 1152
+  ellenőrzött bekezdés és mind a 201 eredeti angol ábra változatlanul megmaradt.
+  A később megtalált ábra-PDF-ek helyreállításával jelenleg 218 könyvábra jelenik meg.
 - A közös ábrák útvonala, méretezése és invertálhatósága megegyezik a két oldalon.
 - A magyar renderelt szöveg és ábraazonosítók összevetése megtörtént a korábbi
   builddel. Tartalmi átírás nem történt. Két jelöléskezelési hibát javítottunk:

@@ -23,6 +23,7 @@ reconstruction_status: "teljes, ellenőrzött magyar mesteranyag; a kétnyelvű 
 ---
 
 Bitó János
+<a id="book_title"></a>
 # Lakóépületek tervezése
 © 2013 BME Lakóépülettervezési Tanszék
 
@@ -30,14 +31,24 @@ Bitó János
 ![Lakóépülettervezési Tanszék](images/Lako_tanszek.png)
 </div>
 
-### Közreműködők
+<a id="front_contributors"></a>
+## Közreműködők
 Pandula András – akadálymentesítés;
 Novák Ágnes – fenntarthatóság;
 Oliver Sales – fordítás.
 
 A BME Lakóépülettervezési Tanszék tananyagainak fejlesztése a TÁMOP-4.1.2.A/1-11/1-2011-0055 kódszámú projekt keretében valósult meg.
 
-### Kivonat
+<div class="funding-logos">
+<a id="funding_esza"></a>
+![Nemzeti Fejlesztési Ügynökség és az Európai Unió támogatási információs blokkja](images/Infoblokk3_ESZA_egyes.jpg)
+
+<a id="funding_uszt"></a>
+![Új Széchenyi Terv](images/USZT_logo_cmyk.jpg)
+</div>
+
+<a id="front_abstract"></a>
+## Kivonat
 
 Bitó János már klasszikusnak számító Lakóházak tervezése című tankönyve, a lakóépülettervezés oktatásának meghatározó eleme, amely ezentúl digitálisan ingyenesen is elérhető.
 
@@ -47,8 +58,15 @@ A digitális változat tartalma a környezettudatos építés és az akadálymen
 
 ---
 
+<a id="editorial_note"></a>
+## Szerkesztői megjegyzés
+
+A kötet jogszabályi hivatkozásai a 2013-as kiadás lezárása óta bekövetkezett változások miatt részben frissítésre szorulnak, ezért tervezési vagy hatósági eljárásban nem tekinthetők naprakész jogi útmutatásnak. A szöveg szakmai felülvizsgálata folyamatban van; addig kérjük az olvasót, hogy minden hivatkozott előírást vessen össze a felhasználás idején hatályos jogszabályokkal.
+
+— Hild György DLA építész
+
 <a id="E0_bevezetes"></a>
-# Bevezetés
+## Bevezetés
 
 Ez az anyag elsősorban azok számára készült, akik a benne foglalt tudnivalókat gyakorlatban használják fel tervezési tanulmányaik vagy munkájuk folyamán. Az itt közölt ismeretek a lakóépületek tervezéséhez szükségesek, de nem elégségesek. Az építészeti tervezés *alkotói folyamat*, amely csak bizonyos ismeretanyag birtokában végezhető, de a tervező ösztönös értékítéleteit, érzelmeit, ízlését, formaérzékét, fantáziáját és alkotási képességét sem nélkülözheti. Ezek a készségek könyvből nem sajátíthatók el, csak a folyamatos gyakorlat és felkészült oktatóval való személyes együttműködés útján fejleszthetők.
 
@@ -60,7 +78,7 @@ Az építészeti tervezéshez szükséges ismeretek csak analitikus módszerrel 
 
 A bennünket körülvevő világ gyorsan változik, ez különösen a jogi környezet változására érvényes. Az építészeti tervezést mindig nagyon megkötik az *érvényes építési jogszabályok és előírások*, ezért nem lenne helyes, ha a tervezés oktatásának szempontjai közül ezeket kihagynánk. Ezek azonban — különösen a hazai gyakorlatban — elég gyorsan változnak, és az anyag tartalmának ilyen ütemű, naprakész frissítése szinte lehetetlen. Ezt a hiányosságot úgy igyekeztünk ellensúlyozni, hogy az előírások és követelmények *indokainak*, céljának ismertetésére nagyobb hangsúlyt fektettünk. Ennek ellenére kérjük az olvasót, hogy a könyvben hivatkozott hivatalos előírásokat vesse össze a felhasználás idejében érvényesekkel, és az utóbbiakat tekintse mérvadónak.
 
-Az 1.3. fejezetben bizonyos *követelményeket és ajánlásokat* fektettünk le. *Követelményeknek* azokat az elvárásokat tekintettük, amelyeket az érvényes törvények valóban előírnak, vagy az általános szakmai közmegegyezés szerint elemi kívánalmak. Az itt leírt, de törvényileg nem rögzített követelmények érvényessége csak az oktatás területére terjed ki. Nincs azonban akadálya annak, hogy azokat bármelyik építtető vagy finanszírozó intézmény saját követelményének is tekintse.
+Az [1.3.](#E1_A_lakastevekenysegek_terigenye) fejezetben bizonyos *követelményeket és ajánlásokat* fektettünk le. *Követelményeknek* azokat az elvárásokat tekintettük, amelyeket az érvényes törvények valóban előírnak, vagy az általános szakmai közmegegyezés szerint elemi kívánalmak. Az itt leírt, de törvényileg nem rögzített követelmények érvényessége csak az oktatás területére terjed ki. Nincs azonban akadálya annak, hogy azokat bármelyik építtető vagy finanszírozó intézmény saját követelményének is tekintse.
 
 A különböző lakóházfajtákra vonatkozó fejezeteket rövid történeti áttekintés előzi meg. Egyrészt azért, hogy az olvasó érzékelje az egyes témaköröknek az egyetemes építészettörténetbe való beágyazottságát. Másrészt azért, mert az egyes épületfajták, beépítési módok kialakulásának *indokai* létrejöttük idejének társadalmi-gazdasági és kulturális környezetében ragadhatók meg tiszta formában. Így az is világossá válik, hogy a jelenkor megváltozott körülményei között miként lehet értelmezni azokat.
 
@@ -74,13 +92,11 @@ A fenntarthatóságról és az autonómiáról szóló új munkarészeket és ki
 
 A szerzők köszönetüket fejezik ki mindazoknak, akik a könyv létrehozását erkölcsileg, anyagilag és munkájukkal elősegítették.
 
-Budapest,
-
 <a id="E1_lakas"></a>
-# 1. A lakás
+## 1. A lakás
 
 <a id="E1_A_fejezet_temakore"></a>
-## 1.1. A fejezet témaköre
+### 1.1. A fejezet témaköre
 
 A lakás fogalmának meghatározása korántsem egyszerű, néha mégis szükség van rá. Például olyankor, amikor az ország lakáskészletét felmérik. Ilyenkor el kell dönteni, hogy egy minden egészségügyi felszereltséget nélkülöző, teljesen lepusztult és már lakatlan városi lakás, vagy egy népes család által lakott, de egyetlen helyiségből álló faluvégi putri lakásnak számítható-e? Az ilyenkor használt definíció bizonyos minőségi normák alsó határértékein alapul, amelyek nyilván nem alkalmazhatók új lakások építésénél.
 
@@ -108,19 +124,21 @@ Ezek a kritériumok mindenkori megállapodás kérdései. Egy-egy ország adott 
 
 A további fejtegetések során a lakások tervezési kérdéseit nem bizonyos, konvencionális helyiségek funkciója szerint tárgyaljuk, hanem a lakáshasználat bizonyos mozzanatainál azt elemezzük, hogy azok milyen téri és tárgyi feltételeket igényelnek azon a lakáshasználati színvonalon, ami nálunk, a mostani társadalmi és gazdasági feltételek között általánosan elvárható.
 
-> **Megjegyzés**
->
-> Az alapvető lakástevékenységekben folyamatos lassú változás tapasztalható. A lakhatás és az egyéb munka- vagy szórakozás jellegű tevékenységek a különböző kultúrákban és társadalmi környezetben hol szétváltak, hol szorosan kötődtek egymáshoz.
->
-> A XX. századi tiszta lakásfunkciók mellett a XXI. században újra megjelentek az esetleg külön helyiséget vagy térrészt igénylő munkatevékenységek és szabadidős tevékenységek. Sok esetben ez csupán bútorozási változtathatósággal kielégíthető, ugyanakkor a jelenség arra ösztönöz, hogy lehetőleg bizonyos „bőséggel” tervezzünk (ami talán ellentmondhat az építéskori szűken vett költségszempontoknak), így hosszú távon többféle élethelyzetre is alkalmassá válhat ugyanaz a térsor.
->
-> — Novák Ágnes
+::: note
+
+Az alapvető lakástevékenységekben folyamatos lassú változás tapasztalható. A lakhatás és az egyéb munka- vagy szórakozás jellegű tevékenységek a különböző kultúrákban és társadalmi környezetben hol szétváltak, hol szorosan kötődtek egymáshoz.
+
+A XX. századi tiszta lakásfunkciók mellett a XXI. században újra megjelentek az esetleg külön helyiséget vagy térrészt igénylő munkatevékenységek és szabadidős tevékenységek. Sok esetben ez csupán bútorozási változtathatósággal kielégíthető, ugyanakkor a jelenség arra ösztönöz, hogy lehetőleg bizonyos „bőséggel” tervezzünk (ami talán ellentmondhat az építéskori szűken vett költségszempontoknak), így hosszú távon többféle élethelyzetre is alkalmassá válhat ugyanaz a térsor.
+
+— Novák Ágnes
+:::
+
 
 <a id="E1_A_lakasterek_meretei"></a>
-## 1.2. A lakásterek méretei
+### 1.2. A lakásterek méretei
 
 <a id="E1_Meres_mertetrendszer_meretarany_meretrend"></a>
-### 1.2.1. Mérés, mértékrendszer, méretarány, méretrend
+#### 1.2.1. Mérés, mértékrendszer, méretarány, méretrend
 
 A mérés minden műszaki tevékenység alapja, amint a magyar „mérnök” szó ezt szemléletesen kifejezi. A legősibb mérőeszköz az építő tulajdon teste. Az ősidőkből eredő és egyes országokban máig alkalmazott mértékrendszer az emberi testrészek méretével függ össze (*hüvelyk*, tenyér, arasz, *láb*, könyök, *rőf*, *öl*). A primitív építményeknél elfogadható volt az a mérettűrés, amely az építők különböző testméreteiből adódott, de később ezeket a mértékegységeket mérőeszközökön rögzítették. Ezek korszakonként és földrajzi helyenként is eltértek.
 
@@ -136,9 +154,11 @@ A metrikus rendszer bevezetése előtt a nálunk használt mértékrendszer egye
 
 Az emberi testrészek méretein alapuló mértékrendszerek azért voltak igen jól használhatók az építészetben, mert a használati terek alkalmas méretei az emberi test méreteivel függnek össze. A szép alkatúnak mondott ember testméreteinek arányai a szépnek érzett építészeti arányokra is kivetülnek.
 
-> **Megjegyzés**
->
-> Vitruvius (Augustus császár építésze) „Tíz könyv az építészetről” c. munkájában azt írja: „... Az arányosság minden műben a tagok mértékegységének és az egésznek egymáshoz való mérése, amelyből a szimmetriák rendje jön létre. Mert hiszen szimmetria és arányosság híján egyetlen templomot sem lehet ésszerűen tervezni, csak ha pontosan oly arányos, akár a jó testalkatú ember tagjainak szabatos rendje.” A jó testalkatú ember arányainak elemzése után Vitruvius így folytatja: „Továbbá a testnek természetes középpontja a köldök. Mert ha az embert kitárt karokkal és lábakkal hanyatt fektetjük, s a körző középpontját a köldökébe helyezzük, köré kört húzva, a vonalat mind a kéz mind a láb ujjai érinteni fogják. Ugyanúgy, ahogy a testen kör alakzat jön létre, négyzet idom is található benne. Mert ha a talpaktól a koponya tetejéig terjedő távolságot lemérjük, s ezt a mértéket átvisszük a kitárt karokra, úgy találjuk, hogy szélessége ugyanakkora, mint magassága, mint az olyan négyzeté, amelyeket zsinórmértékkel szerkesztettek.” (Gulyás Dénes fordítása)
+::: note
+
+Vitruvius (Augustus császár építésze) „Tíz könyv az építészetről” c. munkájában azt írja: „... Az arányosság minden műben a tagok mértékegységének és az egésznek egymáshoz való mérése, amelyből a szimmetriák rendje jön létre. Mert hiszen szimmetria és arányosság híján egyetlen templomot sem lehet ésszerűen tervezni, csak ha pontosan oly arányos, akár a jó testalkatú ember tagjainak szabatos rendje.” A jó testalkatú ember arányainak elemzése után Vitruvius így folytatja: „Továbbá a testnek természetes középpontja a köldök. Mert ha az embert kitárt karokkal és lábakkal hanyatt fektetjük, s a körző középpontját a köldökébe helyezzük, köré kört húzva, a vonalat mind a kéz mind a láb ujjai érinteni fogják. Ugyanúgy, ahogy a testen kör alakzat jön létre, négyzet idom is található benne. Mert ha a talpaktól a koponya tetejéig terjedő távolságot lemérjük, s ezt a mértéket átvisszük a kitárt karokra, úgy találjuk, hogy szélessége ugyanakkora, mint magassága, mint az olyan négyzeté, amelyeket zsinórmértékkel szerkesztettek.” (Gulyás Dénes fordítása)
+:::
+
 
 Az egység arányos részekre osztásának antik módszere az *aranymetszés,* amely szerint „a kisebb rész úgy aránylik a nagyobbhoz, mint a nagyobb az egészhez”. Leonardo da Vinci közismert arányfigurája Vitruvius leírásának illusztrációja ([1.1. ábra](#abra_1_01)). A négyzet középpontja a figura szeméremcsontja, a kör középpontja a köldök, amelynek helyét a testmagasság aranymetszése jelöli ki.
 
@@ -158,11 +178,13 @@ A múlt század közepén a zseniális francia építész, Le Corbusier olyan m�
 
 *1.2. ábra – Le Corbusier: MODULOR. Az első változat arányfigurája és a végleges változat*
 
-> **Megjegyzés**
->
-> A MODULOR geometriai rendszerének lényege – röviden – a következő: Egy hat láb (183 cm) magas emberi figurát vesz alapul. Aranymetszéssel meghatározza ennek köldökmagasságát (113 cm). E méret kétszeresét tekinti a felemelt kéz magasságának (226 cm). E méretek különbségei olyan számsort adnak (226, 183, 113, 70, 43 cm) amelyek aranymetszés-viszonyban állnak egymással, és Fibonacci-sort képeznek (a nagyobb méret az előtte lévő kettőnek az összege). Két oszlopot rajzol egymás mellé: a 183 cm magas piros oszlopot, és a 226 cm magas kék oszlopot. Mindkettőt aranymetszések sorozatával osztja kisebb egységekre. Azt találja, hogy a kék oszlopon a piros oszlop értékeinek kétszerese jelenik meg. A gyakorlati használhatóság érdekében bizonyos mértékű kerekítéseket alkalmaz, de a méretek mind centiméterben, mind hüvelykben igen jó megközelítéssel kifejezhetők. A mértékrendszer tartalmazza az egységet, annak megkettőzését, aranymetszés szerint csökkentett értékét és aranymetszés szerinti kiterjesztését, ezzel igen gazdag variációs lehetőséget nyújt.
->
-> Tanulságos, hogy a Modulor arányfigurájának magasságát először 175 cm-ben, az európai ember átlagmagassága szerint adja meg Corbusier, de rájön, hogy az *átlagos* testméret nem ad jó mértéket az *általánosan használható* terek méretezéséhez. Ezért az emberi figura magasságát később 183 cm-re módosítja, a „hat láb magas”, a hüvelyk, láb méretrendszer rögzítésének idején igencsak termetesnek számító ember méretére.
+::: note
+
+A MODULOR geometriai rendszerének lényege – röviden – a következő: Egy hat láb (183 cm) magas emberi figurát vesz alapul. Aranymetszéssel meghatározza ennek köldökmagasságát (113 cm). E méret kétszeresét tekinti a felemelt kéz magasságának (226 cm). E méretek különbségei olyan számsort adnak (226, 183, 113, 70, 43 cm) amelyek aranymetszés-viszonyban állnak egymással, és Fibonacci-sort képeznek (a nagyobb méret az előtte lévő kettőnek az összege). Két oszlopot rajzol egymás mellé: a 183 cm magas piros oszlopot, és a 226 cm magas kék oszlopot. Mindkettőt aranymetszések sorozatával osztja kisebb egységekre. Azt találja, hogy a kék oszlopon a piros oszlop értékeinek kétszerese jelenik meg. A gyakorlati használhatóság érdekében bizonyos mértékű kerekítéseket alkalmaz, de a méretek mind centiméterben, mind hüvelykben igen jó megközelítéssel kifejezhetők. A mértékrendszer tartalmazza az egységet, annak megkettőzését, aranymetszés szerint csökkentett értékét és aranymetszés szerinti kiterjesztését, ezzel igen gazdag variációs lehetőséget nyújt.
+
+Tanulságos, hogy a Modulor arányfigurájának magasságát először 175 cm-ben, az európai ember átlagmagassága szerint adja meg Corbusier, de rájön, hogy az *átlagos* testméret nem ad jó mértéket az *általánosan használható* terek méretezéséhez. Ezért az emberi figura magasságát később 183 cm-re módosítja, a „hat láb magas”, a hüvelyk, láb méretrendszer rögzítésének idején igencsak termetesnek számító ember méretére.
+:::
+
 
 Corbusier a Modulort általános felhasználásra szánta, de ma már az inkább briliáns szellemi teljesítménynek tekinthető, a gyakorlatban nem terjedt el.
 
@@ -175,29 +197,33 @@ Az emberi testméretekkel összefüggő angolszász hüvelyk-láb méretrendszer
 A lakásterek méretezéséről szóló későbbi fejtegetések során a méreteket többnyire a ½M (5 cm) szubmodul értékeire kerekítve adjuk meg. Ez a pontosság elegendő az egyes lakástevékenységek helyigényének meghatározásához.
 
 <a id="E1_Az_emberi_testmeretekkel"></a>
-### 1.2.2. Az emberi testméretekkel, testhelyzetekkel és mozgásokkal összefüggő térigények
+#### 1.2.2. Az emberi testméretekkel, testhelyzetekkel és mozgásokkal összefüggő térigények
 
 A használati terekben folyó tevékenységekhez szükséges terek, tér-részek méretei a használó személy testméreteivel függenek össze, de nyilván lehetetlen minden lakás tereit és egyes elemeit a használó háztartás tagjainak konkrét testméreteihez igazítani. Valamilyen, általánosnak tekinthető emberi figurát kell mérvadónak tekinteni a tervezés során. Ennek méretei nem lehetnek egy populációra jellemző *átlagos* méretek, mert az ezekhez igazított lakáselemeket csak a népesség *fele* tudná kényelmesen használni. Az sem lenne helyes, ha egy átlagosnál jóval magasabb embert vennénk *mindig* alapul, hiszen egy konyhapult vagy egy mosdókagyló magasságát ahhoz igazítani ugyanilyen hiba lenne. Egyes lakáselemek méretezésénél az átlagosnál nagyobb, másoknál az átlagosnál kisebb ember testméreteit kell mérvadónak tekinteni.
 
-> **Megjegyzés**
->
-> Egyes speciális lakófunkciójú épületek esetében, mint például az idősek otthonánál vagy mozgásukban korlátozottak számára készült lakásoknál, az adott célcsoport jellemző használati igényeihez célszerű igazítani bizonyos lakáselemek és szerkezetek méreteit (lásd 1.7. fejezet).
->
-> A lakásokat, otthonokat a jelenlegi vagy a jövőbeli lakók változatos és időben folyamatosan változó szükségleteinek, igényeinek figyelembevételével célszerű megtervezni és megépíteni. Változhat a háztartás létszáma pl. gyermek születésével, a gyermek felnőtté válásával, önállósodásával, vagy idős, esetleg ápolásra is szoruló családtag odaköltözésével. Megváltozott szükségletet jelenthet egy ideiglenes vagy egy tartós sérülés, betegség, illetve ezek eredményeképpen fellépő fogyatékosság is. A lakások és az egyes lakáselemek tervezésénél tehát sok esetben célszerű figyelembe venni, hogy azok egyéni használati igényekhez igazodó esetleges megváltoztatása, átalakítása nagyobb átépítés, az épület primer szerkezeteinek érintése nélkül történhessen, a lakás az új igényekhez „adaptálható” legyen.
->
-> — Pandula András
+::: note
+
+Egyes speciális lakófunkciójú épületek esetében, mint például az idősek otthonánál vagy mozgásukban korlátozottak számára készült lakásoknál, az adott célcsoport jellemző használati igényeihez célszerű igazítani bizonyos lakáselemek és szerkezetek méreteit (lásd [1.7.](#E1_Az_akadalymentes_lakas-egyetemes_tervezes) fejezet).
+
+A lakásokat, otthonokat a jelenlegi vagy a jövőbeli lakók változatos és időben folyamatosan változó szükségleteinek, igényeinek figyelembevételével célszerű megtervezni és megépíteni. Változhat a háztartás létszáma pl. gyermek születésével, a gyermek felnőtté válásával, önállósodásával, vagy idős, esetleg ápolásra is szoruló családtag odaköltözésével. Megváltozott szükségletet jelenthet egy ideiglenes vagy egy tartós sérülés, betegség, illetve ezek eredményeképpen fellépő fogyatékosság is. A lakások és az egyes lakáselemek tervezésénél tehát sok esetben célszerű figyelembe venni, hogy azok egyéni használati igényekhez igazodó esetleges megváltoztatása, átalakítása nagyobb átépítés, az épület primer szerkezeteinek érintése nélkül történhessen, a lakás az új igényekhez „adaptálható” legyen.
+
+— Pandula András
+:::
+
 
 Az építészeti tervezés során nem kell az emberi testméretekhez illő téregységek dimenzióit alkalmanként mérlegelni: azok szabványokban és tervezési előírásokban, ajánlásokban megtalálhatók. Lehet, hogy különféle eredetű és korú kézikönyvekben más-más méreteket talál az olvasó: ennek oka az, hogy a méretek megállapítása segédtudományok eredményire alapozott szakértői megegyezés kérdése.
 
 Az emberi testméretek vizsgálata különálló tudományág, az *antropometria* tárgya (ennek sok más iparágnál is jelentősége van: pl. a konfekcióiparban, a bútorgyártásban, járműgyártásban stb.). A folyamatos mérések azért is szükségesek, mert az emberi test átlagos méretei generációról generációra változnak.
 
-> **Megjegyzés**
->
-> Hollandiában a 18 évesek átlag testmagassága 181 cm, ami azt jelenti, hogy a fiúk átlaga 190 cm körül van – kissé felette –, a lányoké 170 cm feletti. A XX. század második felében a testmagasság 10 évente 1,3 cm-t növekedett, vagyis az átlagérték 6 cm-el nőtt, amelynek oka a jobb táplálkozás és az egészségügyi ellátás színvonalának emelkedése. A növekedés Hollandiában nyilván nem fog ebben az ütemben folytatódni, de azt mondhatjuk, hogy a következő generációk átlagméretei itthon is növekedni fognak.
->
-> Az újonnan tervezett épületeknél az EU már 1996 óta javasolt értéknek adja meg ajtónyílások esetében a minimum 210 cm tiszta magassági belméretet.
->
-> — Novák Ágnes
+::: note
+
+Hollandiában a 18 évesek átlag testmagassága 181 cm, ami azt jelenti, hogy a fiúk átlaga 190 cm körül van – kissé felette –, a lányoké 170 cm feletti. A XX. század második felében a testmagasság 10 évente 1,3 cm-t növekedett, vagyis az átlagérték 6 cm-el nőtt, amelynek oka a jobb táplálkozás és az egészségügyi ellátás színvonalának emelkedése. A növekedés Hollandiában nyilván nem fog ebben az ütemben folytatódni, de azt mondhatjuk, hogy a következő generációk átlagméretei itthon is növekedni fognak.
+
+Az újonnan tervezett épületeknél az EU már 1996 óta javasolt értéknek adja meg ajtónyílások esetében a minimum 210 cm tiszta magassági belméretet.
+
+— Novák Ágnes
+:::
+
 
 Az egyes tevékenységek eszközeinek, a tevékenység környezetének célszerű kialakításával az *ergonómia,* az ésszerű erőkifejtés tudománya foglalkozik, amelynek tárgya eredetileg a munkahelyek legnagyobb teljesítményt eredményező kialakítása volt.
 
@@ -219,14 +245,16 @@ A lakások használata közbeni mozgásokhoz bizonyos közlekedő sávok (bútor
 
 *1.5. ábra – Közlekedés a lakásban. Közlekedő sávok*
 
-> **Megjegyzés**
->
-> Tekintetbe kell venni, hogy a bemutatott értékek a javasolt méretek alsó értékei, amelyek biztosítják a még megfelelő használatot. A fenntartható lakásállomány kialakítása és megőrzése érdekében törekedni kell arra, hogy az új lakások hosszú távú használhatósága is biztosítva legyen, ezért a pillanatnyi előírásoknál távolabb kell tekinteni. Ha az új lakás a minőségi váltást szolgálja és nem a lakáshiány enyhítését, akkor az alsó határértéknél kedvezőbb – többnyire 5-10%-kal tágasabb – méreteket célszerű tervezni. A tágasság és a kedvezőbb méretek a lakás többféle használhatóságát és hosszabb élettartamát alapozhatják meg. Ez a magasabb színvonalú, kényelmesebb lakások felé orientálja el a fizetőképes keresletet. A magasabb komfortérzetnek megfelelő lakások építése tehát hosszabb távon is megfelel a keresletnek.
->
-> — Novák Ágnes
+::: note
+
+Tekintetbe kell venni, hogy a bemutatott értékek a javasolt méretek alsó értékei, amelyek biztosítják a még megfelelő használatot. A fenntartható lakásállomány kialakítása és megőrzése érdekében törekedni kell arra, hogy az új lakások hosszú távú használhatósága is biztosítva legyen, ezért a pillanatnyi előírásoknál távolabb kell tekinteni. Ha az új lakás a minőségi váltást szolgálja és nem a lakáshiány enyhítését, akkor az alsó határértéknél kedvezőbb – többnyire 5-10%-kal tágasabb – méreteket célszerű tervezni. A tágasság és a kedvezőbb méretek a lakás többféle használhatóságát és hosszabb élettartamát alapozhatják meg. Ez a magasabb színvonalú, kényelmesebb lakások felé orientálja el a fizetőképes keresletet. A magasabb komfortérzetnek megfelelő lakások építése tehát hosszabb távon is megfelel a keresletnek.
+
+— Novák Ágnes
+:::
+
 
 <a id="E1_A_lakas_fontosabb_butorainak"></a>
-### 1.2.3. A lakás fontosabb bútorainak, berendezéseinek és azok használatának helyszükséglete
+#### 1.2.3. A lakás fontosabb bútorainak, berendezéseinek és azok használatának helyszükséglete
 
 A lakástevékenységek legtöbbje bizonyos bútorok, bútorcsoportok és berendezési tárgyak használatával párosul. *A beépített* bútorokat és berendezéseket mindig jelölni kell a terveken, mert azok a lakás tartozékai, a kivitelezés során elhelyezik azokat. A lakáshasználathoz szükséges *mobil bútorok* elrendezését un. „bútorozási terveken” jelöljük. Ez ellenőrző vagy tájékoztató tervfázis, az engedélyezési és kiviteli tervekhez ennek elkészítése nálunk nem kötelező (vannak országok, ahol a bútorozási terv az engedélyezési eljárás kötelező része). Nyomatékkal javasolható, hogy a lakások bútorozási sémáit már a tervezés kezdő stádiumában is jelöljük vázlatainkon.
 
@@ -266,14 +294,16 @@ Az egészségügyi berendezések mértékadó méretei és használati zónái a
 
 *1.9. ábra – Egészségügyi berendezések használatának helyigénye*
 
-> **Megjegyzés**
->
-> A bútor használatához szükséges terület nagysága bizonyos esetekben a mértékadó értékektől jelentősen eltérhet. Ilyen a bútorok, berendezési tárgyak segédeszközzel (pl. kerekesszékkel), segítővel történő használata, vagy egyes berendezések gyermekkel történő használata (pl. kisgyermek fürdetése, WC-re szoktatása, stb.). Természetesen, e szélső értékek kielégítése nem lehet kötelező érvényű lakóépület-tervezési szabály, azonban a lehető legtöbb átlagostól eltérő eset figyelembe vétele növeli a lakás használati értékét. Családi házak esetében megfontolandó nagyobb bútorzóna-méreteket biztosítani az adaptálhatóság (a megváltozott igényhez való átalakítás) érdekében. Többlakásos lakóépületek ismétlődő lakástípusainál a lakástípusok változatosságával, és a nagyobb lakások egy részénél, (a lakások 5-10%-ánál) e szélsőséges bútorzóna méretet javasolt kiindulásként teljesíteni.
->
-> — Pandula András
+::: note
+
+A bútor használatához szükséges terület nagysága bizonyos esetekben a mértékadó értékektől jelentősen eltérhet. Ilyen a bútorok, berendezési tárgyak segédeszközzel (pl. kerekesszékkel), segítővel történő használata, vagy egyes berendezések gyermekkel történő használata (pl. kisgyermek fürdetése, WC-re szoktatása, stb.). Természetesen, e szélső értékek kielégítése nem lehet kötelező érvényű lakóépület-tervezési szabály, azonban a lehető legtöbb átlagostól eltérő eset figyelembe vétele növeli a lakás használati értékét. Családi házak esetében megfontolandó nagyobb bútorzóna-méreteket biztosítani az adaptálhatóság (a megváltozott igényhez való átalakítás) érdekében. Többlakásos lakóépületek ismétlődő lakástípusainál a lakástípusok változatosságával, és a nagyobb lakások egy részénél, (a lakások 5-10%-ánál) e szélsőséges bútorzóna méretet javasolt kiindulásként teljesíteni.
+
+— Pandula András
+:::
+
 
 <a id="E1_A_lakasterek_belmagassaga"></a>
-### 1.2.4. A lakásterek belmagassága
+#### 1.2.4. A lakásterek belmagassága
 
 Legtöbb esetben a lakások tereit azonos magasságú vízszintes padlósík és a vízszintes mennyezetsík zárja le: ilyenkor valamennyi lakástér belmagassága azonos. Amennyiben a lakás több szintes, akkor az azonos belmagasság szintenként adott. Abban az esetben, ha egy szinten alárendelt jellegű lakásterek (tárolók) vannak, ott alacsonyabb belmagasság is elegendő (pl. pincében). Lehetséges azonban, hogy a lakás elrendezése térben differenciált: egyes helyiségeknek vagy helyiségcsoportoknak mind a padlószintje, mind a mennyezetsíkja különbözik, vagy a mennyezetsíkja nem vízszintes. Utóbbi eset olyankor fordul elő, amikor a legfelső szinten a tetőszerkezetet a zárófödémmel egyesítik (általános a tetőterek beépítésénél).
 
@@ -291,15 +321,14 @@ A felemelt karral végzett tevékenységekhez szükséges tér, és azt kiegész
 
 *1.10. ábra – Lakásterek belmagassága*
 
-> **Megjegyzés**
->
-> Az előírt minimumnál (2,50, ill. 2,20 m) nagyobb belmagasság biztosítása a költségek ellenére előnyökkel is jár. A nagyobb belmagasság a tágasabb alapterületek esetében arányosabb belső teret ad, egyenletesebb megvilágítású és világosabb belsőt jelent az ablakok nagyobb szemöldökmagassága következtében. A nyári melegben hűvösebbek maradnak és jobban szellőztethetőek a nagyobb belmagasságú terek, mivel kedvezőbbek a belső légáramlási viszonyok. A fűtési hőveszteség (költség) nem a légköbméterrel arányos, hanem leginkább a felület/térfogat aránnyal. A kompakt épületforma esetében a nagyobb belmagasság nem jelent üzemeltetési többletet, viszont jelentős komfortérzet javulást eredményezhet. Ilyen módon közvetetten üzemeltetési előnyt is jelent, hiszen a megfelelő nyári komforthoz nem szükséges gépészeti rásegítés (hűtés, gépi szellőztetés stb.). Ezáltal az épület a növekvő komfortigény ellenére is hosszabb ideig biztosítja a megfelelő lakhatást, és a hosszútávú használatot. (Egyes országokban családi házak esetében az előírás min. 3,0 m belmagasság.)
->
-> — Novák Ágnes
+::: note
 
-<!-- 
-Az OTÉK már nem érvényes, ezt javítani kell a TÉKA-ra vagy úgy megfogalmazni, hogy NE legyen jogszabályi hivatkozás.
--->
+Az előírt minimumnál (2,50, ill. 2,20 m) nagyobb belmagasság biztosítása a költségek ellenére előnyökkel is jár. A nagyobb belmagasság a tágasabb alapterületek esetében arányosabb belső teret ad, egyenletesebb megvilágítású és világosabb belsőt jelent az ablakok nagyobb szemöldökmagassága következtében. A nyári melegben hűvösebbek maradnak és jobban szellőztethetőek a nagyobb belmagasságú terek, mivel kedvezőbbek a belső légáramlási viszonyok. A fűtési hőveszteség (költség) nem a légköbméterrel arányos, hanem leginkább a felület/térfogat aránnyal. A kompakt épületforma esetében a nagyobb belmagasság nem jelent üzemeltetési többletet, viszont jelentős komfortérzet javulást eredményezhet. Ilyen módon közvetetten üzemeltetési előnyt is jelent, hiszen a megfelelő nyári komforthoz nem szükséges gépészeti rásegítés (hűtés, gépi szellőztetés stb.). Ezáltal az épület a növekvő komfortigény ellenére is hosszabb ideig biztosítja a megfelelő lakhatást, és a hosszútávú használatot. (Egyes országokban családi házak esetében az előírás min. 3,0 m belmagasság.)
+
+— Novák Ágnes
+:::
+
+
 A most érvényes Országos Településrendezési és Építési Követelmények (OTÉK) az *átlagos belmagasságok* határértékeit rögzítik. Ezek a következők: huzamos tartózkodásra szolgáló helyiségekben min. 2,50 m (a lakás második és azt követő szobáinak kivételével); nem huzamos tartózkodást szolgáló terekben és a második (nem nappali tartózkodásra szolgáló) szobákban 2,20 m. Az előírt átlagos érték betartása azonban önmagában nem garantálja a használhatóságot, ezért azt esetenként kell ellenőrizni és meghatározni úgy, hogy a lakótér a rendeltetési követelmények teljesítési kritériumait kielégítse minden tekintetben. A *hálószobák* esetében a 2,20 m-es *átlagos* belmagasság ferde mennyezetsík esetén megfelelő lehet, de vízszintes mennyezetsík esetén az átlagot ne tekintsük mérvadónak: legyen az is teljes értékű lakótér. Másfelől, pl. egy ferde mennyezetsíkkal kialakított WC akkor is jól használható lehet, ha *átlagos* belmagassága nem éri el a 2,20 m-t.
 
 *A kiegészítő terek* alkalmasak szinte valamennyi lakástevékenységhez szükséges bútor, berendezés elhelyezésére, de szélességük esetenként különböző. Ezért a ferde mennyezetsíkkal kialakított tereknél (tetőtéri helyiségeknél) gondosan kell mérlegelni az egyes kiegészítő tér-részek rendeltetését, és szélességüket pedig az ott *valószínűsíthető* bútorozás használati igénye szerint szabjuk meg. A beépített bútorok és berendezések esetén (higiéniai berendezések, konyhabútor, beépített szekrény stb.) a kiegészítő használati tér funkciója egyértelmű és tervezhető ([1.11. ábra](#abra_1_11)). Amennyiben az 1,90 m-nél alacsonyabb kiegészítő térbe nem kerül bútor (pl. tágasabb lakóhelyiségek esetén), akkor se legyen az túl mély (legfeljebb kb. 1 méter) mert *takarítása* csak kényelmetlen, görnyedt testtartásban végezhető.
@@ -311,7 +340,7 @@ A most érvényes Országos Településrendezési és Építési Követelmények
 *1.11. ábra – Bútorok és berendezések használata ferde mennyezetsíknál*
 
 <a id="E1_Az_ajtok_meretei"></a>
-### 1.2.5. Az ajtók méretei
+#### 1.2.5. Az ajtók méretei
 
 A lakásokban alkalmazott ajtók általában felnyíló ajtók, ritkábban tolóajtók. (Az ajtónyílások takarhatók függönnyel, vagy azzal nagyjából egyenértékű műanyag harmonika-ajtókkal is. Ezek azonban nem nyújtanak hangszigetelést és nem légtömörek, ezért nem alkalmazhatók olyan esetekben, amikor az egyes helyiségek ajtóval történő elválasztása követelmény.) A felnyíló ajtók egyszárnyúak vagy kétszárnyúak. A kétszárnyú ajtók általában középen felnyílóak, néha előfordul (pl. lakásbejáratoknál) az aszimmetrikus szárny-elrendezés, amikor a nagyobb szárnyat használják általában, és a rögzített keskenyebb szárnyat csak alkalmanként – pl. bútorszállításkor – nyitják ki. Az egyszárnyú ajtók nyitási iránya kétféle: ha az ajtónak a pántozás felöli oldalán állva a pántot a bal oldalon látjuk, akkor az ajtó „balos”, ellenkező esetben „jobbos” ajtóról beszélünk ([1.13. ábra](#abra_1_13)). Az ajtók lehetnek küszöb nélküliek, vagy küszöbbel ellátottak. Utóbbiak általában a felmosást igénylő vizes helyiségek ajtói. (Az ajtóküszöb ezeknél a helyiségeknél is elhagyható, ha a padlóburkolatuk szintje egy fémperemmel elválasztva kb. 1 cm-rel mélyebbre kerül, mint a csatlakozó helyiségé.) A küszöb nélküli ajtók hangszigetelése kedvezőtlenebb, mint a küszöbbel ellátottaké, de a küszöb a mozgásukban korlátozottak részére akadályt is jelenthet.
 
@@ -321,13 +350,15 @@ A lakásokban alkalmazott ajtók általában felnyíló ajtók, ritkábban toló
 
 *1.13. ábra – Felnyíló ajtók alaptípusai*
 
-> **Megjegyzés**
->
-> A küszöb nélküli kialakítás a lakás legtöbb helyiségkapcsolata esetben előnyösebb, a használati kényelmet fokozza és csökkenti a még járni tanuló vagy éppen futkározó gyermekek, nehezebben mozgó, lábukat kevésbé emelő, csoszogó idősebbek megbotlását, elesését. E szempontot különösen fontos figyelembe venni gyermekek vagy idősek bentlakásos intézményének tervezésekor.
->
-> Olyan helyiségeknél, amelyeknél az ajtónak légtömörségi és hangszigetelési követelményeket is teljesítenie kell, automata küszöb alkalmazható. Automata küszöb kialakítására számos technikai megoldás áll rendelkezésre, mint pl. az ajtólap zárásakor a padlósíkból felemelkedő küszöb, az ajtólap aljából kitolódó küszöb vagy egyszerű gumiküszöb, amely terhelés esetén benyomódik. Ez utóbbi, mivel vízküszöböt is jelent, felmosást igénylő vizes helyiségek ajtóinál is megfelelően alkalmazható.
->
-> — Pandula András
+::: note
+
+A küszöb nélküli kialakítás a lakás legtöbb helyiségkapcsolata esetben előnyösebb, a használati kényelmet fokozza és csökkenti a még járni tanuló vagy éppen futkározó gyermekek, nehezebben mozgó, lábukat kevésbé emelő, csoszogó idősebbek megbotlását, elesését. E szempontot különösen fontos figyelembe venni gyermekek vagy idősek bentlakásos intézményének tervezésekor.
+
+Olyan helyiségeknél, amelyeknél az ajtónak légtömörségi és hangszigetelési követelményeket is teljesítenie kell, automata küszöb alkalmazható. Automata küszöb kialakítására számos technikai megoldás áll rendelkezésre, mint pl. az ajtólap zárásakor a padlósíkból felemelkedő küszöb, az ajtólap aljából kitolódó küszöb vagy egyszerű gumiküszöb, amely terhelés esetén benyomódik. Ez utóbbi, mivel vízküszöböt is jelent, felmosást igénylő vizes helyiségek ajtóinál is megfelelően alkalmazható.
+
+— Pandula András
+:::
+
 
 A rajzokon az ajtótengely fölé írt méret a szélességet, a tengely alá írt méret a magasságot jelöli. Az ajtóknak két jellemző alapméretük van: a szabad nyílásméret (a *tokbelméret*), és a *névleges méret*. A névleges méret mindig nagyobb a tokbelméretnél a különféle gyártmányokra jellemző mértékben (általában a tok külméretének és a szükséges elhelyezési közöknek az összege). A kiviteli terveken a névleges méretet kell jelölni ([1.12. ábra](#abra_1_12)).
 
@@ -341,11 +372,13 @@ Az ajtók tiszta magassági belméretének javasolt értéke: minimum 205 cm, am
 
 A lakások méretezésénél az ajtók „használati méretét” vegyük figyelembe, amely a funkció kívánta tokbelméretnél szélességi irányban 10-10 cm-rel, mélységi irányban pedig 10 cm-rel nagyobb. (A nyitott ajtószárny a tokbelméretet meghaladó mértékben áll be a helyiségbe.)
 
-> **Megjegyzés**
->
-> Falsarokba helyezett nyílászáró esetében a pánt felőli oldalán biztosított 10 cm-es „falfül” a szerkezet megfelelő elhelyezhetősége (tok rögzítése és takaróprofilok elhelyezése) mellett biztosítja azt is, hogy az ajtólap 90°-ban kitárható legyen, azaz az ajtólap fal felőli oldalán található kilincs a nyitást ne akadályozza, és így a nyílás teljes tokbelmérete közlekedésre alkalmas hasznos keresztmetszetként működjön.
->
-> — Pandula András
+::: note
+
+Falsarokba helyezett nyílászáró esetében a pánt felőli oldalán biztosított 10 cm-es „falfül” a szerkezet megfelelő elhelyezhetősége (tok rögzítése és takaróprofilok elhelyezése) mellett biztosítja azt is, hogy az ajtólap 90°-ban kitárható legyen, azaz az ajtólap fal felőli oldalán található kilincs a nyitást ne akadályozza, és így a nyílás teljes tokbelmérete közlekedésre alkalmas hasznos keresztmetszetként működjön.
+
+— Pandula András
+:::
+
 
 A két használati méret az ajtó használati zónáját jelöli ki. Ebbe maga az ajtót nyitó személy nem fér el, ezért a benyíló szárny felöli oldalon egy 20 cm-es „kiegészítő használati zónát” kell szabadon hagyni. Ez az ajtótok mellett, a kilincsnél legyen, amely egyébként a villanykapcsolónak és a porszívó elektromos csatlakozásának a szokásos helye. Keskenyebb helyiségnél megengedhető, hogy a kiegészítő használati zóna az ajtónyílással szemben alakuljon ki ([1.14. ábra](#abra_1_14)).
 
@@ -355,13 +388,15 @@ A két használati méret az ajtó használati zónáját jelöli ki. Ebbe maga 
 
 *1.14. ábra – Ajtók használati zónájának méretei*
 
-> **Megjegyzés**
->
-> A bejárati ajtók esetében ügyelni kell arra, hogy az ajtó előtti használati zóna az ajtó beépítésével azonos szinten és teljes területén vízszintes legyen annak érdekében, hogy a kulcsok keresése, a zár nyitása vagy az ajtó kitárása alatt az ajtót nyitó személynek ne kelljen lejtős részre vagy lépcsőfokra állnia.
->
-> A lakások bejárati ajtóinál, és a lakások frekventáltabb helyiségeinél, illetve az olyan helyiségek ajtóinál, amelyeknél jellemző a csomagok, eszközök cipelése (p. kamra, raktár, háztartási helyiség vagy mosókonyha) célszerű az akadálymentes használat szempontjából is szükséges nagyobb, 50 cm szélességű „kiegészítő használati zóna" biztosítása, amely mindenki számára kényelmesebb ajtóhasználatot tesz lehetővé. A megnövelt „kiegészítő használati zóna" lehetővé teszi, hogy az ajtólap karon ülő gyermekkel, kézben tartott csomaggal, eszközzel (pl. bőrönd, ruháskosár, bevásárló szatyor, porszívó, stb.), valamint segédeszközzel (kerekesszék, kerekes járókeret) is akadálytalanul, kényelmesen felnyitható legyen.
->
-> — Pandula András
+::: note
+
+A bejárati ajtók esetében ügyelni kell arra, hogy az ajtó előtti használati zóna az ajtó beépítésével azonos szinten és teljes területén vízszintes legyen annak érdekében, hogy a kulcsok keresése, a zár nyitása vagy az ajtó kitárása alatt az ajtót nyitó személynek ne kelljen lejtős részre vagy lépcsőfokra állnia.
+
+A lakások bejárati ajtóinál, és a lakások frekventáltabb helyiségeinél, illetve az olyan helyiségek ajtóinál, amelyeknél jellemző a csomagok, eszközök cipelése (p. kamra, raktár, háztartási helyiség vagy mosókonyha) célszerű az akadálymentes használat szempontjából is szükséges nagyobb, 50 cm szélességű „kiegészítő használati zóna" biztosítása, amely mindenki számára kényelmesebb ajtóhasználatot tesz lehetővé. A megnövelt „kiegészítő használati zóna" lehetővé teszi, hogy az ajtólap karon ülő gyermekkel, kézben tartott csomaggal, eszközzel (pl. bőrönd, ruháskosár, bevásárló szatyor, porszívó, stb.), valamint segédeszközzel (kerekesszék, kerekes járókeret) is akadálytalanul, kényelmesen felnyitható legyen.
+
+— Pandula András
+:::
+
 
 A *tolóajtók* igen nagy előnye, hogy a lakástérből nem foglalnak el helyet. Hátrányuk, hogy általában nem kellően légtömörek és hangszigetelő képességük is jóval elmarad a hagyományos ajtókétól. Tolóajtó akár ajtótok nélkül is szerelhető a falnyílás elé, de a falnyílás tokszerkezettel is keretezhető. A fal előtt futó tolóajtó a falfelületek jelentős részét nyitott állapotban takarja ([1.15 ábra](#abra_1_15)). Ez a felület is bútorozható akkor, ha a tolóajtó-szárny egy könnyen oldható, szerelt válaszfal mögé fut be, vagy eléje egy rögzített bútorfal (könyvespolc) kerül.
 
@@ -374,9 +409,9 @@ A *tolóajtók* igen nagy előnye, hogy a lakástérből nem foglalnak el helyet
 Két, falazott válaszfal közé futó tolóajtót lehetőleg ne tervezzünk, mert a vezetősínt már a kőműves munkák során el kellene helyezni, és ha a vasalás meghibásodása miatt az ajtólap a két válaszfal között akadna ki, akkor az egyik válaszfalat le kellene bontani és újra megépíteni.
 
 <a id="E1_Az_ablakok_elhelyezese"></a>
-### 1.2.6. Az ablakok elhelyezése
+#### 1.2.6. Az ablakok elhelyezése
 
-Az ablakok alapfunkciója a bevilágítás és szellőzés biztosítása, az ezzel kapcsolatos méretezési szabályokról az 1.5.1. és az 1.5.2. fejezetben esik szó. A lakásterek kialakítását az ablakok helyzete is befolyásolja, mert a jó megvilágítást igénylő lakástevékenységek helyét az ablakok közelében kell kijelölni.
+Az ablakok alapfunkciója a bevilágítás és szellőzés biztosítása, az ezzel kapcsolatos méretezési szabályokról az [1.5.1.](#E1_Megvilagitas) és az [1.5.2.](#E1_Szellozes) fejezetben esik szó. A lakásterek kialakítását az ablakok helyzete is befolyásolja, mert a jó megvilágítást igénylő lakástevékenységek helyét az ablakok közelében kell kijelölni.
 
 Az ablakok *parapetmagassága* a bevilágított helyiség rendeltetésétől függ (lásd [1.16. sz. ábrasor](#abra_1_16)). A lakószobák ablakainak parapetmagasságát úgy kell kialakítani, hogy ülő testhelyzetben, vízszintes látószög esetén az ablakon jól ki lehessen látni. Ez 90 cm-es – általában szokásos – parapetfal esetén biztosított.
 
@@ -390,21 +425,23 @@ A tetőtéri helyiségek tetősík-ablakainál a parapetmagasság meghatározás
 
 Alacsony parapetű, vagy parapet nélküli üvegfalakat ott alkalmazhatunk, ahol igény a külső térrel való intenzív vizuális kapcsolat, ez elsősorban kertre vagy tetőteraszra néző nappali szobáknál fordul elő. Ezekben az esetekben a fűtés lehetőségét már a tervezés kezdetén végig kell gondolni, mert a parapet nélküli üvegfalak vagy igen alacsony parapetfalak elé nem lehet (vagy korlátozottan lehet) fűtőtesteket helyezni. A parapetfal egyben kiesést gátló mellvédfal is, ezért nem szabad 80 cm-nél alacsonyabb parapetű ablakot helyezni oda, ahol az ablak alatti külső terepszint (járda, terasz) 80 cm-nél mélyebben van a padlóvonalhoz képest. Ha valamilyen megfontolásból az emeleten létesítenek olyan ablakot, amelynek parapetmagassága 80 cm-nél alacsonyabb, akkor az ablakon min. 95 cm magasságban olyan vízszintes osztást kell létesíteni, amely a kiesést gátolja, tehát a korlátokra vonatkozó szilárdsági követelményeknek megfelel. Ez alatt fixen beépített, ugyancsak kiesést gátló, ütésálló biztonsági üvegezést kell alkalmazni.
 
-> **Megjegyzés**
->
-> A függőleges üvegezett szerkezetek esetében általánosságban igaz, hogy az előírt minimumnál nagyobb üvegfelület előnyös, ha az árnyékolásról is tudunk gondoskodni a nyári túlmelegedés elleni védelemként.
->
-> Függőleges felületek esetében a padlóig üvegezett ajtók és üvegfalak alsó 60-80 cm-es része a belső tér megvilágítását nem segíti lényegesen (csak akkor, ha a csatlakozó padlóburkolat tükröződő felületű, ez azonban zavaró hatású is lehet). Akkor járunk el helyesen, ha ezt a felületet nem is vesszük számításba a megvilágítás mértékének számításánál.
->
-> A padlóig üvegezett felületek esetében a fűtés berendezéseit is figyelembe kell venni, illetve a biztonsági és takarítási szempontokat. Javasolt a legalább 20 cm magasságig tömör keretszerkezet alkalmazása, amely lehetővé teszi a fűtést és a takarítást is. Amennyiben valóban a padlóig üvegezett felületre törekszünk, úgy a páralecsapódás elkerülésére általában padlóba süllyesztett vonalmenti fűtés szükséges (1.16. ábra).
->
-> Az alacsony parapetű üvegezett szerkezetek további hátránya lehet, hogy csak kiváló hőszigetelésű üvegezéssel lehet jó megoldást biztosítani a mi téli hőmérsékleti viszonyaink között, ugyanis az üvegezés alacsonyabb felületi hőmérséklete az üvegszerkezethez közel eső testfelületen a hőérzetet rendkívül kedvezőtlenül befolyásolja.
->
-> Nagyobb alapterületű terek esetében a nagyobb szemöldökmagasság vagy a több irányú megvilágítás a jó megoldás. Az egyenletes nappali megvilágítás a külső felületen több magasabb álló ablakkal jobban elérhető, mint egy nagyobb vízszintes ablakkal (azonos üvegfelület esetében).
->
-> A ferde síkú üvegezett felületek túlméretezése a belső tér nyári túlmelegedéséhez vezethet. Azt is tekintetbe kell venni ezeknél, hogy a tájolástól függetlenül is tovább tart a benapozott időszak. Például egy keletre tájolt tetősíkú ablakkal bevilágított hálószoba még akkor is közvetlen benapozást kap, amikor már a függőleges falsík nem. Ez főleg a nyári időszakban okozhat túlmelegedést. Ezért ferde síkú transzparens felületek esetében az üvegméret növelése nem jár előnnyel és kerülendő, hacsak nem kimondott tervezői szándék vezet a nagyobb üvegfelülethez (pl. műtermek, üvegházak stb.).
->
-> — Novák Ágnes
+::: note
+
+A függőleges üvegezett szerkezetek esetében általánosságban igaz, hogy az előírt minimumnál nagyobb üvegfelület előnyös, ha az árnyékolásról is tudunk gondoskodni a nyári túlmelegedés elleni védelemként.
+
+Függőleges felületek esetében a padlóig üvegezett ajtók és üvegfalak alsó 60-80 cm-es része a belső tér megvilágítását nem segíti lényegesen (csak akkor, ha a csatlakozó padlóburkolat tükröződő felületű, ez azonban zavaró hatású is lehet). Akkor járunk el helyesen, ha ezt a felületet nem is vesszük számításba a megvilágítás mértékének számításánál.
+
+A padlóig üvegezett felületek esetében a fűtés berendezéseit is figyelembe kell venni, illetve a biztonsági és takarítási szempontokat. Javasolt a legalább 20 cm magasságig tömör keretszerkezet alkalmazása, amely lehetővé teszi a fűtést és a takarítást is. Amennyiben valóban a padlóig üvegezett felületre törekszünk, úgy a páralecsapódás elkerülésére általában padlóba süllyesztett vonalmenti fűtés szükséges (1.16. ábra).
+
+Az alacsony parapetű üvegezett szerkezetek további hátránya lehet, hogy csak kiváló hőszigetelésű üvegezéssel lehet jó megoldást biztosítani a mi téli hőmérsékleti viszonyaink között, ugyanis az üvegezés alacsonyabb felületi hőmérséklete az üvegszerkezethez közel eső testfelületen a hőérzetet rendkívül kedvezőtlenül befolyásolja.
+
+Nagyobb alapterületű terek esetében a nagyobb szemöldökmagasság vagy a több irányú megvilágítás a jó megoldás. Az egyenletes nappali megvilágítás a külső felületen több magasabb álló ablakkal jobban elérhető, mint egy nagyobb vízszintes ablakkal (azonos üvegfelület esetében).
+
+A ferde síkú üvegezett felületek túlméretezése a belső tér nyári túlmelegedéséhez vezethet. Azt is tekintetbe kell venni ezeknél, hogy a tájolástól függetlenül is tovább tart a benapozott időszak. Például egy keletre tájolt tetősíkú ablakkal bevilágított hálószoba még akkor is közvetlen benapozást kap, amikor már a függőleges falsík nem. Ez főleg a nyári időszakban okozhat túlmelegedést. Ezért ferde síkú transzparens felületek esetében az üvegméret növelése nem jár előnnyel és kerülendő, hacsak nem kimondott tervezői szándék vezet a nagyobb üvegfelülethez (pl. műtermek, üvegházak stb.).
+
+— Novák Ágnes
+:::
+
 
 A belső tér ablak alatt lévő sávja bizonyos bútorok, berendezések elhelyezésére alkalmas (munkaasztal, konyhapult stb.) de azok nem lehetnek a parapetnél magasabbak, szélességi méretük pedig nem haladhatja meg azt a mértéket, amely az ablakkilincs eléréséhez szükséges (max. 75 cm).
 
@@ -417,7 +454,7 @@ A fürdőszobáknál, WC helyiségeknél az ablakok parapetmagasságát lehetől
 Az ablakok méretének és helyzetének megállapításánál gyakran ütköznek a rendeltetési igények és a homlokzatképzési szempontok. Lehet, hogy egy-egy helyiség ablakának használati szempontból optimális helyzete és mérete a homlokzaton kedvezőtlen ritmus-váltást okoz, vagy a homlokzatrendszerhez arányaiban nem illeszkedik. Az ellentmondó szempontok közötti mérlegelés a tervező dolga. Gyakran a helyiség teljes elrendezését, méretezését meg kell változtatni a kedvező homlokzat érdekében, de azt nem lehet megtenni, hogy *alapvető* rendeltetési követelmények teljesítését esztétikai megfontolások miatt elhanyagoljuk. Ezért az első vázlatoktól kezdve mindig az *egész házat* kell tervezni a homlokzatokkal együtt.
 
 <a id="E1_A_helyisegek_mereteinek_meghatarozasa"></a>
-### 1.2.7. A helyiségek méreteinek meghatározása
+#### 1.2.7. A helyiségek méreteinek meghatározása
 
 A lakás helyiségei méretezésének *egyik* fontos szempontja, hogy azokban a rendeltetésszerű lakástevékenységeket el lehessen végezni. Ezek bizonyos bútorok, bútorcsoportok használatával és ezek megközelítésével párosulnak.
 
@@ -462,10 +499,10 @@ A következő fejezetben a lakóterekre vonatkozó használati követelmények t
 Bizonyos helyiségek méretei a lakást használók létszámától függnek (pl. az étkező, nappali tartózkodás tere, egészségügyi felszereltség stb.). Lakáspiaci feltételek között nem várható, hogy egy lakásban mindig pont annyian lakjanak, amekkora használói létszámot a tervező figyelembe vett. A nagyobb lakásokban inkább a tehetősebb, mintsem sokgyerekes családok élnek. Mégis kívánatos, hogy a létszámtól függő lakáselemek megfelelő színvonalon legyenek használhatók, ha a lakás valóban telített. Ezért használjuk a lakások *férőhelyszámának* fogalmát. Egy lakás férőhelyszáma annyi, ahány fekhelyet el lehet benne helyezni úgy, hogy az „Alvás, pihenés” fejezetrészben leírt használati követelmények maradéktalanul teljesüljenek.
 
 <a id="E1_A_lakastevekenysegek_terigenye"></a>
-## 1.3. A lakástevékenységek térigénye
+### 1.3. A lakástevékenységek térigénye
 
 <a id="E1_Kozos_idotoltes"></a>
-### 1.3.1. Közös időtöltés, kikapcsolódás, vendégek fogadása
+#### 1.3.1. Közös időtöltés, kikapcsolódás, vendégek fogadása
 
 A lakás érzelmileg is szoros kapcsolatban álló embercsoport (általában család) élettere, ahol az otthoni szabadidő eltöltése az együtt élők rendszeres kommunikációjával párosul. A közösen eltöltött szabadidő, a „családi együttlét” nemcsak a mentális komfortérzet szempontjából fontos, de hozzátartozik a személyiség fejlődéséhez, kiteljesedéséhez is: a lakás a gyermekek elemi szocializálódásának színtere.
 
@@ -481,7 +518,7 @@ Az itteni bútorok legyenek kényelmes ülő-alkalmatosságok: fotelek és hever
 
 *1.21. ábra – Közös időtöltés, vendégfogadás bútorai*
 
-#### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
+##### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
 
 **ALAPKÖVETELMÉNY:**
 Biztosítani kell, hogy a lakásban élő háztartás valamennyi tagja otthoni szabad idejét együtt is eltölthesse, audiovizuális szórakoztató eszközöket közösen használhasson, a lakásban vendégeket fogadhasson.
@@ -502,16 +539,18 @@ A helyiség szélességi vagy mélységi mérete ne legyen kevesebb 3,60 m-nél.
 
 *Szükség esetén* 2 férőhelyesnél nagyobb lakásban is *megengedhető*, hogy a nappali legfeljebb két személy alvóhelye is legyen, de csak akkor, ha a társalgás, vendégfogadás lehetőségét – alacsonyabb követelményszinten és időszakosan – más lakástérben (pl. étkezőhelyiségben, étkezőkonyhában) biztosítani lehet. (Lásd még az „Alvás, pihenés” követelményeinél.)
 
-A *fekhely nélküli* nappalit közlekedő térnek is lehet tekinteni („rejtett közlekedő”), ha a tervezési program erről másképpen nem rendelkezik (lásd 1.51. és 1.53. fejezet).
+A *fekhely nélküli* nappalit közlekedő térnek is lehet tekinteni („rejtett közlekedő”), ha a tervezési program erről másképpen nem rendelkezik (lásd az [1.5.1.](#E1_Megvilagitas) és [1.5.2.](#E1_Szellozes) fejezetet).
 
 <a id="E1_Kozos_etkezes"></a>
-### 1.3.2. Közös étkezés
+#### 1.3.2. Közös étkezés
 
 Az étkezés „technológiai” értelemben az ételkészítés műveletsorához is illeszthető, de azért tárgyaljuk itt külön, hogy hangsúlyozzuk: a közös étkezés nem csupán táplálkozást jelent. A családi együttlét ritkuló alkalmait egyre inkább a közös étkezések jelentik (a valóságban elég ritkán fordul elő, hogy valamennyi családtag a nappali ülőgarnitúráját használva „társalog”). A közös étkezés helye legyen olyan, hogy ott akár egy ünnepi asztal is megteríthető legyen.
 
-> **Megjegyzés**
->
-> A hatvanas-hetvenes években épített sok ezer panellakás jellemző, közös hiányossága, hogy azokban a közös étkezésnek nem adtak teret. A kisméretű nappaliban az egyébként szükséges bútorok mellett étkezőasztal nem fér el, az aprócska konyha étkezésre nem alkalmas. A lakók sokszor barkácsolnak különféle lehajtható polcokat a konyhában, ahol valahogyan étkezni lehet. A lakásszociológiai felmérések sok olyan esetet is feltártak, ahol a nagyobb létszámú családok tagjai felváltva ettek.
+::: note
+
+A hatvanas-hetvenes években épített sok ezer panellakás jellemző, közös hiányossága, hogy azokban a közös étkezésnek nem adtak teret. A kisméretű nappaliban az egyébként szükséges bútorok mellett étkezőasztal nem fér el, az aprócska konyha étkezésre nem alkalmas. A lakók sokszor barkácsolnak különféle lehajtható polcokat a konyhában, ahol valahogyan étkezni lehet. A lakásszociológiai felmérések sok olyan esetet is feltártak, ahol a nagyobb létszámú családok tagjai felváltva ettek.
+:::
+
 
 Az étkező asztalnak általában több funkciója van, mint maga a viszonylag rövid ideig tartó étkezés. Kártyázni, társasjátékokat játszani lehet rajta, vagy a kisgyerek ott rajzolgathat a mama közelében stb. A jól méretezett és megfelelően elhelyezett étkezőasztal a nappali időtöltés bútorait egészíti ki. A főzőhely közvetlen közelében lévő étkező asztal a konyha technológiai felületeként is szolgálhat az étkezés idején kívül.
 
@@ -523,7 +562,7 @@ A családok időnként vendégeket fogadnak ebédre vagy vacsorára, ezért ajá
 
 *1.22. ábra – Közös étkezés bútorai*
 
-#### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
+##### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
 
 **ALAPKÖVETELMÉNY:**
 Biztosítani kell, hogy a lakásban élő háztartás valamennyi tagja együtt étkezhessen kulturált körülmények között, alkalmanként étkező vendégeket fogadhasson.
@@ -534,7 +573,7 @@ Biztosítani kell, hogy a lakásban élő háztartás valamennyi tagja együtt �
 - 2 férőhelyesnél nagyobb lakásoknál nem kerülhet az étkező olyan helyiségbe, amely valamelyik használó alvóhelye. (Nem lehet a nappali szobát alvóhelyként figyelembe venni, ha rendszeresen használt étkező van ott.) Az étkező legyen a főzőhely (konyha) megfelelő közelségében, attól legfeljebb egy ajtó válassza el (kivételt képez az olyan eset, amikor a konyhában is van egy, legalább a használói létszámra méretezett második étkezőhely). A főzőhely és az étkezőhely között ne legyen lépcső (balesetveszély a tálaláskor!). Az étkezés terét közlekedő térként figyelembe lehet venni.
 
 <a id="E1_Alvas_pihenes"></a>
-### 1.3.3. Alvás, pihenés
+#### 1.3.3. Alvás, pihenés
 
 A lakás elemi rendeltetése a regenerálódás: az alvás és napközbeni pihenés zavartalan biztosítása. Az alvás helye szokásosan a hálószoba, de lehet más tér is (pl. háló-galéria, más szobával egybenyitott hálófülke, esetleg nappali-háló). A hálószobák – hagyományosan – a családtagok *egyéni tevékenységeinek* (tanulás, szellemi munka) is színterei, de nem minden esetben. Ezért az egyéni tevékenységek követelményeit majd külön fejezetben részletezzük. Ha a hálóhely más helyiséggel (helyiségekkel) térben állandóan összekapcsolt, akkor *a követelményeket az összekapcsolt terekre, mint egységes térre kell értelmezni.*
 
@@ -556,7 +595,7 @@ Az alvás bútorait és a különböző fekhely-elrendezéseket az [1.23. ábra]
 
 *1.23. ábra – Alvás, pihenés bútorai*
 
-#### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
+##### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
 
 **ALAPKÖVETELMÉNY:**
 Biztosítani kell, hogy a lakást használók zavartalanul alhassanak, pihenhessenek.
@@ -570,22 +609,24 @@ Biztosítani kell, hogy a lakást használók zavartalanul alhassanak, pihenhess
 
 - A fekhelyeket úgy kell elhelyezni, hogy a használók zavaró kényelmetlenséget vagy egészségkárosodást ne szenvedjenek sugárzó hideg vagy erősen sugárzó meleg felületek közelsége miatt.
 
-A más lakásterektől légtérben elválasztott hálóhelyiségek térfogata fekvőhelyenként legalább 15 m3 legyen (lásd még 1.5.2. fejezet). Erősen ajánlott, hogy az egyszemélyes hálóhelyiség alapterülete 8 m²-nél, a kétszemélyes hálóhelyiségé 12 m²-nél akkor se legyen kisebb, ha az előírt térfogat ennél alacsonyabb értékek mellett is biztosítható.
+A más lakásterektől légtérben elválasztott hálóhelyiségek térfogata fekvőhelyenként legalább 15 m³ legyen (lásd még [1.5.2.](#E1_Szellozes) fejezet). Erősen ajánlott, hogy az egyszemélyes hálóhelyiség alapterülete 8 m²-nél, a kétszemélyes hálóhelyiségé 12 m²-nél akkor se legyen kisebb, ha az előírt térfogat ennél alacsonyabb értékek mellett is biztosítható.
 
 *Két férőhelyesnél nagyobb* lakásokban alvás céljára csak olyan helyiség szolgálhat, amelyet a lakás egyéb tereitől *akusztikailag* le lehet választani oly módon, hogy minden más lakástevékenységet az alvás zavarása nélkül lehessen elvégezni. Itt az alvás céljára szolgáló helyiséget nem lehet közlekedő térnek tekinteni.
 
 1-2 férőhelyes, egy szobás lakásoknál az alvás tere és a közös időtöltés helye lehet azonos (nappali-háló). Két férőhelyesnél nagyobb lakásokban is *megengedhető*, hogy fekhely a közös időtöltés terébe (nappaliba) kerüljön, ha a nappali szoba akusztikai leválasztása mellett más lakástevékenységek zavartalanul végezhetők, a lakás egyéb helyiségei a nappali érintése nélkül megközelíthetők, és csak akkor, ha a közös időtöltés és vendégfogadás funkcióját más, közösen használt helyiség *időszakosan* és kényszerűen bár, de betöltheti (pl. étkező, étkezős konyha). A nappali szobát sohasem lehet gyermek hálóhelyének tekinteni.
 
 <a id="E1_Egyeni_tevekenysegek"></a>
-### 1.3.4. Egyéni tevékenységek
+#### 1.3.4. Egyéni tevékenységek
 
 A lakást használó háztartás tagjai legtöbb esetben otthon is végeznek valamilyen, elvonultságot igénylő egyéni tevékenységet. Ilyen az iskoláskorú gyermekek tanulása, de a szellemi foglalkozásúak körében is gyakori az otthoni munka. Utóbbinak a jelentősége egyre növekszik. Egyes szakértői előrejelzések szerint az informatikai társadalom gyökeresen megváltoztatja a lakás-munkahely viszonyt, egyre nagyobb számban lesz a lakás egyben munkahely is, ahol a munkavállaló számítógépes kapcsolat révén dolgozik együtt munkatársaival.
 
-> **Megjegyzés**
->
-> A távmunka igénye és lehetősége, az infokommunikációs eszközök változatossága és beáramlása a lakás tereibe nem megkerülhető jelenség. Ez egyben a fenntarthatóság szociális és gazdasági pillérének erősítését is jelenti, hiszen az otthoni vagy távmunka csökkenti a közlekedésből adódó környezeti terhelést, növeli a munka után fennmaradó rekreációs tevékenységek lehetőségét és az elégedettséget. Ezért az alapvető lakástevékenységek között egyre többször előkerül az otthoni munkavégzés, szolgáltatás.
->
-> — Novák Ágnes
+::: note
+
+A távmunka igénye és lehetősége, az infokommunikációs eszközök változatossága és beáramlása a lakás tereibe nem megkerülhető jelenség. Ez egyben a fenntarthatóság szociális és gazdasági pillérének erősítését is jelenti, hiszen az otthoni vagy távmunka csökkenti a közlekedésből adódó környezeti terhelést, növeli a munka után fennmaradó rekreációs tevékenységek lehetőségét és az elégedettséget. Ezért az alapvető lakástevékenységek között egyre többször előkerül az otthoni munkavégzés, szolgáltatás.
+
+— Novák Ágnes
+:::
+
 
 Ha valaki nem is dolgozik otthon, legtöbbször van valamilyen egyéni elfoglaltsága (olvasgatás, zenehallgatás, kézimunka, internetezés stb.). Ezek a tevékenységek igen sokfélék lehetnek, a lakás élettartama alatt többször változhatnak is, ezért a tervezés során ezeket egyenként figyelembe venni lehetetlen. Ezért *minimális* követelmény, hogy a háztartás minden tagjának rendelkezésére álljon egy munkaasztal és egy szék helyigényével jellemezhető térrész, ahol saját, egyéni tevékenységeit folytathatja. Ebben elfér egy pihenőfotel (olvasgatás, zenehallgatás, kézimunkázás), vagy egy barkácsasztal vagy egy számítógép-asztal stb. Ha külön dolgozószoba kialakítására nincs anyagi lehetőség, akkor az egyéni tevékenységek szokásos helye a lakásban élő személyek alvóhelye, minthogy az alvásra vonatkozó követelmények eleve a helyiség akusztikai leválasztását igénylik. Szükség esetén megengedhető, hogy egy munkahely – a családfő számára – a nappali szobába kerüljön. A szülői hálóba kerülő asztal-szék bútorzóna lehet fésülködő asztal (ha az egyik szülő nem igényel külön munkahelyet), de arra is alkalmas, hogy abban a kisded-korú gyermek ágyát el lehessen helyezni arra az időre, ameddig a baba éjszaka is felügyeletet igényel. A szülők saját tárgyai, könyvei a nappali szobában is tárolhatók, más családtagok (háztartás-tagok) számára biztosítsunk egyéni tevékenységeik közelében különféle tárgyaiknak, könyveiknek megfelelő méretű tároló helyet. Egy-egy családtag mentális komfort-érzetéhez az egyénileg kialakított, saját tárgyi környezet is hozzájárul.
 
@@ -599,7 +640,7 @@ Az egyéni tevékenységek bútorait az [1.24. ábra](#abra_1_24) mutatja.
 
 *1.24. ábra – Egyéni tevékenységek bútorai*
 
-#### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
+##### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
 
 **ALAPKÖVETELMÉNY:**
 Biztosítani kell, hogy a lakást használó háztartás tagjai különféle egyéni tevékenységeiket (tanulás, szellemi munka, szabadidő-tevékenység) zavartalanul végezhessék, az ehhez szükséges tárgyakat, eszközöket saját környezetükben tárolhassák.
@@ -612,7 +653,7 @@ Biztosítani kell, hogy a lakást használó háztartás tagjai különféle egy
 Az egyéni tevékenység helye legyen más, egyidejűleg folyó zajosabb lakástevékenységtől akusztikailag elválasztható. Egy akusztikailag összefüggő tér (szoba) lehetőleg legfeljebb csak két személy egyéni tevékenységeinek legyen helye. Az alvás és az egyéni tevékenységek helye lehet azonos tér, de a két funkció el is válaszható (háló + dolgozó). Szükség esetén egy munkahely lehet a nappali térben. A szülői hálóban lévő, egyéni tevékenységre szolgáló bútorzónát, amennyiben lehet, úgy képezzük ki, hogy annak helyén átmenetileg elhelyezhető legyen kisbaba ágya.
 
 <a id="E1_Etelkeszites"></a>
-### 1.3.5. Ételkészítés
+#### 1.3.5. Ételkészítés
 
 Az ételkészítés hagyományos helye a konyha, azonban ma már gyakori, hogy a főzőhely számára nem alakítanak ki külön, e célra szolgáló helyiséget. A továbbiakban konyhát említvén, ezen az ételkészítés bútorait, berendezéseit és a hozzájuk tartozó használati zónát értjük, akár külön helyiségben vannak, akár más térrel (nappalival) összekapcsolt térben.
 
@@ -626,9 +667,11 @@ A mai, korszerű konyhák elődeit a huszadik század harmincas éveiben fejlesz
 
 *1.25. ábra – A ‘frankfurti konyha’ 1931*
 
-> **Megjegyzés**
->
-> A múlt század húszas, harmincas éveiben folyó funkcionalista lakáselméletek kidolgozása során az ergonómia módszereivel kutatták az otthon végzett fizikai munka helyének – elsősorban a főzésnek – minél kevesebb erőkifejtést igénylő és minél helytakarékosabb kialakítását. A ma elterjedt beépített konyhák prototípusát Grete Lihotzky tervezte meg, amely a „frankfurti konyha” elnevezéssel vált közismertté, ugyanis azt Frankfurt-am-Mainban alkalmazta először Ernst May az ott épülő munkáslakások tervezése során. Ez a konyhaelrendezés röviddel ezután a stockholmi lakásépítési kiállításon nagy sikert aratott, ezért „svéd konyha” néven is ismert.
+::: note
+
+A múlt század húszas, harmincas éveiben folyó funkcionalista lakáselméletek kidolgozása során az ergonómia módszereivel kutatták az otthon végzett fizikai munka helyének – elsősorban a főzésnek – minél kevesebb erőkifejtést igénylő és minél helytakarékosabb kialakítását. A ma elterjedt beépített konyhák prototípusát Grete Lihotzky tervezte meg, amely a „frankfurti konyha” elnevezéssel vált közismertté, ugyanis azt Frankfurt-am-Mainban alkalmazta először Ernst May az ott épülő munkáslakások tervezése során. Ez a konyhaelrendezés röviddel ezután a stockholmi lakásépítési kiállításon nagy sikert aratott, ezért „svéd konyha” néven is ismert.
+:::
+
 
 A korszerű, beépített konyhák méretkoordinált bútorelemekből és berendezésekből összeépített elemsort képeznek: alsó tárolókkal, melyek egyben munkafelületek is, valamint falra szerelt felső tárolókkal esetenként magas szekrényelemekkel. A tárolók rendeltetését és a főzés technológiai sorrendjét az [1.26. ábra](#abra_1_26) mutatja.
 
@@ -644,7 +687,7 @@ A méretkoordinált beépített elemek egységesen 60 cm mélyek, az alsó táro
 
 A *tűzhelyek* lehetnek elektromos tűzhelyek vagy gáztűzhelyek. A gáztűzhely üzemeltetése jelenleg olcsóbb, de a nyílt láng égésterméke szennyezi a levegőt és a függönyökre, más textíliákra lerakódik. Ha a konyha légtere a nappali terével össze van nyitva, akkor gáztűzhelyt semmiképp ne alkalmazzunk. Az elektromos tűzhelyek sütője lehet magának a tűzhelynek az alsó részén, de elhelyezhető külön is, magas szekrényelembe építve. Ez utóbbi használata kényelmesebb, mert álló testhelyzetben is kezelhető. Ilyenkor a főzőlap alatti bútorelem tárolóként szolgál.
 
-*Szagelszívó* berendezés kétféle van: olyan, amely a többé-kevésbé megszűrt levegőt a konyha terébe visszaáramoltatja, vagy olyan, amelyik az elszívott levegőt ventillátorral, légvezetéken át a szabadba vezeti. Más lakótérrel összekapcsolt konyha esetén kizárólag az utóbbi a megfelelő, ilyen esetben alkalmazása nem nélkülözhető. Működtetésekor levegő-utánpótlásról gondoskodni kell. Ha a szagelszívó és a gázüzemű falikazán netán egy légtérbe kerül, akkor utóbbi csak zárt égésterű lehet (lásd: 1.5.3. fejezet).
+*Szagelszívó* berendezés kétféle van: olyan, amely a többé-kevésbé megszűrt levegőt a konyha terébe visszaáramoltatja, vagy olyan, amelyik az elszívott levegőt ventillátorral, légvezetéken át a szabadba vezeti. Más lakótérrel összekapcsolt konyha esetén kizárólag az utóbbi a megfelelő, ilyen esetben alkalmazása nem nélkülözhető. Működtetésekor levegő-utánpótlásról gondoskodni kell. Ha a szagelszívó és a gázüzemű falikazán netán egy légtérbe kerül, akkor utóbbi csak zárt égésterű lehet (lásd: [1.5.3.](#E1_Homerseklet_hoerzet_futes) fejezet).
 
 A *mosogatók* egy- vagy kétmedencések, csepptálcával vagy anélkül készülnek. Ha mosogatógép nincs a konyhában, akkor kétmedencés mosogatót tervezzünk, mert az egymedencés mosogatóban, folyóvízzel történő mosogatás igen víz- és energiaigényes, és sokkal több mosogatószert fogyaszt (ez környezetvédelmi szempontból is hátrányos, mert a mosogatószerek előbb-utóbb az élővizekbe kerülnek).
 
@@ -658,15 +701,17 @@ A *mosogatógép* ma már általánosan elterjedt, a tervezés során hagyjunk h
 
 A *hűtőszekrény* lehet az elemsorba illesztve, de attól különállóan is elhelyezhető. A technológiai folyamatban nincs kijelölt helye. A hűtőszekrény legyen a konyha terében (a kamrában elhelyezett hűtő kezelése körülményes, a kamrát melegíti). Teljes háztartás vitelére alkalmas konyhákba legalább 200 literes hűtőszekrény való, amely a konyhabútorok alsó elemsoránál mindenképp magasabb. Az alacsony (az alsó elemsorba illeszthető) hűtő csak kisebb, 1-2 személyes lakásokban elegendő, de lehetőség szerint itt is ajánlott a magasabb, 150–200 literes hűtő betervezése. Igényesebb konyháknál érdemes 60 x 90 cm méretű hűtőszekrénynek, vagy egyenként 60 x 60 cm méretű hűtő- és fagyasztószekrénynek helyet biztosítani.
 
-> **Megjegyzés**
->
-> A hulladékgyűjtés leginkább a bútorozáshoz köthető funkció, de feltétlenül gondoskodni kell a konyhai és lakáson belüli szelektív gyűjtésről. A helyigény biztosítása kézenfekvően a konyhai technológiához van kötve. Az egy főre jutó szemét mennyisége még tudatos vásárlói szokások mellett is növekszik (magasabb fogyasztási színvonal, több csomagolás). A megnövekedett hulladék újrahasznosítása előírás, és a környezet védelme mellett üzleti érdek is. A településeken a közterületen felállított szelektív gyűjtőket felváltja a háznál történő szelektálás és a szelektív szállítás.
->
-> Az úgynevezett amerikai konyha esetében is szükséges a „háttérüzem” (élelmiszertároló, hulladéktároló stb.) helyének biztosítása a kevésbé látványos konyhai műveletek és tevékenységek végzéséhez.
->
-> Kistelepülések esetében – ahol a lakás mellett jellemzően nagyobb terület áll rendelkezésre – a konyha sokszor egyéb tevékenységeknek (tartósítás, befőzés, mélyhűtésre alkalmas előkészítés és csomagolás) is helyet ad. Még az átlagos családok esetében is tekinthetünk úgy a konyhára, mint értékteremtő munkahelyre.
->
-> — Novák Ágnes
+::: note
+
+A hulladékgyűjtés leginkább a bútorozáshoz köthető funkció, de feltétlenül gondoskodni kell a konyhai és lakáson belüli szelektív gyűjtésről. A helyigény biztosítása kézenfekvően a konyhai technológiához van kötve. Az egy főre jutó szemét mennyisége még tudatos vásárlói szokások mellett is növekszik (magasabb fogyasztási színvonal, több csomagolás). A megnövekedett hulladék újrahasznosítása előírás, és a környezet védelme mellett üzleti érdek is. A településeken a közterületen felállított szelektív gyűjtőket felváltja a háznál történő szelektálás és a szelektív szállítás.
+
+Az úgynevezett amerikai konyha esetében is szükséges a „háttérüzem” (élelmiszertároló, hulladéktároló stb.) helyének biztosítása a kevésbé látványos konyhai műveletek és tevékenységek végzéséhez.
+
+Kistelepülések esetében – ahol a lakás mellett jellemzően nagyobb terület áll rendelkezésre – a konyha sokszor egyéb tevékenységeknek (tartósítás, befőzés, mélyhűtésre alkalmas előkészítés és csomagolás) is helyet ad. Még az átlagos családok esetében is tekinthetünk úgy a konyhára, mint értékteremtő munkahelyre.
+
+— Novák Ágnes
+:::
+
 
 *A konyhabútor-elemek* igen széles választéka kapható a kereskedelemben, amelyekből különböző hosszúságú technológiai felület állítható össze. Egyes bútorcsaládok a 15 cm-es alapmodult használják, mások az ISO szabvány szerinti 1M (10 cm) alapmodult. Az ½M (5cm) szubmodul mindkét méretrend alapegysége. Az [1.24. ábrán](#abra_1_24) bemutatott elemeknél mindkét méretrend változatait feltüntettük. Az alsó szekrényelemek összeállítása után a rájuk kerülő felület egyben is kiszabható, így az elemek csatlakozásánál a könnyen piszkolódó és nehezen tisztítható illesztési hézagokat el lehet kerülni. (A jobb kereskedések az elemsor összeépítését és egységes felső lappal való ellátását szolgáltatásként nyújtják.)
 
@@ -702,19 +747,21 @@ Nagyobb alapterületű, igényesebb lakásoknál a konyha két, ellenkező előj
 
 A viszonylag nagy alapterületű és nagy kapacitású házi konyháknál újra létjogosultságot kapott a középen lévő feldolgozó felület, amelyet a további technológiai felületek „L” vagy „U” alakban vesznek körül ([1.30. ábra](#abra_1_30)). A középre helyezett „konyhaszigeten” lehet vízvételi hely (mosogató-medence), vagy vizet melegen tartó főzőlap a másutt elhelyezett mosogatón, mosogatógépen és tűzhelyen kívül. Olyan elrendezések is vannak, ahol a teljes technológiai felület a szabadon álló pultfelületen kap helyet.
 
-> **Megjegyzés**
->
-> <a id="abra_1_30"></a>
->
-> ![Középre helyezett feldolgozó felület („szigetes” elrendezés)](images/abra_1_30_szigetes.png)
->
-> *1.30. ábra – Középre helyezett feldolgozó felület (‘szigetes’ elrendezés)*
->
-> A civilizációs ártalmak közül leginkább az allergia és az ételallergia terjed. (Jelenleg a hazai népesség több mint 25 %-a allergiás. A pollenallergiák hamar egyéb allergiákká is alakulnak, a gyermekek 6-8%-a ételallergiás, ez az arány felnőtt korra növekszik.) Ha ételallergiás személy van a családban, sokszor szükség lehet elválasztott konyhatechnológiára, akár külön hűtőszekrényre és edényre is. Ennek is van helyigénye, amit szintén figyelembe vehetünk. Egyre terjed a vegetáriánus, vegán, kóser stb. konyha, amit a tervezés során általában nem veszünk figyelembe, de akkor járunk el helyesen a jövendő – és az időben változó – használók érdekében, ha a különleges konyhatechnológiára megfelelő helyet biztosítunk, vagyis a konyhai egységek számát legalább egy elemmel „túlméretezzük”. Ez a későbbiekben lehetőséget ad a speciális igények befogadására. Az előbbiek alapján a szelektív hulladékgyűjtés, a családban előforduló allergiás vagy egyéb speciális étkezési szokású családtag igényeinek figyelembe vétele érdekében javasolt, hogy a korábban leírtakon kívül legalább egy további alsó és felső elemmel bővítsük a konyha méretét.
->
-> — Novák Ágnes
+::: note
 
-#### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
+<a id="abra_1_30"></a>
+
+![Középre helyezett feldolgozó felület („szigetes” elrendezés)](images/abra_1_30_szigetes.png)
+
+*1.30. ábra – Középre helyezett feldolgozó felület (‘szigetes’ elrendezés)*
+
+A civilizációs ártalmak közül leginkább az allergia és az ételallergia terjed. (Jelenleg a hazai népesség több mint 25 %-a allergiás. A pollenallergiák hamar egyéb allergiákká is alakulnak, a gyermekek 6-8%-a ételallergiás, ez az arány felnőtt korra növekszik.) Ha ételallergiás személy van a családban, sokszor szükség lehet elválasztott konyhatechnológiára, akár külön hűtőszekrényre és edényre is. Ennek is van helyigénye, amit szintén figyelembe vehetünk. Egyre terjed a vegetáriánus, vegán, kóser stb. konyha, amit a tervezés során általában nem veszünk figyelembe, de akkor járunk el helyesen a jövendő – és az időben változó – használók érdekében, ha a különleges konyhatechnológiára megfelelő helyet biztosítunk, vagyis a konyhai egységek számát legalább egy elemmel „túlméretezzük”. Ez a későbbiekben lehetőséget ad a speciális igények befogadására. Az előbbiek alapján a szelektív hulladékgyűjtés, a családban előforduló allergiás vagy egyéb speciális étkezési szokású családtag igényeinek figyelembe vétele érdekében javasolt, hogy a korábban leírtakon kívül legalább egy további alsó és felső elemmel bővítsük a konyha méretét.
+
+— Novák Ágnes
+:::
+
+
+##### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
 
 **ALAPKÖVETELMÉNY:**
 A lakásban olyan főzőhelyet kell kialakítani, ahol egy teljes ételsort tartalmazó főétkezés ételei elkészíthetők a lakást használó személyek + 2 vendég számára, ahol az edényeket el lehet mosogatni, megfelelő számú konyhaedényt és konyhaeszközt, evőedényt, evőeszközt tárolni lehet, és megfelelő méretű hűtőszekrényt lehet elhelyezni.
@@ -727,7 +774,7 @@ A hűtőszekrényen kívül az elemsor hossza ne legyen rövidebb 1-2 személyes
 A főzőhely lehet elkülönített térben vagy más lakótérrel (nappali szobával) egy légtérben. A konyhabútorok és berendezések előtti használati zóna nem szolgálhat közlekedésre az 1-2 férőhelyes kislakások kivételével (ezeknél megengedhető az un. főző-előtér). Ha a főzőhely más lakótérrel egy légtérben van, akkor a tűzhely fölé szagelszívó berendezést kell kialakítani. Ilyen esetben nem ajánlott gáztűzhelyt beépíteni. Az a nappali szoba, amellyel a konyha légtérben össze van kapcsolva, alvóhelyként nem vehető figyelembe az 1-2 személyes, egyszobás lakások kivételével.
 
 <a id="E1_Haztartasi_munkak"></a>
-### 1.3.6. Háztartási munkák
+#### 1.3.6. Háztartási munkák
 
 A lakásokban végzett háztartási munkák: mosás, szárítás, vasalás, ruhaneműk javítgatása, takarítás, tisztogatás. Átlagos méretű lakásoknál ezek a lakástevékenységek a lakás egyébként szükséges helyiségeiben elvégezhetők, nagyobb alapterületű, igényesebb lakásoknál célszerű ezek végzésére külön „háztartási helyiséget” kialakítani.
 
@@ -745,17 +792,19 @@ Tágasabb lakásoknál igen hasznos külön háztartási helyiség kialakítása
 
 *1.31. ábra – Háztartási munkák bútorai és berendezései*
 
-> **Megjegyzés**
->
-> Az otthonnal kapcsolatos takarítás, karbantartási, javítási tevékenységek általában növelik az épület élettartamát, így a fenntarthatóságot is segítik. További pszichés előnyt jelenthet az is, hogy az ilyen jellegű tevékenység általában kreatív, alkotó időtöltés – talán még a legunalmasabb porszívózás is az bizonyos tekintetben – és az otthonhoz való pozitív élményeket, erősebb kapcsolódást biztosíthatják.
->
-> Átlagos háztartások esetében a háztartási munkával töltött idő a háztartások gépesítettségének javulása ellenére sem csökken, természetesen a fizikai megterhelés kevesebb. (1986-2000 között a nők háztartásgazdasági munkával töltött ideje 5 %-kal csökkent – vélhetően a gépesítés eredményeképpen, ugyanakkor a férfiak erre fordított ideje 16 %-kal nőtt. Az átlagos nő ennek ellenére napi 249 percet, míg a férfi átlagosan 101 percet töltött háztartásgazdasági tevékenységgel, ideértve a bevásárlást, az otthon karbantartását és az életvitelhez szükséges egyéb teendőket.)
->
-> A háztartási munka és annak eszközei helyigényesek, és az eszközök tárolására feltétlenül szükséges helyet biztosítani, míg a tevékenység maga általában nem egy helyhez kötött, ennek ellenére a kicentizett terekben nehezebben végezhető, mint a bizonyos területi tartalékkal is rendelkező lakásokban.
->
-> — Novák Ágnes
+::: note
 
-#### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
+Az otthonnal kapcsolatos takarítás, karbantartási, javítási tevékenységek általában növelik az épület élettartamát, így a fenntarthatóságot is segítik. További pszichés előnyt jelenthet az is, hogy az ilyen jellegű tevékenység általában kreatív, alkotó időtöltés – talán még a legunalmasabb porszívózás is az bizonyos tekintetben – és az otthonhoz való pozitív élményeket, erősebb kapcsolódást biztosíthatják.
+
+Átlagos háztartások esetében a háztartási munkával töltött idő a háztartások gépesítettségének javulása ellenére sem csökken, természetesen a fizikai megterhelés kevesebb. (1986-2000 között a nők háztartásgazdasági munkával töltött ideje 5 %-kal csökkent – vélhetően a gépesítés eredményeképpen, ugyanakkor a férfiak erre fordított ideje 16 %-kal nőtt. Az átlagos nő ennek ellenére napi 249 percet, míg a férfi átlagosan 101 percet töltött háztartásgazdasági tevékenységgel, ideértve a bevásárlást, az otthon karbantartását és az életvitelhez szükséges egyéb teendőket.)
+
+A háztartási munka és annak eszközei helyigényesek, és az eszközök tárolására feltétlenül szükséges helyet biztosítani, míg a tevékenység maga általában nem egy helyhez kötött, ennek ellenére a kicentizett terekben nehezebben végezhető, mint a bizonyos területi tartalékkal is rendelkező lakásokban.
+
+— Novák Ágnes
+:::
+
+
+##### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
 
 **ALAPKÖVETELMÉNY:**
 Biztosítani kell, hogy a lakásban a mosás, szárítás, vasalás, ruhaneműk javítgatása elvégezhető legyen, a takarítóeszközök és takarítószerek számára megfelelő tároló elem álljon rendelkezésre.
@@ -766,7 +815,7 @@ Minimális felszereltség: automata mosógép, szárítóállvány vagy fregoli,
 Ha külön háztartási helyiség készül, abban legyen automata mosógép (szárítógép), kézi mosásra és tisztogatásra szolgáló mosogatómedence, szennyesruha-szekrény, javítgatásra, vasalásra szolgáló asztal és lehajtható vasalódeszka, takarítóeszköz-tároló szekrény.
 
 <a id="E1_Szemelyi_higienia"></a>
-### 1.3.7. Személyi higiénia
+#### 1.3.7. Személyi higiénia
 
 Az újonnan épülő lakásokból nem hiányozhat a lakáson belül elhelyezett vízöblítéses WC berendezés és a melegvízzel ellátott tisztálkodó helyiség (fürdőszoba vagy zuhanyfülke).
 
@@ -808,7 +857,7 @@ Az [1.36. ábrasoron](#abra_1_36) különféle egészségügyi helyiségek mére
 
 A WC helyiségben rendes méretű mosdót (nemcsak kézmosót) ajánlatos elhelyezni, ha azon a szinten nincs fürdőszoba (kétszintes lakásoknál), vagy igényesebb lakások vendég-vécéiben, ahol a vendégségbe jött hölgyek sminkelhetnek, fésülködhetnek a piperepolccal, tükörrel ellátott mosdó előtt. A méretezési példák tartalmaznak olyan elrendezéseket is, ahol a fürdőszobában mosógép van, mivel átlagos lakások esetén ez általános igény. Nagy lakások színvonalasan kialakított fürdőszobáiba lehetőleg ne kerüljön mosógép: jobb, ha annak külön háztartási helyiséget alakítunk ki.
 
-#### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
+##### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
 
 **ALAPKÖVETELMÉNY:**
 Biztosítani kell, hogy a lakás valamennyi lakója – a tolerálható egyidejűség figyelembe vételével – WC berendezést használhasson, meleg vízben mosakodhasson, fürödhessen.
@@ -825,8 +874,14 @@ Biztosítani kell, hogy a lakás valamennyi lakója – a tolerálható egyidej�
 
 Akkor, ha a lakásban WC berendezéssel ellátott második fürdőszoba vagy zuhanyfülke van, akkor az helyettesítheti a külön WC-t. Amennyiben a lakás helyiségei két szinten helyezkednek el, szintenként legyen legalább egy WC berendezés (külön helyiségben vagy fürdőszobában). Szinteltolásos lakásoknál a WC legfeljebb fél-szint magassági különbséggel legyen elérhető. Fürdőszoba nem szolgálhat más helyiség kizárólagos megközelítésére. A fürdőszoba hálószobán keresztül csak akkor közelíthető meg, ha az kizárólag a hálószobát használókat szolgálja, és azon kívül van még egy, más háztartás-tagok által használható fürdőszoba is.
 
+<a id="abra_1_37"></a>
+
+![Különböző férőhelyszámú lakások higiéniai felszereltségének fokozatai](images/abra_1_37_higikovtlm.png)
+
+*1.37. ábra – Különböző férőhelyszámú lakások higiéniai felszereltségének fokozatai*
+
 <a id="E1_Tarolas"></a>
-### 1.3.8. Tárolás
+#### 1.3.8. Tárolás
 
 A közös időtöltés, az egyéni tevékenységek, a háztartási munkák tároló bútorainak helyigényét a korábbi fejezetekben tárgyaltuk.
 
@@ -834,9 +889,9 @@ A *ruhaneműk tárolása* történhet mobil szekrényben, beépített szekrényb
 
 <a id="abra_1_38"></a>
 
-![Különböző férőhelyszámú lakások higiéniai felszereltségének fokozatai](images/abra_1_38_ruhatarolas.png)
+![Ruhatárolási megoldások](images/abra_1_38_ruhatarolas.png)
 
-*1.38. ábra – Különböző férőhelyszámú lakások higiéniai felszereltségének fokozatai*
+*1.38. ábra – Ruhatárolási megoldások*
 
 Az *élelmiszertárolás* jelentősége városi lakásokban csökken, mert a kereskedelemben minden élelmiszer könnyen és gyorsan hozzáférhető. Tapasztalható azonban ellenkező előjelű fejlődés is, főleg a nagyvárosok lazább beépítésű zöldövezeteinek és a szuburbánus térségeinek lakásainál, melyek lakói igen gyakran egyszerre vásárolnak egész hétre való élelmiszert és azt autóval szállítják haza. A füstöltáruk, befőttek, nagyobb mennyiségű zöldségfélék tárolására szolgáló hagyományos, nagyméretű éléskamrák igénye inkább csak vidéki településekre jellemző. Sok más országgal szemben, ahol az élelmiszereket a konyhában tárolják, magyar lakáshasználati szokások általában igénylik a lakásokban a „spájz” meglétét.
 
@@ -854,7 +909,7 @@ Az *éléskamrák* mérete legyen kellően széles, legalább két, de kívánat
 
 *Egyéb tárgyak tárolása* (sporteszközök, nagyobb méretű játékok, éppen használaton kívüli gyerek-járóka, szerszámok stb.) tárolása történhet a lakáson kívül is, de a lakás elérhető közelségében (családi házaknál a pincében vagy padláson, esetleg a melléképületek között lévő tároló helyiségben, többlakásos házaknál külön pincei tárolókban). A szorosan értelmezett lakástereken kívül elhelyezett tároló létesítése lényegesen olcsóbb lehet, mint ha az a lakással azonos költséggel kialakított helyiségben történne. Kertes lakásoknál biztosítani kell a kerti szerszámok és kerti bútorok tárolását.
 
-#### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
+##### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
 
 **ALAPKÖVETELMÉNY:**
 A lakáson belül megfelelő nagyságú tárolókban (helyiségben, bútorzatban) kell biztosítani a ruhaneműk, élelmiszerek tárolását, a lakás könnyen elérhető közelségében egyéb használati tárgyak tárolását.
@@ -877,7 +932,7 @@ Nyomatékosan ajánlott az élelmiszertárolás helyigényének meghatározásá
 *Különféle tárgyak eszközök* tárolására *erősen ajánlott* lakásonként legalább 4 m² alapterületű, elzárható tároló helyiséget biztosítani a lakóépületben vagy annak telkén álló melléképületben. Ez lehet a lakás terein kívül is.
 
 <a id="E1_Gyermekapolas_gyermekneveles"></a>
-### 1.3.9. Gyermekápolás, gyermeknevelés
+#### 1.3.9. Gyermekápolás, gyermeknevelés
 
 A családok által használható lakások elemi rendeltetése a gyermekápolás és gyermeknevelés. A 3 férőhelyes, vagy annál nagyobb lakásoknál gyermekkorú használóra is gondolni kell. Konkrét családtól kapott tervezési megbízás esetén is – ahol már nincs gyermekkorú családtag – figyelembe kell venni, hogy a lakás idővel gazdát cserélhet, és a lakás értékét (kelendőségét) nagyban csökkenti, ha gyermeknevelésre nem alkalmas.
 
@@ -885,14 +940,14 @@ Korábbiakban, az egyes lakástevékenységek bútorainak térszükséglet-elemz
 
 A csecsemő és kisded korú gyermek igényli a szülőjével való állandó kapcsolatot és felügyeletet még annak más elfoglaltsága esetén is: ezért szükséges a csecsemőkorú gyermek ágyának helyet biztosítani a szülői hálószobában, és a konyhát (főzőhelyet) úgy elhelyezni vagy kialakítani, hogy onnan a gyermek járókája vagy játszóhelye látható, felügyelhető legyen. A szülő jelenlétének érzete magának a gyermeknek is igénye: ezért jó, ha a szülői háló és a kisded korú gyermek hálószobája legalább hallótávolságon belül van (kerülni kell pl. az olyan elrendezéseket, ahol a szülői háló és a kisgyermek hálója a lakás távol eső sarkaiban vagy akár eltérő szinten van).
 
-A közlekedő sávok, ajtók használati zónájának kijelölésekor gondoljunk a karon ülő gyermekkel együtt történő mozgásra. A lakáson belüli mozgás szempontból a mozgásukban korlátozott öreg használók és a járni tanuló vagy épp totyogó kisgyermek igényei gyakran egybeesnek (lásd 1.7. fejezet).
+A közlekedő sávok, ajtók használati zónájának kijelölésekor gondoljunk a karon ülő gyermekkel együtt történő mozgásra. A lakáson belüli mozgás szempontból a mozgásukban korlátozott öreg használók és a járni tanuló vagy épp totyogó kisgyermek igényei gyakran egybeesnek (lásd [1.7.](#E1_Az_akadalymentes_lakas-egyetemes_tervezes) fejezet).
 
 A korábban elemzett lakástevékenységek tér- és eszközigényénél mindig gondolni kell a csecsemő vagy kicsi gyermek szempontjaira. Például, a fürdőszoba kialakításánál előnyben kell részesíteni a fürdőkádat a zuhanyozóval szemben, mert a csecsemő kiskádban való fürösztése zuhanyfülkében nem lehetséges.
 
-Rendkívül fontos a kisgyermek lakáson belüli biztonsága. A gyermekbalesetek sokszor történnek a konyhában (ezek forrásaira és azok kiiktatására az 1.3.5. fejezetben utaltunk). A baleset-elhárításra szolgáló szerkezetek, pl. védőkorlátok kialakítása során gondolni kell a gyermek szempontjaira: annak kisebb testméretére – a védőrács nyílásméreteinél – és arra is, hogy a kisgyermek veszélyérzete még fejletlen. Ezért nem szabad a védőkorlátokon olyan rácsozatot készíteni, amelyen a gyermek felmászhat (lásd későbbi fejezetben).
+Rendkívül fontos a kisgyermek lakáson belüli biztonsága. A gyermekbalesetek sokszor történnek a konyhában (ezek forrásaira és azok kiiktatására az [1.3.5.](#E1_Etelkeszites) fejezetben utaltunk). A baleset-elhárításra szolgáló szerkezetek, pl. védőkorlátok kialakítása során gondolni kell a gyermek szempontjaira: annak kisebb testméretére – a védőrács nyílásméreteinél – és arra is, hogy a kisgyermek veszélyérzete még fejletlen. Ezért nem szabad a védőkorlátokon olyan rácsozatot készíteni, amelyen a gyermek felmászhat (lásd későbbi fejezetben).
 
 <a id="E1_Lakasterek_helyisegek"></a>
-## 1.4. Lakásterek, helyiségek
+### 1.4. Lakásterek, helyiségek
 
 Hangsúlyozzuk, hogy az alább elemzett helyiségméretek a bennük *feltételezett* lakásfunkciók bútorainak és berendezéseinek elhelyezéséhez szükséges méreteiből adódnak. Korántsem biztos, hogy csak ezek a funkciók lesznek jelen a valóságos használatban, sőt azok időben is változhatnak a lakás élettartama során. Ezért a jelölt helyiségméreteket csak alsó határértékként kell figyelembe venni, legalább 5 – 10 %-os növelésük javasolható a tervezés folyamán.
 
@@ -915,13 +970,15 @@ A lakásoknál előírt hanggátlású fallal és tömör ajtólappal leválaszt
 
 *Közlekedő helyiségek* a lakás azon terei, amelyek fő rendeltetése a lakáson belüli mozgás. Gyakori – és javasolt – a közlekedő tereknek tárolási funkcióval (ruhatárolással) történő kiegészítése. A lakásoknál leggyakrabban alkalmazott közlekedő tér a bejárathoz kapcsolódó előszoba és a belső közlekedő folyosó, amelynek ruhásszekrényekkel kiegészített változatát „gardróbnak” nevezzük. Az előszoba szabad (bútorokon kívüli) szélessége 1.20 m-nél, a belső közlekedő szélessége (bútorokon kívül) 1 m-nél ne legyen kevesebb, ha arról oldalirányban is szobák nyílnak.
 
-> **Megjegyzés**
->
-> Az előszoba méretének meghatározásakor ügyeljünk arra, hogy ebben a helyiségben a közlekedés és ruha tárolása mellett legyen elegendő hely a benyíló bejárati ajtó nyitására, az öltözködésre, cipőcserére is. Bizonyos élethelyzetekben más és más igények kerülnek előtérbe. Gyermekek öltöztetéséhez, illetve idősebbek számára előnyös ha egy szék elhelyezhető az előszoba terében anélkül, hogy az a közlekedést zavarná. Az előtérben célszerű egy kb. 0,90 x 1,20 m-es méretű tárolásra alkalmas területet is biztosítani, amely kisgyermekes család esetében a babakocsi tárolására, idősebb családtag vagy kerekesszékes személy esetén a segédeszköz tárolására nyújt lehetőséget. Ez a tároló lehet az előtérből nyíló önálló gardrób helyiség is, de ez legyen követlen kapcsolatban az előtérrel, hogy a saras, vizes kerekű babakocsival, kerekes járókerettel, bevásárló kocsival ne kelljen a lakás több helyiségén keresztülmenni. (Többlakásos lakóépületek esetében a kerekesszék, babakocsi, esetleg bicikli tárolására egy közös tároló is szolgálhat az épület bejáratához közel.)
->
-> A nagyobb méretű előszoba kialakítása vendégek érkezésekor, vagy egy nagyobb család reggeli készülődésekor is előnyös.
->
-> — Pandula András
+::: note
+
+Az előszoba méretének meghatározásakor ügyeljünk arra, hogy ebben a helyiségben a közlekedés és ruha tárolása mellett legyen elegendő hely a benyíló bejárati ajtó nyitására, az öltözködésre, cipőcserére is. Bizonyos élethelyzetekben más és más igények kerülnek előtérbe. Gyermekek öltöztetéséhez, illetve idősebbek számára előnyös ha egy szék elhelyezhető az előszoba terében anélkül, hogy az a közlekedést zavarná. Az előtérben célszerű egy kb. 0,90 x 1,20 m-es méretű tárolásra alkalmas területet is biztosítani, amely kisgyermekes család esetében a babakocsi tárolására, idősebb családtag vagy kerekesszékes személy esetén a segédeszköz tárolására nyújt lehetőséget. Ez a tároló lehet az előtérből nyíló önálló gardrób helyiség is, de ez legyen követlen kapcsolatban az előtérrel, hogy a saras, vizes kerekű babakocsival, kerekes járókerettel, bevásárló kocsival ne kelljen a lakás több helyiségén keresztülmenni. (Többlakásos lakóépületek esetében a kerekesszék, babakocsi, esetleg bicikli tárolására egy közös tároló is szolgálhat az épület bejáratához közel.)
+
+A nagyobb méretű előszoba kialakítása vendégek érkezésekor, vagy egy nagyobb család reggeli készülődésekor is előnyös.
+
+— Pandula András
+:::
+
 
 *A nappali szoba* rendeltetése a lakás kialakításától, nagyságától függően változó. Az [1.40. ábrasor](#abra_1_40) különböző nagyságú és kialakítású nappali szobákat mutat be, aszerint, hogy azok milyen rendeltetési követelmények betöltésére szolgálnak. A „közös időtöltés, vendégek fogadása” általános funkció. Ez kiegészülhet egy használó „egyéni tevékenysége” többcélú bútorzónájának helyigényével: ezt mindenképp ajánlatos figyelembe venni, hogy a szoba némi tartalékterülettel rendelkezzék az alapfunkció bútorainak helyigényén kívül. A nappali szoba lehet az étkezés helye, ekkor a konyha az étkező megfelelő közelségében legyen (kivétel, ha a konyhában is van étkezőhely, és a nappali étkező bútorcsoportja csak alkalmanként kerül használatba).
 
@@ -943,11 +1000,13 @@ A nappali lehet alvóhely is, elsősorban egyszobás kislakásoknál. Egy-két f
 
 *1.41. ábra – Példák étkezőkre*
 
-> **Megjegyzés**
->
-> A körbeülhető étkezőasztal mindenki számára előnyös, de különösen a hallássérültek számára. Így nemcsak egymás mellett, hanem derékszöget bezárva, valamint egymással szemben is le lehet ülni, s ezzel biztosíthatjuk a jó kommunikáció és a szájról olvasás lehetőségét. Javasolt az étkezőasztalt az ablakra merőlegesen úgy elhelyezni, hogy az ülőhelyeket elfoglalva a személyek arca ne legyen árnyékban, és ezzel biztosítható a szájról olvasás, a mimika érzékelésének lehetősége, a kényelmesebb kommunikáció.
->
-> — Pandula András
+::: note
+
+A körbeülhető étkezőasztal mindenki számára előnyös, de különösen a hallássérültek számára. Így nemcsak egymás mellett, hanem derékszöget bezárva, valamint egymással szemben is le lehet ülni, s ezzel biztosíthatjuk a jó kommunikáció és a szájról olvasás lehetőségét. Javasolt az étkezőasztalt az ablakra merőlegesen úgy elhelyezni, hogy az ülőhelyeket elfoglalva a személyek arca ne legyen árnyékban, és ezzel biztosítható a szájról olvasás, a mimika érzékelésének lehetősége, a kényelmesebb kommunikáció.
+
+— Pandula András
+:::
+
 
 *Az étkezős konyhák* helytakarékosabbak, mint a főzőkonyha + étkező együttesen. Előnyük, hogy az étkező asztal az étkezés idején kívül az ételkészítés technológiai felülete is lehet. Bizonyos életvitel mellett (pl. háziállatokat is nevelő falusi háztartásoknál) a konyhában lévő feldolgozó asztal nélkülözhetetlen. Természetesen, étkezős konyhák kialakíthatók városi lakásoknál is. Igényes, nagyméretű lakásoknál – ahol tágas étkezőhelyiség van – általánosan felmerülő igény, hogy a konyhában a főétkezés helyén kívül még egy kisebb étkező, reggeliző hely legyen (ez takarékosabban is méretezhető: lásd [1.22.b. ábra](#abra_1_22)). Különböző étkezős konyhákat mutat az [1.42. ábrasor](#abra_1_42).
 
@@ -957,9 +1016,9 @@ A nappali lehet alvóhely is, elsősorban egyszobás kislakásoknál. Egy-két f
 
 *1.42. ábra – Példák étkezős konyhákra*
 
-A *főzőkonyhák* berendezéseinek elrendezése magának a helyiségnek a kialakítását is meghatározza. Ezeket részletesen tárgyaltuk az 1.3.5. fejezetben és az [1.28. ábrán](#abra_1_28).
+A *főzőkonyhák* berendezéseinek elrendezése magának a helyiségnek a kialakítását is meghatározza. Ezeket részletesen tárgyaltuk az [1.3.5.](#E1_Etelkeszites) fejezetben és az [1.28. ábrán](#abra_1_28).
 
-*Az egészségügyi helyiségek* kialakítását részletesen tárgyalta az 1.3.7 fejezet, az [1.36. ábrasor](#abra_1_36) példákat mutat be. Az egészségügyi helyiségek vizuális és akusztikai zárása általában szükséges (ritka kivétel lehet, pl. a szülői hálóból nyíló, csak a szülők által használt fürdőszoba esetén).
+*Az egészségügyi helyiségek* kialakítását részletesen tárgyalta az [1.3.7](#E1_Szemelyi_higienia) fejezet, az [1.36. ábrasor](#abra_1_36) példákat mutat be. Az egészségügyi helyiségek vizuális és akusztikai zárása általában szükséges (ritka kivétel lehet, pl. a szülői hálóból nyíló, csak a szülők által használt fürdőszoba esetén).
 
 *A hálószobák* fő rendeltetése az alvás, de általában ez a helyszíne a hálószobát használók egyéni tevékenységének, szellemi munkájának is. A hálószobákat mind vizuálisan, mind akusztikailag a lakás egyéb tereitől le kell választani. Különféle hálószoba elrendezéseket mutat be az [1.43. ábrasor](#abra_1_43). (A helyiségméretek kótái mindig az adott bútorelrendezéshez szükséges legkisebb méretet jelzik: ezeknél nagyobb mindig tervezhető!)
 
@@ -982,10 +1041,10 @@ Az egyszemélyes háló legalább 8 m² alapterületű legyen. A felnőtt korú 
 A felsorolt, konvencionális helyiségeken kívül lehetőség van a lakásterek változatos kialakítására, olyanokra is, amikor „helyiségnek” nehezen nevezhető tér-részről beszélünk (pl. galéria; üldögélésre, társalgásra alkalmas közlekedőtér-bővület; egymásba átáramló, határozottan le nem választott terek stb.). Az ezekre vonatkozó használati és komfortkövetelményeket arra a lakástevékenységre kell értelmezni, amely az adott térben vagy tér-részben folyik. A konkrét tervezési program igényelhet másféle, az általánostól eltérő rendeltetésű helyiségeket vagy tereket is (pl. testépítő szoba, szauna, házi uszoda, hobbi-szoba, barkácsműhely, műterem stb.) Ezek kialakítását, méretezését mindig esetileg, az építtetővel egyeztetve kell a tervezési programban rögzíteni.
 
 <a id="E1_Lakasterek_komfortkovetelmenyei"></a>
-## 1.5. Lakásterek komfortkövetelményei
+### 1.5. Lakásterek komfortkövetelményei
 
 <a id="E1_Megvilagitas"></a>
-### 1.5.1. Megvilágítás
+#### 1.5.1. Megvilágítás
 
 Minden lakástér (helyiség) rendeltetésszerű használatához szükséges megvilágításáról gondoskodni kell. A megvilágítás lehet természetes megvilágítás és mesterséges megvilágítás.
 
@@ -1003,9 +1062,11 @@ A szabályzat (OTÉK) a helyiségek bevilágító felületének és hasznos alap
 
 A bevilágító felület számításánál mindig az *effektív üvegfelületet* kell figyelembe venni (az ablaktokok, osztások nélkül) ami számottevő mértékben kisebb, mint az ablaknyílások névleges mérete.
 
-> **Megjegyzés**
->
-> Osztás nélküli ablakoknál jó közelítéssel vehetjük a tiszta üvegfelület méretét minden irányban 13 cm-rel kevesebbnek, mint a névleges méret. Ez a becslés csak vázlattervi stádiumban elfogadható: a konkrét terveknél azt az üvegfelületet kell figyelembe venni, amelyet a gyártmánykatalógusok a különböző ablakokhoz megadnak, vagy az ablaktok és ablakszárny profiljának ismeretében pontosan számítható.
+::: note
+
+Osztás nélküli ablakoknál jó közelítéssel vehetjük a tiszta üvegfelület méretét minden irányban 13 cm-rel kevesebbnek, mint a névleges méret. Ez a becslés csak vázlattervi stádiumban elfogadható: a konkrét terveknél azt az üvegfelületet kell figyelembe venni, amelyet a gyártmánykatalógusok a különböző ablakokhoz megadnak, vagy az ablaktok és ablakszárny profiljának ismeretében pontosan számítható.
+:::
+
 
 Az előírás betartása önmagában nem garantálja azt, hogy a természetes megvilágítás mértéke ne legyen a kelleténél kisebb, vagy – esetleg – a szükségesnél nagyobb. Nem biztos, hogy az ablak 1:8 aránya elegendő, ha a helyiség egy szűk utcára vagy udvarra néz, és a szemközti házfal a sugárzó égbolt nagy felületét kitakarja. Vagy fordítva: ha egy dombtetőre épült ház ablakából a teljes horizont látszik, ez nyilván az átlagosnál kedvezőbb helyzetet jelent.
 
@@ -1048,7 +1109,7 @@ a csak alvás céljára szolgáló hálófülke vagy háló-galéria, amely más
 A fent leírt követelmények az *alsó határértéket* jelentik, azoknál kedvezőbb megvilágítás minden esetben lehetséges és – ha mód van rá – ajánlott is. A lakásban lévő, az általánostól különböző rendeltetésű terek megvilágítása a használat jellege szerint történjék. Ha a rendeltetésszerű használat folyamatosan meghaladja a két óra időtartamot, akkor azokhoz közvetlen, természetes világítást kell biztosítani.
 
 <a id="E1_Szellozes"></a>
-### 1.5.2. Szellőzés
+#### 1.5.2. Szellőzés
 
 A lakásterekben való tartózkodás során az ember oxigént fogyaszt, és széndioxidot lélegez ki. A megfelelő komfortérzetnél a levegő széndioxid tartalma nem haladhatja meg az egy ezreléket, ezért a lakásterek levegőjét cserélni, azokat szellőztetni kell. A szellőzés intenzitását a *légcsere* mértékével jellemzik. (Az óránként kétszeres légcsere azt jelenti, hogy egy helyiség teljes térfogatának levegője egy óra alatt kétszer cserélődik ki.)
 
@@ -1058,15 +1119,17 @@ Ha a légáramlás a különböző hőmérsékletű levegőrétegek fajsúly-kü
 
 *Természetes (gravitációs) szellőzés* történhet külső nyílászárón (ablakon, erkélyajtón) vagy légvezetéken (szellőzőkürtőn, légcsatornán) keresztül.
 
-A korábban alkalmazott külső nyílászárók óránként kb. 1-1,5-szeres légcserét biztosítottak csukott állapotban is (mérettől és légtömörségtől függően). A korszerű, energiatakarékos nyílászárók légtömörsége szinte korlátlanul fokozható, de annak túlzott mértéke hátrányos is lehet: a folyamatos légcsere hiánya akár egészségkárosodást is okozhat, olyankor, ha allergiát előidéző gombásodással párosul. A nagy légtömörségű ablakot is ki lehet időnként nyitni és így a helyiség szellőztethető, de hálószobák esetében, az éjszakai órákban ez nyilván nem lehetséges. Emiatt a hálószobák legkisebb légtérfogatát szabályzat előírja: ez min. 15 m3 fejenként.
+A korábban alkalmazott külső nyílászárók óránként kb. 1-1,5-szeres légcserét biztosítottak csukott állapotban is (mérettől és légtömörségtől függően). A korszerű, energiatakarékos nyílászárók légtömörsége szinte korlátlanul fokozható, de annak túlzott mértéke hátrányos is lehet: a folyamatos légcsere hiánya akár egészségkárosodást is okozhat, olyankor, ha allergiát előidéző gombásodással párosul. A nagy légtömörségű ablakot is ki lehet időnként nyitni és így a helyiség szellőztethető, de hálószobák esetében, az éjszakai órákban ez nyilván nem lehetséges. Emiatt a hálószobák legkisebb légtérfogatát szabályzat előírja: ez min. 15 m³ fejenként.
 
 Minthogy az ablakon keresztül történő légcsere intenzitása az ablak felső és alsó éle között lévő légoszlop fajsúly-különbségétől függ, szellőzés szempontjából kedvezőbbek a függőleges irányban nyújtott ablakszárnyak, mint a fekvő ablakok. Ugyanezen okból előnyös, ha az ablak felső záródása közel van a mennyezetsíkhoz.
 
-> **Megjegyzés**
->
-> A jó belső komfort érdekében szükséges légcsereszám függ a helyiséget használó személyek állapotától és a tevékenységtől is. A megfelelő természetes és egyenletes (huzatérzet nélküli) légcsere fontos komforttényező, és szinte magától megoldott abban az esetben, ha a lakás különböző homlokzatokra szellőzik, ha növény vagy vízfelület van a homlokzat közelében (utcai fasor, zöldhomlokzat), így a homlokzatok között hőmérséklet- különbség alakul ki a nap folyamán. A légcsere kérdése a kiváló légzárású ablakok és az úgynevezett „passzív ház” (lásd későbbi fejezetben) tervezése során lehet kritikus. Általában fűtési időszakon kívül a magas légcsere és nyáron az éjszakai szellőztetés előnyös, mivel csökkenti a belső terek túlmelegedését. Fűtési időszakban pedig az alacsonyabb légcsereszám takarékosabb üzemeltetést tesz lehetővé, mert a légcserével fűtési időszakban hőveszteség lép fel, hiszen meleg levegő távozik a belső térből, és helyét hideg levegő veszi át. A két követelmény látszólag ellentmondásban van, ezért gondos tervezés szükséges a szerkezetek és a gépészeti rendszerek megválasztása során. A gyártó ipar jelenleg a nyílászárók légtömörségének fokozására törekszik, ennek ellenére a frisslevegő bevezetését meg kell oldani.
->
-> — Novák Ágnes
+::: note
+
+A jó belső komfort érdekében szükséges légcsereszám függ a helyiséget használó személyek állapotától és a tevékenységtől is. A megfelelő természetes és egyenletes (huzatérzet nélküli) légcsere fontos komforttényező, és szinte magától megoldott abban az esetben, ha a lakás különböző homlokzatokra szellőzik, ha növény vagy vízfelület van a homlokzat közelében (utcai fasor, zöldhomlokzat), így a homlokzatok között hőmérséklet- különbség alakul ki a nap folyamán. A légcsere kérdése a kiváló légzárású ablakok és az úgynevezett „passzív ház” (lásd későbbi fejezetben) tervezése során lehet kritikus. Általában fűtési időszakon kívül a magas légcsere és nyáron az éjszakai szellőztetés előnyös, mivel csökkenti a belső terek túlmelegedését. Fűtési időszakban pedig az alacsonyabb légcsereszám takarékosabb üzemeltetést tesz lehetővé, mert a légcserével fűtési időszakban hőveszteség lép fel, hiszen meleg levegő távozik a belső térből, és helyét hideg levegő veszi át. A két követelmény látszólag ellentmondásban van, ezért gondos tervezés szükséges a szerkezetek és a gépészeti rendszerek megválasztása során. A gyártó ipar jelenleg a nyílászárók légtömörségének fokozására törekszik, ennek ellenére a frisslevegő bevezetését meg kell oldani.
+
+— Novák Ágnes
+:::
+
 
 Nem minden esetben biztosítható, hogy a szellőzést igénylő helyiségek közvetlenül a homlokzat mellé kerüljenek, és ablakkal lássák el őket. A belső fekvésű helyiségek természetes (gravitációs) szellőzése vízszintes légcsatornán vagy szellőzőkürtőn keresztül történhet.
 
@@ -1080,9 +1143,11 @@ Ha a belső fekvésű helyiség a homlokzathoz közel van, akkor szellőztetése
 
 A szellőzőkürtők a helyiség elhasznált levegőjét a tető fölé vezetik. A falazott szellőzőkürtők és különféle, beton-anyagú szerkezetek helyett ma egyre inkább a könnyű, fémszerkezetű, hőszigetelt szellőzőcsatornák használatosak.
 
-> **Megjegyzés**
->
-> A gravitációs szellőzőkürtők hatásfoka nem egyenletes: téli időszakban, amikor a szellőzőkürtő felső kitorkolásánál mért hőmérséklet jelentősen alacsonyabb, mint a szellőztetendő helyiség belső hőfoka, a légáramlás mértéke intenzív. Bizonyos meteorológiai helyzeteknél – amikor a szellőzőkürtő alsó-felső nyílása között nem mérhető hőmérséklet-különbség és a szél sem fúj – a kürtőben nincs légáramlás. Forró nyári napokon az is lehetséges, hogy a helyiség levegője hűvösebb a külsőnél, és a szellőzőkürtő visszafelé működik: a szellőztetendő helyiség elhasznált levegőjét a lakás légterébe nyomja (szerencsére ilyenkor az ablakok is nyitva vannak).
+::: note
+
+A gravitációs szellőzőkürtők hatásfoka nem egyenletes: téli időszakban, amikor a szellőzőkürtő felső kitorkolásánál mért hőmérséklet jelentősen alacsonyabb, mint a szellőztetendő helyiség belső hőfoka, a légáramlás mértéke intenzív. Bizonyos meteorológiai helyzeteknél – amikor a szellőzőkürtő alsó-felső nyílása között nem mérhető hőmérséklet-különbség és a szél sem fúj – a kürtőben nincs légáramlás. Forró nyári napokon az is lehetséges, hogy a helyiség levegője hűvösebb a külsőnél, és a szellőzőkürtő visszafelé működik: a szellőztetendő helyiség elhasznált levegőjét a lakás légterébe nyomja (szerencsére ilyenkor az ablakok is nyitva vannak).
+:::
+
 
 A gravitációs szellőzőkürtőn eltávozott levegő utánpótlása vagy a lakás légteréből történik a szellőztetett helyiség ajtórésein, illetve az erre a célra kialakított nyílás-áttöréseken keresztül, vagy külön légcsatornán keresztül kap a helyiség frisslevegő-utánpótlást ([1.48.b. ábra](#abra_1_48)). Az utóbbi megoldás sokkal jobb, de kialakítása bonyolultabb és költségesebb, ezért viszonylag ritkán használják. A gravitációs szellőzőkürtőt minden szellőztetendő helyiséghez külön-külön kell biztosítani, így egy szellőző-blokknak meglehetősen nagy helyigénye van többszintes, többlakásos épületek esetében.
 
@@ -1094,41 +1159,47 @@ A gravitációs szellőzőkürtőn eltávozott levegő utánpótlása vagy a lak
 
 Állandó intenzitású és szabályozható szellőzést biztosít a gépi szellőzés. Lehetséges, hogy a ventilátor több helyiség szellőztetésére szolgáló gyűjtőcsatorna kitorkolásánál van elhelyezve (tetőventilátor), amely állandóan működik. Ellátható valamennyi, szellőztetendő helyiség is külön ventilátorral, amelyeket automata kapcsol be, és tart üzemben a szükséges ideig. Ezek energiát használnak ugyan, de fogyasztásuk nem jelentős, ezért egyre gyakrabban alkalmazzák őket ([1.48.c. ábra](#abra_1_48)). A ventilátorok becsatlakozása előtt torló szelep van beépítve, amely a visszaáramlást megakadályozza, ezért egy szellőzőkürtő több helyiség szellőzésére elegendő többszintes épületeknél is.
 
-> **Megjegyzés**
->
-> Korszerűbb, „energiatudatos” gépészeti rendszereknél lehetséges hővisszanyerő berendezés alkalmazása, amely a távozó meleg levegővel a bejövő friss levegőt előmelegíti. Ez a rendszer a szellőzés energiamérlegét a nyereség-oldal felé billenti.
->
-> Amennyiben az egész lakást (épületet) ellátó központi szellőztető rendszer készül, azt kell figyelembe venni, hogy a gépészeti rendszer számára megfelelő hely biztosított legyen. A minimálisnál nagyobb belmagasság pl. a szellőztetőrendszerek beépítését is megkönnyíti.
->
-> A fentieket egybevetve is a gépészeti rendszerek túlzott alkalmazását kerülni kell, és a lakóhelyiségeknél lehetőleg passzív módon, szerkezetekkel és jó tájolással kell biztosítani a szükséges légcserét
->
-> — Novák Ágnes
+::: note
+
+Korszerűbb, „energiatudatos” gépészeti rendszereknél lehetséges hővisszanyerő berendezés alkalmazása, amely a távozó meleg levegővel a bejövő friss levegőt előmelegíti. Ez a rendszer a szellőzés energiamérlegét a nyereség-oldal felé billenti.
+
+Amennyiben az egész lakást (épületet) ellátó központi szellőztető rendszer készül, azt kell figyelembe venni, hogy a gépészeti rendszer számára megfelelő hely biztosított legyen. A minimálisnál nagyobb belmagasság pl. a szellőztetőrendszerek beépítését is megkönnyíti.
+
+A fentieket egybevetve is a gépészeti rendszerek túlzott alkalmazását kerülni kell, és a lakóhelyiségeknél lehetőleg passzív módon, szerkezetekkel és jó tájolással kell biztosítani a szükséges légcserét
+
+— Novák Ágnes
+:::
+
 
 **A lakásterek szellőzési követelményei:**
 
-- Ablakon keresztül történő, közvetlen természetes szellőzést kell biztosítani azoknak a lakástereknek, amelyek közvetlen, természetes megvilágítást is igényelnek (lásd 1.4.1. fejezet). Szellőző ablakfelülettel kell ellátni azokat a főzőkonyhákat és étkezőkonyhákat, amelyek önálló, más helyiségtől elzárt (elzárható) légtérrel rendelkeznek, kivéve az 1-2 férőhelyes kislakások főzőfülkéit.
+- Ablakon keresztül történő, közvetlen természetes szellőzést kell biztosítani azoknak a lakástereknek, amelyek közvetlen, természetes megvilágítást is igényelnek (lásd az [1.5.1.](#E1_Megvilagitas) fejezetet). Szellőző ablakfelülettel kell ellátni azokat a főzőkonyhákat és étkezőkonyhákat, amelyek önálló, más helyiségtől elzárt (elzárható) légtérrel rendelkeznek, kivéve az 1-2 férőhelyes kislakások főzőfülkéit.
 - Közvetett természetes szellőzéssel lehet kialakítani a közlekedő tereket, az étkezőt, a nem romlékony anyag tárolására szolgáló tárolókat (gardrób, járható szekrény, általános tároló) és a csak alvás céljára szolgáló háló-galériát, hálófülkét, amely más, közvetlen természetes szellőzését ablakon át nyerő lakóhelyiséggel nagy felületen, állandóan összenyitott.
 - Ablakon át, vagy annak hiányában gravitációs, illetve gépi úton működtetett szellőzőcsatornán, szellőzőkürtőn keresztül közvetlen szellőzést kell biztosítani az egészségügyi helyiségeknek (fürdőszobának, zuhanyfülkének, WC és mosdó helyiségnek), a háztartási helyiségnek és az éléskamrának.
 - Feltétlenül gépi szellőzést (szagelszívó berendezést) kell alkalmazni azoknál a főzőhelyeknél, amelyek más lakóhelyiség (nappali szoba) légterétől nincsenek elválasztva, valamint az 1-2 férőhelyes kislakások ablakkal nem rendelkező főzőfülkéinek esetében.
 
-> **Megjegyzés**
->
-> Szagelszívóval felszerelt konyha esetében cserépkályha és kandallófűtés egy légtérben és egy időben nem alkalmazható. A szagelszívó a belső térben nyomáscsökkenést hoz létre, így fűtési időszakban a kéményből visszaáramlás jöhet létre megfelelő kéménymagasság esetén is. Régebben a gázkészülékek esetében is létrejöhetett ez a jelenség, legújabban azonban a gázkészülékek oxigénellátását egyre inkább közvetlenül a külső térből oldják meg. Hasonló a helyzet az elszívó szellőztetőrendszerekkel és a központi porszívóval, WC ventilátorokkal. Az egyidejű működtetést el kell kerülni.
->
-> — Novák Ágnes
+::: note
+
+Szagelszívóval felszerelt konyha esetében cserépkályha és kandallófűtés egy légtérben és egy időben nem alkalmazható. A szagelszívó a belső térben nyomáscsökkenést hoz létre, így fűtési időszakban a kéményből visszaáramlás jöhet létre megfelelő kéménymagasság esetén is. Régebben a gázkészülékek esetében is létrejöhetett ez a jelenség, legújabban azonban a gázkészülékek oxigénellátását egyre inkább közvetlenül a külső térből oldják meg. Hasonló a helyzet az elszívó szellőztetőrendszerekkel és a központi porszívóval, WC ventilátorokkal. Az egyidejű működtetést el kell kerülni.
+
+— Novák Ágnes
+:::
+
 
 A fent nem említett – nem általánosan igényelt – lakásterek szellőzését a rendeltetésszerű használat jellege alapján kell meghatározni. Ablakon keresztül kell szellőztetni huzamos tartózkodásra szolgáló helyiségeket. Közvetlen szellőzést kell biztosítani a szagot, gőzt vagy más szennyezést keltő tevékenységek tereinek.
 
 <a id="E1_Homerseklet_hoerzet_futes"></a>
-### 1.5.3. Hőmérséklet, hőérzet, fűtés
+#### 1.5.3. Hőmérséklet, hőérzet, fűtés
 
 A hőérzet nemcsak a lakástér levegőjének hőmérsékletétől függ, hanem egyéb tényezőktől is. Hidegebb hőérzetünk van nagy üvegfelületek közelében (hideg sugárzás) ilyenkor a komfortérzet magasabb fűtési hőmérsékletnél áll elő, míg meleget sugárzó nagy felületek közelében (falfűtés vagy padlófűtés esetén) a szokásosnál alacsonyabb levegő-hőmérséklet mellett is kellemes hőérzetünk lehet. A hőérzet a levegő páratartalmától és a belső térben érzékelhető légmozgástól is függ.
 
-> **Megjegyzés**
->
-> A falak és padlószerkezetek jó hőszigetelése hőérzeti előnnyel is jár, a jobban szigetelt külső fal belső felületi hőmérséklete kedvezőbb, így a levegő hőmérséklete már alacsonyabb is lehet. Általános fizikai és egészségügyi állapot esetében téli időszakban a falfelület belső hőmérséklete ne legyen alacsonyabb, mint 16 ºC még a sarkokban sem. 16 ºC falhőmérséklet esetén a megfelelő komfortérzethez ülő tevékenység esetén kb. 23-24 ºC léghőmérséklet szükséges. Amennyiben a belső felületi hőmérsékletet 20 ºC körüli értékre tudjuk növelni, úgy a levegő hőmérsékletét is elegendő 20-21 ºC körül tartani. Ez azt jelenti, hogy jó hőszigetelés esetén a fűtési energiaveszteség kevesebb. További megtakarítás érhető el azáltal, hogy a megfelelő belső komfort eléréséhez elegendő az alacsonyabb belső léghőmérséklet biztosítása. A lakások és épületek fűtése többféle energiahordozóval többféle módon oldható meg, és minden bizonnyal lesznek még újabb és újabb módszerek. Egy biztos, a tervezés során törekedni kell a téli hőveszteségek csökkentésére (jó hőszigetelés, kedvező felület/térfogat arány, a hőhidak kerülése) és a téli hőnyereségek növelésére (jó tájolás, helyiségek egymás mellé sorolása, zónás tervezés).
->
-> — Novák Ágnes
+::: note
+
+A falak és padlószerkezetek jó hőszigetelése hőérzeti előnnyel is jár, a jobban szigetelt külső fal belső felületi hőmérséklete kedvezőbb, így a levegő hőmérséklete már alacsonyabb is lehet. Általános fizikai és egészségügyi állapot esetében téli időszakban a falfelület belső hőmérséklete ne legyen alacsonyabb, mint 16 ºC még a sarkokban sem. 16 ºC falhőmérséklet esetén a megfelelő komfortérzethez ülő tevékenység esetén kb. 23-24 ºC léghőmérséklet szükséges. Amennyiben a belső felületi hőmérsékletet 20 ºC körüli értékre tudjuk növelni, úgy a levegő hőmérsékletét is elegendő 20-21 ºC körül tartani. Ez azt jelenti, hogy jó hőszigetelés esetén a fűtési energiaveszteség kevesebb. További megtakarítás érhető el azáltal, hogy a megfelelő belső komfort eléréséhez elegendő az alacsonyabb belső léghőmérséklet biztosítása. A lakások és épületek fűtése többféle energiahordozóval többféle módon oldható meg, és minden bizonnyal lesznek még újabb és újabb módszerek. Egy biztos, a tervezés során törekedni kell a téli hőveszteségek csökkentésére (jó hőszigetelés, kedvező felület/térfogat arány, a hőhidak kerülése) és a téli hőnyereségek növelésére (jó tájolás, helyiségek egymás mellé sorolása, zónás tervezés).
+
+— Novák Ágnes
+:::
+
 
 A lakások fűtésének megtervezése általában épületgépész-szakember feladata. A fűtés *energiaszükséglete* azonban az épületek építészeti és szerkezeti kialakításának függvénye. A későbbi fejezetekben mindig utalunk a különböző lakóépületfajták energiatudatos tervezésének szempontjaira.
 
@@ -1153,7 +1224,7 @@ Az ablakon át történő energiafelvétel árnyékolással csökkenthető. A ny
 Igényesebb lakóházaknál elfordul a lakásterek gépi hűtése (légkondicionálás), ennek energiafogyasztása azonban igen nagy. A túlzott energiafogyasztás a globális, „fenntartható fejlődés” szempontjából negatív jelenségnek tekinthető, ezért kívánatos, hogy a lakásokban a kedvező hőérzetet lehetőleg energiabevitelt nem igénylő megoldásokkal biztosítsuk a nyári időszakban.
 
 <a id="E1_Benapozas_tajolas"></a>
-### 1.5.4. Benapozás, tájolás, energiatudatos tervezés
+#### 1.5.4. Benapozás, tájolás, energiatudatos tervezés
 
 A lakásterek benapozása részben egészségügyi okokból, részben mentális komfortérzet szempontjából szükséges, de jelentős szerepe van a lakás energiaháztartásában is.
 
@@ -1178,7 +1249,7 @@ Ebből a szempontból kedvező a hálószobák keleti tájolása, mert a hűvös
 Ezek a preferenciák nem minden építtető esetén azonosak, és maradéktalan érvényesítésük nem lehetséges mindig. A passzív szolár elvek a konvenciókat gyakran felülírják. Az egyes épülettípusok sajátos tájolási, benapozási kérdéseit a későbbiekben külön tárgyaljuk, fejezetenként.
 
 <a id="E1_Zaj_elleni_vedelem"></a>
-### 1.5.5. Zaj elleni védelem, akusztikai komfort
+#### 1.5.5. Zaj elleni védelem, akusztikai komfort
 
 A lakástereket zavaró zajhatások forrása (emisszió) lehet a lakáson belül vagy a lakáson kívül; lehet a szomszéd lakásban vagy a közvetlen lakókörnyezetben. A védekezés módja az emisszió csökkentése, vagy a behatolás (imisszió) mérséklése hangszigetelő szerkezetekkel.
 
@@ -1186,20 +1257,22 @@ Legnehezebb a közvetlen lakókörnyezetben keletkezett zaj elhárítása (a for
 
 A szomszéd lakásból jövő zajterhelés a megfelelő hanggátlású lakáselválasztó fallal és födémmel kivédhető. Zaj elleni védelmet igényel az alvás és a szellemi munka tere (általában a hálószoba), ezeket a lakás egyéb tereitől megfelelő hanggátlású szerkezetekkel kell elválasztani. Egyéb lakástevékenységek keltette zajt (tévézés, zenehallgatás) a háztartás-tagok közös megegyezéssel tolerálhatják, de ha ezek hanggátló elválasztása építtetői igény, akkor lehetséges a nappali szoba akusztikai leválasztása is. A lakáson belül általában zajforrást jelent a konyha és az egészségügyi berendezések használata. Két férőhelyesnél nagyobb lakásoknál nem tekinthető alvótérnek az a szoba, amely a konyhától nincs akusztikailag leválasztva. Bár a korszerű épületgépészeti berendezések és szerelvények ma már csendesebbek, javasolt a hálószobák falába vésett épületgépészeti csővezetékek lehetőség szerinti kerülése.
 
-> **Megjegyzés**
->
-> A közvetlen környezetből eredő zaj elleni védelem a lakásokban élők szempontjából nagy figyelmet kíván. Egy átlagos lakásban szinte minden szobában, helyiségben található valamilyen hangkibocsájtó szerkezet: televízió, rádió, CD-lejátszó, számítógép, stb. Ugyanakkor a lakások használói védeni is szeretnék magukat a szomszédból és a saját lakásból jövő épületen belüli zajok ellen. Ebben a megfelelő hangszigeteléssel kialakított ajtók és válaszfalak segítenek, ügyelve arra, hogy a gépészeti és elektromos vezetékek mentén is megfelelő védelem legyen.
->
-> A belső terekben általában elegendő a bútorok elhelyezése, hogy a kongóan üres, a zörejeket zavaróan felerősítő akusztikát elkerüljük. Azokra a helyiségekre kell nagyobb figyelmet fordítani, ahol nincsenek hangelnyelő tárgyak, bútorok. Hidegburkolatú lakóhelyiségekben lehetővé kell tenni a padlón szőnyegek vagy az ablakokon függönyök elhelyezését, mert az akusztikai komfortot jelentősen javítják. Vizes helyiségben sem érdemes a teljes falmagasságban kerámia vagy kőburkolatot alkalmazni, a hidegburkolatok alkalmazása elegendő csak a szükséges mértékben, mert a tér zavaróan visszhangossá válhat, és a szokatlan zajok baleset forrásai lehetnek.
->
-> Az épületek külső környezetében is egyre növekszik a zajszint. Ennek eredménye az, hogy egy idő után egyre nehezebben tolerálható a környezeti zaj, akár lakáson belül akár lakáson kívül keletkezik. Ezért a szerkezetek tervezésénél figyelembe kell venni mind a kopogóhang, mind pedig a léghang elleni védelmet. Míg az előbbi ellen többrétegű, hanglágy szerkezetek beiktatása szükséges az utóbbi ellen legjobban a nehéz szerkezetek (falak, födémek) védenek meg. Mindenképpen érdemes megjegyezni, hogy mindennek helyigénye van akár a falak akár a födémek vastagságát tekintjük. Minden esetben érdemes az alaprajzi és a függőleges szerkesztési méreteket kis rátartással megadni. Utólag már nehéz lesz a helyet biztosítani ezeknek a szerkezeteknek is.
->
-> Ezen túl lehetőség van a zónás tervezés segítségével zajos és csendes zónákat létrehozni a lakáson vagy épületen belül. Az épület külső környezetében tervezett növényzet (zöldhomlokzat, zöldtető, nagyobb zöldfelület) mind segít a külső zajok csökkentésében, hiszen a zajhullámokat a levelek, növények elnyelik, tompítják.
->
-> — Novák Ágnes
+::: note
+
+A közvetlen környezetből eredő zaj elleni védelem a lakásokban élők szempontjából nagy figyelmet kíván. Egy átlagos lakásban szinte minden szobában, helyiségben található valamilyen hangkibocsájtó szerkezet: televízió, rádió, CD-lejátszó, számítógép, stb. Ugyanakkor a lakások használói védeni is szeretnék magukat a szomszédból és a saját lakásból jövő épületen belüli zajok ellen. Ebben a megfelelő hangszigeteléssel kialakított ajtók és válaszfalak segítenek, ügyelve arra, hogy a gépészeti és elektromos vezetékek mentén is megfelelő védelem legyen.
+
+A belső terekben általában elegendő a bútorok elhelyezése, hogy a kongóan üres, a zörejeket zavaróan felerősítő akusztikát elkerüljük. Azokra a helyiségekre kell nagyobb figyelmet fordítani, ahol nincsenek hangelnyelő tárgyak, bútorok. Hidegburkolatú lakóhelyiségekben lehetővé kell tenni a padlón szőnyegek vagy az ablakokon függönyök elhelyezését, mert az akusztikai komfortot jelentősen javítják. Vizes helyiségben sem érdemes a teljes falmagasságban kerámia vagy kőburkolatot alkalmazni, a hidegburkolatok alkalmazása elegendő csak a szükséges mértékben, mert a tér zavaróan visszhangossá válhat, és a szokatlan zajok baleset forrásai lehetnek.
+
+Az épületek külső környezetében is egyre növekszik a zajszint. Ennek eredménye az, hogy egy idő után egyre nehezebben tolerálható a környezeti zaj, akár lakáson belül akár lakáson kívül keletkezik. Ezért a szerkezetek tervezésénél figyelembe kell venni mind a kopogóhang, mind pedig a léghang elleni védelmet. Míg az előbbi ellen többrétegű, hanglágy szerkezetek beiktatása szükséges az utóbbi ellen legjobban a nehéz szerkezetek (falak, födémek) védenek meg. Mindenképpen érdemes megjegyezni, hogy mindennek helyigénye van akár a falak akár a födémek vastagságát tekintjük. Minden esetben érdemes az alaprajzi és a függőleges szerkesztési méreteket kis rátartással megadni. Utólag már nehéz lesz a helyet biztosítani ezeknek a szerkezeteknek is.
+
+Ezen túl lehetőség van a zónás tervezés segítségével zajos és csendes zónákat létrehozni a lakáson vagy épületen belül. Az épület külső környezetében tervezett növényzet (zöldhomlokzat, zöldtető, nagyobb zöldfelület) mind segít a külső zajok csökkentésében, hiszen a zajhullámokat a levelek, növények elnyelik, tompítják.
+
+— Novák Ágnes
+:::
+
 
 <a id="E1_Vizualis_komfort"></a>
-### 1.5.6. Vizuális komfort
+#### 1.5.6. Vizuális komfort
 
 — Novák Ágnes
 
@@ -1207,16 +1280,18 @@ A lakásterek komfortkövetelményeihez tartozik a vizuális komfort biztosítá
 
 A lakáson belüli terek látványa, az alkalmazott színek részben a belsőépítészeti tervezés kérdéskörébe tartoznak, de erre is hatással lehetünk a tervezésnél. Amikor megközelítjük a lakóépületet, vagy belépünk egy lakásba az első erős benyomásunk a vizuális érzékelésből származik.
 
-> **Megjegyzés**
->
-> Amikor belépünk egy előszobába, és az illemhely ajtaja ugyanolyan, mint a nappali szobáé, vagy a terek között szükséges vizuális kapcsolatot (pl. konyha-étkező esetében) folyton megszakítja egy belógó ajtószárny, vagy az egyik lakóhelyiség rendkívül világos, míg a másik alulvilágított, akkor a vizuális komfortérzetünk romlik.
+::: note
+
+Amikor belépünk egy előszobába, és az illemhely ajtaja ugyanolyan, mint a nappali szobáé, vagy a terek között szükséges vizuális kapcsolatot (pl. konyha-étkező esetében) folyton megszakítja egy belógó ajtószárny, vagy az egyik lakóhelyiség rendkívül világos, míg a másik alulvilágított, akkor a vizuális komfortérzetünk romlik.
+:::
+
 
 A jó tervezés során a beköltözők szemével is végigjárjuk az épületet és a belső tereket. Törekednünk kell a nyugalmat adó, inspiratív terek létrehozására. A lakások a benne élők életének lenyomatát mutatják, de jó tervezéssel segíteni lehet az egyéni használóknak is a nyugodt lakáskörülmények elérésében. A jó fény és színkontrasztok, a megfelelő anyagválasztás – főleg a burkolatok esetében – sokat segít azoknak is, akik nem szakértőként rendezik majd be otthonukat.
 
 Ebben segíthetnek az olyan kiegészítő terek, amelyek jól személyre szabhatóak, vagy a külső világ felé nyitnak, de mégis szűrőként is viselkednek. Ilyen tér lehet az erkély, loggia, terasz, amely növényekkel, bútorokkal egyedileg berendezve a bent élők számára az elvonulást és nyugalmat, vagy éppen a külső környezethez való kapcsolódást jelentheti.
 
 <a id="E1_Allergen-mentes_kornyezet"></a>
-### 1.5.7. Allergén-mentes környezet, egészséges lakás
+#### 1.5.7. Allergén-mentes környezet, egészséges lakás
 
 — Novák Ágnes
 
@@ -1224,9 +1299,11 @@ Az európai népesség életének nagy részét zárt belső térben tölti. (Ez
 
 Az allergia kevéssé gyógyítható, a tünetek enyhítése sem egyszerű, az életminőséget, a munkaképességet csökkenti és a társas kapcsolatokra is negatív hatással van.
 
-> **Megjegyzés**
->
-> A különböző allergiák közül nem tárgyaljuk itt a fényallergia kérdését, mert a környezet gondos tervezése ebben az esetben speciális szaktudást igényel.
+::: note
+
+A különböző allergiák közül nem tárgyaljuk itt a fényallergia kérdését, mert a környezet gondos tervezése ebben az esetben speciális szaktudást igényel.
+:::
+
 
 A külső térben található allergének (por, pollen, egyéb szennyező anyagok) főleg a nyári időszakban jelentenek gondot azoknak, akik ebből a szempontból érzékenyebbek. Akik ebben szenvednek, részben alkalmazkodhatnak az idényjelleggel jelen lévő pollen ellen azzal, hogy kerülik a fertőzött területeket, illetve kevesebbet tartózkodnak a szabadban. A levegőben lévő szálló por és a hozzá kapcsolódó szennyező anyagok nehezen elkerülhetőek, jó tervezéssel mégis csökkenteni lehet hatásukat. A legjobb port és egyéb szennyezést megkötő felület a növényzet, ezért városi környezetben fontos a nagy lombtömeggel rendelkező növényzet telepítése fasorok, zöldhomlokzatok, parkok formájában. Hasonlóan kedvező hatású a vízfelület, vízpermet. A nedvesebb, nehezebb levegő a talaj felett lefelé mozog, és kevésbé kerül a légutakba. A száraz meleg levegő a benne lévő porral és az arra tapadó egyéb szennyező anyaggal azonban felfelé emelkedve könnyen a légutakba, bőrfelületre, hajba kerül.
 
@@ -1238,12 +1315,14 @@ Másik feladat, hogy a bent lévő por/allergén mennyiségét csökkentsük. En
 
 A háziállatok által okozott allergia elkerülhető, ha nem tartunk macskát, kutyát, díszmadarat a lakásban. A gyapjú és toll ágynemű által okozott allergia pedig megfelelő tisztítással vagy egyéb, más töltőanyag használatával kerülhető el. Mindezek nem szabhatók személyre előre, de szállásjellegű épületeknél egészen biztos, hogy fokozottan kell ügyelnünk a mindenki számára elfogadható megoldásokra.
 
-> **Megjegyzés**
->
-> A fémekkel szembeni kontakt allergia szerencsére még nem terjedt el olyan arányban, mint a légúti allergiák, azonban gyermekek számára készülő létesítményeknél és idősellátást is magába foglaló épületeknél erre is gondolni kell. A kontakt bőrallergiák közül az építőanyagok leggyakrabban a nikkel (fém allergia) és a formaldehyd által okozott allergiákért felelősek.
+::: note
+
+A fémekkel szembeni kontakt allergia szerencsére még nem terjedt el olyan arányban, mint a légúti allergiák, azonban gyermekek számára készülő létesítményeknél és idősellátást is magába foglaló épületeknél erre is gondolni kell. A kontakt bőrallergiák közül az építőanyagok leggyakrabban a nikkel (fém allergia) és a formaldehyd által okozott allergiákért felelősek.
+:::
+
 
 <a id="E1_A_lakasterek_kapcsolatrendszere_lakaskompozicio"></a>
-## 1.6. A lakásterek kapcsolatrendszere, lakáskompozíció
+### 1.6. A lakásterek kapcsolatrendszere, lakáskompozíció
 
 A lakások egyes helyiségeinek a bejárattól való megközelítése közlekedő tereken át történhet (előszoba, belső folyosó), de a kifejezetten erre a célra rendelt tereken kívül más alaprendeltetésű helyiségek is szolgálhatnak közlekedőként (pl. étkező, nappali szoba). Utóbbiakban kialakuló útvonalakat *rejtett közlekedőknek* is szokás nevezni. A szokásos lakáshelyiségek közül nem tartalmazhat „rejtett közlekedőt”, vagyis nem lehet egy másik helyiség megközelítésének *kizárólagos* útvonala a hálószoba (kivéve, ha az csak a hálót használók saját – második – fürdőszobája, öltözője, dolgozója megközelítésére szolgál), egészségügyi helyiség (zuhany, fürdő, WC) a főzőhely technológiai területe, az éléskamra és a háztartási helyiség.
 
@@ -1299,11 +1378,13 @@ A lakásterek kapcsolatainak lehetséges kombinációi szinte végtelen számúa
 
 Ez a helyiségkapcsolati rendszer nagymértékben rögzült a szakmai közfelfogásban, bár eredeti indítékának általános létjogosultsága ma már erősen megkérdőjelezhető.
 
-> **Megjegyzés**
->
-> A családok külső, baráti kapcsolatai ma már kevéssé formálisak, mint hetven-nyolcvan évvel ezelőtt, amikor a polgárcsaládok egymáshoz rendszeresen „vizitbe” jártak az akkori illemkódex kötött viselkedési szabályai szerint. Ma már általános, hogy az egyes családtagoknak is önálló baráti kapcsolataik vannak, és kevesek találnak kivetnivalót abban, ha egy tizenéves, vagy épp a felnőttkorba lépett fiú vagy leány az őt meglátogató barátját, barátnőjét saját szobájában fogadja – épp az „intim zónában”.
->
-> Igaz, hogy másfelől újjáéledni látszanak a formális társasági kapcsolatok az üzleti világ vagyonosabb szereplőinél, akiknek igényes villáiban gyakori a formális keretek között rendezett „business party”, amelynek társaságát nem közeli barátság, hanem üzleti érdek hozza össze.
+::: note
+
+A családok külső, baráti kapcsolatai ma már kevéssé formálisak, mint hetven-nyolcvan évvel ezelőtt, amikor a polgárcsaládok egymáshoz rendszeresen „vizitbe” jártak az akkori illemkódex kötött viselkedési szabályai szerint. Ma már általános, hogy az egyes családtagoknak is önálló baráti kapcsolataik vannak, és kevesek találnak kivetnivalót abban, ha egy tizenéves, vagy épp a felnőttkorba lépett fiú vagy leány az őt meglátogató barátját, barátnőjét saját szobájában fogadja – épp az „intim zónában”.
+
+Igaz, hogy másfelől újjáéledni látszanak a formális társasági kapcsolatok az üzleti világ vagyonosabb szereplőinél, akiknek igényes villáiban gyakori a formális keretek között rendezett „business party”, amelynek társaságát nem közeli barátság, hanem üzleti érdek hozza össze.
+:::
+
 
 Az „intim zóna” kialakulása a hálószobák zavartalanságát akár az alvás, akár a szellemi munka szempontjából kedvezően befolyásolja, mivel a zajforrásokat tartalmazó „nappali zóna” és a hálószoba között még egy, a hanggátlást elősegítő közlekedő helyiség van.
 
@@ -1333,33 +1414,35 @@ Az [1.55.c. ábrán](#abra_1_55) mutatott, sajátos L formájú udvarkertes ház
 
 A helyiségkapcsolati rendszerek megválasztást az is befolyásolja, hogy a lakáspiac melyik szegmensébe kerül a tervezett lakás.
 
-> **Megjegyzés**
->
-> Tévesnek bizonyult a korai funkcionalista lakáselméletek és a szocialista országok ideológiájának azon hipotézise, amely szerint a lakások elosztása a rászorultság szerinti igazságosság alapján lehetséges. Ez szolgált alapul a lakások férőhelyszám szerinti kategorizálásának és annak a feltételezésnek, hogy nagyobb létszámú családnak nagyobb alapterületű lakás jár. A valóságban mindenütt a *lakáspiac* szabályozza alapvetően a lakáshoz jutás lehetőségét. A családok által elérhető lakások nagyságát – költségszintjét – elsősorban fizetőképességük határozza meg, akkor is, ha a lakáspiacot a fejlettebb országokban állami szubvenciókkal befolyásolják.
->
-> Az [1.56. ábra](#abra_1_56) első sorában két és fél szobás lakásokat hasonlítunk össze. Az egyik konvencionális elrendezésű, a másik oldottabb nappali-konyha kapcsolattal rendelkezik. Három fős család esetében a második elrendezés kedvezőbbnek ítélhető, ha a család elfogadja vagy igényli a nappali-konyha oldottabb kapcsolatát.
->
-> <a id="abra_1_56"></a>
->
-> ![Különböző lakástípusok igénybe vétele lakáspiaci feltételek között](images/abra_1_56_lakfrh_m.png)
->
-> *1.56. ábra – Különböző lakástípusok igénybe vétele lakáspiaci feltételek között*
->
-> Ha egy négytagú, két különnemű gyermekkel bíró családtípus igényét tekintjük mérvadónak, az már nem tudja a két és fél szobás lakást megfelelően lakni akkor, ha a nappaliba nem kerülhet fekhely. A konvencionális elrendezés ekkor is használható, ugyanis a szülők hálószobája a nappali lehet, sőt a bemutatott 74 m²-es lakás még három gyerekkel is elfogadható szinten használható. Háromgyermekes családnak kb. 85-90 m²-es lakás kell, ha a nappaliba nem lehet fekhelyet elhelyezni. Ekkora lakás az ország jelenlegi lakáshelyzetében már aligha érhető el minden háromgyermekes család számára, annak ellenére, hogy a szociális támogatásoknál a gyermekek számát is figyelembe veszik.
+::: note
+
+Tévesnek bizonyult a korai funkcionalista lakáselméletek és a szocialista országok ideológiájának azon hipotézise, amely szerint a lakások elosztása a rászorultság szerinti igazságosság alapján lehetséges. Ez szolgált alapul a lakások férőhelyszám szerinti kategorizálásának és annak a feltételezésnek, hogy nagyobb létszámú családnak nagyobb alapterületű lakás jár. A valóságban mindenütt a *lakáspiac* szabályozza alapvetően a lakáshoz jutás lehetőségét. A családok által elérhető lakások nagyságát – költségszintjét – elsősorban fizetőképességük határozza meg, akkor is, ha a lakáspiacot a fejlettebb országokban állami szubvenciókkal befolyásolják.
+
+Az [1.56. ábra](#abra_1_56) első sorában két és fél szobás lakásokat hasonlítunk össze. Az egyik konvencionális elrendezésű, a másik oldottabb nappali-konyha kapcsolattal rendelkezik. Három fős család esetében a második elrendezés kedvezőbbnek ítélhető, ha a család elfogadja vagy igényli a nappali-konyha oldottabb kapcsolatát.
+
+<a id="abra_1_56"></a>
+
+![Különböző lakástípusok igénybe vétele lakáspiaci feltételek között](images/abra_1_56_lakfrh_m.png)
+
+*1.56. ábra – Különböző lakástípusok igénybe vétele lakáspiaci feltételek között*
+
+Ha egy négytagú, két különnemű gyermekkel bíró családtípus igényét tekintjük mérvadónak, az már nem tudja a két és fél szobás lakást megfelelően lakni akkor, ha a nappaliba nem kerülhet fekhely. A konvencionális elrendezés ekkor is használható, ugyanis a szülők hálószobája a nappali lehet, sőt a bemutatott 74 m²-es lakás még három gyerekkel is elfogadható szinten használható. Háromgyermekes családnak kb. 85-90 m²-es lakás kell, ha a nappaliba nem lehet fekhelyet elhelyezni. Ekkora lakás az ország jelenlegi lakáshelyzetében már aligha érhető el minden háromgyermekes család számára, annak ellenére, hogy a szociális támogatásoknál a gyermekek számát is figyelembe veszik.
+:::
+
 
 Bizonyos, szubvencionált lakásberuházásoknál, ahol a többgyerekes, de alacsony jövedelmű családokat előnyben részesítik, vagy olyankor, ha a beruházás helyszíne nem különösen preferált környéken van, és az emiatt mérsékeltebb lakásárak alacsonyabb jövedelműeknek is elérhetők, arra kell számítani, hogy a nappali szobába is fekhely kerülhet az esetek nagy többségében. Ez kizárja a nappali rejtett közlekedőként való felhasználását vagy a konyha teréhez való kapcsolását.
 
 A lakáspiac szempontjait a másik oldalról is érdemes figyelembe venni. Lehetséges, hogy nagyméretű lakásokban kevesen laknak: akár gyermektelen házaspár is építtethet igényes villát magának. Ha azonban a házat el akarják adni – talán azért, mert anyagi helyzetük még jobbra fordul, és jobb helyen, nagyobb házat szándékoznak építeni – akkor a ház kelendőségét nagyon csökkenti, ha a lakás térkapcsolatainál mindössze két személy életvitelét vették figyelembe.
 
 <a id="E1_Az_akadalymentes_lakas-egyetemes_tervezes"></a>
-## 1.7. Az akadálymentes lakás – egyetemes tervezés
+### 1.7. Az akadálymentes lakás – egyetemes tervezés
 
 — Pandula András és Bitó János
 
 <a id="E1_Akadalymentes_lakas"></a>
-### 1.7.1. Akadálymentes lakás
+#### 1.7.1. Akadálymentes lakás
 
-A különféle építészeti ideológiák és elméletek az EMBERT sokáig valamilyen általános, többé-kevésbé absztrakt fogalomnak tekintették, és igyekeztek meghatározni azt az ember-modellt, amely az építészeti tervezés mértékéül és céljául szolgált (lásd 1.2.1. fejezet). Az idealizált, jó alkatú és erejének teljében lévő ember számára tervezett környezet azonban nem használható mindenki számára: körülbelül a népesség 10%-a rendelkezik valamilyen okból csökkent teljesítőképességgel: mozgásában korlátozott, gyengén lát, gyengén hall, felfogó képességében korlátozott. (A nagyságrend érzékeléséhez elég megemlíteni, hogy ez a csoport lényegesen nagyobb, mint a lakosságnak az a része, amely 6 tagú háztartásban él. Rutinszerűen tervezünk 6 férőhelyes lakásokat, miközben a hátrányos helyzetűekről megfeledkezünk.)
+A különféle építészeti ideológiák és elméletek az EMBERT sokáig valamilyen általános, többé-kevésbé absztrakt fogalomnak tekintették, és igyekeztek meghatározni azt az ember-modellt, amely az építészeti tervezés mértékéül és céljául szolgált (lásd [1.2.1.](#E1_Meres_mertetrendszer_meretarany_meretrend) fejezet). Az idealizált, jó alkatú és erejének teljében lévő ember számára tervezett környezet azonban nem használható mindenki számára: körülbelül a népesség 10%-a rendelkezik valamilyen okból csökkent teljesítőképességgel: mozgásában korlátozott, gyengén lát, gyengén hall, felfogó képességében korlátozott. (A nagyságrend érzékeléséhez elég megemlíteni, hogy ez a csoport lényegesen nagyobb, mint a lakosságnak az a része, amely 6 tagú háztartásban él. Rutinszerűen tervezünk 6 férőhelyes lakásokat, miközben a hátrányos helyzetűekről megfeledkezünk.)
 
 Akadálymentes az a környezet, amelyet mindenki önállóan és biztonságosan tud használni fizikai, érzékszervi vagy értelmi képességeitől függetlenül.
 
@@ -1371,16 +1454,18 @@ Az ember képességei életciklusa folyamán is változnak: évekig gyerekkocsib
 
 Az 1970-es évektől kezdve a fogyatékos személyek érdekvédelmi szerveződései egyre erősebb politikai erővé váltak, és sok országban elérték esélyegyenlőségük törvényi kodifikációját.
 
-> **Megjegyzés**
->
-> Magyarországon az 1997-ben született meg az épített környezet alakításáról és védelméről szóló LXXVIII. számú törvény, amely pontos meghatározásokat és követelményrendszert ad az épített környezet kialakításával kapcsolatban. Ez a törvény az Európai Unió Bizottsága által 1996-ban elfogadott „Az akadálymentesség Európai eszméje” című kézikönyv ajánlására épül, és az OTÉK ebben az ajánlásban rögzített műszaki követelményekkel került kiegészítésre. Ezek a műszaki előírások elsősorban közhasználatú, közszolgáltatást nyújtó épületek kialakítására vonatkoznak. Ugyanakkor „A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról" szóló 1998. évi XXVI. Törvény (Esélyegyenlőségi törvény) 5.§-a értelmében „a fogyatékos személynek joga van a számára akadálymentes, továbbá érzékelhető és biztonságos épített környezetre”, amelybe beleérthető az akadálymentes lakhatás biztosítása is. Így a lakóépületek tervezésekor – általános követelmény hiányában is – figyelemmel kell lennünk azok egészének (pl. családi házak), vagy egy részének (pl. többszintes többlakásos épületek földszinti lakóegységei, közösségi terei) akadálymentesíthető, adaptálható kialakítására.
+::: note
+
+Magyarországon az 1997-ben született meg az épített környezet alakításáról és védelméről szóló LXXVIII. számú törvény, amely pontos meghatározásokat és követelményrendszert ad az épített környezet kialakításával kapcsolatban. Ez a törvény az Európai Unió Bizottsága által 1996-ban elfogadott „Az akadálymentesség Európai eszméje” című kézikönyv ajánlására épül, és az OTÉK ebben az ajánlásban rögzített műszaki követelményekkel került kiegészítésre. Ezek a műszaki előírások elsősorban közhasználatú, közszolgáltatást nyújtó épületek kialakítására vonatkoznak. Ugyanakkor „A fogyatékos személyek jogairól és esélyegyenlőségük biztosításáról" szóló 1998. évi XXVI. Törvény (Esélyegyenlőségi törvény) 5.§-a értelmében „a fogyatékos személynek joga van a számára akadálymentes, továbbá érzékelhető és biztonságos épített környezetre”, amelybe beleérthető az akadálymentes lakhatás biztosítása is. Így a lakóépületek tervezésekor – általános követelmény hiányában is – figyelemmel kell lennünk azok egészének (pl. családi házak), vagy egy részének (pl. többszintes többlakásos épületek földszinti lakóegységei, közösségi terei) akadálymentesíthető, adaptálható kialakítására.
+:::
+
 
 A lakóépületek akadálymentes megközelíthetősége és használhatósága nálunk még nem általános követelmény, de a tendenciák ebben az irányban hatnak: az emberek életkor, kultúra és egyéb emberi adottságaik szerinti különbözősége soha nem látott mértéket öltött, így egyre nagyobb igény jelentkezik olyan lakóépületekre, amelyek flexibilitásuk révén az épületet használók életcikluson át változó szükségleteihez költséges és a környezetet terhelő átalakítások nélkül alkalmazkodni tudnak.
 
 Az 1990-es évek végétől kezdve ezért a tervezési folyamatokban az akadálymentes tervezést egyre inkább egy új tervezési paradigma váltja fel: az egyetemes tervezés eszméje.
 
 <a id="E1_Az_egyetemes_tervezes"></a>
-### 1.7.2. Az egyetemes tervezés
+#### 1.7.2. Az egyetemes tervezés
 
 Az egyetemes tervezés eszméje az a preventív gondolkodásmód, tervezési stratégia, amely már a tervezés folyamatának az elején figyelembe veszi a használók képességeinek különbözőségét. E tervezési stratégia gyakorlásával olyan épületek jönnek létre, amelyek különleges tervezési megoldások és adaptáció nélkül biztosítják a lehető legtöbb ember számára a legteljesebb és legönállóbb használhatóságot.
 
@@ -1390,12 +1475,14 @@ Ez azt jelenti, hogy nem szükséges valamennyi lakás valamennyi elemét akadá
 
 Az is előfordul, hogy konkrét tervezési megbízás szól a lakás akadálymentes kialakítására: például olyan családi ház esetében, ahol család kötelékében egy mozgásában korlátozott családtag él már az építés idején, vagy olyankor, ha egy meglévő lakás akadálymentesítése szükséges valamelyik családtag balesete vagy maradandó mozgáskorlátozottságot okozó betegsége után.
 
-> **Megjegyzés**
->
-> A tervezési elméletek és elvek között több irányzat azonosítható, melyek – nem lebecsülve az árnyalatnyi különbségeket – céljukat és eredményüket tekintve azonosak. Az 1960-as évektől a német nyelvterületen használt „Barrier Free Design" (Korlátok nélküli tervezés) és az 1970-es évektől főleg angol nyelvterületen használt „Accessible Design" (Akadálymentes tervezés) megközelítést az 1990-es évektől kezdődően egyre inkább három új tervezési irányzat váltja fel: „Universal Design" (Egyetemes tervezés), „Design for All" (Tervezés mindenkinek) és „Inclusive Design" (Befogadó tervezés). A három irányzat eredményüket tekintve azonos, így az Európai Unió álláspontját követve a magyarországi szakmai nyelvi közegben jelenleg az Egyetemes tervezés inkább az épített környezet kialakítása tekintetében, a Befogadó tervezés fogalomhasználat inkább a tárgytervezők között használatos.
+::: note
+
+A tervezési elméletek és elvek között több irányzat azonosítható, melyek – nem lebecsülve az árnyalatnyi különbségeket – céljukat és eredményüket tekintve azonosak. Az 1960-as évektől a német nyelvterületen használt „Barrier Free Design" (Korlátok nélküli tervezés) és az 1970-es évektől főleg angol nyelvterületen használt „Accessible Design" (Akadálymentes tervezés) megközelítést az 1990-es évektől kezdődően egyre inkább három új tervezési irányzat váltja fel: „Universal Design" (Egyetemes tervezés), „Design for All" (Tervezés mindenkinek) és „Inclusive Design" (Befogadó tervezés). A három irányzat eredményüket tekintve azonos, így az Európai Unió álláspontját követve a magyarországi szakmai nyelvi közegben jelenleg az Egyetemes tervezés inkább az épített környezet kialakítása tekintetében, a Befogadó tervezés fogalomhasználat inkább a tárgytervezők között használatos.
+:::
+
 
 <a id="E1_Az_akadalymentes_lakasterek_kovetelmenyei"></a>
-### 1.7.3. Az akadálymentes lakásterek követelményei
+#### 1.7.3. Az akadálymentes lakásterek követelményei
 
 A mozgásukban korlátozottak térigényeit egy kerekesszéket használó személy szükségletei alapján kell meghatározni. (Más segédeszközök: bot, mankó, járókeret mindig használhatók azokon az útvonalakon, amelyek kerekesszékkel is járhatók.) A kerekesszék méreteit és a használatához szükséges hely méreteit az [1.57. ábra](#abra_1_57) mutatja. Helyigény szempontjából különbözik a kézi hajtású és elektromos hajtású kerekesszék. Lehetőleg az utóbbit kell mértékadónak tekinteni.
 
@@ -1431,17 +1518,21 @@ A közös étkezés helyének méretezésénél egy, kerekesszéket használó s
 
 Az alvás helyszükséglete a 90 x 200 cm méretű ágy mellett legalább 120 x 150 cm méretű használati zóna a kerekesszékről történő átszálláshoz ([1.60.c. ábra](#abra_1_60)).
 
-> **Megjegyzés**
->
-> A súlyosabban, halmozottan sérült személyeket betegemelő berendezés használóval segíthetjük az ágyba fektetni, illetve onnan a kerekesszékbe átültetni. A betegemelő berendezések lehetnek kerekeken gördülő mobil, valamint a mennyezeten rögzített síneken mozgó kialakításúak. Betegemelő berendezés használatának igénye esetén a helyiség bebútorozásánál gondoskodjunk a berendezés mozgatásához, valamint a segítő személyzet részére szükséges szabad területről. Ez a terület legalább 2,0 m szélességű alapterületet jelent az ágy mellett.
+::: note
+
+A súlyosabban, halmozottan sérült személyeket betegemelő berendezés használóval segíthetjük az ágyba fektetni, illetve onnan a kerekesszékbe átültetni. A betegemelő berendezések lehetnek kerekeken gördülő mobil, valamint a mennyezeten rögzített síneken mozgó kialakításúak. Betegemelő berendezés használatának igénye esetén a helyiség bebútorozásánál gondoskodjunk a berendezés mozgatásához, valamint a segítő személyzet részére szükséges szabad területről. Ez a terület legalább 2,0 m szélességű alapterületet jelent az ágy mellett.
+:::
+
 
 A hálószobában vagy az ahhoz kapcsolódó gardróbhelyiségben elhelyezett ruhásszekrények esetében ügyelni kell arra, hogy azok előtt mindig legyen annyi hely, hogy az segédeszközzel, pl. kerekesszékkel is megközelíthető legyen. Ügyeljünk arra is, hogy a szekrényajtók kerekesszékben ülve vagy más segédeszközt használva is kinyithatók, kitárhatóak legyenek. A könnyebb használhatóság érdekében a szekrényajtók „kivető-pántosak" és 180°-ban kitárhatóak legyenek. Előnyös és helytakarékos megoldás a tolóajtóval, vagy speciális bútor-redőnnyel szerelt gardróbszekrény beépítése.
 
 Az egyéni tevékenység, szellemi munka céljára szolgáló asztal alatt legalább 80 cm széles „térdszabad” hely legyen, az asztal legfeljebb 85 cm magasságban legyen. A használati zóna mélysége legalább 110 cm, szélessége 120 cm. A munkához használt könyvek, eszközök számára elhelyezett polc ne legyen 120 cm-nél magasabban ([1.60.d. ábra](#abra_1_60)).
 
-> **Megjegyzés**
->
-> Térdszabad kialakítás azt a szabad helyet jelenti, amely biztosítja a beépített berendezések valamint munkafelületek (pultok, asztalok) kerekesszékkel történő megközelíthetőségét és kényelmes használhatóságát. A használó térdének, valamint a kerekesszék karfájának és lábtartójának a munkafelület, illetve berendezési eszköz alá gördülését semmilyen szerkezet, benyúló elem nem korlátozhatja.
+::: note
+
+Térdszabad kialakítás azt a szabad helyet jelenti, amely biztosítja a beépített berendezések valamint munkafelületek (pultok, asztalok) kerekesszékkel történő megközelíthetőségét és kényelmes használhatóságát. A használó térdének, valamint a kerekesszék karfájának és lábtartójának a munkafelület, illetve berendezési eszköz alá gördülését semmilyen szerkezet, benyúló elem nem korlátozhatja.
+:::
+
 
 A kerekesszékről is elérhető tárgyak tároló felülete nem lehet 130 cm-nél magasabban és 30 cm-nél mélyebben. Ajtós szekrények használatához szükséges helyet az [1.60.e. ábra](#abra_1_60) szerint kell meghatározni. Előnyben kell részesíteni a tolóajtóval kialakított szekrényeket.
 
@@ -1463,9 +1554,11 @@ A mosdó lehetőleg állítható magasságú, esetleg dönthető legyen (lehet, 
 
 A fürdéshez nem lehet peremes zuhanytálcát beépíteni, a zuhanyzóhely a padlóburkolat folytatásaként legyen kialakítva, legalább 2%-os lejtéssel a sarokban elhelyezett padlóösszefolyó felé. A zuhanyzórészben biztosítsunk megfelelő kapaszkodási lehetőséget és lehajtható zuhanyülőkét, hogy abba a zuhanyzás időtartamára át lehessen ülni a kerekesszékből. A lehajtható zuhanyülőke idős használóknak is komoly segítséget jelent a tisztálkodásnál. Az ülőke megközelítésének helyigénye és a kerekesszékből történő átülés módjai hasonlóak a WC-csészénél leírtakkal. Általában egy használó ugyanúgy ül át a WC-csészére is, mint a zuhanyülőkére. A kényelmes és biztonságos használat érdekében a zuhanyrózsa és a csaptelep mindig a zuhanyülőkére merőleges falszakaszon helyezkedjen el és ne mögötte, vagyis a zuhanyzót optimálisan falsarokban lehet megfelelően kialakítani ([1.60.h. és i. ábra](#abra_1_60)).
 
-> **Megjegyzés**
->
-> Bizonyos egyéni képességek esetén a mozgásukban korlátozott személyek számára a fürdőszobában elhelyezett kád is lehetőséget nyújthat a tisztálkodásra: ebben az esetben a kádba történő beülést kell segítenünk. Ezt tehetjük különböző forgalmazóknál kapható kádülőkékkel, amelyek ülő részének forgathatósága és süllyesztési lehetősége biztosítja, hogy kis erőkifejtéssel beülhessünk a kádba. Időskorúaknak lehet, hogy elegendő egy a kád mellett felszerelt kapaszkodó is. Aktív, erős felsőtestű kerekesszékes használóknál elképzelhető olyan megoldás is, hogy a kád végében alakítunk ki egy épített ülőfelületet, amelyre a használó a kerekesszékből át tud ülni, majd onnan a kádba a falon rögzített kapaszkodók segítségével be tud ereszkedni. ([1.60.k ábra](#abra_1_60))
+::: note
+
+Bizonyos egyéni képességek esetén a mozgásukban korlátozott személyek számára a fürdőszobában elhelyezett kád is lehetőséget nyújthat a tisztálkodásra: ebben az esetben a kádba történő beülést kell segítenünk. Ezt tehetjük különböző forgalmazóknál kapható kádülőkékkel, amelyek ülő részének forgathatósága és süllyesztési lehetősége biztosítja, hogy kis erőkifejtéssel beülhessünk a kádba. Időskorúaknak lehet, hogy elegendő egy a kád mellett felszerelt kapaszkodó is. Aktív, erős felsőtestű kerekesszékes használóknál elképzelhető olyan megoldás is, hogy a kád végében alakítunk ki egy épített ülőfelületet, amelyre a használó a kerekesszékből át tud ülni, majd onnan a kádba a falon rögzített kapaszkodók segítségével be tud ereszkedni. ([1.60.k ábra](#abra_1_60))
+:::
+
 
 A WC és mosdó kölcsönös helyzeténél azok a megoldások előnyösebbek ([1.60.j. ábra](#abra_1_60) A és B esete), amelynél a mosdó elérhető a WC ülőkéről, így még az átülés előtt kezet lehet mosni. Az „A” változat az alkalmanként igénybevett segítő számára is helyet biztosít a sarokban. Ajánlatos a mosdó mellé flexibilis csőcsatlakozású zuhanyzót altest-mosáshoz felszerelni.
 
@@ -1480,27 +1573,29 @@ A látássérültek, hallássérültek és értelmi fogyatékos személyek lakó
 A lakóházak lakáson kívüli tereinek akadálymentes kialakítására az egyes lakóépületfajták tárgyalásánál a későbbi fejezetekben kitérünk.
 
 <a id="Lakokornyezet"></a>
-# 2. A lakókörnyezet
+## 2. A lakókörnyezet
 
 <a id="E2_fejezet_temakore"></a>
-## 2.1. A fejezet témaköre
+### 2.1. A fejezet témaköre
 
 A lakókörnyezet, mint a településkörnyezet szerves része, elsősorban a településtervezés tudományának és gyakorlatának témakörébe tartozik. Ez a fejezet mindössze annyit tartalmaz ebből az összetett és kiterjedt ismeretkörből, amennyi a lakóházak tervezéséhez nélkülözhetetlennek ítélhető akkor, ha a hallgató úgy kezdi el lakóépület-tervezési tanulmányait, hogy előtte településtervezést nem tanult.
 
 Az építészet helyhez kötött: lakóépület csak egy konkrét helyen, meghatározott környezetben építhető meg. Az előző fejezetben elemzett „lakás” fogalma mindaddig absztrakció, ameddig az lakóház formájában nem jelenik meg. Magának a lakásnak nagyságát, helyiségeinek kialakítását, helyiségkapcsolatait is befolyásolja a konkrét építési hely. A helyszínen elérhető munkahelyek jellege (az építtető foglalkozása), ezzel kapcsolatos jövedelmi viszonyai, az életmódját befolyásoló, társadalmi csoportjára jellemző helyi kultúrminták, az elérhető kereskedelmi és kulturális szolgáltatások stb. többé-kevésbé meghatározzák a lakáshasználatra vonatkozó igényeket és lehetőségeket. Másfelől, az építési helyszínt magában foglaló település nagysága, közlekedési kapcsolatai, az adott településrész infrastrukturális ellátottsága, meglévő karaktere, a telekárak, az ott elérhető építőipari vállalkozások nagyságrendje stb. a használó által egyáltalán elérhető lakóházfajták jellegét határozzák meg. Éppen ezért az egyes lakóépületfajták sajátosságait csak környezetükkel való egységben lehet értelmezni.
 
-> **Megjegyzés**
->
-> A „fenntartható fejlődés” fogalma helyett a „fenntarthatóság” fogalmát használjuk a lakókörnyezetet taglaló témakörben is. A fejlődés szó a közgondolkodásban a növekedéssel van összekapcsolva, ami gyakran téves értelmezés. Például, a statisztikailag nyilvántartott országos lakásállomány számszerű növekedése már nem szükséges, de annál fontosabb lenne a kor igényeinek nem megfelelő minőségű és/vagy csak pazarló módon üzemeltethető lakások folyamatos lecserélése korszerű és költséghatékonyan üzemeltethető lakásokra. A „hol legyen az új lakás, lakóépület?” kérdés ma már megelőzi a „milyen legyen a lakás?” kérdését. A fenntarthatóság szempontjából alapvető a lakókörnyezet vizsgálata akár meglevő települési vagy táji környezetről akár új lakókörnyezet kialakításáról van szó.
->
-> A környezeti fenntarthatóság azt igényli, hogy a meglevő, a természettől már építéssel elvett területet használjunk a továbbiakban is, és ne vegyünk el új területeket a tájból. Ugyanakkor kívánatos lenne a lakókörnyezet szempontjából nem megfelelő terület más célú hasznosítása, vagy a különböző eszközökkel történő javítása.
->
-> A lakókörnyezet kérdését együttesen kell vizsgálni mind a meglevő mind az új lakóterületekre vonatkozóan.
->
-> — Novák Ágnes
+::: note
+
+A „fenntartható fejlődés” fogalma helyett a „fenntarthatóság” fogalmát használjuk a lakókörnyezetet taglaló témakörben is. A fejlődés szó a közgondolkodásban a növekedéssel van összekapcsolva, ami gyakran téves értelmezés. Például, a statisztikailag nyilvántartott országos lakásállomány számszerű növekedése már nem szükséges, de annál fontosabb lenne a kor igényeinek nem megfelelő minőségű és/vagy csak pazarló módon üzemeltethető lakások folyamatos lecserélése korszerű és költséghatékonyan üzemeltethető lakásokra. A „hol legyen az új lakás, lakóépület?” kérdés ma már megelőzi a „milyen legyen a lakás?” kérdését. A fenntarthatóság szempontjából alapvető a lakókörnyezet vizsgálata akár meglevő települési vagy táji környezetről akár új lakókörnyezet kialakításáról van szó.
+
+A környezeti fenntarthatóság azt igényli, hogy a meglevő, a természettől már építéssel elvett területet használjunk a továbbiakban is, és ne vegyünk el új területeket a tájból. Ugyanakkor kívánatos lenne a lakókörnyezet szempontjából nem megfelelő terület más célú hasznosítása, vagy a különböző eszközökkel történő javítása.
+
+A lakókörnyezet kérdését együttesen kell vizsgálni mind a meglevő mind az új lakóterületekre vonatkozóan.
+
+— Novák Ágnes
+:::
+
 
 <a id="E2_kornyezet"></a>
-## 2.2. A környezet
+### 2.2. A környezet
 
 A környezet a bennünket körülvevő jelenségek összessége. Beszélhetünk közeli – közvetlen – környezetről és tágabb környezetről. Az építészetben *közvetlen környezetnek* szokás nevezni a használati tereket, épületeket vagy épületcsoportokat, az azokkal szerves összefüggésben lévő szabad (zöld-) területekkel együtt. A *tágabb környezet* a településrész, a település, térség, nagytérség (régió).
 
@@ -1517,7 +1612,7 @@ A fejlett kultúrákban a javak termelése és cseréje meghatározott rendszer 
 A célszerű emberi tevékenységgel létrehozott objektumok összességét *művi környezetnek* nevezzük, amelynek része az *épített környezet*. Mondják, hogy az épített környezet a társadalom „kollektív memóriája”, vagyis a kultúra hagyományozásának egyik eszköze, így magának a kultúrának része. A művi környezet felfogható a természeti és társadalmi környezet kölcsönhatásának megjelenéseként.
 
 <a id="E2_fenntarthato_lakokornyezet"></a>
-### 2.2.1. A fenntartható lakókörnyezet
+#### 2.2.1. A fenntartható lakókörnyezet
 
 — Novák Ágnes
 
@@ -1552,32 +1647,34 @@ Ennek érdekében a lakókörnyezet kialakítása során, a lehetséges közműe
 A szemléletmód finomodása mellett az elmúlt két évtizedben több kísérleti technika is naprakész termékké fejlődött. A megújuló források lehetséges eszközparkja kibővült, használatával kapcsolatban egyre több a tapasztalat, az épületekkel kapcsolatos igények és a minőség értékelése standardizálódott. Kialakult a minősítés rendszere is.
 
 <a id="E2_telepules_telepulesrendezes"></a>
-## 2.3. A település, településrendezés
+### 2.3. A település, településrendezés
 
 <a id="E2_telepulesrendezesi_szabalyok"></a>
-### 2.3.1. A településrendezési szabályok
+#### 2.3.1. A településrendezési szabályok
 
 Az ország teljes területe települések (falvak, városok) területi határai szerint tagolódik közigazgatási értelemben. A közösség részvételét saját környezetének szabályozásában a demokratikus intézményrendszer hivatott biztosítani. Az Alaptörvény kereteiben létrehozott építési törvényt a parlament alkotja meg. Az építési törvény alapján készülnek el az Országos Településrendezési és Építési Követelmények (röviden OTÉK), amelyek országos érvényű szabályokat rögzítenek. Az OTÉK rendelkezéseinek betartásával készítik el az egyes települések helyi építési szabályzatát, amelyhez az adott településre vonatkozó helyi településszerkezeti terv és szabályozási terv tartozik. A helyi érvényű építési szabályokat (az említett tervekkel együtt) a település vagy településrész illetékes önkormányzata hagyja jóvá, emeli törvényerőre. A törvényi szabályozás hierarchiájában az alsóbb szintek rendelkezései nem mondhatnak ellent a felettük állóknak.
 
 Az alkotmányos jogrend törvényeiből műszakilag értelmezhető szabályokat műszaki szakemberek – közöttük építészmérnökök – hoznak létre az OTÉK szintjétől a helyi előírásokig. A parlament vagy a helyi a képviselő testületek döntésre illetékes tagjai általában nem szakemberek, ezért a döntés-előkészítésben résztvevő építészek felelőssége rendkívül nagy azért, hogy tevékenységük során az állampolgárok egyéni és közösségi érdekeit és jogait érvényesítsék, a településfejlesztéssel a lakosság életminőségét valóban emeljék, és az épített környezet kulturális értékeit is megőrizzék, fejlesszék. Az építési előírások általában időszakos érvényűek, a társadalom jogrendjének, gazdasági lehetőségeinek változásaival együtt időről-időre módosulnak. Egy adott időszak törvényerejű építési szabályait nem kell tehát tudományos érvényű axiómáknak tekinteni, de be kell őket tartani, éppúgy, mint minden más törvényt.
 
 <a id="E2_telepulesek_szerkezete"></a>
-### 2.3.2. A települések szerkezete
+#### 2.3.2. A települések szerkezete
 
 A települések területén a természeti és művi környezet elemei sajátos összefüggésben állnak egymással, amelynek rendszerét a település szerkezetének nevezzük. A szerkezet elemeinek összefüggésrendszerét végső soron a településeken folyó élet teremti meg.
 
 A településszerkezet a település minden elemét tartalmazza, de a településszerkezet tervezése – a településszerkezeti terv – csak a meghatározó elemekre terjed ki.
 
-> **Megjegyzés**
->
-> „A településszerkezeti terv meghatározza a település alakításának, védelmének lehetőségeit és fejlesztési irányait, ennek megfelelően az egyes területrészek felhasználási módját, a település működéséhez szükséges műszaki infrastruktúra elemeinek a település szerkezetét meghatározó térbeli kialakítását és elrendezését, az országos és térségi érdek, a szomszédos vagy a más módon érdekelt többi település alapvető jogainak és rendezési terveinek figyelembevételével a környezet állapotának javítása vagy legalább szinten tartása mellett.” (1997. évi LXXVIII. törvény az épített környezet alakításáról és védelméről. 10. § (1))
+::: note
+
+„A településszerkezeti terv meghatározza a település alakításának, védelmének lehetőségeit és fejlesztési irányait, ennek megfelelően az egyes területrészek felhasználási módját, a település működéséhez szükséges műszaki infrastruktúra elemeinek a település szerkezetét meghatározó térbeli kialakítását és elrendezését, az országos és térségi érdek, a szomszédos vagy a más módon érdekelt többi település alapvető jogainak és rendezési terveinek figyelembevételével a környezet állapotának javítása vagy legalább szinten tartása mellett.” (1997. évi LXXVIII. törvény az épített környezet alakításáról és védelméről. 10. § (1))
+:::
+
 
 A rendezés során a települések területét beépítésre szánt és beépítésre nem szánt részekre tagolják, és ezen belül *területfelhasználási egységekbe* sorolják. A *beépítésre szánt* területfelhasználási egységeket az általános használat jellege szerint megkülönböztetik lakó-, vegyes, gazdasági, üdülő-, különleges területként. Lakóházak építésére elsősorban a lakó- és a vegyes területek szolgálnak.
 
 *A* közterületek *általában önkormányzati tulajdonban vannak, használatuk mindenki számára nyitott, fenntartásukról az önkormányzat gondoskodik (utcák, terek közparkok). A közterületek összefüggő hálózatot képeznek, a település közműhálózata alattuk húzódik.*
 
 <a id="E2_telepulesrendezes_egyeb_aspektusai"></a>
-### 2.3.3. A településrendezés egyéb aspektusai
+#### 2.3.3. A településrendezés egyéb aspektusai
 
 — Novák Ágnes
 
@@ -1596,7 +1693,7 @@ A széliránynak és szélerősségnek is megfelelő településtervezés során
 Nyitottnak kell lenni azokra a szabályozásokra is, amelyek az épített környezet és természeti környezet összhangját helyezik előtérbe. A települések szerkezeti tervezése során is szükség van puffer területekre, olyan zónákra, amelyeket a későbbi, esetleg ma még nem szokásos funkciókra tudunk majd igénybe venni.
 
 <a id="E2_kozmuvesites_laksuruseg"></a>
-## 2.4. A közművesítés, laksűrűség
+### 2.4. A közművesítés, laksűrűség
 
 Száz évvel ezelőtt falvainkban az akkori higiéniai normáknak és környezeti állapotoknak még megfelelt az ásott kút, űrgödrös árnyékszék, a „közmű” – a település közössége által létrehozott és fenntartott létesítmény – legfeljebb a földút volt és jobb esetben a csapadékvíz elvezetésére ásott árok.
 
@@ -1608,9 +1705,11 @@ A szennyvíz elhelyezésének ideiglenes megoldásaként előírhatják zárt sz
 
 Közcsatorna hiányában a helyi, telken belüli szennyvízelhelyezés kényszerű megoldása az ülepítő és szivárogtató akna, ahonnan a leülepedett és egy ideig állni hagyott szennyvíz a talajba szivárog. Az állni hagyott szennyvíznek némileg csökken a nitráttartalma, a biológiai tisztítást a talajban lévő mikroorganizmusok végzik. A szennyvízbe kerülő egyre több vegyszer (tisztítószer) ezeket a mikroorganizmusokat idővel megöli a szivárogtató egyre nagyobb körzetében. Olyan esetben, ha a településen a házak és a hozzájuk tartozó szivárogtatók túl közel esnek egymáshoz, akkor a területegységre eső szennyvízmennyiség megnő, ugyanakkor a talaj egyre kisebb része őrzi meg biológiai tisztítóképességét. Ezért igen fontos, hogy a közcsatornát nélkülöző területeken a *laksűrűség* viszonylag alacsony legyen (a laksűrűség mérőszáma a területegységen élő lakosok száma: fő/hektár).
 
-> **Megjegyzés**
->
-> A laksűrűséghez hasonló, de műszakilag kezelhetőbb egység a lakás-sűrűség (lakás/ha) amelyből az átlagos családlétszámok alapján a laksűrűség levezethető. Újabban alkalmazzák a területfelhasználási egység egészére érvényes „szintterület-sűrűség” mérőszámot, amely az ott építhető összes épület minden szintjének együttes alapterülete és a területfelhasználási egység területének viszonyszáma. Ez is jelzi a laksűrűséget, mert az összes szintterületből a lakások száma, abból pedig a laksűrűség jó közelítéssel becsülhető statisztikai átlagok alapján.
+::: note
+
+A laksűrűséghez hasonló, de műszakilag kezelhetőbb egység a lakás-sűrűség (lakás/ha) amelyből az átlagos családlétszámok alapján a laksűrűség levezethető. Újabban alkalmazzák a területfelhasználási egység egészére érvényes „szintterület-sűrűség” mérőszámot, amely az ott építhető összes épület minden szintjének együttes alapterülete és a területfelhasználási egység területének viszonyszáma. Ez is jelzi a laksűrűséget, mert az összes szintterületből a lakások száma, abból pedig a laksűrűség jó közelítéssel becsülhető statisztikai átlagok alapján.
+:::
+
 
 Az alacsony laksűrűség fenntartása különösen fontos azokon a lakóterületeken (falvakban, városok külső területein) ahol a háziállatok tartása megengedett. Az állattartásból keletkezett szennyeződés, bűz és rovarok rendkívüli mértékében leronthatják a lakókörnyezet minőségét, ha a beépítés besűrűsödik. Ma már vannak kielégítő hatásfokkal működő, helyi szennyvíztisztító berendezések és létesítmények (eleveniszapos szennyvíztisztító kisberendezés, nádgyökér-zónás szennyvíztisztítás stb.) azonban ezek is csak alacsony laksűrűségű területen működtethetők.
 
@@ -1619,7 +1718,7 @@ Könnyen belátható, hogy minél lazábban épül be egy településrész (min�
 A közműhálózat ma már egyre több szolgáltatást tartalmaz: a burkolt út és járda, a vezetékes víz, szennyvízcsatorna, csapadékvíz-csatorna, közüzemi villamosvezeték-hálózat, gázvezeték, telefonhálózat, vezetékes TV hálózat stb. a közműhálózat része. A közműhálózat az élő szervezetekhez hasonlóan a települések érhálózatát képezi. Mindehhez hozzá tartoznak az egyéb szolgáltatások: pl. a rendszeres közösségi szemétgyűjtés, tömegközlekedés, postaszolgálat, kereskedelmi létesítmény-hálózat, intézményhálózat stb. Ezeket összefoglaló néven *infrastruktúrának* nevezzük. Az infrastrukturális ellátás tervezése és fenntartása az igénybevétel mértékével, vagyis a kiszolgált lakosság számával összefügg. Ezért szükséges, hogy egy adott lakóterületen építhető lakásszámot (laksűrűséget) különféle szabályozási technikákkal behatárolják, és az infrastruktúra fejlesztési lehetőségeivel összehangolják.
 
 <a id="E2_infrastrukturalis_ellatottsag"></a>
-## 2.5. Az infrastrukturális ellátottság, építési övezetek
+### 2.5. Az infrastrukturális ellátottság, építési övezetek
 
 Minél fejlettebb egy lakóterület infrastrukturális ellátása, annál civilizáltabb lakhatási feltételeket nyújt, de az infrastruktúra költségei végső soron a telekárakban is megjelennek. Kisebb falvak infrastrukturális fejlesztésének gazdasági akadálya, hogy a teljes körű közművesítés egy telekre jutó költsége akár nagyobbnak is bizonyulhat, mint amennyiért a telek eladható. Az infrastruktúra költségei a magas szinten közművesített, városias területeken is beépülnek a telekárba, amely árat a piaci kereslet tovább emel. Ez a gazdasági összefüggés a lakássűrűség növekedését ösztönzi, mert a magasabb telekár több lakásegység között oszlik meg, ha a telken többlakásos épület létesíthető. Ezt a településfejlesztés során figyelembe kell venni, mert a laksűrűség túlzott korlátozása visszafogja a lakásépítés ütemét, ami akár társadalmi feszültségeket is kiválthat. Kivételnek számítanak azok a magas szinten ellátott területek, ahol az alacsony laksűrűség megtartása a város közösségi érdeke. Például a budai hegyvidéken – amely a „főváros tüdeje” – a lazább beépítés megőrzése a város lakosságának közös érdeke. Itt azonban ma már egy családi ház építésére szolgáló telek ára egy átlagos családi ház építési költségének többszöröse is lehet, ezért azt csak az igazán tehetős építtetők képesek megvásárolni.
 
@@ -1630,7 +1729,7 @@ A területfelhasználási egységen belül különböző *övezeteket* jelölnek
 Ezeket az egész övezetre szóló előírásokat úgy lehet érvényesíteni, ha azokat minden egyes építési telekre vonatkozóan rögzítik (előfordulhat, hogy nem minden telken azonos paraméterekkel), és így az építtető már a telekvásárláskor tisztában lehet azzal, hogy építési szándékát milyen korlátok között valósíthatja meg.
 
 <a id="E2_epitesi_telek"></a>
-## 2.6. Az építési telek
+### 2.6. Az építési telek
 
 A lakótelek lakóépület létesítésére kialakított földterület. Az újonnan alakított lakótelkeknek a megközelítés és a közműkapcsolatok lehetősége miatt közterülettel (általában utcával) határosnak kell lennie.
 
@@ -1644,15 +1743,19 @@ Beépítettség (%) = a telek beépített területe / telekterület x 100
 
 A *beépített terület* – durva megfogalmazásban – az épület bruttó (falakkal együtt értelmezett) földszinti alapterülete.
 
-> **Megjegyzés**
->
-> A hivatalos megfogalmazás szerint: „A telek beépített területe a telken álló, a környező terepszinthez képest 1,0 m-nél nem magasabbra emelkedő építmények vízszintes síkban mért vetületei területének összege. A vetületi területek számításánál figyelmen kívül kell hagyni a terepcsatlakozástól legalább 2 m-rel magasabban lévő, és az építmény tömegéből legfeljebb 1,50 m-rel kiálló erkély, függőfolyosó, ereszpárkány, előtető, továbbá az épülethez tartozó előlépcső vízszintes vetületét.”
+::: note
+
+A hivatalos megfogalmazás szerint: „A telek beépített területe a telken álló, a környező terepszinthez képest 1,0 m-nél nem magasabbra emelkedő építmények vízszintes síkban mért vetületei területének összege. A vetületi területek számításánál figyelmen kívül kell hagyni a terepcsatlakozástól legalább 2 m-rel magasabban lévő, és az építmény tömegéből legfeljebb 1,50 m-rel kiálló erkély, függőfolyosó, ereszpárkány, előtető, továbbá az épülethez tartozó előlépcső vízszintes vetületét.”
+:::
+
 
 A szabályozásban megkötik a telken létesíthető legnagyobb *építménymagasságot*. Az építménymagasság – ugyancsak durva megfogalmazásban – az épület valamennyi homlokzatmagasságának átlaga. Egyszerűbb esetben úgy számítható, hogy a ház minden homlokzatának együttes területét elosztjuk a homlokzatok együttes hosszával.
 
-> **Megjegyzés**
->
-> A hivatalos meghatározás igen hosszú és bonyolult, ezért leírását itt mellőzzük. Megtalálható az OTÉK fogalom-meghatározásai között.
+::: note
+
+A hivatalos meghatározás igen hosszú és bonyolult, ezért leírását itt mellőzzük. Megtalálható az OTÉK fogalom-meghatározásai között.
+:::
+
 
 A beépítettség engedélyezett mértéke és az engedélyezett legnagyobb építménymagasság lényegében a telken létesíthető legnagyobb épület-térfogatot határozza meg. Ezzel a nagyobb területegységen építhető lakásszámot is jó közelítéssel behatárolja, mert a lakások átlagos kubatúrája statisztikai törvényszerűség alapján becsülhető.
 
@@ -1662,14 +1765,14 @@ A helyi viszonyokhoz rugalmasabban illeszthető szabályozást jelent az un. *fa
 
 Szintterületi mutató = az épület valamennyi, felszín feletti szintjének bruttó alapterülete / telekterület
 
-A szintterületi mutatóval történő szabályozás jól rögzíti a laksűrűséget, de az épületmagasságot nem köti meg nagyobb területen, annak szabályozása eseti lehet akár kisebb telekcsoportok vonatkozásában is. Ez azt jelenti, hogy az alacsonyabb épület telkének beépítettsége akár nagyobb is lehet, mint a magasabb, többszintes házé. Ez látszólag ellentmond a zöldterület védelmének, de valójában nem jelentősen. A magasabb ház ugyanis jobban árnyékol, míg az alacsonyabbnál a fák lombkoronája felnő az épület fölé, és a csökkent árnyékolás miatt a vegetáció intenzívebb lehet. Ezzel a szabályozással érhető el, hogy a többszintes, többlakásos házak eseti alternatívája lehessen az alacsony, nagy sűrűségű beépítés (részletesebben lásd a 4. fejezetben).
+A szintterületi mutatóval történő szabályozás jól rögzíti a laksűrűséget, de az épületmagasságot nem köti meg nagyobb területen, annak szabályozása eseti lehet akár kisebb telekcsoportok vonatkozásában is. Ez azt jelenti, hogy az alacsonyabb épület telkének beépítettsége akár nagyobb is lehet, mint a magasabb, többszintes házé. Ez látszólag ellentmond a zöldterület védelmének, de valójában nem jelentősen. A magasabb ház ugyanis jobban árnyékol, míg az alacsonyabbnál a fák lombkoronája felnő az épület fölé, és a csökkent árnyékolás miatt a vegetáció intenzívebb lehet. Ezzel a szabályozással érhető el, hogy a többszintes, többlakásos házak eseti alternatívája lehessen az alacsony, nagy sűrűségű beépítés (részletesebben lásd a [4.](#alacsony_beepitesek) fejezetben).
 
 A beépítettség mértékének korlátozása önmagában amúgy sem elegendő a zöldfelület kívánatos arányának garantálására: például akkor, ha a többlakásos ház telkének nagy felületét leburkolják nagyszámú gépkocsi parkolóhelyének. Ezért indokolt a zöldfelület legkisebb mértékét is megkötni a telek területének arányában.
 
-A telek beépítési lehetőségét az előírt beépítési mód és az ezzel összefüggésben kijelölt építési hely is megszabja. Ezeket részletesebben a 3. fejezetben tárgyaljuk.
+A telek beépítési lehetőségét az előírt beépítési mód és az ezzel összefüggésben kijelölt építési hely is megszabja. Ezeket részletesebben a [3.](#Csaladi_hazak) fejezetben tárgyaljuk.
 
 <a id="E2_Epuletek_akadalymentes_megkozelitese"></a>
-## 2.7. Épületek akadálymentes megközelítése
+### 2.7. Épületek akadálymentes megközelítése
 
 — Pandula András
 
@@ -1688,7 +1791,7 @@ A lakóépületek magasabb komfortjának érdekében nyomatékosan ajánlott bej
 Ha az előlépcső építészeti, szerkezeti vagy egyéb tényező miatt nem hagyható el, akkor azt mindenképpen szükséges rámpával kiegészíteni. A rámpa kialakításának, szerkesztésének szabályait figyelembe véve fél-, vagy teljes emeletnyi szintkülönbséget már nem lehet rámpával áthidalni, mert az olyan hosszú rámpát eredményezne, amelynek a helyigénye általában nem biztosított. Ilyen esetben a szintkülönbség áthidalására javasolt gépészeti berendezés beépítése (pl. emelőlap, felvonó). Többszintes, többlakásos lakóépületek esetében, ahol jellemzően felvonó is található az épületben, az akadálymentes beközlekedés érdekében nyomatékosan javasolt, hogy a felvonó a csatlakozó terepszinten lévő bejárati előtérből induljon.
 
 <a id="E2_telepuleskornyezet_kulturalis"></a>
-## 2.8. A településkörnyezet kulturális, építészeti értékeinek védelme
+### 2.8. A településkörnyezet kulturális, építészeti értékeinek védelme
 
 Épített környezetünk kulturális értékeit nemcsak az egyes épületek hordozzák, hanem az egész településkörnyezet. Ez utóbbi talán még fontosabb szempont: a viszonylag egyszerű, de azonos rendező elvek szerint épült házak harmonikus együttese kulturáltabb településkörnyezetet képez, mint az egyénieskedő módon tetszelgő – de egységes karaktert nélkülöző – túlformált házak halmaza.
 
@@ -1704,29 +1807,29 @@ A lakóépületek ritkán jelennek meg környező épületek látványától fü
 
 Falvaink hagyományos „fésűs” beépítési módja az utcára merőleges gerincű, oromzatos (vagy kontyolt) tetőivel, többé-kevésbé azonos léptékű és arányú utcai homlokzataival kellemes *utcaritmust* teremtett. Az építészeti hatás nem az épületformában rejlett csupán: ma is láthatunk utcára oromzattal néző, a hagyományos mintát többé-kevésbé követő új épületeket, de nagyobb léptékben és más arányokkal: csupán a lényeg, a harmonikus *arány- és léptékrend*, az annak megfelelő *ritmus* vész el. Rendkívül zavaró, ha oromzattal az utcára néző házak magasságai, tetőhajlásszögei nagyon eltérnek: az „alpesi” meredek tető, meg a laposabb „mediterrán” tetőforma váltakozása eltérő éghajlatokon élő kultúrák építészeti formáit idézi. A *homlokzatmagasságok és a tetőhajlásszögek határértékeinek megkötése* bizonyos tűréshatárok között indokolt a szabályozás során, különösen oromzatos utcakép esetén.
 
-A hagyományos, városias utcaképekben a zártsorú beépítés az utcával párhuzamos tetőgerincet, és a homlokzat párkányzatos záródását igényelte. A mezővárosok fejlődése folyamán, az utcai keresztszárny megjelenésével a tetőgerinc iránya átfordult, az oromzatos utcakép párkányzatossá vált (részletesebben lásd majd a 3.2. fejezetben). Valószínű, hogy e párkányzatos homlokzat lett kissé félreértett mintája a hatvanas-hetvenes évek közkedvelt „sátortetős” házainak, amelyek az oromzatos utcaképet felváltották. Ma már nincs ilyen, közös mintát követő tetőformára építtetői közmegegyezés, ezért szabályozatlan esetben a legkülönfélébb tetőformák kerülhetnek – és kerülnek – egymás mellé. Indokolt lehet helyileg szabályozni az utcára néző épületszárnyak *tetőgerinceinek irányát*.
+A hagyományos, városias utcaképekben a zártsorú beépítés az utcával párhuzamos tetőgerincet, és a homlokzat párkányzatos záródását igényelte. A mezővárosok fejlődése folyamán, az utcai keresztszárny megjelenésével a tetőgerinc iránya átfordult, az oromzatos utcakép párkányzatossá vált (részletesebben lásd majd a [3.2.](#E3_Torteneti_attekintes) fejezetben). Valószínű, hogy e párkányzatos homlokzat lett kissé félreértett mintája a hatvanas-hetvenes évek közkedvelt „sátortetős” házainak, amelyek az oromzatos utcaképet felváltották. Ma már nincs ilyen, közös mintát követő tetőformára építtetői közmegegyezés, ezért szabályozatlan esetben a legkülönfélébb tetőformák kerülhetnek – és kerülnek – egymás mellé. Indokolt lehet helyileg szabályozni az utcára néző épületszárnyak *tetőgerinceinek irányát*.
 
 Nehéz lenne receptet adni, hogy hol, milyen utcakép indokolt. Ez függ a helyi sajátosságoktól, a beépítési módtól és egyéb tényezőktől. Ha például egy utcában az épületmagasságok eltéréseit engedi a szabályzat – emeletes és földszintes házak kerülhetnek egymás mellé – akkor a párkányzatos utcakép ajánlatosabb, mint az oromzatos. Bizonyos beépítési módok bizonyos tetőformákkal párosulnak: pl. a zártsorú beépítés oromzatos formája tipikusan észak-európai és a hazai hagyományoktól idegen.
 
 Az építési vonalnak, a homlokzatmagasságok határértékeinek, a tetőforma jellegének és a tetőhajlásszögnek a megkötésén túl az utcaképet hatóságilag szabályozni nemigen szokták. Esetleg a kerítések egységesítése, a homlokzatszínezésnél bizonyos szélsőségek kizárása jöhet szóba. Az egységes, kulturált környezet létrejöttéhez semmivel nem pótolható az építtetők jószándékú meggyőzése, közmegegyezés elérése, de főképpen a tervező építészek szakmai alázata, hogy minden egyes épület tervezésekor a település és az utca meglévő építészeti karakterét tartsák tiszteletben.
 
 <a id="Csaladi_hazak"></a>
-# 3. Családi házak
+## 3. Családi házak
 
 <a id="E3_fejezet_temakore"></a>
-## 3.1. A fejezet témaköre
+### 3.1. A fejezet témaköre
 
 A családi házak *általában* a lakóépületek *egylakásos* formái, de nem egyértelmű a tartomány határának kijelölése. A két generáció együttélésére kialakított családi ház valójában két lakást tartalmaz. Ugyancsak családi háznak mondjuk az ikerházszerűen kialakított, közös telken álló kétlakásos épületet is. A több lakást tartalmazó sorház lakásegységeit egy lakásos épületeknek, családi házaknak is tekinthetjük, ha mindegyik önálló telken áll, míg ha ugyanez az épület közös telken épül meg, akkor már többlakásos társasháznak is tekinthető. Ezért a családiház jellegű csoportházakat majd a következő fejezetben tárgyaljuk.
 
 Lakásminőség szempontjából a családi ház a legmagasabb jövedelmű rétegek lakásformája nagyvárosok villanegyedeiben, míg faluhelyen – mint az egyetlen elérhető épületforma – az átlagos jövedelmű vagy épp a szegényebb néprétegek hajléka.
 
 <a id="E3_Torteneti_attekintes"></a>
-## 3.2. Történeti áttekintés
+### 3.2. Történeti áttekintés
 
 Ebben a fejezetben „falusi” és „városi” családi házakról beszélünk. Ez a megkülönböztetés nem a településszerkezeti elhelyezkedés alapján történik. Nagyvárosok külső területein is találhatók kifejezetten falusias jellegű épületek, míg a községekben is vannak városias családi házak.
 
 <a id="E3_falusi_csaladi_hazak"></a>
-### 3.2.1. A falusi családi házak
+#### 3.2.1. A falusi családi házak
 
 Falusias családi házaknak itt azokat nevezzük, amelyek telkén mezőgazdasági termelés és állattartás folyik. A falusi „porta” nemcsak lakótelek, hanem mezőgazdasági kisüzem is, a lakó- és mezőgazdasági üzemi funkciók a település szerkezetében átfedésben vannak. A falusi lakóház fejlődéstörténete jellemzően illusztrálja az épített környezetnek a gazdasági és kulturális környezettel való kölcsönhatását.
 
@@ -1769,7 +1872,7 @@ A hetvenes-nyolcvanas években a háztáji gazdálkodás jelentősége fokozódo
 A rendszerváltozás után a termelőszövetkezetek jó része életképtelen kisbirtokokra esett szét, a magyar mezőgazdaság válságba került, a 90-es évek a falvak gazdasági hanyatlását hozták. A túlépített, léptéktelen házak építésének korszaka lejárt. Még nem látszik tisztán, hogy a mezőgazdaság szerkezete milyen végleges formát ölt, de az minden bizonnyal tükröződni fog a magyar faluszerkezetben és a lakóház-típusokban is. Elkezdődött egyes falvak funkcióváltása: üdülőfalvak alakulnak ki a tájilag szép, de gazdaságilag hanyatló térségekben. A nagyvárosi agglomerációk falvaiban a kiáramló, vagyonosabb városi népesség kereslete a telkek árait felveri: az ingatlanok értéke jóval meghaladja azt a szintet, amelyet a mezőgazdasággal (is) foglalkozó réteg megengedhet magának. Ezek a városkörnyéki települések egyre inkább kertvárosi karaktert öltenek és „alvótelepülésekké” válnak.
 
 <a id="E3_varosias_csaladi_hazak"></a>
-### 3.2.2. A városias családi házak
+#### 3.2.2. A városias családi házak
 
 Városias családi házaknak itt azokat nevezzük, amelyek telkének mezőgazdasági funkciója nincs, a telek regenerálódásra, legfeljebb hobbi-kertészkedésre szolgál.
 
@@ -1835,7 +1938,7 @@ A nyolcvanas évek második felében kezdődött, és a 90-es években teljesede
 
 A fővárosi, családi házak építésére alkalmas telkek lassanként elfogynak, megindul a nagyvárosokból történő kiáramlás, és a „városi” karakterű családi házak egyre nagyobb számban épülnek a nagyvárosi agglomerációk falvaiban.
 
-A huszadik század végén a szakmai figyelem egyre inkább az energiatudatosság felé fordult (márcsak az üzemelési költségek csökkentése miatt is) és a „fenntarthatóság” (lásd 2.2.1. fejezet) kiemelt szempont lesz a családi házak létesítésekor is. Az új szemlélettel tervezett házak ma még nem épülnek tömegesen, de egyre nagyobb teret nyernek. A jövő útját mindenképpen ezek jelölik ki.
+A huszadik század végén a szakmai figyelem egyre inkább az energiatudatosság felé fordult (márcsak az üzemelési költségek csökkentése miatt is) és a „fenntarthatóság” (lásd [2.2.1.](#E2_fenntarthato_lakokornyezet) fejezet) kiemelt szempont lesz a családi házak létesítésekor is. Az új szemlélettel tervezett házak ma még nem épülnek tömegesen, de egyre nagyobb teret nyernek. A jövő útját mindenképpen ezek jelölik ki.
 
 A [3.10. ábra](#abra_3_10) természetközeli építőanyagok felhasználásával a fenntarthatóság szellemében épült házat mutat.
 
@@ -1845,7 +1948,7 @@ A [3.10. ábra](#abra_3_10) természetközeli építőanyagok felhasználásáva
 
 *3.10. ábra – Magyarkúti családi ház 2007-2008 Tervező: Medgyasszay Péter*
 
-**Új törekvések a kortárs családi ház építésben: autonóm házak, ökoházak, passzív házak**
+##### Új törekvések a kortárs családiház-építésben: autonóm házak, ökoházak, passzív házak
 
 — Novák Ágnes
 
@@ -1859,17 +1962,17 @@ Mindhárom kategória tervezése során az alábbi elvek érvényesülnek, term�
 - újrahasznosítás, valamint lehetőleg természetes és megújuló anyagok használata
 - víztakarékos megoldások alkalmazása, a keletkezett csökkentett mennyiségű szennyvíz szelíd technológiás kezelése, és újrafelhasználása.
 
-**Különbségek:**
+##### Különbségek
 
 - *Autonóm ház:* az épület és környezet hálózatokról leválasztva úgynevezett „off-grid” rendszerben működik, vagy ha hálózatba van kötve, akkor a betáplálás és kivétel egyensúlyban van. Jellemzően nagyobb telekkel rendelkező épület esetén jó megoldás. Ezeknél az épületeknél az áramtermelés, a vízkivétel, a szennyvíztisztítás, a hőenergia termelése „telekhatáron belül” történik. Az épület üzemeltetése során egymás mellett megtalálható a low-tech (pl. alomszékes illemhely, tömegkályha) és a high-tech (pl. fotovoltaikus áramtermelés). Az épület lakói általában tudatosan, megfelelő ismertekkel felvértezve vesznek részt az épület működtetésében. Az energiafelhasználás jellemzően 80-100 kWh/m²/év. A fűtési-, főzési-, egyéb energia formája jellemzően biomassza, napenergia, illetve elektromos áram.
 - *Ökoház:* azokat az épületeket nevezzük így, ahol az anyaghasználatra és az egészséges belső klímára különös gondot fordítanak, egyben az energiafelhasználás az átlagosnál alacsonyabb és jellemzően megújuló forrásokat használnak. Az ökoházaknál törekednek az új technikai megoldások természetközeli változatainak alkalmazására (pl. gravitációs rendszerű napkollektor, vízteres kandallókályha), és a lakók aktívan részt vesznek a működtetésben. Az energiafelhasználás jellemzően 80-120 kWh/m²/év. A fűtési-, főzési-, egyéb energia formája jellemzően biomassza, napenergia, illetve elektromos áram.
 - *Passzív ház:* míg az előző két épülettípusnál megelégednek az alacsony energiafelhasználással, addíg a passzív házak esetében az alacsony energiabevitel mellett a belső hulladékenergia maximális felhasználása is előtérbe kerül. Ennél az épülettípusnál az automatizált működtetés általában a high-tech megoldások felé viszi a gépészetet (hővisszanyerő szellőztető rendszer, talajkollektorok hőszivattyúk, stb.). A fenntartás és működtetés során az automatizált rendszerek általában rendszeres karbantartást, sokszor távfelügyeletet is igényelnek. Épülettípustól függően 40-60 kWh/m²/év energiabevitel szükséges, a technológia miatt ez leginkább szoláris energia és elektromos áram formájában történik.
 
 <a id="E3_szabadon_allo"></a>
-## 3.3. Családi házak szabadon álló beépítési módban
+### 3.3. Családi házak szabadon álló beépítési módban
 
 <a id="hatosagi_szabalyok"></a>
-### Hatósági építési követelmények, szabályzatok
+#### Hatósági építési követelmények, szabályzatok
 
 Az országos Településrendezési és Építési Követelmények (OTÉK) szerint a telkek beépítési módját szabadon álló, oldalhatáron álló, ikres és zártsorú formában kell meghatározni a helyi építési szabályzatban. Ez a családi házakra is vonatkozik. A következőkben az egyes beépítési módokban épülő családi házak leírására külön alfejezetet szánunk.
 
@@ -1920,9 +2023,9 @@ A hatósági szabályok betartása önmagában nem elegendő az épületnek a te
 A telek beépítésének szempontjait a szabadon álló beépítésre vonatkoztatva tárgyaljuk részletesebben. Más beépítési módok esetében csak az azokra jellemző sajátos szempontokra térünk ki.
 
 <a id="Benapozas_szelvedettseg_tajolas"></a>
-### 3.3.2. Benapozás, szélvédettség, tájolás
+#### 3.3.2. Benapozás, szélvédettség, tájolás
 
-A lakások helyiségeinek benapozásáról és tájolásáról az 1.5.4. fejezetben esett szó. Energetikai szempontból előnyös, ha az épület nagyobb ablakfelületei a napfényes homlokzatokra kerülnek; a filtrációs hőveszteségeket jelentősen csökkentheti, ha az uralkodó széliránynak kitett homlokzat zárt, kevés nyílást tartalmaz (Magyarország legnagyobb részén az uralkodó szélirány ÉNY). A fokozott energiatudatossággal tervezett házak tervezésénél ezek az adottságok nagy jelentőséget kapnak (lásd 3.7.3. fejezet).
+A lakások helyiségeinek benapozásáról és tájolásáról az [1.5.4.](#E1_Benapozas_tajolas) fejezetben esett szó. Energetikai szempontból előnyös, ha az épület nagyobb ablakfelületei a napfényes homlokzatokra kerülnek; a filtrációs hőveszteségeket jelentősen csökkentheti, ha az uralkodó széliránynak kitett homlokzat zárt, kevés nyílást tartalmaz (Magyarország legnagyobb részén az uralkodó szélirány ÉNY). A fokozott energiatudatossággal tervezett házak tervezésénél ezek az adottságok nagy jelentőséget kapnak (lásd [3.7.3.](#energiatudatos) fejezet).
 
 Egy helyiség tájolása önmagában nem biztosítja a kellő benapozást, ha ablakára a környezetében lévő objektumok árnyékot vetnek, vagy magának az épületnek egyik szárnya vet árnyékot arra. A benapozást bizonyos beépítési helyzetekben a külön is vizsgálni kell. A szabályzat szerint egy homlokzat akkor tekinthető benapozottnak, ha február 15-én legalább 60 percen át napsugárzás éri.
 
@@ -1948,15 +2051,23 @@ Az év adott napjának adott órájában a napsugárzás iránya és beesési sz
 
 *3.16. ábra – Nappálya-diagram*
 
-> **Megjegyzés**
->
-> A nappálya-diagram lényegében az égbolt félgömbje jellegzetes pontjainak vetülete a horizontsíkon (a vetítővonalak a nadírban futnak össze). A diagram mutatja az év minden hónapjának két napján az égbolti nappályák vízszintes vetületét. Ezeken a napkeltétől napnyugtáig tartó órabeosztást jelölik. A koncentrikus körök az égbolton azonos szög alatt látható pontokból képzett körök vetületei. Egy adott nap adott órájában mind a napsugárzás iránya (azimut), mind beesési szöge interpolálással grafikusan is meghatározható.
->
-> A közölt diagram Dr. Kuba Gellért „Benapozás” c. kiadványából való (Iparterv 1975).
+::: note
 
-Ma már fejlett, számítógépes szoftverekkel a benapozási feltételek gyorsabban és pontosabban számíthatók és szerkeszthetők. Pontos számításra például akkor lehet szükség, ha az épületbe jutó napenergia mennyiségét akarjuk tudni a passzív szolár házak energiaháztartásának tervezésénél. (3.7.3. fejezet).
+A nappálya-diagram lényegében az égbolt félgömbje jellegzetes pontjainak vetülete a horizontsíkon (a vetítővonalak a nadírban futnak össze). A diagram mutatja az év minden hónapjának két napján az égbolti nappályák vízszintes vetületét. Ezeken a napkeltétől napnyugtáig tartó órabeosztást jelölik. A koncentrikus körök az égbolton azonos szög alatt látható pontokból képzett körök vetületei. Egy adott nap adott órájában mind a napsugárzás iránya (azimut), mind beesési szöge interpolálással grafikusan is meghatározható.
 
-A napsugárzás hátrányos is lehet nyáridőben, ha a benapozott helyiségeket túlságosan felmelegíti. Ez ellen árnyékolással kell védekezni (lásd 1.5.2. fejezet). Az évszakonként változó napmagasság miatt vízszintes árnyékoló síkok ([1.50. a. és b. ábra](#abra_1_50)) megfelelő méretezésével elérhető, hogy az árnyékoló szerkezet ne akadályozza a benapozást abban az időszakban, amikor az energia-felvételre szükség van ([3.18. ábra](#abra_3_18)). A méretezés benapozás-vizsgálat módszerével elvégezhető.
+A közölt diagram Dr. Kuba Gellért „Benapozás” c. kiadványából való (Iparterv 1975).
+:::
+
+<a id="abra_3_17"></a>
+
+![Az épület árnyéka adott naptári nap adott órájában](images/abra_3_17_eparnyek.png)
+
+*3.17. ábra – Az épület árnyéka adott naptári nap adott órájában*
+
+
+Ma már fejlett, számítógépes szoftverekkel a benapozási feltételek gyorsabban és pontosabban számíthatók és szerkeszthetők. Pontos számításra például akkor lehet szükség, ha az épületbe jutó napenergia mennyiségét akarjuk tudni a passzív szolár házak energiaháztartásának tervezésénél. ([3.7.3.](#energiatudatos) fejezet).
+
+A napsugárzás hátrányos is lehet nyáridőben, ha a benapozott helyiségeket túlságosan felmelegíti. Ez ellen árnyékolással kell védekezni (lásd [1.5.2.](#E1_Szellozes) fejezet). Az évszakonként változó napmagasság miatt vízszintes árnyékoló síkok ([1.50. a. és b. ábra](#abra_1_50)) megfelelő méretezésével elérhető, hogy az árnyékoló szerkezet ne akadályozza a benapozást abban az időszakban, amikor az energia-felvételre szükség van ([3.18. ábra](#abra_3_18)). A méretezés benapozás-vizsgálat módszerével elvégezhető.
 
 <a id="abra_3_18"></a>
 
@@ -1967,7 +2078,7 @@ A napsugárzás hátrányos is lehet nyáridőben, ha a benapozott helyiségeket
 Optimális árnyékoló „szerkezet” az ablakra árnyékot vető, lombhullató fa koronája, amely a napsugárzást átengedi tavasztól őszig, de nyáron kellemes árnyékot ad. Ez a ház és a kert kölcsönhatásának fontos tervezési szempontja lehet. Az ilyen célból ültetett facsemete 15-20 év múlva teljesítheti csak rendeltetését, ezért elsősorban a meglévő növényanyag megtartására és kihasználására kell törekedni a tervezés során.
 
 <a id="Kertkapcsolat"></a>
-### 3.3.3. Kertkapcsolat
+#### 3.3.3. Kertkapcsolat
 
 A kertvárosi környezetben épülő családi házak különleges értéke a kert. A kert megtervezése éppoly gondosságot igényel, mint a házé: átlagos építészeti minőségű házak is megnemesednek egy szép kertben, és az építészetileg kitűnő házak hatását is leronthatja a kopár, vagy elhanyagolt telek. Az igényes tervezés hozzáértő kertépítész közreműködését kívánja.
 
@@ -2000,16 +2111,16 @@ A [3.21. ábra](#abra_3_21) fiktív példákon mutatja be, hogy ha a mereven ér
 *3.21. ábra – Épületek elhelyezése azonos tájolású telkeken a konkrét helyszín adottságai szerint (fiktív sémák).*
 
 <a id="epulet_megkozelitese"></a>
-### 3.3.4. Az épület megközelítése
+#### 3.3.4. Az épület megközelítése
 
 A gyalogosan és gépkocsival történő megközelítés mikéntje fontos tervezési szempont. Az épület bejárata legyen jól látható, építészetileg hangsúlyos helyen, a bejárat megközelítési útvonala lehetőleg kerülje el a kert „intim” használatú részét.
 
 Ez általában nem jelent gondot, ha a főbejárat természetes helye a ház helyiségeinek elrendezése miatt az utcai homlokzaton adódik. Ez azonban nem mindig lehetséges: ha a telekadottság vagy egyéb építészeti szándék az utcára merőlegesen nyújtott alaprajzú házat kíván meg, ennek főbejáratát csaknem lehetetlen közvetlenül az utcai homlokzaton kialakítani, mert külpontos helyzete miatt a belső közlekedők terjengősségét okozná. Ilyen esetben szinte elkerülhetetlen a bejárat oldalkert felőli elhelyezése. Ekkor az épület építészeti megformálásával kell a bejárat helyét egyértelművé, hangsúlyossá tenni.
 
-A gépkocsival való megközelítés a gépkocsitároló helyzetétől függ, azzal együtt tárgyaljuk a 3.3.6. fejezetben.
+A gépkocsival való megközelítés a gépkocsitároló helyzetétől függ, azzal együtt tárgyaljuk a [3.3.6.](#Gepkocsitarolas) fejezetben.
 
 <a id="Nem_lakas_celu_epuletek"></a>
-### 3.3.5. Nem lakás célú épületek és építmények elhelyezése
+#### 3.3.5. Nem lakás célú épületek és építmények elhelyezése
 
 A korábbi építési szabályzatok megkülönböztettek a lakótelken un. „főépületet” és „melléképületet”. A hatósági szabályozás jelenlegi terminológiája a melléképület fogalmát eltörölte és általában épületek elhelyezéséről rendelkezik. Ennek ellenére, a melléképület fogalma tovább él a köztudatban: ezek alárendelt funkciójú ill. időszakosan használt, legtöbbször nem is fűthető épületek, így egyszerűbb szerkezetekkel, olcsóbban építhetők. Épp ez jelent azonban veszélyt a környezet minősége szempontjából: gyakran látható, hogy a reprezentáló főépület mögötti telekrészen – amely a család mindennapi környezetét adja – szedett-vedett anyagokból tákolt bódék zsúfolódnak, amelyek nemcsak a közvetlen szomszéd, hanem az egész terület környezetének minőségét lerontják.
 
@@ -2021,14 +2132,16 @@ Kertes családi ház esetében mindig gondoskodni kell *a kerti szerszámok és 
 
 *Melléképítmények* a nem épület jellegű létesítmények, amelyek a beépített alapterületbe nem számítanak bele (pl. közmű-becsatlakozási vagy közműpótló műtárgy, hulladéktartály-tároló, 1 m-nél nem magasabb fedetlen terasz, víz és fürdőmedence, napkollektor stb.). Lényeges, hogy ide tartozik a „kerti lugas, továbbá lábonálló kerti tető legfeljebb 20 m² vízszintes vetülettel”. Ez utóbbi ugyanis fedett-nyitott gépkocsitárolásra is szolgálhat.
 
-> **Megjegyzés**
->
-> A családi ház kertjének, a vizuális élményen és a rekreációs lehetőségeken túlmenően, igen sokszor gazdasági funkciója is van, ha a telek kellően nagy méretű. A dísznövények mellett megjelennek a kettős funkciójú kertrészletek, az élelmiszertermelésre is alkalmas telekrészek, vagy hobbitevékenységre alkalmas területek. Ez a fajta kerthasználat segít megőrizni a változatos fajtákat, és a lakók kreatív tevékenységeit is elősegítik. Ezért a tervezés során erre is érdemes megfelelő felületet adni, üvegház vagy egyéb melléképület helyének biztosításával. A kertgondozáshoz szükséges locsolóvíz nyerhető a talajból is, így a kerti műtárgyak közé bekerülnek a szivattyú elhelyezéséhez szükséges aknák is. Érdemes a kerti gazdasági és tároló jellegű funkciókat egy csoportban elhelyezni, részben a megfelelő látvány részben a biztonság miatt.
->
-> — Novák Ágnes
+::: note
+
+A családi ház kertjének, a vizuális élményen és a rekreációs lehetőségeken túlmenően, igen sokszor gazdasági funkciója is van, ha a telek kellően nagy méretű. A dísznövények mellett megjelennek a kettős funkciójú kertrészletek, az élelmiszertermelésre is alkalmas telekrészek, vagy hobbitevékenységre alkalmas területek. Ez a fajta kerthasználat segít megőrizni a változatos fajtákat, és a lakók kreatív tevékenységeit is elősegítik. Ezért a tervezés során erre is érdemes megfelelő felületet adni, üvegház vagy egyéb melléképület helyének biztosításával. A kertgondozáshoz szükséges locsolóvíz nyerhető a talajból is, így a kerti műtárgyak közé bekerülnek a szivattyú elhelyezéséhez szükséges aknák is. Érdemes a kerti gazdasági és tároló jellegű funkciókat egy csoportban elhelyezni, részben a megfelelő látvány részben a biztonság miatt.
+
+— Novák Ágnes
+:::
+
 
 <a id="Gepkocsitarolas"></a>
-### 3.3.6. Gépkocsitárolás
+#### 3.3.6. Gépkocsitárolás
 
 Lakásonként 1 gépkocsi elhelyezéséről *kötelező* a telken belül gondoskodni, de ma már egyre gyakoribb, hogy a család két vagy három gépkocsit is üzemeltet. A gépkocsi tárolásának és mozgásának helyigényét a [3.22–3.24. ábrasor](#abra_3_22) mutatja be.
 
@@ -2072,28 +2185,32 @@ Az *alagsori vagy pinceszinti* gépkocsitároló megközelítéséhez hosszú r�
 
 *3.26. ábra – Alagsori gépkocsitároló sík terepen*
 
-> **Megjegyzés**
->
-> A fenti felsorolásban az az egyes módozatok alapvető problémáira azért hívtuk fel a figyelmet, hogy a körülményekhez leginkább illő konkrét megoldás kiválasztását elősegítsük. Már a tervezés kezdeti stádiumában érdemes a gépkocsitárolás mikéntjét elemezni, mert az a ház térbeli elrendezésének egyik meghatározó eleme. Mint legtöbb tervezési kérdésben, itt sincs valamilyen, egyedül jónak ítélhető megoldás.
+::: note
+
+A fenti felsorolásban az az egyes módozatok alapvető problémáira azért hívtuk fel a figyelmet, hogy a körülményekhez leginkább illő konkrét megoldás kiválasztását elősegítsük. Már a tervezés kezdeti stádiumában érdemes a gépkocsitárolás mikéntjét elemezni, mert az a ház térbeli elrendezésének egyik meghatározó eleme. Mint legtöbb tervezési kérdésben, itt sincs valamilyen, egyedül jónak ítélhető megoldás.
+:::
+
 
 A gépkocsitároló kialakításakor különös gondot kell fordítani annak megközelítésére: a behajtó út lehetőleg ne rontsa a kert értékes részeit, és ha az út nem egyenes, fordulati sugara legyen a beálláshoz elegendő.
 
-> **Megjegyzés**
->
-> A gépkocsitárolóba történő behajtáshoz és az autóból történő kényelmes, biztonságos kiszálláshoz érdemes nagyobb, szélesebb helyet biztosítani a minimális helyigényen felül. Ez elkerülhetetlen az akadálymentesség igényével tervezett háznál, és – ha lehetséges – a kényelmes használat és a későbbi adaptálhatóság érdekében is javasolt.
->
-> Ajánlott a gépkocsi és a mellette kialakult ki- ill. beszállósáv együttes szélességi méretét legalább 3,60 m-ben rögzíteni. Ez a szélesség a gépkocsi akadálymentes megközelíthetőségét biztosítja, és lehetővé teszi, hogy a gépkocsi ajtaja teljesen felnyitható legyen. Így a nehézkesen mozgó idősebbek számára is kényelmesebb a ki- és beszállás, elegendő hely áll rendelkezésre a gyermekek autósülésbe történő beültetésére valamint az ülésen lévő tárgyak kiemelésére.
->
-> Javasolható, hogy a garázs hossza legalább 6 - 6,50 m legyen annak érdekében, hogy a csomagtartóban szállított kerekesszék, csomag, babakocsi kiszedéséhez megfelelő hely álljon rendelkezésre a belső térben.
->
-> Ha a lakóépületben külön általános tároló nem készül, a gépkocsi melletti szélesebb közlekedő zóna vagy a gépkocsi tároló megnövelt hossza révén kialakuló plusz terület egy része tárolásra is szolgálhat, ami lakóépület használati értékét növeli.
->
-> Az alagsorban vagy pinceszinten kialakított gépkocsitároló a használat szempontjából is előnytelen: a gépkocsi megközelítése, csomagok cipelése, a ki-be pakolás sok lépcsőzést igényel a mindennapos használat során, amely főleg idősebbek számára megerőltető. A bejárati szinttől eltérő szinten kialakított gépkocsitároló a mozgásukban korlátozottak számára lehetetlené teszi a gépjármű megközelítését, így a lakóépület esetleges későbbi akadálymentes használatát korlátozza.
->
-> — Pandula András
+::: note
+
+A gépkocsitárolóba történő behajtáshoz és az autóból történő kényelmes, biztonságos kiszálláshoz érdemes nagyobb, szélesebb helyet biztosítani a minimális helyigényen felül. Ez elkerülhetetlen az akadálymentesség igényével tervezett háznál, és – ha lehetséges – a kényelmes használat és a későbbi adaptálhatóság érdekében is javasolt.
+
+Ajánlott a gépkocsi és a mellette kialakult ki- ill. beszállósáv együttes szélességi méretét legalább 3,60 m-ben rögzíteni. Ez a szélesség a gépkocsi akadálymentes megközelíthetőségét biztosítja, és lehetővé teszi, hogy a gépkocsi ajtaja teljesen felnyitható legyen. Így a nehézkesen mozgó idősebbek számára is kényelmesebb a ki- és beszállás, elegendő hely áll rendelkezésre a gyermekek autósülésbe történő beültetésére valamint az ülésen lévő tárgyak kiemelésére.
+
+Javasolható, hogy a garázs hossza legalább 6 - 6,50 m legyen annak érdekében, hogy a csomagtartóban szállított kerekesszék, csomag, babakocsi kiszedéséhez megfelelő hely álljon rendelkezésre a belső térben.
+
+Ha a lakóépületben külön általános tároló nem készül, a gépkocsi melletti szélesebb közlekedő zóna vagy a gépkocsi tároló megnövelt hossza révén kialakuló plusz terület egy része tárolásra is szolgálhat, ami lakóépület használati értékét növeli.
+
+Az alagsorban vagy pinceszinten kialakított gépkocsitároló a használat szempontjából is előnytelen: a gépkocsi megközelítése, csomagok cipelése, a ki-be pakolás sok lépcsőzést igényel a mindennapos használat során, amely főleg idősebbek számára megerőltető. A bejárati szinttől eltérő szinten kialakított gépkocsitároló a mozgásukban korlátozottak számára lehetetlené teszi a gépjármű megközelítését, így a lakóépület esetleges későbbi akadálymentes használatát korlátozza.
+
+— Pandula András
+:::
+
 
 <a id="Terepre_illesztes"></a>
-### 3.3.7. Terepre illesztés
+#### 3.3.7. Terepre illesztés
 
 A lejtős telek igen gyakori adottság a városok zöldövezeteiben és a nagyvárosi agglomerációkban. Az épület terephez való viszonyát alapvetően a telek lejtésének mértéke, a telek geometriai formája (szélesebb vagy keskenyebb telek), az épület nagysága és magassága (szintszáma) befolyásolja.
 
@@ -2148,9 +2265,9 @@ Lejtős terepen külön problémát okoz a *megközelítés*, kivált a gépkocs
 A lejtős terepen gyakran kivételes környezeti érték a szép *kilátás*. Ha a telek alsó részén nem jelöltek ki építési vonalat, néha célszerűnek látszik az úttól emelkedő telek felső részére építeni a házat, és lent, az út mellett támfalgarázst kialakítani ([3.31. ábra](#abra_3_30)). Ilyenkor a ház bejáratáig viszonylag hosszú, emelkedő utat kell gyalogosan leküzdeni, és a gépkocsitárolónak nincs belső kapcsolata a lakással: ez kétségtelen hátrány. A különböző értékszempontok itt is ellentmondanak, és eseti döntést igényelnek.
 
 <a id="E3_oldalhataron_allo"></a>
-## 3.4. Családi házak oldalhatáron álló beépítési módban
+### 3.4. Családi házak oldalhatáron álló beépítési módban
 
-Ez a beépítési mód hazánkban igen elterjedt, a falvainkban ez az uralkodó. Ennek történelmi hagyományai vannak (lásd a 3.1.1 fejezetet).
+Ez a beépítési mód hazánkban igen elterjedt, a falvainkban ez az uralkodó. Ennek történelmi hagyományai vannak (lásd a [3.2.1.](#E3_falusi_csaladi_hazak) fejezetet).
 
 > Az OTÉK szerint
 >
@@ -2207,7 +2324,7 @@ A *gépkocsitároló* szokásos helye a melléképületek között van, de ekkor
 **Benapozás és tájolás szempontjából gondot okoz a lakóhelyiségek elhelyezésének korlátozott volta. Az oldalkertre általában lakóhelyisége néznek, igen gyakran a nappalinak is ez a lehetséges tájolási iránya. Az építési követelmények által biztosított 1:1-es légtérarány a teljes értékű benapozáshoz sokszor nem elegendő. Még a 6 méteres oldalkert benapozása is csak akkor jó, ha az épület földszintes, legfeljebb 4 - 4,5 m magas. Ezért az emeletes épületek oldalhatáron álló beépítési módját célszerű elkerülni a szabályozási tervek készítése során.**
 
 <a id="E3_ikres_beepites"></a>
-## 3.5. Családi házak ikres beépítési módban
+### 3.5. Családi házak ikres beépítési módban
 
 A városi családi házas területeken alakult ki az ikres beépítési mód, telektakarékossági okokból. A két szomszédos épület itt is a telekhatárra épül, de *azonos* telekhatárra, ahol egymáshoz csatlakoznak, és látványra egy épületet képét mutatják ([3.37. ábra](#abra_3_37)). Néha ikerháznak nevezik az olyan kétlakásos épületet is, ahol hasonlóképpen csatlakozik egymáshoz két lakás, de a telkük közös. Ez *nem* azonos az ikres beépítési móddal. ([3.38. ábra](#abra_3_38))
 
@@ -2272,9 +2389,9 @@ A gépkocsitároló kialakítása történhet az épületben, az épület mögö
 *3.42. ábra – Gépkocsi-elhelyezés sémái ikres beépítésű családi házaknál*
 
 <a id="E3_zartsoru_beepites"></a>
-## 3.6. Családi házak zártsorú beépítési módban
+### 3.6. Családi házak zártsorú beépítési módban
 
-A kisvárosok belső, nagyobb sűrűségű családi házas területein kialakult beépítési mód. A viszonylag keskeny telkek miatt a telek utcai homlokvonala teljes szélességében beépül, és az épületek mindkét oldalon tűzfallal csatlakoznak. Sajátos beépítési módot jelent az un. *„félzártsorú”* beépítés, amikor az eredetileg oldalhatáron álló – fésűs – beépítés átformálódott, a hosszú épülethez keresztszárnyat építettek az utca vonalán, de a szomszéd telekhatártól még elmaradva. A keresztszárny melletti oldalkertet később lefedték (szárazbejáró) így az utca zártsorúvá vált. A beépítési mód az oldalhatáron álló és zártsorú beépítés sajátos hibridje lett, ugyanis az oldalszárny szomszéd felöli homlokzata itt nem tűzfalszerű. (Lásd még 3.1. fejezet, [3.2. ábra.](#abra_3_02)) A második világháború után a családi házak zártsorú beépítése új telekosztásokon szinte teljesen megszűnt. Ma leginkább meglévő lakóterületek foghíjtelkeinek beépítése, vagy település-rehabilitáció során fordul elő, de helyenként ismét alkalmazzák az újonnan alakított lakóterületeknél is.
+A kisvárosok belső, nagyobb sűrűségű családi házas területein kialakult beépítési mód. A viszonylag keskeny telkek miatt a telek utcai homlokvonala teljes szélességében beépül, és az épületek mindkét oldalon tűzfallal csatlakoznak. Sajátos beépítési módot jelent az un. *„félzártsorú”* beépítés, amikor az eredetileg oldalhatáron álló – fésűs – beépítés átformálódott, a hosszú épülethez keresztszárnyat építettek az utca vonalán, de a szomszéd telekhatártól még elmaradva. A keresztszárny melletti oldalkertet később lefedték (szárazbejáró) így az utca zártsorúvá vált. A beépítési mód az oldalhatáron álló és zártsorú beépítés sajátos hibridje lett, ugyanis az oldalszárny szomszéd felöli homlokzata itt nem tűzfalszerű. (Lásd még [3.1.](#E3_fejezet_temakore) fejezet, [3.2. ábra.](#abra_3_02)) A második világháború után a családi házak zártsorú beépítése új telekosztásokon szinte teljesen megszűnt. Ma leginkább meglévő lakóterületek foghíjtelkeinek beépítése, vagy település-rehabilitáció során fordul elő, de helyenként ismét alkalmazzák az újonnan alakított lakóterületeknél is.
 
 A régebbi szakirodalomban előfordul, hogy a zártsorú formában megvalósult épületeket „sorháznak” nevezik, ez azonban nem azonos azzal a fogalommal, amely a *csoportház* (sorház, láncház, átriumház) gyűjtő meghatározásba tartozik. A zavar elkerülésére tisztázni kell a fogalmakat.
 
@@ -2289,6 +2406,12 @@ A „csoportházak” épületei – sorház, láncház, átriumház – magas s
 > (...)
 >
 > d) zártsorú és csoportos beépítési mód esetén annak a telek előkerti építési határvonalához csatlakozó oldalai a telek két oldalhatárán legyenek.”
+
+<a id="abra_3_43"></a>
+
+![A telkek beépítésének szabályai zártsorú beépítési módban](images/abra_3_43_csbepzs.png)
+
+*3.43. ábra – A telkek beépítésének szabályai zártsorú beépítési módban*
 
 A meglévő foghíjtelkek beépítése és a település-rehabilitációk során egy kialakult állapotba való rugalmasabb beilleszkedés lehetősége érdekében az OTÉK *nem* minden esetben írja elő a szomszéd felé a „tűzfalcsatlakozást”, tehát a házat nem mindig kötelező az oldalsó telekhatárra építeni. A ház épülhet akár „fél zártsorú” formában, amikor az épület csak egyik telekhatárra épül rá. Ha megszakítatlan, zártsorú utcakép kívánatos, a telekhatárra való építést elő kell írni. Ugyancsak elő lehet írni, és a szabályozási terven jelölni, hogy az épületek zárt sora helyenként megszakadjon. (Az épületköz legalább az építménymagasság 2/3-a). A közös telekhatárra való építésnél az ikerházas beépítési módnál leírt szabályok itt is érvényesek, mindkét telekhatáron (lásd [3.40. ábra](#abra_3_40)).
 
@@ -2331,10 +2454,10 @@ A *gépkocsitároló* kialakítása sokszor problémát jelent. A hátsókertbe 
 *3.46. ábra – Gépkocsi-elhelyezés sémái zártsorú családi házaknál*
 
 <a id="E3_csaladi_hazak_kialakitasa"></a>
-## 3.7. Családi házak kialakítása
+### 3.7. Családi házak kialakítása
 
 <a id="terbeli_elrendezes"></a>
-### 3.7.1. Családi házak térbeli elrendezése, szintjei
+#### 3.7.1. Családi házak térbeli elrendezése, szintjei
 
 A családi házak térbeli elrendezését az építési program, a helyszín adottsága, és – természetesen – az építész tervezői szándéka határozza meg.
 
@@ -2350,9 +2473,11 @@ A térbeli elrendezést befolyásolja a nem szorosan vett lakásfunkciók jelenl
 
 *Alagsor vagy pince* kialakítása gyakori építtetői igény.
 
-> **Megjegyzés**
->
-> A hivatalos fogalom-meghatározás szerint *alagsor* az a helyiség vagy helyiségcsoport, amelynek padlóvonala legfeljebb 70 cm-rel, *pince* az, amely ennél nagyobb mértékben kerül a terepszint alá.
+::: note
+
+A hivatalos fogalom-meghatározás szerint *alagsor* az a helyiség vagy helyiségcsoport, amelynek padlóvonala legfeljebb 70 cm-rel, *pince* az, amely ennél nagyobb mértékben kerül a terepszint alá.
+:::
+
 
 A terepfelszín alá kerülő terek vagy tércsoportok ne legyenek lakóhelyiségek. Itt lehet elhelyezni a nem lakás célú funkciókat, vagy a lakást kiegészítő funkciókat: pl. műhelyt, tárolókat stb. Igényesebb, nagy költségű családi házaknál ide kerülhet a kondicionáló terem, szauna, sőt a házi úszómedence, játékszoba stb.
 
@@ -2377,7 +2502,7 @@ A pincében lévő tereknek természetes szellőzést kell biztosítani. A hagyo
 *3.49. ábra – A pinceablak elhelyezése alacsony földszinti padlóvonal esetén*
 
 <a id="fobb_szerkezetek"></a>
-### 3.7.2. Családi házak főbb szerkezetei
+#### 3.7.2. Családi házak főbb szerkezetei
 
 A családi házak szerkezetei közül itt csak azokat tárgyaljuk, amelyek az épület elrendezését, térszervezését és tömegformáját alapvetően befolyásolják, vagyis amelyeknek szerkesztési szabályait már a tervezés kezdő stádiumában is figyelembe kell venni.
 
@@ -2387,11 +2512,13 @@ A családi házaknál is lehetséges előregyártott, komplex építési rendsze
 
 A teherhordó falazatok általában téglából vagy egyéb, legtöbbször szilikát anyagú falazóblokkból készülnek. Manapság az un. „ökologikus építészet” térnyerésével újra létjogosultságot nyertek a földfalak korszerű változatai.
 
-> **Megjegyzés**
->
-> Homlokzati falak esetén a megfelelő hőszigetelés elérése érdekében egyre gyakrabban kell réteges falszerkezetet alkalmazni. A téglaszerkezeten a külső oldalon jellemzően 10-15 cm vastag hőszigetelés és a további külső réteg – vakolat vagy egyéb burkolat – kerül a falakra. Ezért a korábban általános 38 cm falvastagság egyre kevésbé jellemző. Ökölszabályként minimum 48 cm vastag külső fallal kell számolnunk téglafalaknál a szerkesztések során, és könnyűszerkezetes épület esetében sem csökken a falvastagság 30 cm alá. Ezeket a méreteket a beépítettség számításánál is figyelembe kell venni.
->
-> — Novák Ágnes
+::: note
+
+Homlokzati falak esetén a megfelelő hőszigetelés elérése érdekében egyre gyakrabban kell réteges falszerkezetet alkalmazni. A téglaszerkezeten a külső oldalon jellemzően 10-15 cm vastag hőszigetelés és a további külső réteg – vakolat vagy egyéb burkolat – kerül a falakra. Ezért a korábban általános 38 cm falvastagság egyre kevésbé jellemző. Ökölszabályként minimum 48 cm vastag külső fallal kell számolnunk téglafalaknál a szerkesztések során, és könnyűszerkezetes épület esetében sem csökken a falvastagság 30 cm alá. Ezeket a méreteket a beépítettség számításánál is figyelembe kell venni.
+
+— Novák Ágnes
+:::
+
 
 A homlokzati térelhatároló falak lehetnek teherhordók és nem teherhordók. A teherhordó falak nyílászárók elhelyezésére szolgáló áttörésénél figyelmet kell fordítani arra, hogy a kialakuló falpillérek keresztmetszete elegendő legyen a rájuk háruló terhelés viselésére, ezért azok zártabb, kevéssé felnyitott homlokzatot eredményeznek (főként a hőtechnikailag nagy teljesítményű, porózusabb anyagú falazatok teherbírása korlátozott). A nem teherhordó külső fal nagy felületen megnyitható. Általában nem elegendő, hogy csak a homlokzati falak legyenek teherhordóak (egytraktusos épületek), a ház alaprajzát *belső teherhordó falakkal* kell tagolni.
 
@@ -2496,7 +2623,7 @@ A lépcső fontos belsőépítészeti elem: legyen szép, és kapjon megfelelő 
 *3.59. ábra – Lakás-belsőlépcsők térbeli helyzete*
 
 <a id="energiatudatos"></a>
-### 3.7.3. Családi házak energiatudatos és fenntartható kialakítása
+#### 3.7.3. Családi házak energiatudatos és fenntartható kialakítása
 
 — Novák Ágnes
 
@@ -2562,31 +2689,39 @@ Példa egy 4 személyes háztartás *aktív szoláris* eszközeire:
 
 A jól hőszigetelt, megfelelően tájolt és méretezett épület déli tájolású ferde tetőfelületén elhelyezhető sík vagy csöves kollektor. A melegvíz tárolása jellemzőn épületen belül történik több hőszigetelt, egymás mellé sorolt álló tartályban. A rendszerhez tartoznak még érzékelők, szivattyúk, tágulási tartályok, és a napsütésmentes időszakban a kisegítő rendszer, ami általában elektromos fűtőpatron. Jellemzően a nyári időszakban két napi meleg víz fogyasztásra érdemes a rendszert kialakítani.
 
-> **Megjegyzés**
->
-> Ökölszabály: személyenként és naponta 40-60 liter átlagos melegvízfogyasztást számolunk, amit növelhet az, ha a rendszerre mosógépet és mosogatógépet is kapcsolunk. A használati melegvíz készítéséhez a következő rendszer tekinthető költséghatékonynak: 4 fős háztartás használati melegvízigényéhez 4-6 m<sup>2</sup> déli tájolású, 35-45 fokos dőlésszögű kollektor, és 300 liter puffertároló szükséges.
+::: note
+
+Ökölszabály: személyenként és naponta 40-60 liter átlagos melegvízfogyasztást számolunk, amit növelhet az, ha a rendszerre mosógépet és mosogatógépet is kapcsolunk. A használati melegvíz készítéséhez a következő rendszer tekinthető költséghatékonynak: 4 fős háztartás használati melegvízigényéhez 4-6 m² déli tájolású, 35-45 fokos dőlésszögű kollektor, és 300 liter puffertároló szükséges.
+:::
+
 
 Kiegészítő fűtésrásegítés
 
 A szoláris rendszer fűtésrásegítésre megfelelő kiépítése is lehetséges, hiszen családi ház esetében legtöbbször a tetőfelület mérete ezt lehetővé teszi, különösen ha kiválóan leszigetelték az épületet, és a passzív napenergia-hasznosítás is megoldott. Ebben az esetben a nagy tetőfelület mellett a hatalmas hőszigetelt tartályok helyigényét, és azok szabályozását kell biztosítani. Nem csupán a rendszer költségesebb, hanem nagyobb teret is kell erre építenünk. A téli időszakban, a mi éghajlatunk alatt, bármilyen nagy rendszer esetében is biztosítani kell kiegészítő fűtést is „hagyományos” energiabevitellel: gáz, elektromos áram, biomassza felhasználás formájában. A nagy rendszerek nyári energiatermelésének felhasználása azonban gondot okozhat, a nyári felesleges hőmennyiséget jellemzően medencefűtésre lehet használni.
 
-> **Megjegyzés**
->
-> Ökölszabály: kisegítő napenergiás fűtéshez a következő rendszer tekinthető költséghatékonynak: 5 m² fűtött padlófelülethez 1 m² kollektorfelület szükséges (vákuumcsöves kollektor esetében kevesebb). Ennek megfelelően egy körülbelül 150 m² fűtött alapterületű épület esetében 30 m² kollektor szükséges, melyhez általában 2 db 1000 literes hőszigetelt puffertároló tartály tartozik. A napsugárzásmentes időszakban a fűtést biomassza kazán (pl. pelletkazán), gázkazán vagy elektromos rásegítés biztosítja. A helyiségekben a fűtést többnyire padló- fal- vagy mennyezetfűtés biztosítja, mert így lehet az alacsonyabb hőmérsékletű fűtőközeget jól felhasználni.
+::: note
+
+Ökölszabály: kisegítő napenergiás fűtéshez a következő rendszer tekinthető költséghatékonynak: 5 m² fűtött padlófelülethez 1 m² kollektorfelület szükséges (vákuumcsöves kollektor esetében kevesebb). Ennek megfelelően egy körülbelül 150 m² fűtött alapterületű épület esetében 30 m² kollektor szükséges, melyhez általában 2 db 1000 literes hőszigetelt puffertároló tartály tartozik. A napsugárzásmentes időszakban a fűtést biomassza kazán (pl. pelletkazán), gázkazán vagy elektromos rásegítés biztosítja. A helyiségekben a fűtést többnyire padló- fal- vagy mennyezetfűtés biztosítja, mert így lehet az alacsonyabb hőmérsékletű fűtőközeget jól felhasználni.
+:::
+
 
 A napenergiát hasznosító fűtési rendszerek egyik, jelenleg még kevésbé kiérlelt, megoldási módja a légkollektorok alkalmazása. Ezt természetéből adódóan légfűtéssel együtt alkalmazva lehet hasznosítani. A rendszer gazdaságos, a levegős fűtésnek azonban jelenleg vannak még gyenge pontjai: a hőtároló közeg biztosítása, illetve az akusztikai problémák csökkentése. Jól használható azonban a légkollektoros fűtés akkor, ha az épületben a szellőztető rendszer is ki van építve, hiszen ekkor egyébként is biztosítani kell a por és pollenszűrést, a jó akusztikai megoldást és a pontos és automatizált vezérlést. Jelenleg leginkább kis középületeknél lehet ezt megfelelően alkalmazni.
 
-> **Megjegyzés**
->
-> Ökölszabály: kisegítő légkollektoros napenergiás fűtéshez a következő rendszer tekinthető költséghatékonynak: 10 m² fűtött padlófelülethez 1 m² kollektorfelület szükséges, vezérlő rendszerrel, automatikával és légtechnikai berendezésekkel. A napsugárzásmentes időszakban a fűtést biomassza kazán (pl. pelletkazán), gázkazán vagy elektromos rásegítés biztosítja.
+::: note
+
+Ökölszabály: kisegítő légkollektoros napenergiás fűtéshez a következő rendszer tekinthető költséghatékonynak: 10 m² fűtött padlófelülethez 1 m² kollektorfelület szükséges, vezérlő rendszerrel, automatikával és légtechnikai berendezésekkel. A napsugárzásmentes időszakban a fűtést biomassza kazán (pl. pelletkazán), gázkazán vagy elektromos rásegítés biztosítja.
+:::
+
 
 Elektromos energia termelése napsugárzásból
 
 A hőenergián kívül elektromos energiatermelés is lehetséges a napsugárzás felhasználásával világítás, konyhai munkák, háztartási és egyéb elektronikai berendezések gazdaságos üzemeltetéséhez. Az elektromos energia helyi előállításához lehetőség van áramtermelő elemek és akkumulátorok elhelyezésére. Amennyiben nem használják fel az áramot a keletkezésének időpontjában, akkor az egyenesen a rendszerbe is visszatölthető. A termelt áram alacsony feszültségű egyenáram, így felhasználása is ilyen formában hatékony. Jelenleg az általános háztartási berendezések közül csupán a világítás, a hűtőszekrény és egyes szórakoztató elektronikai berendezések tudnak ilyen módon működni. A termelt energiát ezért el kell tárolni – akkumulátorokban – és át kell alakítani a gépekhez. Ehhez invertert, vagyis áramátalakítót kell használni. Az áramtermelő elemeket is a megfelelő tájolású tetőre lehet tenni, vagy alkalmazhatók pl. az ablaküvegbe integrált elemek is. (Így pl. egy déli tájolású naptér ferde síkú fedése is készülhet napelemekből.)
 
-> **Megjegyzés**
->
-> Ökölszabály: a szoláris áramtermelés „sziget üzemmódban” lakóépületek esetében nem tekinthető költséghatékonynak a szükséges egyéb berendezések és a karbantartás miatt. A nagy elektromos rendszerbe betápláló helyi áramtermelés azonban megoldott. A rendszerek a közeljövőben – 10 éven belül – egészen bizonyosan egyszerűsödni fognak és a hatékonyságuk is egyre jobb lesz.
+::: note
+
+Ökölszabály: a szoláris áramtermelés „sziget üzemmódban” lakóépületek esetében nem tekinthető költséghatékonynak a szükséges egyéb berendezések és a karbantartás miatt. A nagy elektromos rendszerbe betápláló helyi áramtermelés azonban megoldott. A rendszerek a közeljövőben – 10 éven belül – egészen bizonyosan egyszerűsödni fognak és a hatékonyságuk is egyre jobb lesz.
+:::
+
 
 Az elektromos áram szélenergiával történő termelése is lehetséges, azonban a tárgykörön túlmenő kérdéseket vet fel, így a lakóépületek tervezése során erre most nem térünk ki.
 
@@ -2594,21 +2729,23 @@ A biomassza felhasználása fűtésre és használati melegvíz készítésére
 
 A biomassza mint megújuló forrás felhasználása egyre inkább előtérbe kerül. Itt is azt kell figyelembe venni, hogy ha kiválóan hőszigetelték az épületet, és a passzív napenergia-hasznosítás is megoldott, akkor a lecsökkentett hőenergia igényt biomasszával is ki lehet elégíteni. Ilyen épület esetében mind a faelgázosító kazán, mind a pellet tüzelés költséghatékony és környezetbarát megoldás.
 
-A rendszer hasonlít a hagyományosnak tekinthető vízteres központi fűtéshez, azzal a különbséggel, hogy működtetése a pontos vezérlés és automatika alkalmazása révén jelentősen hatékonyabb. A kazánhoz jellemzően speciális kémény szükséges, valamint a tüzelőanyag tárolását is biztosítani kell. 1,8 kg pellet vagy 3 kg tűzifa felel meg 1 m3 gáznak központi fűtési felhasználás szempontjából.
+A rendszer hasonlít a hagyományosnak tekinthető vízteres központi fűtéshez, azzal a különbséggel, hogy működtetése a pontos vezérlés és automatika alkalmazása révén jelentősen hatékonyabb. A kazánhoz jellemzően speciális kémény szükséges, valamint a tüzelőanyag tárolását is biztosítani kell. 1,8 kg pellet vagy 3 kg tűzifa felel meg 1 m³ gáznak központi fűtési felhasználás szempontjából.
 
 Használati melegvízkészítésre a fatüzeléses vízmelegítők és korszerű tégla vagy öntöttvas vízteres tűzhelyek is alkalmasak. Lakóépületnél akkor használhatók, ha a főzés és melegvízigény időben közel esik, és a használóknak módjuk van a kissé időigényesebb megoldást választani. Jelenleg leginkább ott terjedt el, ahol az egyéb lakás körüli gazdasági tevékenység megfelelő mennyiségű éghető hulladékot termel, így annak felhasználása is megoldható.
 
-> **Megjegyzés**
->
-> Ökölszabály: az egy fűtési idényre szükséges mennyiség tüzifából a csökkentett energiaigényű épület esetében 150 m<sup>2</sup>-es fűtött alapterületre vetítve 2000 kg (kb. 2,2 – 2,8 m<sup>3</sup>) pellet vagy 3000 kg (kb. 3,5 - 4 rakat, egy rakat 1 m x 1 m x 1,7 m) tüzifa szükséges. A korábban épült épületeknél ennek a többszöröse is elfogy egy fűtési idényben.
+::: note
+
+Ökölszabály: az egy fűtési idényre szükséges mennyiség tüzifából a csökkentett energiaigényű épület esetében 150 m²-es fűtött alapterületre vetítve 2000 kg (kb. 2,2 – 2,8 m³) pellet vagy 3000 kg (kb. 3,5 - 4 rakat, egy rakat 1 m x 1 m x 1,7 m) tüzifa szükséges. A korábban épült épületeknél ennek a többszöröse is elfogy egy fűtési idényben.
+:::
+
 
 Tégla kályhák, tömegkályhák építése kisebb alapterületű, 3-4 helyiségből álló épületek esetében jó megoldás.
 
 <a id="alacsony_beepitesek"></a>
-# 4. Az alacsony, nagy sűrűségű beépítések épülettípusai
+## 4. Az alacsony, nagy sűrűségű beépítések épülettípusai
 
 <a id="E4_fejezet_temakore"></a>
-## 4.1. A fejezet témaköre
+### 4.1. A fejezet témaköre
 
 A címben jelzett épületkategóriának nincs összefoglaló elnevezése a magyar hivatalos szóhasználatban (angolul: Low-Rise, High-Density Housing).
 
@@ -2624,9 +2761,15 @@ Az alacsony, nagy sűrűségű beépítés épületfajtáinak spektruma átfed m
 
 *Az alacsony, nagy sűrűségű beépítés épülettípusai viszonylag nagy szintterületi mutatóval telepített épületek vagy épületcsoportok, amelyek valamennyi lakásegységéhez, vagy lakásegységeinek zöméhez, önálló használatú kert vagy kert-rész csatlakozik közvetlenül.*
 
+<a id="abra_4_02"></a>
+
+![Az alacsony, nagy sűrűségű beépítés fogalmának értelmezése](images/abra_4_02_alifogalm_mod.png)
+
+*4.2. ábra – Az alacsony, nagy sűrűségű beépítés fogalmának értelmezése*
+
 <a id="E4_torteneti_attekintes"></a>
-## 4.2. Történeti áttekintés
-### Az európai fejlődés
+### 4.2. Történeti áttekintés
+#### Az európai fejlődés
 
 A nagy sűrűséggel telepített lakóházak a történelem folyamán mindig ott alakultak ki, ahol valamilyen adottság miatt az építési területek szűkösek voltak. A fallal körülvett városokban a túlélés esélyeit növelte háborús időkben, ha valaki a falon belül lakott, ezért ott igen magas laksűrűség alakult ki.
 
@@ -2747,10 +2890,10 @@ A rendszerváltozás hatására alapvetően új helyzet állt elő a lakásépí
 *4.14. ábra – Sorház a Budapest, Barlang-utcai lakóparkban. Cságoly Ferenc 2000*
 
 <a id="E4_kozos_jellemzok"></a>
-## 4.3. Az alacsony, nagy sűrűségű beépítések közös jellemzői
+### 4.3. Az alacsony, nagy sűrűségű beépítések közös jellemzői
 
 <a id="E4_gazdasagossag"></a>
-### 4.3.1. Gazdaságossági kérdések
+#### 4.3.1. Gazdaságossági kérdések
 
 Minél jobb egy terület infrastrukturális ellátása, annál nagyobb a terület-előkészítés költsége, amelyet a telekárba beépítenek. A jól ellátott városi lakótelkek árát a piaci kereslet tovább emeli, így a nagyvárosi és nagyváros-környéki zöldövezetekben épülő, nagy telekkel rendelkező családi házak építését ma már csak a nagyon tehetős építtetői réteg engedheti meg magának. Az ennél alacsonyabb jövedelmű városi lakosság előtt látszólag két lehetőség van: vagy többszintes, többlakásos épületbe költözik, de elesik a lakáshoz tartozó kert előnyeitől; vagy egy távolabbi, és rosszul ellátott területen épít kertes családi házat, ahol a telekár még elérhető számára, de vállalnia kell a napi utazás költségeit és nélkülözni kényszerül a városias lakókörnyezet szolgáltatásait.
 
@@ -2775,7 +2918,7 @@ A [4.15. ábrasor](#abra_4_15) sémáival összehasonlítjuk egy hagyományos, h
 Az átriumházas beépítésnél a zöldfelületek aránya már a kritikus mérték alá süllyedhet, ezért egyszintes beépítéssel a max. 0,4 - 0,5 körüli szintterületi mutató látszik reálisabbnak.
 
 <a id="E4_telekalakitas"></a>
-### 4.3.2. Telekalakítás, telekfelhasználás
+#### 4.3.2. Telekalakítás, telekfelhasználás
 
 Az alacsony, nagy sűrűségű beépítések lakásegységei állhatnak önálló telken (a zártsorú beépítés sűrű formája); egy – több lakásegységet tartalmazó – épület állhat egy közös telken (un. „sortársasház”); vagy több, egyenként több lakásegységet magában foglaló épület(csoport) állhat egy nagyobb kiterjedésű telken (a régi terminológia szerinti „tömbtelken”).
 
@@ -2798,7 +2941,7 @@ Nagyobb lakásszámú együttesekhez alakítható olyan, nagyobb kiterjedésű t
 A zöldfelületek gondozása, a közös kerti létesítmények karbantartása már valamely szervezett lakóközösségi forma meglétét és legtöbbször bérmunka folyamatos igénybevételét is feltételezi. A nagyobb lakásszámú együtteshez gyakran tartozik közös használatú épület is (pl. kerti kisgép-tároló, karbantartó műhely, többcélú közösségi terem, kondicionáló terem, szauna stb.). Ilyen együtteseket Nyugat-Európában gyakran építenek lakásszövetségek, lakásszövetkezetek, amelyek eleve a lakóközösség szorosabb, szervezett együttműködését feltételezik. Nálunk inkább a szintén szervezett fenntartást igénylő „lakópark” terjedt el.
 
 <a id="E4_jarmuforgalmi_megkozelites"></a>
-### 4.3.3. Gyalog- és járműforgalmi megközelítés
+#### 4.3.3. Gyalog- és járműforgalmi megközelítés
 
 A lakásegységek jármű- és gyalogforgalmi megközelítése a telekhasználat módjával összefügg. A saját telken álló egységek és a kisebb lakásszámot tartalmazó „sortársasházak” feltárása közvetlenül a közútról történik, önálló belső forgalmi rendszert nem igényelnek.
 
@@ -2841,10 +2984,10 @@ A telekhasználat mikéntje befolyásolja az épülettípusok kialakítását. A
 Az alacsony, nagy sűrűségű beépítések épületeinek tervezése elválaszthatatlan magának a beépítésnek a megtervezésétől. A lakóegyüttes telepítése (helyszínrajza) és a lakóépületek kialakítása a legszorosabban összefügg. Csak a saját tulajdonú telekkel rendelkező „csoportházaknál” fordulhat elő, hogy egy-egy lakásegységet egy, már korábban alakított telken kell elhelyezni. Általánosabb az olyan eset, ahol a telepítés (beépítési terv) és a lakóépületek tervezése egyszerre történik: az építész maga teremti meg a lakások közvetlen környezetének adottságait.
 
 <a id="E4_sorhazak"></a>
-## 4.4. Sorházak
+### 4.4. Sorházak
 
 <a id="E4_szintszam"></a>
-### 4.4.1. A sorházak szintszáma
+#### 4.4.1. A sorházak szintszáma
 
 A sorházak alacsony, sűrű beépítéseknél leggyakrabban használt épülettípusok. Lehetnek földszintesek vagy két- (ritkábban három- vagy több-) szintesek.
 
@@ -2861,7 +3004,7 @@ A sorházak alacsony, sűrű beépítéseknél leggyakrabban használt épülett
 *A kétszintes sorházak* nagy elterjedését indokolják az európai hagyományok (hagyományos, zártsorú kétszintes lakóházak), és az a tény, hogy gazdaságosan telepíthetők: viszonylag kicsiny telekszükséglettel rendelkeznek (magas fajlagos szintterületi mutató).
 
 <a id="E4_ketszintes"></a>
-### 4.4.2. A kétszintes lakásegységek térbeli kialakítása
+#### 4.4.2. A kétszintes lakásegységek térbeli kialakítása
 
 A lakáskompozíció szempontjából alapvető kötöttség, hogy a lakás helyiségeit csoportosítani kell földszinti és emeleti helyiségcsoportokra, amelyeket lakásbelsőlépcső köt össze. A két helyiségcsoport kézenfekvően a „nappali tartózkodás” zónája valamint a hálószobákból és fürdőből kialakuló „intim zóna”. Mivel a saját kerthasználat a lakástípus alapvető előnye, lehetőleg a kert szintjén legyenek a nappali tartózkodás helyiségei és lakáselemei.
 
@@ -2892,13 +3035,13 @@ Előfordul, hogy a tervezési program az emeleten kevesebb hálószobát kér, v
 A tervezés kezdő fázisa legyen mindig a megadott program alapterület-szükségletének elemzése a földszinti és emeleti helyiségek vonatkozásában: a megfelelő térbeli elrendezés megválasztás ennek alapján történjen.
 
 <a id="E4_helyisegek_tajolasa"></a>
-### 4.4.3. A helyiségek tájolása
+#### 4.4.3. A helyiségek tájolása
 
 A *tájolási feltételek* korlátozottak a lakások kialakításánál, mivel a közbenső sorházegységnek csak két homlokzata van az átellenes oldalakon. Általános szempont, hogy a szobák *többsége* lehetőleg benapozott homlokzaton legyen (a nappali mindenképpen). A széleskörűen elfogadott szakmai konvenció szerint a nappali déli vagy nyugati tájolást kíván, de ennél fontosabb szempont a nappali szoba és a kert kapcsolata. Ha a kert a keleti homlokzathoz csatlakozik, akkor a kertkapcsolat kapjon prioritást.
 
 A hálók nyugati tájolása kedvezőtlen a túlzott felmelegedés miatt nyáridőben, ezért azoknak jobb a keleti – esetleg déli – tájolás. É-D-i épülettengelynél a hálók többsége lehetőleg a keleti homlokzaton legyen. Ha egyik homlokzat észak felé néz, akkor legtöbbször elkerülhetetlen az északi háló. Jó, ha ez a szülői háló és inkább a gyerekszobák a benapozottak, hisz azok a használók napközbeni tevékenységének is színterei. Abban az esetben, ha hálószobák a nyugati homlokzatra kerülnek, akkor árnyékolásukról gondoskodni kell.
 
-A példaként közölt [4.22. ábrasor](#abra_4_22) egy gyakori kétszintes sorház-elrendezést mutat, ahol a felső szinten három hálószoba helyezkedik el. Amikor a kert a nyugati oldalon van, akkor kézenfekvő, hogy nyugatra csak egy háló nézzen a három közül. Ez legtöbbször nem tölti ki a homlokzat teljes hosszát (csak jelentős túlméretezés esetén) ezért ide kívánkozik a fürdőszoba is: épp a nappali fölé. Ezt korábban szabályzat tiltotta, de mindenképpen kerülni kell a nappali fala mentén vagy annak falában vezetett ejtőcsövet (lásd 4.4.7. fejezetet). Ilyenkor más vizes helyiséget kell elhelyezni a fürdőszoba alatt, vagy kompromisszumot kell kötni, és két hálót tájolni nyugat felé. (A tájolás szempontjai olyan *értékszempontok,* amelyek más értékekkel együtt, azokkal való kölcsönös egyensúly szerint érvényesek. Lehetséges, hogy néha a tájolási feltételekben kell engedményeket tenni más értékek érvényesülése érdekében.)
+A példaként közölt [4.22. ábrasor](#abra_4_22) egy gyakori kétszintes sorház-elrendezést mutat, ahol a felső szinten három hálószoba helyezkedik el. Amikor a kert a nyugati oldalon van, akkor kézenfekvő, hogy nyugatra csak egy háló nézzen a három közül. Ez legtöbbször nem tölti ki a homlokzat teljes hosszát (csak jelentős túlméretezés esetén) ezért ide kívánkozik a fürdőszoba is: épp a nappali fölé. Ezt korábban szabályzat tiltotta, de mindenképpen kerülni kell a nappali fala mentén vagy annak falában vezetett ejtőcsövet (lásd [4.4.7.](#E4_epuletgepeszet) fejezetet). Ilyenkor más vizes helyiséget kell elhelyezni a fürdőszoba alatt, vagy kompromisszumot kell kötni, és két hálót tájolni nyugat felé. (A tájolás szempontjai olyan *értékszempontok,* amelyek más értékekkel együtt, azokkal való kölcsönös egyensúly szerint érvényesek. Lehetséges, hogy néha a tájolási feltételekben kell engedményeket tenni más értékek érvényesülése érdekében.)
 
 <a id="abra_4_22"></a>
 
@@ -2917,7 +3060,7 @@ Hangsúlyozni kell, hogy a megfelelő tájolás célja a *benapozás*, amit önm
 *4.23. ábra – Kétszintes sorház névlegesen jó irányba tájolt nappalija benapozásának vizsgálata (fiktív séma)*
 
 <a id="E4_kertkapcsolat"></a>
-### 4.4.4. Kertkapcsolat
+#### 4.4.4. Kertkapcsolat
 
 A kerthasználat elsőrendű tervezési szempont, mivel épp ennek érdekében keletkeztek az alacsony, nagy sűrűségű beépítések lakástípusai. Kétszintes sorházaknál nehézséget okoz a viszonylag keskeny telek, és az a tény, hogy az emeleti szobákból a szomszéd kertjébe is közeli átlátás adódik. A *privát kertrészek* zavarásának csökkentését, ill. elkerülését mutatja a [4.24. ábrasor](#abra_4_24). (A rajzok sematikus példák, ezeknél nyilván szélesebb a lehetőségek skálája.)
 
@@ -2938,7 +3081,7 @@ A kertrészek kényelmes megközelíthetőségét sok esetben gátolja a külső
 — Pandula András
 
 <a id="E4_gepkocsitarolas"></a>
-### 4.4.5. Gépkocsitárolás
+#### 4.4.5. Gépkocsitárolás
 
 A telekfelhasználásról és a megközelítésről szóló fejezetekben leírtak szerint a *gépkocsi-elhelyezésre* alapvetően két módszer van: az autók állhatnak koncentrált, közös parkolóban vagy tömbgarázsban, illetőleg a lakóegységekben vagy azok közvetlen közelében lévő privát gépkocsitárolóban. Ez utóbbira mutat sematikus példákat a [4.25. ábrasor](#abra_4_25).
 
@@ -2961,7 +3104,7 @@ Alagsori (legfeljebb 70 cm-rel a járdaszint alá helyezett) gépkocsitároló c
 *Pinceszinti* (70 cm-nél mélyebb) *gépkocsitárolót sorházaknál ne tervezzünk*. A rámpa max. 20%-os lejtése – a megkívánt lejtés-átmenetekkel együtt – igen hosszú rámpát eredményezne, amely kiszorítaná a zöldfelületeket a feleslegesen megnövelt előkertből, és annak látványát is tönkretenné a sivár műtárgyak sora.
 
 <a id="E4_szerkezetek_kialakitasa"></a>
-### 4.4.6. Szerkezetek kialakítása
+#### 4.4.6. Szerkezetek kialakítása
 
 Az alacsony szintszám miatt a sorházak lehetséges szerkezeti rendszerére is vonatkoztathatjuk a családi házaknál elmondottakat. A szerkezeti rendszer megválasztását befolyásolja az egy építési ütemben épített lakásszám. Technológiai szempontból előnyt jelent, ha a lakásegységek alapszerkezete korlátozott számú típusba sorolható, ami nem zárja ki a belső téralakítás változatosságát. (Kifejezett előnyt jelent, ha a használó kiválaszthatja a számára legmegfelelőbb változatot.)
 
@@ -2973,7 +3116,7 @@ A *hosszfalas elrendezés* korábban ritka volt sorházaknál. Az elmúlt évtiz
 
 Lehetséges a hossz- és harántfalas elrendezés együttes alkalmazása is bizonyos térbeli elrendezéseknél.
 
-*A belső lépcső* kialakítása, helyzete a lakáskompozíció kulcskérdése a kétszintes sorházaknál. A családi házaknál szokásos belső lépcsők itt is alkalmazhatók. (lásd 3.7.2. fejezet, [3.55. – 3.59. ábrák](#abra_3_55)). A lépcsőfajta megválasztása egyéb tervezési szempontokkal függ össze.
+*A belső lépcső* kialakítása, helyzete a lakáskompozíció kulcskérdése a kétszintes sorházaknál. A családi házaknál szokásos belső lépcsők itt is alkalmazhatók. (lásd [3.7.2.](#fobb_szerkezetek) fejezet, [3.55. – 3.59. ábrák](#abra_3_55)). A lépcsőfajta megválasztása egyéb tervezési szempontokkal függ össze.
 
 A *kétkarú* (egyenes vagy húzott fokú) lépcső *központi* elhelyezése központi helyzetű, előnyösen kihasználható emeleti közlekedőt eredményez. Az ilyen lépcső általában rejtett közlekedőből (étkezőből, nappaliból) indul a túl hosszú előszoba elkerülésére.
 
@@ -2992,7 +3135,7 @@ A homlokzat közelében elhelyezett, külpontos kétkarú lépcső csak kis ép�
 A fent elemzett alapsémákon kívül a lépcső és lakáskompozíció kapcsolata sokkal több elrendezési változatban jöhet létre, mint ahogyan az egységek alaprajzi és térbeli elrendezése is végtelenül változatos lehet. A példák csak annak a tételnek az igazolására szolgálnak, amely szerint a két, egymás feletti szint tervezése már az első vázlatok készítésénél is csak a lépcső elhelyezésével együtt történhet.
 
 <a id="E4_epuletgepeszet"></a>
-### 4.4.7. Épületgépészeti szempontok
+#### 4.4.7. Épületgépészeti szempontok
 
 A helyiségek térbeli elrendezésénél különös gondot kell fordítani az un. „vizes helyiségek” elrendezésére. A nyomás alatt álló csövek (hideg-melegvíz, fűtési melegvíz) elrendezése általában nem jelent problémát, de a gravitációs úton működő szennyvízvezetékek célszerű elrendezése fontos tervezési szempont az egymás fölé kerülő helyiségek kialakításánál ([4.27.](#abra_4_27) és [4.28. ábra](#abra_4_28)).
 
@@ -3013,16 +3156,18 @@ A WC berendezéseket szolgáló, tekintélyes keresztmetszetű szennyvízvezeté
 Gondoskodni kell a fűtőberendezés (cirko) megfelelő elhelyezéséről, annak kémény-csatlakozásáról, valamint az ablakkal nem rendelkező belső fekvésű vizes helyiségek szellőzéséről (függőleges szellőzőcsövek átvezetéséről).
 
 <a id="E4_udvarkertes"></a>
-## 4.5. Udvarkertes házak
+### 4.5. Udvarkertes házak
 
 <a id="E4_fogalma_alaptipusai"></a>
-### 4.5.1. Az udvarkertes ház fogalma, alaptípusai
+#### 4.5.1. Az udvarkertes ház fogalma, alaptípusai
 
 Az udvarkert legalább három vagy mindegyik oldalán épülethomlokzattal vagy tömör fallal körülvett, belátástól védett lakókert. Udvarkertes házaknak azokat a lakóházakat (házcsoportokat) nevezzük, amelyek lakásai az udvarkerthez közvetlenül kapcsolódnak.
 
-> **Megjegyzés**
->
-> A külföldi szakirodalom ezekre az épületekre különféle elnevezéseket alkalmaz. Németül Atriumhaus, Gartenhofhaus, Winkelhaus. Az angol az „átriumház” kifejezést nem használja, a tárgyalt épületeket a Courtyard-House, Court-Garden Home-nak esetenként Patio-House-nak nevezi. Az általánosan elterjedt magyar „átriumház” fogalom inkább a két (vagy három, ill. négy) oldalról körülépített, a többi oldalán tömör fallal elhatárolt udvarkerttel rendelkező háztípusokra vonatkozik. Ebbe a fogalomba nehezen illeszthető bele az olyan földszintes sorház, amelynek csak egy homlokzata néz az udvarkertre. A szakirodalom igen gyakran „átriumházas” beépítésként ismertet olyan elrendezéseket is, amelyeknél az L alakú földszintes épület udvarkertje egyik oldalról nyitott.
+::: note
+
+A külföldi szakirodalom ezekre az épületekre különféle elnevezéseket alkalmaz. Németül Atriumhaus, Gartenhofhaus, Winkelhaus. Az angol az „átriumház” kifejezést nem használja, a tárgyalt épületeket a Courtyard-House, Court-Garden Home-nak esetenként Patio-House-nak nevezi. Az általánosan elterjedt magyar „átriumház” fogalom inkább a két (vagy három, ill. négy) oldalról körülépített, a többi oldalán tömör fallal elhatárolt udvarkerttel rendelkező háztípusokra vonatkozik. Ebbe a fogalomba nehezen illeszthető bele az olyan földszintes sorház, amelynek csak egy homlokzata néz az udvarkertre. A szakirodalom igen gyakran „átriumházas” beépítésként ismertet olyan elrendezéseket is, amelyeknél az L alakú földszintes épület udvarkertje egyik oldalról nyitott.
+:::
+
 
 Az udvarkert felfogható nagyméretű „szabadtéri lakóhelyiségként” is, nagy értéke a belátástól való védettsége, intim használata ([4.29. ábra](#abra_4_29)).
 
@@ -3065,7 +3210,7 @@ Ha a lakássor közvetlenül kapcsolódik a közterülethez, és a rendelkezésr
 A naptér udvarkert jellegű kialakítása a szolár energia hasznosításának lehetséges formája. Nyáridőben szellőztetését biztosítani kell. Mivel télen a naptér zárt, ezért az ide néző helyiségek közvetlen szellőzéséről is gondoskodni szükséges ([4.31.c. ábra](#abra_4_31)).
 
 <a id="E4_udvarkertes_benapozas"></a>
-### 4.5.2. Az udvarkertes házak benapozása
+#### 4.5.2. Az udvarkertes házak benapozása
 
 Az udvarkertet körítő homlokzatok vagy körítő falak árnyékot vetnek magára az udvarra, és a homlokzatokra is, így kedvezőtlen esetben előfordulhat, hogy a helyiségek névlegesen kedvező tájolása ellenére benapozásuk nem kielégítő.
 
@@ -3082,17 +3227,21 @@ A viszonylag kisméretű udvarkertre néző helyiségek benapozottsága „rán�
 Adott hónap, adott órájában a napsugárzás iránya pontosan meghatározható, így az udvarkert árnyékviszonyai viszonylag egyszerűen és gyorsan megrajzolhatók egy kritikus időpontra vonatkoztatva. A számítógépet használók jó programokat találnak e témakörben, sőt fejlettebb építész-programoknál a 3D-s megjelenítés árnyékolásához földrajzi szélesség, dátum és óra is rendelhető.
 
 <a id="E4_mikroklima"></a>
-### 4.5.3. Az udvarkertek mikroklímája
+#### 4.5.3. Az udvarkertek mikroklímája
 
 Amennyire kívánatos az udvarkertre néző helyiségek benapozása, annyira kedvezőtlen lehet a helyiségeknek és magának az udvarkertnek túlzott felmelegedése a nyári hónapokban. A körítő falak és a vízszintes burkolatok elnyelik és tárolják a napenergiát, és az átszellőzés teljes hiánya, vagy korlátozott volta miatt ott „hőzug” alakulhat ki, és az éjszakai kiegyenlítődés sem érvényesül kellőképpen.
 
-> **Megjegyzés**
->
-> Nem véletlen, hogy az udvarkertes házak a mediterrán térségekben és Észak-Afrikában alakultak ki hagyományosan, modern formáik pedig főképp Észak-Európában terjedtek el. A hagyományos déli lakóház udvarkertjének arányai olyanok, hogy a helyiségeket lehetőleg tartsák árnyékban az alaprajzi mérethez viszonyítva magas körítőfalak. Ehhez még századok alatt kipróbált szellőzési rendszerek is tartoztak.
+::: note
 
-> **Megjegyzés**
->
-> Skandináviában a hideg tavaszi-őszi hónapokban is lehet használni a szélvédett, „napcsapdaként” működő udvarkertet, amely a zord téli hóviharok ellen is véd. Az ottani rövid nyár alatt ritkaság, hogy a hőség ellen kelljen védekezni.
+Nem véletlen, hogy az udvarkertes házak a mediterrán térségekben és Észak-Afrikában alakultak ki hagyományosan, modern formáik pedig főképp Észak-Európában terjedtek el. A hagyományos déli lakóház udvarkertjének arányai olyanok, hogy a helyiségeket lehetőleg tartsák árnyékban az alaprajzi mérethez viszonyítva magas körítőfalak. Ehhez még századok alatt kipróbált szellőzési rendszerek is tartoztak.
+:::
+
+
+::: note
+
+Skandináviában a hideg tavaszi-őszi hónapokban is lehet használni a szélvédett, „napcsapdaként” működő udvarkertet, amely a zord téli hóviharok ellen is véd. Az ottani rövid nyár alatt ritkaság, hogy a hőség ellen kelljen védekezni.
+:::
+
 
 Az udvarkert szellőzésének szempontjából jobb, ha azt nem négy oldalról veszik körül tömör falak, illetve ha az egyik térelhatároló fal részben-egészben a belátást gátló, de szellőzést biztosító, áttört formában van kialakítva.
 
@@ -3105,7 +3254,7 @@ Az udvarkertes beépítések („szőnyegtelepek”) belső részeinek feltárá
 A zárt udvarkert felfogható úgy is, mint egy „fedetlen naptér”. Ahogyan a jól működő naptér tervezéséhez hozzáértő szakember közreműködése szükséges, ugyanúgy ajánlatos szakavatott kerttervező bevonása egy megfelelő mikroklímájú udvarkert tervezésébe.
 
 <a id="E4_egysegek_sorolasa"></a>
-### 4.5.4. Az udvarkertes egységek sorolása
+#### 4.5.4. Az udvarkertes egységek sorolása
 
 Mind az alapegységek kialakítása, mind azok összeépítése igen nagy változatosságot mutat a megépült példák körében. Minden feladat eseti kihívás: a tervező probléma-érzékenységétől, fantáziájától és kreativitásától függ a konkrét megoldás milyensége. Az itt közölt néhány alapséma elemzése csak a fontosabb tervezési szempontok illusztrálására szolgál.
 
@@ -3136,15 +3285,17 @@ A laza, nem lineáris sorolás az együttesek festői és változatos belső (ny
 Legtöbb tehetős, városi ember szeretne zöldkörnyezetben, kertes házban lakni, de hajszolt életmódja miatt a családi ház nagy kertjének rendben tartására nem jut idejéből. A kisebb, lakást kiegészítő udvarkert épp annyi elfoglaltságot ad, ami rövidre szabott szabadidő-tevékenységnek elég, a terület közös részei szervezett bérmunkával egyszerűbben és olcsóbban fenntarthatók, mint telkenként.
 
 <a id="E4_udvarkert_gepkocsitarolas"></a>
-### 4.5.5. Gépkocsitárolás
+#### 4.5.5. Gépkocsitárolás
 
-Az udvarkertes beépítéseknél jellemzőbb – és ajánlottabb – a gépkocsitárolás tömbösített formában történő megoldása, mint a lakásegységekhez kapcsolt garázsok építése. Ennek oka, hogy a viszonylag széles homlokvonallal rendelkező, a négyzethez közeli arányú egységek közút menti sorolása gazdaságtalan út- és közműhálózat kialakítását eredményezné. Az udvarkertes egységeket feltáró utak legtöbbször keskenyebb szerviz utak vagy gyalogutak, esetenként kényszerű sebességkorlátozással kialakított vegyesforgalmú utak (ld. 4.4.4. fejezet). Mégis, ahol az udvarkertes együttesek lakásai a nagyobb, közös telket egy vagy több oldalon határoló közút mentén állnak, ott kézenfekvő az egységhez csatlakozó gépkocsitárolót kialakítani.
+Az udvarkertes beépítéseknél jellemzőbb – és ajánlottabb – a gépkocsitárolás tömbösített formában történő megoldása, mint a lakásegységekhez kapcsolt garázsok építése. Ennek oka, hogy a viszonylag széles homlokvonallal rendelkező, a négyzethez közeli arányú egységek közút menti sorolása gazdaságtalan út- és közműhálózat kialakítását eredményezné. Az udvarkertes egységeket feltáró utak legtöbbször keskenyebb szerviz utak vagy gyalogutak, esetenként kényszerű sebességkorlátozással kialakított vegyesforgalmú utak (ld. [4.4.4.](#E4_kertkapcsolat) fejezet). Mégis, ahol az udvarkertes együttesek lakásai a nagyobb, közös telket egy vagy több oldalon határoló közút mentén állnak, ott kézenfekvő az egységhez csatlakozó gépkocsitárolót kialakítani.
 
-> **Megjegyzés**
->
-> A kényelmes és akadálymentes használat szempontjából előnyösebb a fedett gépkocsi beálló kialakítása. Amellett, hogy a gépkocsiba történő ki- és beszállás, illetve pakolás az időjárási körülményektől függetlenül kényelmesen történhet (esőben, hóesésben nem ázik el a használó, nyáron csökken a gépjármű utasterének túlmelegedése), a gépjármű védett helyen áll, így a hó, falevelek gépjárműről történő letakarításának igénye is lecsökken.
->
-> — Pandula András
+::: note
+
+A kényelmes és akadálymentes használat szempontjából előnyösebb a fedett gépkocsi beálló kialakítása. Amellett, hogy a gépkocsiba történő ki- és beszállás, illetve pakolás az időjárási körülményektől függetlenül kényelmesen történhet (esőben, hóesésben nem ázik el a használó, nyáron csökken a gépjármű utasterének túlmelegedése), a gépjármű védett helyen áll, így a hó, falevelek gépjárműről történő letakarításának igénye is lecsökken.
+
+— Pandula András
+:::
+
 
 A gépkocsitároló vagy fedett gépkocsibeálló állhat közvetlenül az egység előtt, egy második udvarkertet határolva ([4.35.a.](#abra_4_35) és [c. ábra](#abra_4_35)).
 
@@ -3161,7 +3312,7 @@ A kapualjszerűen kialakított gépkocsibeálló elősegítheti az átrium kisze
 Előfordulnak olyan esetek, amikor az udvarkertes egység kettős feltárású: gyalogos és járműforgalmi megközelítése az átellenes oldalon van. Ilyenkor a garázsok értelemszerűen a közút felőli oldalon vannak ([4.35.f. ábra](#abra_4_35)).
 
 <a id="E4_egyuttesek_kialakitasa"></a>
-### 4.5.6. Udvarkertes együttesek kialakítása
+#### 4.5.6. Udvarkertes együttesek kialakítása
 
 Az átriumházakból formált lakóegyüttesek tervezésénél igen fontosak az ökológiai szempontok. A túl sűrűn beépített „szőnyegtelepek” aktív zöldfelületei nem elegendőek, ha csak az udvarkertek növényzete képezi azokat. Az udvarkert területe sokszor a beépített területnek mindössze harmada, negyede, aminek egy jó része még burkolt is. Ezért itt nagy szerep jut a közösen használt zöldfelületeknek. A zárt külső homlokzatú átriumházak közötti keskeny, sokszor sikátorszerű utakat érdemes sűrűn megszakítani kertészetileg is szépen formált teresedésekkel, amelyek a lakóközösség kommunikációs fórumai, gyermekek játszó helyei lehetnek.
 
@@ -3176,19 +3327,21 @@ Külföldön, a hatvanas években épített, nagy kiterjedésű, gyakran monoton
 *4.36. ábra – Példák kisebb udvarkertes lakóegyüttesek elrendezésére (fiktív sémák)*
 
 <a id="E4_energiatudatos"></a>
-## 4.6. Az alacsony, nagy sűrűségű beépítés fenntartható és energiatudatos tervezése
+### 4.6. Az alacsony, nagy sűrűségű beépítés fenntartható és energiatudatos tervezése
 
-A 3.7.3. fejezetben taglalt módszerek többnyire ezeknél az épülettípusoknál is jól alkalmazhatóak.
+A [3.7.3.](#energiatudatos) fejezetben taglalt módszerek többnyire ezeknél az épülettípusoknál is jól alkalmazhatóak.
 
-> **Megjegyzés**
->
-> Az energiaveszteségek minimalizálását segítő tervezés gazdaságosan megoldható, és további előnyt jelent az, hogy a szél hűtő hatását jelentősen csökkenti a zártabb beépítés.
->
-> A napsugárzás befogadását biztosító megoldások az ilyen épületegyüttes telepítése során is rendelkezésre állnak. A kedvező tájolású szabad homlokzat ablak vagy naptér számára felhasználható, és a tetőfelületek is hasonlóképpen kijelölhetők a napenergia-hasznosító berendezések számára.
->
-> A csoportos beépítés során az áramtermelés (a napsugárzás és a szél energiájának felhasználásával) költséghatékonyan oldható meg, ha biztosítjuk a megfelelő tájolású felületet, vagy a közösségi szélkereket. Kevésbé alkalmas azonban a beépítés biomassza fűtésre (beszállítás, tárolás, égéstermék elvezetése). A sűrű beépítés nem teszi lehetővé a talajhő felhasználását sem az egységenként telepített hőszivattyúk számára, mert a közel eső telkek egymás hatásfokát rontanák. A hőszivattyús megoldás csak közösségi hőenergia termelésre lenne alkalmazható, például helyi közösségi fűtés esetén, azonban ennek nálunk nem alakult ki még a mérési gyakorlata és a kultúrája sem.
->
-> — Novák Ágnes
+::: note
+
+Az energiaveszteségek minimalizálását segítő tervezés gazdaságosan megoldható, és további előnyt jelent az, hogy a szél hűtő hatását jelentősen csökkenti a zártabb beépítés.
+
+A napsugárzás befogadását biztosító megoldások az ilyen épületegyüttes telepítése során is rendelkezésre állnak. A kedvező tájolású szabad homlokzat ablak vagy naptér számára felhasználható, és a tetőfelületek is hasonlóképpen kijelölhetők a napenergia-hasznosító berendezések számára.
+
+A csoportos beépítés során az áramtermelés (a napsugárzás és a szél energiájának felhasználásával) költséghatékonyan oldható meg, ha biztosítjuk a megfelelő tájolású felületet, vagy a közösségi szélkereket. Kevésbé alkalmas azonban a beépítés biomassza fűtésre (beszállítás, tárolás, égéstermék elvezetése). A sűrű beépítés nem teszi lehetővé a talajhő felhasználását sem az egységenként telepített hőszivattyúk számára, mert a közel eső telkek egymás hatásfokát rontanák. A hőszivattyús megoldás csak közösségi hőenergia termelésre lenne alkalmazható, például helyi közösségi fűtés esetén, azonban ennek nálunk nem alakult ki még a mérési gyakorlata és a kultúrája sem.
+
+— Novák Ágnes
+:::
+
 
 Az energiatudatosság már a beépítési forma megválasztásánál is érvényesülhet. Például, a [4.18. ábrán](#abra_4_18) bemutatott sémák közül az a./ változatnál a homlokzatfelületek alapterülethez viszonyított aránya kedvező, ami kisebb hőveszteséget eredményez. Ugyanakkor déli homlokzata csak a szélső egységnek van: ez a napsugárzás energetikai hasznosítása szempontjából hátrányos. A b./ változatnál az egysávos feltárással kialakított szélesebb, de nem nagy mélységű lakásegységek egyik homlokzata délre tájolható, ami a szolár energia direkt hasznosítására ad lehetőséget. A nagyobb homlokzati felületek nagyobb hőveszteségét fokozott hőszigeteléssel, az északi homlokzat zártságával lehet ellensúlyozni.
 
@@ -3205,10 +3358,10 @@ Kétszintes sorházaknál újabban gyakran láthatók kétszintes napterek ([4.3
 Új építészeti eszközt jelent a lakásegységek megközelítését szolgáló, naptérként is funkcionáló, üveggel fedett tér. Ez a lakóközösség kommunikációs fóruma is egyben ([4.37.c. ábra](#abra_4_37)). Valószínű, hogy az elkövetkező időszakban a fokozottan energiatudatos tervezői megközelítés teljesen újszerű formákat is kifejleszt az alacsony, nagy sűrűségű beépítések körében.
 
 <a id="tobbszintes_tobblakasos"></a>
-# 5. Többszintes, többlakásos lakóépületek
+## 5. Többszintes, többlakásos lakóépületek
 
 <a id="E5_fejezet_temakore"></a>
-## 5.1. A fejezet témaköre
+### 5.1. A fejezet témaköre
 
 A fejezet címében a „többszintes” jelző azt jelenti, hogy az itt tárgyalt épületek legalább egyemeletesek, de szintszámuk felső határa korlátlan. Azért kell ezt leszögezni, mert a „többszintes” jelző az épületek magassági kategóriákba való sorolásához is használatos volt korábbi szabályzatokban, amelyek megkülönböztettek „többszintes, középmagas és magas” lakóépületeket a legfelső padlóvonal magasságától függően.
 
@@ -3216,207 +3369,209 @@ A fogalomkör itt is átfedésbe kerül más lakóház-kategóriákkal: a közö
 
 Az épülettípusok a családi házakénál nagyságrenddel magasabb laksűrűség elérésére alkalmasak, de a többszintes lakóházakkal történő beépítések szintterületi mutatója széles skálán mozog. A beépítés intenzitásának mértékéhez különféle nagyságú és szintszámú épületek tartoznak a 2-3 szintes, 2 -12 lakásos városi villáktól az akár tíz-tizenöt szintnél is magasabb, nagyvárosi környezetben létesült lakóépületekig.
 
-> **Megjegyzés**
->
-> A „többlakásos városi villa” terminust azokra az épületekre vonatkoztatva vezettük be, amelyeket a köznyelv korábban „társasházaknak” nevezett: a zöldkörnyezetben álló 2-4 szintes, viszonylag kevés lakást tartalmazó, szabadon álló épületekre. A „társasház” – mint tulajdoni jelleg – ma már nem kötődik épületvolumenhez: igen sok lakást tartalmazó, középmagas lakóépületek is lehetnek társasházak.
->
-> A nemzetközi szakirodalomban is nemrég lett általánosan elfogadott az „urban villa” (angol) vagy a „Stadtvilla” (német) kifejezés az ilyen épületek jelölésére.
+::: note
+
+A „többlakásos városi villa” terminust azokra az épületekre vonatkoztatva vezettük be, amelyeket a köznyelv korábban „társasházaknak” nevezett: a zöldkörnyezetben álló 2-4 szintes, viszonylag kevés lakást tartalmazó, szabadon álló épületekre. A „társasház” – mint tulajdoni jelleg – ma már nem kötődik épületvolumenhez: igen sok lakást tartalmazó, középmagas lakóépületek is lehetnek társasházak.
+
+A nemzetközi szakirodalomban is nemrég lett általánosan elfogadott az „urban villa” (angol) vagy a „Stadtvilla” (német) kifejezés az ilyen épületek jelölésére.
+:::
+
 
 A kisebb alapterületű lakások főképp többszintes, többlakásos épületekben helyezhetők el gazdaságosan, ezért a tárgyalt házfajták a lakásigények széles skáláját elégítik ki az egyszobás, kisméretű garzonoktól a luxus apartmanokig. A használók társadalmi helyzete ennek megfelelően sokrétű: a szociális bérlakások alacsony jövedelmű lakói és a zöldövezetekben épülő lakóparkok tehetős lakástulajdonosai egyaránt többszintes, többlakásos lakóépületben laknak.
 
 <a id="E5_torteneti_attekintes"></a>
-## 5.2. Történeti áttekintés
+### 5.2. Történeti áttekintés
 
-> **Megjegyzés**
->
-> A többlakásos bérházak elterjedése a XIX. század második felétől kezdődik Európa-szerte az ipari forradalom hatására. A nagyvárosok nagy ütemben szaporodó gyárai a munkavállalók tömegét vonzották, és egyes városok lakóinak száma nagyságrendet váltott néhány évtized alatt. A bérházak építése garantált hozamú tőkebefektetést jelentett.
->
-> Hazánkban ez a folyamat az 1867-es kiegyezést követően indult el, és a századforduló körül kulminált. Az egységesítés után a korábbi három város – Pest, Buda és Óbuda – néhány évtized alatt metropolisszá növekedett. Budapest mai építészeti arculatát az akkoriban épült házaktól nyerte. A nagytömegű bérlakásépítés részben új telekosztásokon folyt, vagy már meglévő településszövetben a régi, lebontott épületek helyén. A Józsefváros külső részén vagy a Ferencvárosban még láthatók ennek a folyamatnak egyes stációi, ottfelejtett (és hamarosan bontásra kerülő) régi házak formájában. A korábbi földszintes vagy egyemeletes, két vagy négy oldalról körülépített udvarú épületek között magas bérházak jelentek meg és váltak fokozatosan uralkodóvá ([5.1. ábra](#abra_5_01)). A nyomasztó lakáshiány miatt a lakbérek magasak voltak, de a potenciális bérlők nagyobb részének jövedelme alacsony volt: ez a kislakások építésére ösztönzött. A szaporodó nagyvárosi polgárság tehetősebb rétegei (kereskedők, magasabb rangú tisztviselők) nagyobb, jobb minőségű lakást kerestek. A lakáspiacnak ezt a polarizációját tükrözi a századfordulón épült pesti bérház. A telket négy oldalról teljesen körülépítették, ami által szűk belső udvar alakult ki, ahová a nyitott körfolyosókról nyíló egyszoba-konyhás lakások néztek. Az akkor még viszonylag csendes, és a belső udvarnál jóval tágasabb utca felé a nagyobb, jobb minőségű lakások nyíltak ([5.2. ábra](#abra_5_02)). A zárt sorban összeépített házakból kialakult a sajátos, zárt udvaros beépítés. Az utcai lakások saját fürdőszobával rendelkeztek, de a kislakások komfort nélküliek, lakói a folyosó végén lévő közös WC csoportot használták. A szoba-konyhás lakások igen zsúfoltak: nemegyszer 6-8 tagú család lakott bennük. Egyre magasabb „bérpaloták” épültek, és a belső udvarok légtérarányai egyre rosszabbak lettek, az alsó szintek benapozást soha, megvilágítást is csak korlátozottan kaptak. Hasonlóan zsúfolt beépítéssel épültek bérházak Európa és Észak-Amerika nagyvárosaiban is, jóllehet az épületek tipológiája országonként eltérő volt.
->
-> <a id="abra_5_01"></a>
->
-> ![A pesti bérház kialakulása a XIX. században](images/abra_5_01_berhazf.png)
->
-> *5.1. ábra – A pesti bérház kialakulása a XIX. században*
->
-> <a id="abra_5_02"></a>
->
-> ![Tipikus erzsébetvárosi bérház alaprajza a XIX-XX. sz. fordulóján](images/abra_5_02_berhazalap.png)
->
-> *5.2. ábra – Tipikus erzsébetvárosi bérház alaprajza a XIX-XX. sz. fordulóján*
 
-> **Megjegyzés**
->
-> *Az első világháború után* új korszak kezdődött a nyugat-európai lakásépítés szemléletében, amelynek szellemi központja Németország volt. A vesztett háború után katasztrofális gazdasági helyzetbe került és súlyos inflációval is sújtott ország népessége nem tudott fizetőképes bérlőként megjelenni a szabad lakáspiacon, a munkásrétegek lakáshelyzete kilátástalan volt. A szociáldemokrata kormány kezdeményezésére a városi önkormányzatok külföldi kölcsönök felhasználásával lakásberuházásokat kezdtek. Lakótelepek épültek – addig példátlan léptékben – a kisjövedelműek számára: kétmillió bérlakás-egység épült egy évtized alatt. A lakáspiac hatásának kiiktatása a lakástervezés újszerű, pragmatikus megközelítését eredményezte: a Neue Sachlickeit (új tárgyiasság) az építési költségek csökkentése érdekében az épületek egyszerűségére, az épületelemek előregyárthatóságára törekedett. Az önkormányzat által alacsonyan megszabott, kötött lakbérek miatt a lakástípusok kialakítása immár nem a legnagyobb lakáspiaci haszon elérése érdekében történt: elméleti úton kellett eldönteni, hogy azok mennyiben feleltek meg rendeltetésüknek, funkciójuknak. A támogatott bérlakások igazságos elosztása érdekében normatív szemlélet érvényesült, kialakult a lakások férőhelyszámának fogalma és a lakások férőhelyszám szerinti méretezése, kategorizálása. Elméleti kutatások folytak arra nézve, hogy a rendeltetési célnak legjobban megfelelő helyiségméretekkel és helyiségkapcsolatokkal miként lehet kis alapterületű, mégis jól használható lakásokat létrehozni ([5.3. ábra](#abra_5_03)). „A forma követi a funkciót” jelszó egyben építészeti, művészeti mozgalommá is vált (funkcionalizmus). A modern avantgárd szellemi központja a Weimarban alapított „Bauhaus” művészeti iskola és alkotóműhely, szellemi vezetője pedig Walter Gropius volt.
->
-> <a id="abra_5_03"></a>
->
-> ![Lakásalaprajzok a „Minimalwohnung” kutatásának jegyében 1930. Kétfogatú elrendezés (a.): H. Härig; Függőfolyosós elrendezés (b.): W.Gropius](images/abra_5_03_minimalw.png)
->
-> *5.3. ábra – Lakásalaprajzok a ‘Minimalwohnung’ kutatásának jegyében 1930. Kétfogatú elrendezés (a.): H. Härig; Függőfolyosós elrendezés (b.): W.Gropius*
+A többlakásos bérházak elterjedése a XIX. század második felétől kezdődik Európa-szerte az ipari forradalom hatására. A nagyvárosok nagy ütemben szaporodó gyárai a munkavállalók tömegét vonzották, és egyes városok lakóinak száma nagyságrendet váltott néhány évtized alatt. A bérházak építése garantált hozamú tőkebefektetést jelentett.
 
-> **Megjegyzés**
->
-> A korszak jeles építészei (köztük Walter Gropius) tervezték a berlini „Siemensstadt” lakótelepet ([5.4. ábra](#abra_5_04)), amely szinte a korabeli funkcionalista lakástervezési elvek manifesztuma volt (1929). A szigorúan É-D-i tengellyel, egymással párhuzamosan elrendezett sávházak mindkét homlokzatát napfény érte, és a lakások jól átszellőztethetők voltak. A kétszobás lakások függőfolyosós, a nagyobbak fogatolt rendszerű épületben kaptak helyet. Olyan távolságba helyezték el az épületeket, hogy legalsó szintjük is jól benapozott legyen. Az egészséges lakás, a benapozás ekkoriban kiemelt jelentőséget kapott, minthogy a munkásrétegek körében pusztító tuberkulózis egyik okát – joggal – az egészségtelen lakáskörülményeknek tulajdonították. Gropius vizsgálatokat végzett arra vonatkozóan, hogy az azonosan jó benapozás érdekében mekkora távolság szükséges a párhuzamos sávházak között, különböző épületmagasságok esetén ([5.5. ábra](#abra_5_05)). Az elvek tiszta érvényesítésének ára a hagyományos városszövet téri, formai sokszínűségének feláldozása, és a monotónia elfogadása volt. A hagyományostól merőben különböző épület-környezet viszony urbanisztikai eredménye a funkcionalista lakótelep, a „Siedlung”.
->
-> <a id="abra_5_04"></a>
->
-> ![Berlin-Siemensstadt lakótelep beépítési sémája. Walter Gropius 1929.](images/abra_5_04_gropius.png)
->
-> *5.4. ábra – Berlin-Siemensstadt lakótelep beépítési sémája. Walter Gropius 1929.*
->
-> <a id="abra_5_05"></a>
->
-> ![Walter Gropius sémái az épületmagasságok, benapozás és a telekszükséglet összehasonlítására 1928-1931](images/abra_5_05_gropiussema.png)
->
-> *5.5. ábra – Walter Gropius sémái az épületmagasságok, benapozás és a telekszükséglet összehasonlítására 1928-1931*
+Hazánkban ez a folyamat az 1867-es kiegyezést követően indult el, és a századforduló körül kulminált. Az egységesítés után a korábbi három város – Pest, Buda és Óbuda – néhány évtized alatt metropolisszá növekedett. Budapest mai építészeti arculatát az akkoriban épült házaktól nyerte. A nagytömegű bérlakásépítés részben új telekosztásokon folyt, vagy már meglévő településszövetben a régi, lebontott épületek helyén. A Józsefváros külső részén vagy a Ferencvárosban még láthatók ennek a folyamatnak egyes stációi, ottfelejtett (és hamarosan bontásra kerülő) régi házak formájában. A korábbi földszintes vagy egyemeletes, két vagy négy oldalról körülépített udvarú épületek között magas bérházak jelentek meg és váltak fokozatosan uralkodóvá ([5.1. ábra](#abra_5_01)). A nyomasztó lakáshiány miatt a lakbérek magasak voltak, de a potenciális bérlők nagyobb részének jövedelme alacsony volt: ez a kislakások építésére ösztönzött. A szaporodó nagyvárosi polgárság tehetősebb rétegei (kereskedők, magasabb rangú tisztviselők) nagyobb, jobb minőségű lakást kerestek. A lakáspiacnak ezt a polarizációját tükrözi a századfordulón épült pesti bérház. A telket négy oldalról teljesen körülépítették, ami által szűk belső udvar alakult ki, ahová a nyitott körfolyosókról nyíló egyszoba-konyhás lakások néztek. Az akkor még viszonylag csendes, és a belső udvarnál jóval tágasabb utca felé a nagyobb, jobb minőségű lakások nyíltak ([5.2. ábra](#abra_5_02)). A zárt sorban összeépített házakból kialakult a sajátos, zárt udvaros beépítés. Az utcai lakások saját fürdőszobával rendelkeztek, de a kislakások komfort nélküliek, lakói a folyosó végén lévő közös WC csoportot használták. A szoba-konyhás lakások igen zsúfoltak: nemegyszer 6-8 tagú család lakott bennük. Egyre magasabb „bérpaloták” épültek, és a belső udvarok légtérarányai egyre rosszabbak lettek, az alsó szintek benapozást soha, megvilágítást is csak korlátozottan kaptak. Hasonlóan zsúfolt beépítéssel épültek bérházak Európa és Észak-Amerika nagyvárosaiban is, jóllehet az épületek tipológiája országonként eltérő volt.
 
-> **Megjegyzés**
->
-> Bécsben az un. „szuperblokk” alakult ki, amikor négy utca által határolt területen egységes, osztatlan „tömbtelek” létesült, amelyen egy vagy több, nagyméretű, átjárható udvart keretes formában építettek körül. Ennek további fejlődése a jobb szellőzést biztosító megszakított keretes, majd a rosszabb pozícióban lévő saroklakásokat kiiktató felnyitott keretes elrendezés ([5.7. ábra](#abra_5_07)).
->
-> <a id="abra_5_07"></a>
->
-> ![A többlakásos házak beépítési módjának fejlődése a XX. sz. első felében](images/abra_5_07_beepfejlds.png)
->
-> *5.7. ábra – A többlakásos házak beépítési módjának fejlődése a XX. sz. első felében*
+<a id="abra_5_01"></a>
 
-> **Megjegyzés**
->
-> Az új, modern építészeti elvek világszerte terjedtek. 1928-ban alakult meg a modern építészek nemzetközi szervezete a CIAM (Congres Internationaux d´Architecture Modern). Hamarosan magyar tagozata is lett, vezetője Molnár Farkas, Gropius korábbi munkatársa volt. Nálunk – megfelelő gazdasági háttér és politikai szándék hiányában – nem épülnek a németországihoz hasonló ütemben lakótelepek a két háború közötti korszakban. Említésre méltó a Pongrácz úti 818 kislakást tartalmazó telep (1939-41) amelyet sávos beépítéssel alakítottak ki. A magyar modern mozgalom kisebb léptékben is építészetileg magas színvonalú épületeket és együtteseket hozott létre.
+![A pesti bérház kialakulása a XIX. században](images/abra_5_01_berhazf.png)
 
-> **Megjegyzés**
->
-> Az egészségesebb lakáskörülményeket célzó nyugat-európai törekvések nálunk is éreztették hatásukat. Noha az építésügyi szabályzat 1940-ig kifejezetten nem tiltotta a zárt udvaros házak építését, adókedvezményekkel inspirálták – sikeresen – az olyan beépítést, amelynél csak a telek utca felőli 13-15 m-es sávjában volt szabad épületet elhelyezni. ([5.7. ábra](#abra_5_07)). Ezzel a telkek mélyén csatlakozó kertek – bár kerítésekkel elhatárolták őket – vizuálisan összefüggő, belső zöldfelületet képeztek, amely így a hátsó frontra néző szobáknak is megfelelő bevilágítást, benapozást nyújtott. A harmincas évektől az ilyen, csatlakozó kertes szegélybeépítés lett általános a többlakásos házak számára újonnan alakított telkeken. A korábbi, körfolyosós elrendezést a fogatolt váltotta fel, ahol a telek szélességét kitöltő két-három lakás közvetlenül a lépcsőházból közelíthető meg. A lehetséges 13-15 m-es épületmélységet – természetesen – az építtetők kihasználták, de ez már három menetes elrendezést eredményezett, és a lakás közepén egy rosszul bevilágított sávot, ahova – jobb híján – egy közvetett megvilágítású ablaktalan helyiség került, amelynek a köznyelv a „hall” elnevezést adta ([5.6. ábra](#abra_5_06)). Ez a „hallos” lakás nem követte a funkcionalista elvek alapján szervezett lakások racionális elrendezését, szobaszámához képest túl nagy alapterületű volt, és ennek megfelelően magas lakbérű. Az első világháborút követően terjedt el nagyobb mértékben az „öröklakás”, ahol a használó nem bérli, hanem birtokolja lakását, és az épület társasház lesz. Ez a tulajdonforma homogén lakásminőséget kívánt és azt találta meg a fogatolt elrendezésű épületekben.
->
-> <a id="abra_5_06"></a>
->
-> ![Budapesti lakástípusok a harmincas-negyvenes években (Kotsis Iván után)](images/abra_5_06_hallos.png)
->
-> *5.6. ábra – Budapesti lakástípusok a harmincas-negyvenes években (Kotsis Iván után)*
+*5.1. ábra – A pesti bérház kialakulása a XIX. században*
 
-> **Megjegyzés**
->
-> A *második világháború után* a lakásépítés fő feladata a romokban heverő Európa lakásállományának újjáépítése és a lakásveszteségek pótlása. Az ötvenes évek elejéig a magyar építészet az európai áramlatokkal együtt haladt. Választóvonalat jelent az 1951-ben politikai utasításra indított elméleti vita, amely a Szovjetunióból importált un. „szocialista-realista” irányzat egyeduralmának kikényszerítésével zárult, és az egyetemes építészet vonulataitól való elszakadáshoz vezetett.
+<a id="abra_5_02"></a>
 
-> **Megjegyzés**
->
-> *Az egyetemes építészetben* nagy hatást váltott ki az „Unité d´Habitation”, Le Corbusier által Marseille-be tervezett lakóház (1947-1952), amely egyben urbanisztikai kísérlet is volt. (Corbusier – Gropiusszal együtt – már a CIAM 1930-as kongresszusán a 10 emeletesnél magasabb lakóépületek mellett foglalt állást és készített ilyenekre elméleti érvényű terveket.) A 12 emeletes épület 23 féle lakástípust, összesen 336 lakást tartalmaz, sajátos térbeli elrendezéssel. Egy közepes falu nagyságú lakóterület teljes struktúráját foglalja magában, szolgáltató létesítményekkel együtt. Az emeleti folyosókat Le Corbusier „utcának” nevezte, külön emeletrészt foglalnak el az üzletek, vendéglátó és szolgáltató létesítmények. A tetőszinten óvoda van. A több mint ezer lakót befogadó ház nem foglal el nagyobb beépített területet, mint 30 hagyományos családi ház. A beépítés ilyen koncentrálása annak érdekében történt, hogy minél nagyobb természetes zöldfelület maradjon szabadon. A „lakógépnek” nevezett épület – mint egy nagy óceánjáró – úszik a természetes zöldfelület *felett,* mert az első használati szint az első emeleten van. Az épület lábakon áll, amelyek alatt a zöld mintegy átfolyik Le Corbusier egyik alapelvének megfelelően. (A szépen felújított épület mai állapota mutatja, hogy az építész akkor valamit kihagyott a számításból: a korábbi „természetes zöld” nagy részén ma parkoló autók zsúfolódnak.) Az „unité” továbbfejlesztett változata Nyugat-Berlinben is megépül, az „Interbau” keretében (1957). Az utóbbi egy nemzetközi lakásépítési kiállítás volt, ahol a korszak jeles építészei terveztek egy-egy épületet.
+![Tipikus erzsébetvárosi bérház alaprajza a XIX-XX. sz. fordulóján](images/abra_5_02_berhazalap.png)
 
-> **Megjegyzés**
->
-> Már a negyvenes évek második felében Európa-szerte megindult az előregyártáson alapuló tömeges lakásépítés. A „Siedlung” kompozíciós készletét pontházak (toronyházak) egészítették ki, a beépítések némileg változatosabbak, de a lakótelepek mindenütt többé-kevésbé azonos karakterű lakókörnyezeti mintát követnek ([5.9. ábra](#abra_5_09)). A 60-as évek elején tagoltabb, térhatároló épületformákkal és változatosan sorolható szekciókkal kíséreltek meg építészetileg gazdagabb környezetet teremteni. A sokszínűbb városi környezet érdekében az alacsony nagy sűrűségű beépítés épülettípusait vegyítették a többszintes épületekkel. E törekvések nagy szakmai elismertséget kiváltó példája Candilis, Josic és Woods „Toulouse le Miraille” lakótelepe ([5.10. ábra](#abra_5_10)). A kísérletek nem eredményeztek lényegi áttörést: a tömeges lakásépítés legnagyobb része a maga termelékenység-orientált útját járta mindenütt.
->
-> <a id="abra_5_09"></a>
->
-> ![Roehampton lakótelep. Anglia 1951.](images/abra_5_09_roehampton.png)
->
-> *5.9. ábra – Roehampton lakótelep. Anglia 1951.*
->
-> <a id="abra_5_10"></a>
->
-> ![Toulouse de Mirail. Helyszínrajz-részlet. Candilis, Josic, Woods. 1961.](images/abra_5_10_candilis.png)
->
-> *5.10. ábra – Toulouse de Mirail. Helyszínrajz-részlet. Candilis, Josic, Woods. 1961.*
+*5.2. ábra – Tipikus erzsébetvárosi bérház alaprajza a XIX-XX. sz. fordulóján*
 
-> **Megjegyzés**
->
-> A hatvanas években a szakmai érdeklődés egy új épülettípus, a *teraszház* felé fordult. Bár maga az épületfajta szinte teljesen kifejlett formájában jelent meg a finn Alvar Aalto 1936-ban tervezett együttesében, a teraszházak majd´ harminc év szünet után kezdtek nagy számban szaporodni az európai országok – főképpen Svájc és Németország – domboldalain. A szabad építési területek lassanként elfogytak, a telekárak emelkedtek, ezért a korábban beépíthetetlennek tartott lejtős terepeket is bevonták a lakásépítésbe. A nagyobb lélegzetű, szőnyegszerűen telepített teraszházas együttesek új minőséget hoztak a lakókörnyezet jellegében ([5.11. ábra](#abra_5_11)). A lakóháztípus akkori nagy népszerűsége inspiráló oka lehetett a sík terepre épített teraszház kifejlesztésének ([5.12. ábra](#abra_5_12)). A koncepció egyik forrása a japán építészet un. „metabolista” irányzata (metabolizmus = anyagcsere). A metabolista elv az épület elemeit két részre osztotta: az állandóbb alapszerkezetre (megastruktúra) és a lakásegységekre, amelyek időről időre lecserélhetők az újszerű igényeknek megfelelően. A nagyméretű „mesterséges lakódomb” néhány érdekes példája megépült ([5.13. ábra](#abra_5_13)), de nem terjedt el számottevő mértékben. A hetvenes évek végére a teraszházak iránti szakmai érdeklődés elcsendesedett, és azok szerényebb léptékben vagy egyes elemeikben bukkannak fel helyenként továbbra is.
->
-> <a id="abra_5_11"></a>
->
-> ![Teraszház-együttes. Neustadt/Waiblingen 1972. H. Kammer, W. Belz](images/abra_5_11_teraszhaz.png)
->
-> *5.11. ábra – Teraszház-együttes. Neustadt/Waiblingen 1972. H. Kammer, W. Belz*
->
-> <a id="abra_5_12"></a>
->
-> ![Lakóegyüttes dombházakkal. Koppenhága 1973-1975. Svend Hogsbro](images/abra_5_12_dombhaz.png)
->
-> *5.12. ábra – Lakóegyüttes dombházakkal. Koppenhága 1973-1975. Svend Hogsbro*
->
-> <a id="abra_5_13"></a>
->
-> ![Nagyszerkezetre (megastruktúrára) épített lakódomb. London-Bloosbury 1962-1972. Hodgkinson, L. Martin](images/abra_5_13_lakodomb.png)
->
-> *5.13. ábra – Nagyszerkezetre (megastruktúrára) épített lakódomb. London-Bloosbury 1962-1972. Hodgkinson, L. Martin*
 
-> **Megjegyzés**
->
-> A tömeges lakásépítés korábbi dinamizmusa a nyolcvanas évekre drasztikusan visszaesett. A fejlett országokban lakástúltermelés jelei mutatkoztak. Az ötvenes-hatvanas években épült lakótelepeken a társadalom alacsony státuszú rétegei (bevándorlók) koncentrálódtak az ezzel járó társadalmi problémákkal együtt. Elkezdődött a fizikai állagukban még állékony lakótelepek bontása. A nagyléptékű, ezres lakásszámú zöldmezős lakásberuházások gyakorlatilag megszűntek, és a többlakásos házak építése kisebb egységekben, főleg a meglévő városszövetek még szabad - vagy szabaddá tett – területein folyik.
 
-> **Megjegyzés**
->
-> A hetvenes évek második felétől az új, „posztmodern” áramlat rehabilitálta a modern építészet által korábban tételesen megtagadott hagyományos építészeti eszközöket. A városi környezet hagyományos elemeinek – utcáknak tereknek – létjogosultságát hirdeti Aldo Rossi: „A város építészete” c. munkája és Rob Krier nagy hatást kiváltó tanulmánya: „A városi tér fogalmánk tipológiai és morfológiai elemei”. A posztmodern klasszicizmus az épületek formálásánál is megtagadta a modern építészeti elveket, és a hagyományos, történelmi formákhoz nyúlt vissza ([5.14. ábra](#abra_5_14)). A korszak lakóház-tervezési elveit és eredményeit ismét egy berlini építészeti kiállítás demonstrálta 1987-ben. A posztmodern építészet kiváló képviselői terveztek egy, vagy több épületet, épületegyüttest (Hans Hollein, Rob Krier, Aldo Rossi, James Stirling, Charles Moore, Robert Stern, és mások). A foghíjtelkek beépítése a hagyományos városszövetbe való illeszkedést követeli. Új minőséggel feléledt a korábban már elfelejtett keretes beépítés ([5.12. ábra](#abra_5_12)), és a „városi villákból” képzett, különböző építészek által tervezett, de harmonikus egységet képviselő lakóegyüttes (Rauchstrasse).
->
-> <a id="abra_5_14"></a>
->
-> ![Többlakásos villa ( Stadtvilla). Berlin, Rauchstrasse. Rob Krier 1987.](images/abra_5_14_rauchstrasse.png)
->
-> *5.14. ábra – Többlakásos villa ( Stadtvilla). Berlin, Rauchstrasse. Rob Krier 1987.*
+*Az első világháború után* új korszak kezdődött a nyugat-európai lakásépítés szemléletében, amelynek szellemi központja Németország volt. A vesztett háború után katasztrofális gazdasági helyzetbe került és súlyos inflációval is sújtott ország népessége nem tudott fizetőképes bérlőként megjelenni a szabad lakáspiacon, a munkásrétegek lakáshelyzete kilátástalan volt. A szociáldemokrata kormány kezdeményezésére a városi önkormányzatok külföldi kölcsönök felhasználásával lakásberuházásokat kezdtek. Lakótelepek épültek – addig példátlan léptékben – a kisjövedelműek számára: kétmillió bérlakás-egység épült egy évtized alatt. A lakáspiac hatásának kiiktatása a lakástervezés újszerű, pragmatikus megközelítését eredményezte: a Neue Sachlickeit (új tárgyiasság) az építési költségek csökkentése érdekében az épületek egyszerűségére, az épületelemek előregyárthatóságára törekedett. Az önkormányzat által alacsonyan megszabott, kötött lakbérek miatt a lakástípusok kialakítása immár nem a legnagyobb lakáspiaci haszon elérése érdekében történt: elméleti úton kellett eldönteni, hogy azok mennyiben feleltek meg rendeltetésüknek, funkciójuknak. A támogatott bérlakások igazságos elosztása érdekében normatív szemlélet érvényesült, kialakult a lakások férőhelyszámának fogalma és a lakások férőhelyszám szerinti méretezése, kategorizálása. Elméleti kutatások folytak arra nézve, hogy a rendeltetési célnak legjobban megfelelő helyiségméretekkel és helyiségkapcsolatokkal miként lehet kis alapterületű, mégis jól használható lakásokat létrehozni ([5.3. ábra](#abra_5_03)). „A forma követi a funkciót” jelszó egyben építészeti, művészeti mozgalommá is vált (funkcionalizmus). A modern avantgárd szellemi központja a Weimarban alapított „Bauhaus” művészeti iskola és alkotóműhely, szellemi vezetője pedig Walter Gropius volt.
 
-> **Megjegyzés**
->
-> Mindeközben egyes nagy építész-egyéniségek a maguk egyéni útját járják. A jeles francia építész, Jean Nouvel maga deklarálja, hogy épületei nem követnek egyetlen stílust sem. A Nimes-ben, 1987-ben tervezett épületeinél a szociális lakásépítés új megközelítését adta ([5.16. ábra](#abra_5_16)). Tagadta, hogy a gazdaságosság miatt a lakásterek méreteit szűkíteni kellene, szerinte a tágas térméretek mellett az egyes lakáselemek és épületszerkezetek költségeit kell csökkenteni. Olyan szerkezeteket alkalmazott, amelyek korábban csak ipari épületeknél voltak használatosak, a tagolatlan, összefüggő nagy terekkel a nyílászárók számát csökkentette, az egyes lakásfunkcióknak való pontos megfeleltetés helyett többféleképpen használható térstruktúrák kialakítására törekedett. Annak ellenére, hogy a használat folyamán a lakásbelsők mégiscsak kispolgári köntöst öltöttek, az épület jelentős állomás a XX. századi lakáselméletek fejlődési folyamatában.
->
-> <a id="abra_5_16"></a>
->
-> ![Lakóépületek szociális bérlakásokkal. Nimes, Franciaország Jean Nouvel, Jean-Marc Ibos 1987](images/abra_5_16_nouvel.png)
->
-> *5.16. ábra – Lakóépületek szociális bérlakásokkal. Nimes, Franciaország Jean Nouvel, Jean-Marc Ibos 1987*
+<a id="abra_5_03"></a>
 
-> **Megjegyzés**
->
-> A közelmúlt lakóépület-építészetét a sokszínűség és az építész személyiségének szabad érvényesülése jellemzi. A széles körűen elfogadott „posztmodern” áramlat is lecsengett, stílusként újjáéledt a „neo-modern”, amely a korai modern építészet stiláris jegyeit feléleszti, de annak ideológiai beágyazottságát, tartalmi elemeit nem. A XX. század évtizedei folyamán mindig a figyelem előterébe került egy-egy új irányzat, majd rövidesen jelentőségét veszítette, hogy egy újabbnak adjon helyet. Mégis, a múlt század valamennyi újítása megtalálható a mai építészet kelléktárában is.
+![Lakásalaprajzok a „Minimalwohnung” kutatásának jegyében 1930. Kétfogatú elrendezés (a.): H. Härig; Függőfolyosós elrendezés (b.): W.Gropius](images/abra_5_03_minimalw.png)
 
-> **Megjegyzés**
->
-> *A hazai történet az ötvenes évektől*
->
-> Az ötvenes évek első felében a többszintes, többlakásos házak viszonylag nagy számban az új un. „szocialista városokban” épültek az erőszakosan fejlesztett nehézipar munkaerő-szükségletének elhelyezésére (pl. Dunaújváros, Kazincbarcika, Tatabánya stb.). A hagyományos építési technológiával épült állami bérházak kis alapterületű, szerény lakásokat tartalmaztak, így ellentmondás feszült a „szocreál” stílusban gazdagon dekorált épületek külseje és belső tartalma között. Tovább él a keretes beépítés, utcák, terek és nagylélegzetű allék létesültek. Valójában maga a városszerkezet az ekkoriban épült telepek és városrészek legértékesebb eleme.
->
-> A többszintes, többlakásos házak létrehozására alkalmas építőipari szervezetek kizárólag állami vállalatok lehettek, amelyek tervutasításaikat közvetlenül kormányzati szintről kapták. (Jóval kisebb kapacitással jöttek létre a tanácsi, szórványosan a szövetkezeti építőipari vállalatok is.) A tömeges lakásépítés teljes mechanizmusa a központi tervutasítások végrehajtására szerveződött.
->
-> A hatvanas években ambiciózus politikai elhatározás született: a 15 éves lakásépítési program, amely egymillió lakásegység megépítését írta elő. Ennek munkaerő-szükséglete már nem volt fedezhető, ezért az építésben korszerűbb, előregyártási módszereket kellett bevezetni. Előbb a különféle nagyblokkos építésmódokat alkalmazták, majd a hatvanas évek második felében elkezdődött annak a technológiai háttérnek a kiépítése, amely a következő húsz év hazai lakásépítését meghatározta. Az eredetileg Franciaországban kifejlesztett nagypaneles előregyártási rendszert (Camus rendszer) mi a Szovjetuniótól vettük át. Sorra épültek a házgyárak Budapesten és a nagyobb vidéki városokban, a hetvenes évek végére évente mintegy 40 000 lakás épült iparosított technológiával.
->
-> Mivel az akkori gazdaságban piaci mechanizmusok nem működtek, a lakásépítésre szánt gazdasági erőforrások felhasználását normatívákkal szabályozták. Előírták, és szigorúan számon kérték, az állami lakások átlagos alapterületét. Ez kezdetben 48 m² volt, ami később 53 m²-re növekedett ([5.17. ábra](#abra_5_17)). A normatívák garantált betarthatósága miatt az átlagos alapterületet épülettípusonként is érvényesítették, ezért a panellakások lakáskészlete nagy többségben 53 m² alapterületű, kétszobás lakásokból áll. A tervutasítások végrehajtása a lakásépítésben résztvevő intézmények és vállalatok elsőrendű szempontja volt, a beköltöző lakók érdekei nem kaptak hangot. A gyártókapacitások leghatékonyabb működtetése a lehető legkisebb számú épülettípust és a területileg koncentrált építést ösztönözte. Emiatt alakultak ki a tízszintes sávházakból álló, több ezer lakásegységet tartalmazó lakótelepmonstrumok.
->
-> <a id="abra_5_17"></a>
->
-> ![Többlakásos lakóépület. Oslo. Norvégia Per Kr. Monsen Arkitektkontoret GASA AS](images/abra_5_17_osloi_haz.png)
->
-> *5.17. ábra – Többlakásos lakóépület. Oslo. Norvégia Per Kr. Monsen Arkitektkontoret GASA AS*
->
-> A lakótelepek lakásai kezdetben állami bérlakások voltak, de a lakosság anyagi erejének bevonására fokozatosan terjed a szövetkezeti tulajdonforma, később az Országos Takarékpénztár is fellépett építtetőként, amely az általa beruházott lakóházakat öröklakásos társasházként értékesítette. A nyolcvanas évekre a magántulajdon uralkodóvá vált az akkor épülő lakótelepeken is. Az akkoriban kifejlesztett típusok már tágasabbak lettek (bevezették az 5,40 m fesztávot a korábbi max. 3,60 helyett) és az épületek szintszáma is csökkent. A nyolcvanas években épült panellakások (a Római-fürdői Pók utca, Kaszásdűlő) ma is kelendőek a lakáspiacon. A jó irányú elmozdulás már túl későn történt: a gazdaság válságba került és bekövetkezett a politikai rendszerváltozás, amely az állami nagyvállalatoknak és azok technológiai hátterének teljes felszámolásával járt.
->
-> A tömeges (lakótelepi) lakásépítés mellett jóval kisebb számban épültek másféle, többszintes, többlakásos épületek a fent leírt időszakban. A jó fekvésű városi telkeken, így a budai hegyvidéken, spontán lakossági kezdeményezésre létesültek *társasházak*. Ezeknek az építkezéseknek legális vállalkozói hátterük alig volt, gyakori volt a „házilagos kivitelezés”, amely valójában az illegálisan működő, fekete építőipar fedőneve volt. A 60-as években épült társasházak még szerényebb méretű lakásokat tartalmaztak, később – ahogyan a lakosság jövedelemszintje emelkedett – igényesebb épületek is megjelentek, némelyik magas építészeti színvonalat is mutat. Ezen a területen még átsejlenek a nyugat-európai irányzatok: így például sok teraszház épül a hetvenes években, de mindig telkenként, társasházak formájában. Szervezett beruházást igénylő lakóegyüttesek – szórványos kivételtől eltekintve – nem szerepeltek a lakossági kezdeményezésű magánlakás-építés kelléktárában, mert ezeknek nem volt (nem lehetett) beruházó-vállalkozói hátterük.
->
-> *A meglévő városszövetek* a nagypaneles technológia számára nem voltak alkalmas felvonulási területek. Az itteni lakásépítkezések vagy úgy történtek, hogy a belső városrészek szövetéből jókora területeket metszettek ki bontásokkal, és ide is lakótelepet ültettek be (pl. Óbuda, külső Józsefváros, Székesfehérvár, Debrecen) vagy, szerencsésebb esetben, telkenként építették az épületeket, amelyek lakásit – OTP öröklakások lévén – az alapterületi normatívák nem korlátozták (Zalaegerszeg, Szeged belváros, a budai Viziváros stb.). Ez utóbbiak tervezői általában a tanácsi tervező irodák voltak, ahol kitűnő építészek is dolgoztak. A 80-as évek végén kezdődött el nagyobb léptékben a régi városrészek nagyobb, összefüggő területeinek egy beruházási aktusban történő rehabilitációja ([5.18. ábra](#abra_5_18)). A folyamatot megállította – illetve átminősítette – az állami bérlakások privatizációja, ami telkenként elkülönült, egymástól független társasházakká változtatta a korábban állami tulajdonú bérlakásokat. A nagyobb területre kiterjedő, egységes beavatkozás helyett a rehabilitáció körülményesebben, telkenként történik, és elveszett az egységes lakókörnyezet feljavítását szolgáló bevált eszközök alkalmazásának lehetősége is (pl. több épület által keretezett nagyobb, összefüggő belső zöldfelületek, több házat kiszolgáló, koncentrált földalatti nagygarázsok létesítése).
->
-> <a id="abra_5_18"></a>
->
-> ![Lakástípusok a BHK I. házgyár első szériájából. 1960-as évek közepe (beköltözés után felmért bútorozással)](images/abra_5_18_hazgyar.png)
->
-> *5.18. ábra – Lakástípusok a BHK I. házgyár első szériájából. 1960-as évek közepe (beköltözés után felmért bútorozással)*
->
-> A 90-es években a lakásépítés üteme rendkívüli mértékben visszaesett, az évente épített többszintes, többlakásos házak száma nagyságrenddel csökkent. A lakásépítés a szabad piac keretei között folyik. A vállalkozói lakásépítés a befektetett tőke legnagyobb profitjára törekszik, ezért a többszintes, többlakásos házak építése két területre összpontosul: a belső városi területek foghíjtelkeinek beépítésére, vagy a jó fekvésű, frekventált zöldterületekre, ahol un. „lakóparkok” létesülnek. A belvárosi részeken legnagyobb kereslete a kicsiny, egyszobás lakásoknak van (ezekre van fizetőképesség); a lakóparkokban az igényesebb lakások kelendőek. A 2000-es évek elején kezdődő folyamatok azt jelzik, hogy előbb-utóbb nagyobb számban elindul az átlagos fizetőképességű családok számára is elérhető lakások építése többszintes, többlakásos épületek formájában.
+*5.3. ábra – Lakásalaprajzok a ‘Minimalwohnung’ kutatásának jegyében 1930. Kétfogatú elrendezés (a.): H. Härig; Függőfolyosós elrendezés (b.): W.Gropius*
 
-> **Megjegyzés**
->
-> *Új világtendenciák a fenntarthatóság jegyében*
->
-> — Novák Ágnes
->
-> A többlakásos épületek esetében is kialakultak azok az új követelmények, amelyek a fenntarthatóságot segítik elő. Az épületek tervezése során – különösen városi környezetben – gyakran törekednek a vegyes használatra (lakás és egyéb szolgáltatási funkció egyidejűleg jelenik meg a gazdaságos üzemeltetés érdekében), különböző méretű és adaptálható lakások biztosítására azért, hogy ne alakuljon ki szegregáció vagy egysíkú tulajdonosi- bérlői szerkezet. Sok esetben – főleg intenzív városi terület beépítésekor – megjelennek a gépkocsimentes zónák, ahol a beköltözőknek vállalni kell a gépkocsi nélküli életmódot.
->
-> Az energiaveszteségek többlakásos épületeknél is jelentősen csökkenthetők az épületek szerkezeteinek jó megválasztásával. Megfelelő tájolással a napenergia közvetlenül hasznosítható, de gépészeti eszközökkel is befogadható és tárolható, felhasználható fűtésre, használati melegvíz készítésére vagy áramtermelésre.
->
-> Az Osloban megépült, az [5.17. ábrán](#abra_5_17) látható, többlakásos lakóépület tervezése során kifejezetten az új, innovatív, napenergián alapuló technológia felhasználására törekedtek városi környezetben is.
->
-> Az itt alkalmazott jellemző megoldások: aktív (napkollektor) és passzív szolár (napterek, üvegezett zónák) elemek együttes használata; a délre tájolt tetőfelületeken napkollektorok a háztartási melegvíz készítéséhez és a padlófűtés rásegítésére; magas hőszigetelési minőség az északi falakon; zöldtető a lapos tetős épületszakaszokon; egészséges, korlátozott számú, újra használható vagy reciklikálható anyagok; épületen belüli szelektív hulladékgyűjtés; csökkentett vízfogyasztás, a szürke szennyvíz helyi tísztítása és felhasználása a zöldfelület gondozásában; esővízgyűjtés és helyi felhasználás.
+
+
+A korszak jeles építészei (köztük Walter Gropius) tervezték a berlini „Siemensstadt” lakótelepet ([5.4. ábra](#abra_5_04)), amely szinte a korabeli funkcionalista lakástervezési elvek manifesztuma volt (1929). A szigorúan É-D-i tengellyel, egymással párhuzamosan elrendezett sávházak mindkét homlokzatát napfény érte, és a lakások jól átszellőztethetők voltak. A kétszobás lakások függőfolyosós, a nagyobbak fogatolt rendszerű épületben kaptak helyet. Olyan távolságba helyezték el az épületeket, hogy legalsó szintjük is jól benapozott legyen. Az egészséges lakás, a benapozás ekkoriban kiemelt jelentőséget kapott, minthogy a munkásrétegek körében pusztító tuberkulózis egyik okát – joggal – az egészségtelen lakáskörülményeknek tulajdonították. Gropius vizsgálatokat végzett arra vonatkozóan, hogy az azonosan jó benapozás érdekében mekkora távolság szükséges a párhuzamos sávházak között, különböző épületmagasságok esetén ([5.5. ábra](#abra_5_05)). Az elvek tiszta érvényesítésének ára a hagyományos városszövet téri, formai sokszínűségének feláldozása, és a monotónia elfogadása volt. A hagyományostól merőben különböző épület-környezet viszony urbanisztikai eredménye a funkcionalista lakótelep, a „Siedlung”.
+
+<a id="abra_5_04"></a>
+
+![Berlin-Siemensstadt lakótelep beépítési sémája. Walter Gropius 1929.](images/abra_5_04_gropius.png)
+
+*5.4. ábra – Berlin-Siemensstadt lakótelep beépítési sémája. Walter Gropius 1929.*
+
+<a id="abra_5_05"></a>
+
+![Walter Gropius sémái az épületmagasságok, benapozás és a telekszükséglet összehasonlítására 1928-1931](images/abra_5_05_gropiussema.png)
+
+*5.5. ábra – Walter Gropius sémái az épületmagasságok, benapozás és a telekszükséglet összehasonlítására 1928-1931*
+
+
+
+Bécsben az un. „szuperblokk” alakult ki, amikor négy utca által határolt területen egységes, osztatlan „tömbtelek” létesült, amelyen egy vagy több, nagyméretű, átjárható udvart keretes formában építettek körül. Ennek további fejlődése a jobb szellőzést biztosító megszakított keretes, majd a rosszabb pozícióban lévő saroklakásokat kiiktató felnyitott keretes elrendezés ([5.7. ábra](#abra_5_07)).
+
+<a id="abra_5_07"></a>
+
+![A többlakásos házak beépítési módjának fejlődése a XX. sz. első felében](images/abra_5_07_beepfejlds.png)
+
+*5.7. ábra – A többlakásos házak beépítési módjának fejlődése a XX. sz. első felében*
+
+
+
+Az új, modern építészeti elvek világszerte terjedtek. 1928-ban alakult meg a modern építészek nemzetközi szervezete a CIAM (Congres Internationaux d´Architecture Modern). Hamarosan magyar tagozata is lett, vezetője Molnár Farkas, Gropius korábbi munkatársa volt. Nálunk – megfelelő gazdasági háttér és politikai szándék hiányában – nem épülnek a németországihoz hasonló ütemben lakótelepek a két háború közötti korszakban. Említésre méltó a Pongrácz úti 818 kislakást tartalmazó telep (1939-41) amelyet sávos beépítéssel alakítottak ki. A magyar modern mozgalom kisebb léptékben is építészetileg magas színvonalú épületeket és együtteseket hozott létre.
+
+
+
+Az egészségesebb lakáskörülményeket célzó nyugat-európai törekvések nálunk is éreztették hatásukat. Noha az építésügyi szabályzat 1940-ig kifejezetten nem tiltotta a zárt udvaros házak építését, adókedvezményekkel inspirálták – sikeresen – az olyan beépítést, amelynél csak a telek utca felőli 13-15 m-es sávjában volt szabad épületet elhelyezni. ([5.7. ábra](#abra_5_07)). Ezzel a telkek mélyén csatlakozó kertek – bár kerítésekkel elhatárolták őket – vizuálisan összefüggő, belső zöldfelületet képeztek, amely így a hátsó frontra néző szobáknak is megfelelő bevilágítást, benapozást nyújtott. A harmincas évektől az ilyen, csatlakozó kertes szegélybeépítés lett általános a többlakásos házak számára újonnan alakított telkeken. A korábbi, körfolyosós elrendezést a fogatolt váltotta fel, ahol a telek szélességét kitöltő két-három lakás közvetlenül a lépcsőházból közelíthető meg. A lehetséges 13-15 m-es épületmélységet – természetesen – az építtetők kihasználták, de ez már három menetes elrendezést eredményezett, és a lakás közepén egy rosszul bevilágított sávot, ahova – jobb híján – egy közvetett megvilágítású ablaktalan helyiség került, amelynek a köznyelv a „hall” elnevezést adta ([5.6. ábra](#abra_5_06)). Ez a „hallos” lakás nem követte a funkcionalista elvek alapján szervezett lakások racionális elrendezését, szobaszámához képest túl nagy alapterületű volt, és ennek megfelelően magas lakbérű. Az első világháborút követően terjedt el nagyobb mértékben az „öröklakás”, ahol a használó nem bérli, hanem birtokolja lakását, és az épület társasház lesz. Ez a tulajdonforma homogén lakásminőséget kívánt és azt találta meg a fogatolt elrendezésű épületekben.
+
+<a id="abra_5_06"></a>
+
+![Budapesti lakástípusok a harmincas-negyvenes években (Kotsis Iván után)](images/abra_5_06_hallos.png)
+
+*5.6. ábra – Budapesti lakástípusok a harmincas-negyvenes években (Kotsis Iván után)*
+
+
+
+A *második világháború után* a lakásépítés fő feladata a romokban heverő Európa lakásállományának újjáépítése és a lakásveszteségek pótlása. Az ötvenes évek elejéig a magyar építészet az európai áramlatokkal együtt haladt. Választóvonalat jelent az 1951-ben politikai utasításra indított elméleti vita, amely a Szovjetunióból importált un. „szocialista-realista” irányzat egyeduralmának kikényszerítésével zárult, és az egyetemes építészet vonulataitól való elszakadáshoz vezetett.
+
+
+
+*Az egyetemes építészetben* nagy hatást váltott ki az „Unité d´Habitation”, Le Corbusier által Marseille-be tervezett lakóház (1947-1952), amely egyben urbanisztikai kísérlet is volt. (Corbusier – Gropiusszal együtt – már a CIAM 1930-as kongresszusán a 10 emeletesnél magasabb lakóépületek mellett foglalt állást és készített ilyenekre elméleti érvényű terveket.) A 12 emeletes épület 23 féle lakástípust, összesen 336 lakást tartalmaz, sajátos térbeli elrendezéssel. Egy közepes falu nagyságú lakóterület teljes struktúráját foglalja magában, szolgáltató létesítményekkel együtt. Az emeleti folyosókat Le Corbusier „utcának” nevezte, külön emeletrészt foglalnak el az üzletek, vendéglátó és szolgáltató létesítmények. A tetőszinten óvoda van. A több mint ezer lakót befogadó ház nem foglal el nagyobb beépített területet, mint 30 hagyományos családi ház. A beépítés ilyen koncentrálása annak érdekében történt, hogy minél nagyobb természetes zöldfelület maradjon szabadon. A „lakógépnek” nevezett épület – mint egy nagy óceánjáró – úszik a természetes zöldfelület *felett,* mert az első használati szint az első emeleten van. Az épület lábakon áll, amelyek alatt a zöld mintegy átfolyik Le Corbusier egyik alapelvének megfelelően. (A szépen felújított épület mai állapota mutatja, hogy az építész akkor valamit kihagyott a számításból: a korábbi „természetes zöld” nagy részén ma parkoló autók zsúfolódnak.) Az „unité” továbbfejlesztett változata Nyugat-Berlinben is megépül, az „Interbau” keretében (1957). Az utóbbi egy nemzetközi lakásépítési kiállítás volt, ahol a korszak jeles építészei terveztek egy-egy épületet.
+
+
+
+Már a negyvenes évek második felében Európa-szerte megindult az előregyártáson alapuló tömeges lakásépítés. A „Siedlung” kompozíciós készletét pontházak (toronyházak) egészítették ki, a beépítések némileg változatosabbak, de a lakótelepek mindenütt többé-kevésbé azonos karakterű lakókörnyezeti mintát követnek ([5.9. ábra](#abra_5_09)). A 60-as évek elején tagoltabb, térhatároló épületformákkal és változatosan sorolható szekciókkal kíséreltek meg építészetileg gazdagabb környezetet teremteni. A sokszínűbb városi környezet érdekében az alacsony nagy sűrűségű beépítés épülettípusait vegyítették a többszintes épületekkel. E törekvések nagy szakmai elismertséget kiváltó példája Candilis, Josic és Woods „Toulouse le Miraille” lakótelepe ([5.10. ábra](#abra_5_10)). A kísérletek nem eredményeztek lényegi áttörést: a tömeges lakásépítés legnagyobb része a maga termelékenység-orientált útját járta mindenütt.
+
+<a id="abra_5_09"></a>
+
+![Roehampton lakótelep. Anglia 1951.](images/abra_5_09_roehampton.png)
+
+*5.9. ábra – Roehampton lakótelep. Anglia 1951.*
+
+<a id="abra_5_10"></a>
+
+![Toulouse de Mirail. Helyszínrajz-részlet. Candilis, Josic, Woods. 1961.](images/abra_5_10_candilis.png)
+
+*5.10. ábra – Toulouse de Mirail. Helyszínrajz-részlet. Candilis, Josic, Woods. 1961.*
+
+
+
+A hatvanas években a szakmai érdeklődés egy új épülettípus, a *teraszház* felé fordult. Bár maga az épületfajta szinte teljesen kifejlett formájában jelent meg a finn Alvar Aalto 1936-ban tervezett együttesében, a teraszházak majd´ harminc év szünet után kezdtek nagy számban szaporodni az európai országok – főképpen Svájc és Németország – domboldalain. A szabad építési területek lassanként elfogytak, a telekárak emelkedtek, ezért a korábban beépíthetetlennek tartott lejtős terepeket is bevonták a lakásépítésbe. A nagyobb lélegzetű, szőnyegszerűen telepített teraszházas együttesek új minőséget hoztak a lakókörnyezet jellegében ([5.11. ábra](#abra_5_11)). A lakóháztípus akkori nagy népszerűsége inspiráló oka lehetett a sík terepre épített teraszház kifejlesztésének ([5.12. ábra](#abra_5_12)). A koncepció egyik forrása a japán építészet un. „metabolista” irányzata (metabolizmus = anyagcsere). A metabolista elv az épület elemeit két részre osztotta: az állandóbb alapszerkezetre (megastruktúra) és a lakásegységekre, amelyek időről időre lecserélhetők az újszerű igényeknek megfelelően. A nagyméretű „mesterséges lakódomb” néhány érdekes példája megépült ([5.13. ábra](#abra_5_13)), de nem terjedt el számottevő mértékben. A hetvenes évek végére a teraszházak iránti szakmai érdeklődés elcsendesedett, és azok szerényebb léptékben vagy egyes elemeikben bukkannak fel helyenként továbbra is.
+
+<a id="abra_5_11"></a>
+
+![Teraszház-együttes. Neustadt/Waiblingen 1972. H. Kammer, W. Belz](images/abra_5_11_teraszhaz.png)
+
+*5.11. ábra – Teraszház-együttes. Neustadt/Waiblingen 1972. H. Kammer, W. Belz*
+
+<a id="abra_5_12"></a>
+
+![Lakóegyüttes dombházakkal. Koppenhága 1973-1975. Svend Hogsbro](images/abra_5_12_dombhaz.png)
+
+*5.12. ábra – Lakóegyüttes dombházakkal. Koppenhága 1973-1975. Svend Hogsbro*
+
+<a id="abra_5_13"></a>
+
+![Nagyszerkezetre (megastruktúrára) épített lakódomb. London-Bloosbury 1962-1972. Hodgkinson, L. Martin](images/abra_5_13_lakodomb.png)
+
+*5.13. ábra – Nagyszerkezetre (megastruktúrára) épített lakódomb. London-Bloosbury 1962-1972. Hodgkinson, L. Martin*
+
+
+
+A tömeges lakásépítés korábbi dinamizmusa a nyolcvanas évekre drasztikusan visszaesett. A fejlett országokban lakástúltermelés jelei mutatkoztak. Az ötvenes-hatvanas években épült lakótelepeken a társadalom alacsony státuszú rétegei (bevándorlók) koncentrálódtak az ezzel járó társadalmi problémákkal együtt. Elkezdődött a fizikai állagukban még állékony lakótelepek bontása. A nagyléptékű, ezres lakásszámú zöldmezős lakásberuházások gyakorlatilag megszűntek, és a többlakásos házak építése kisebb egységekben, főleg a meglévő városszövetek még szabad - vagy szabaddá tett – területein folyik.
+
+
+
+A hetvenes évek második felétől az új, „posztmodern” áramlat rehabilitálta a modern építészet által korábban tételesen megtagadott hagyományos építészeti eszközöket. A városi környezet hagyományos elemeinek – utcáknak tereknek – létjogosultságát hirdeti Aldo Rossi: „A város építészete” c. munkája és Rob Krier nagy hatást kiváltó tanulmánya: „A városi tér fogalmánk tipológiai és morfológiai elemei”. A posztmodern klasszicizmus az épületek formálásánál is megtagadta a modern építészeti elveket, és a hagyományos, történelmi formákhoz nyúlt vissza ([5.14. ábra](#abra_5_14)). A korszak lakóház-tervezési elveit és eredményeit ismét egy berlini építészeti kiállítás demonstrálta 1987-ben. A posztmodern építészet kiváló képviselői terveztek egy, vagy több épületet, épületegyüttest (Hans Hollein, Rob Krier, Aldo Rossi, James Stirling, Charles Moore, Robert Stern, és mások). A foghíjtelkek beépítése a hagyományos városszövetbe való illeszkedést követeli. Új minőséggel feléledt a korábban már elfelejtett keretes beépítés ([5.12. ábra](#abra_5_12)), és a „városi villákból” képzett, különböző építészek által tervezett, de harmonikus egységet képviselő lakóegyüttes (Rauchstrasse).
+
+<a id="abra_5_14"></a>
+
+![Többlakásos villa ( Stadtvilla). Berlin, Rauchstrasse. Rob Krier 1987.](images/abra_5_14_rauchstrasse.png)
+
+*5.14. ábra – Többlakásos villa ( Stadtvilla). Berlin, Rauchstrasse. Rob Krier 1987.*
+
+
+
+Mindeközben egyes nagy építész-egyéniségek a maguk egyéni útját járják. A jeles francia építész, Jean Nouvel maga deklarálja, hogy épületei nem követnek egyetlen stílust sem. A Nimes-ben, 1987-ben tervezett épületeinél a szociális lakásépítés új megközelítését adta ([5.16. ábra](#abra_5_16)). Tagadta, hogy a gazdaságosság miatt a lakásterek méreteit szűkíteni kellene, szerinte a tágas térméretek mellett az egyes lakáselemek és épületszerkezetek költségeit kell csökkenteni. Olyan szerkezeteket alkalmazott, amelyek korábban csak ipari épületeknél voltak használatosak, a tagolatlan, összefüggő nagy terekkel a nyílászárók számát csökkentette, az egyes lakásfunkcióknak való pontos megfeleltetés helyett többféleképpen használható térstruktúrák kialakítására törekedett. Annak ellenére, hogy a használat folyamán a lakásbelsők mégiscsak kispolgári köntöst öltöttek, az épület jelentős állomás a XX. századi lakáselméletek fejlődési folyamatában.
+
+<a id="abra_5_16"></a>
+
+![Lakóépületek szociális bérlakásokkal. Nimes, Franciaország Jean Nouvel, Jean-Marc Ibos 1987](images/abra_5_16_nouvel.png)
+
+*5.16. ábra – Lakóépületek szociális bérlakásokkal. Nimes, Franciaország Jean Nouvel, Jean-Marc Ibos 1987*
+
+
+
+A közelmúlt lakóépület-építészetét a sokszínűség és az építész személyiségének szabad érvényesülése jellemzi. A széles körűen elfogadott „posztmodern” áramlat is lecsengett, stílusként újjáéledt a „neo-modern”, amely a korai modern építészet stiláris jegyeit feléleszti, de annak ideológiai beágyazottságát, tartalmi elemeit nem. A XX. század évtizedei folyamán mindig a figyelem előterébe került egy-egy új irányzat, majd rövidesen jelentőségét veszítette, hogy egy újabbnak adjon helyet. Mégis, a múlt század valamennyi újítása megtalálható a mai építészet kelléktárában is.
+
+
+
+*A hazai történet az ötvenes évektől*
+
+Az ötvenes évek első felében a többszintes, többlakásos házak viszonylag nagy számban az új un. „szocialista városokban” épültek az erőszakosan fejlesztett nehézipar munkaerő-szükségletének elhelyezésére (pl. Dunaújváros, Kazincbarcika, Tatabánya stb.). A hagyományos építési technológiával épült állami bérházak kis alapterületű, szerény lakásokat tartalmaztak, így ellentmondás feszült a „szocreál” stílusban gazdagon dekorált épületek külseje és belső tartalma között. Tovább él a keretes beépítés, utcák, terek és nagylélegzetű allék létesültek. Valójában maga a városszerkezet az ekkoriban épült telepek és városrészek legértékesebb eleme.
+
+A többszintes, többlakásos házak létrehozására alkalmas építőipari szervezetek kizárólag állami vállalatok lehettek, amelyek tervutasításaikat közvetlenül kormányzati szintről kapták. (Jóval kisebb kapacitással jöttek létre a tanácsi, szórványosan a szövetkezeti építőipari vállalatok is.) A tömeges lakásépítés teljes mechanizmusa a központi tervutasítások végrehajtására szerveződött.
+
+A hatvanas években ambiciózus politikai elhatározás született: a 15 éves lakásépítési program, amely egymillió lakásegység megépítését írta elő. Ennek munkaerő-szükséglete már nem volt fedezhető, ezért az építésben korszerűbb, előregyártási módszereket kellett bevezetni. Előbb a különféle nagyblokkos építésmódokat alkalmazták, majd a hatvanas évek második felében elkezdődött annak a technológiai háttérnek a kiépítése, amely a következő húsz év hazai lakásépítését meghatározta. Az eredetileg Franciaországban kifejlesztett nagypaneles előregyártási rendszert (Camus rendszer) mi a Szovjetuniótól vettük át. Sorra épültek a házgyárak Budapesten és a nagyobb vidéki városokban, a hetvenes évek végére évente mintegy 40 000 lakás épült iparosított technológiával.
+
+Mivel az akkori gazdaságban piaci mechanizmusok nem működtek, a lakásépítésre szánt gazdasági erőforrások felhasználását normatívákkal szabályozták. Előírták, és szigorúan számon kérték, az állami lakások átlagos alapterületét. Ez kezdetben 48 m² volt, ami később 53 m²-re növekedett ([5.17. ábra](#abra_5_17)). A normatívák garantált betarthatósága miatt az átlagos alapterületet épülettípusonként is érvényesítették, ezért a panellakások lakáskészlete nagy többségben 53 m² alapterületű, kétszobás lakásokból áll. A tervutasítások végrehajtása a lakásépítésben résztvevő intézmények és vállalatok elsőrendű szempontja volt, a beköltöző lakók érdekei nem kaptak hangot. A gyártókapacitások leghatékonyabb működtetése a lehető legkisebb számú épülettípust és a területileg koncentrált építést ösztönözte. Emiatt alakultak ki a tízszintes sávházakból álló, több ezer lakásegységet tartalmazó lakótelepmonstrumok.
+
+<a id="abra_5_17"></a>
+
+![Többlakásos lakóépület. Oslo. Norvégia Per Kr. Monsen Arkitektkontoret GASA AS](images/abra_5_17_osloi_haz.png)
+
+*5.17. ábra – Többlakásos lakóépület. Oslo. Norvégia Per Kr. Monsen Arkitektkontoret GASA AS*
+
+A lakótelepek lakásai kezdetben állami bérlakások voltak, de a lakosság anyagi erejének bevonására fokozatosan terjed a szövetkezeti tulajdonforma, később az Országos Takarékpénztár is fellépett építtetőként, amely az általa beruházott lakóházakat öröklakásos társasházként értékesítette. A nyolcvanas évekre a magántulajdon uralkodóvá vált az akkor épülő lakótelepeken is. Az akkoriban kifejlesztett típusok már tágasabbak lettek (bevezették az 5,40 m fesztávot a korábbi max. 3,60 helyett) és az épületek szintszáma is csökkent. A nyolcvanas években épült panellakások (a Római-fürdői Pók utca, Kaszásdűlő) ma is kelendőek a lakáspiacon. A jó irányú elmozdulás már túl későn történt: a gazdaság válságba került és bekövetkezett a politikai rendszerváltozás, amely az állami nagyvállalatoknak és azok technológiai hátterének teljes felszámolásával járt.
+
+A tömeges (lakótelepi) lakásépítés mellett jóval kisebb számban épültek másféle, többszintes, többlakásos épületek a fent leírt időszakban. A jó fekvésű városi telkeken, így a budai hegyvidéken, spontán lakossági kezdeményezésre létesültek *társasházak*. Ezeknek az építkezéseknek legális vállalkozói hátterük alig volt, gyakori volt a „házilagos kivitelezés”, amely valójában az illegálisan működő, fekete építőipar fedőneve volt. A 60-as években épült társasházak még szerényebb méretű lakásokat tartalmaztak, később – ahogyan a lakosság jövedelemszintje emelkedett – igényesebb épületek is megjelentek, némelyik magas építészeti színvonalat is mutat. Ezen a területen még átsejlenek a nyugat-európai irányzatok: így például sok teraszház épül a hetvenes években, de mindig telkenként, társasházak formájában. Szervezett beruházást igénylő lakóegyüttesek – szórványos kivételtől eltekintve – nem szerepeltek a lakossági kezdeményezésű magánlakás-építés kelléktárában, mert ezeknek nem volt (nem lehetett) beruházó-vállalkozói hátterük.
+
+*A meglévő városszövetek* a nagypaneles technológia számára nem voltak alkalmas felvonulási területek. Az itteni lakásépítkezések vagy úgy történtek, hogy a belső városrészek szövetéből jókora területeket metszettek ki bontásokkal, és ide is lakótelepet ültettek be (pl. Óbuda, külső Józsefváros, Székesfehérvár, Debrecen) vagy, szerencsésebb esetben, telkenként építették az épületeket, amelyek lakásit – OTP öröklakások lévén – az alapterületi normatívák nem korlátozták (Zalaegerszeg, Szeged belváros, a budai Viziváros stb.). Ez utóbbiak tervezői általában a tanácsi tervező irodák voltak, ahol kitűnő építészek is dolgoztak. A 80-as évek végén kezdődött el nagyobb léptékben a régi városrészek nagyobb, összefüggő területeinek egy beruházási aktusban történő rehabilitációja ([5.18. ábra](#abra_5_18)). A folyamatot megállította – illetve átminősítette – az állami bérlakások privatizációja, ami telkenként elkülönült, egymástól független társasházakká változtatta a korábban állami tulajdonú bérlakásokat. A nagyobb területre kiterjedő, egységes beavatkozás helyett a rehabilitáció körülményesebben, telkenként történik, és elveszett az egységes lakókörnyezet feljavítását szolgáló bevált eszközök alkalmazásának lehetősége is (pl. több épület által keretezett nagyobb, összefüggő belső zöldfelületek, több házat kiszolgáló, koncentrált földalatti nagygarázsok létesítése).
+
+<a id="abra_5_18"></a>
+
+![Lakástípusok a BHK I. házgyár első szériájából. 1960-as évek közepe (beköltözés után felmért bútorozással)](images/abra_5_18_hazgyar.png)
+
+*5.18. ábra – Lakástípusok a BHK I. házgyár első szériájából. 1960-as évek közepe (beköltözés után felmért bútorozással)*
+
+A 90-es években a lakásépítés üteme rendkívüli mértékben visszaesett, az évente épített többszintes, többlakásos házak száma nagyságrenddel csökkent. A lakásépítés a szabad piac keretei között folyik. A vállalkozói lakásépítés a befektetett tőke legnagyobb profitjára törekszik, ezért a többszintes, többlakásos házak építése két területre összpontosul: a belső városi területek foghíjtelkeinek beépítésére, vagy a jó fekvésű, frekventált zöldterületekre, ahol un. „lakóparkok” létesülnek. A belvárosi részeken legnagyobb kereslete a kicsiny, egyszobás lakásoknak van (ezekre van fizetőképesség); a lakóparkokban az igényesebb lakások kelendőek. A 2000-es évek elején kezdődő folyamatok azt jelzik, hogy előbb-utóbb nagyobb számban elindul az átlagos fizetőképességű családok számára is elérhető lakások építése többszintes, többlakásos épületek formájában.
+
+
+
+*Új világtendenciák a fenntarthatóság jegyében*
+
+— Novák Ágnes
+
+A többlakásos épületek esetében is kialakultak azok az új követelmények, amelyek a fenntarthatóságot segítik elő. Az épületek tervezése során – különösen városi környezetben – gyakran törekednek a vegyes használatra (lakás és egyéb szolgáltatási funkció egyidejűleg jelenik meg a gazdaságos üzemeltetés érdekében), különböző méretű és adaptálható lakások biztosítására azért, hogy ne alakuljon ki szegregáció vagy egysíkú tulajdonosi- bérlői szerkezet. Sok esetben – főleg intenzív városi terület beépítésekor – megjelennek a gépkocsimentes zónák, ahol a beköltözőknek vállalni kell a gépkocsi nélküli életmódot.
+
+Az energiaveszteségek többlakásos épületeknél is jelentősen csökkenthetők az épületek szerkezeteinek jó megválasztásával. Megfelelő tájolással a napenergia közvetlenül hasznosítható, de gépészeti eszközökkel is befogadható és tárolható, felhasználható fűtésre, használati melegvíz készítésére vagy áramtermelésre.
+
+Az Osloban megépült, az [5.17. ábrán](#abra_5_17) látható, többlakásos lakóépület tervezése során kifejezetten az új, innovatív, napenergián alapuló technológia felhasználására törekedtek városi környezetben is.
+
+Az itt alkalmazott jellemző megoldások: aktív (napkollektor) és passzív szolár (napterek, üvegezett zónák) elemek együttes használata; a délre tájolt tetőfelületeken napkollektorok a háztartási melegvíz készítéséhez és a padlófűtés rásegítésére; magas hőszigetelési minőség az északi falakon; zöldtető a lapos tetős épületszakaszokon; egészséges, korlátozott számú, újra használható vagy reciklikálható anyagok; épületen belüli szelektív hulladékgyűjtés; csökkentett vízfogyasztás, a szürke szennyvíz helyi tísztítása és felhasználása a zöldfelület gondozásában; esővízgyűjtés és helyi felhasználás.
+
 
 <a id="E5_telek_beepitese"></a>
-## 5.3. A többszintes, többlakásos házak telkének beépítése
+### 5.3. A többszintes, többlakásos házak telkének beépítése
 
 A jelenleg érvényes *Országos Településrendezési és Építési Követelmények* által lefektetett beépítési módok a többszintes, többlakásos épületekre is érvényesek (szabadon álló, oldalhatáron álló, ikres és zártsorú).
 
@@ -3430,17 +3585,19 @@ A jelenleg alkalmazható beépítési módok szerint többszintes, többlakásos
 
 A zártsorú *beépítési mód* *a már kialakult városszövetekben való lakóház-építésre jellemző, de új telekosztásokon is előírható. A zártsorú beépítés jellemzően „egyedi telkes”, ahol valamennyi lakóház saját, külön telkén áll.*
 
-> **Megjegyzés**
->
-> Megjegyezzük, hogy a ma kodifikált, lehetséges beépítési módok nem elég rugalmasak a többszintes, többlakásos házak teljes beépítési skálájának befogadására. Nehezen illeszthető ezekbe, például, a közelmúltban újjáéledt *keretes* beépítés azon formája, amelynél egy vagy több *közös* belső udvart szegélybeépítés vesz körül ([5.15. ábra](#abra_5_15)). Ezt a beépítést „szabadon állónak” tekinteni aligha lehet, de zártsorúnak azért nem nevezhető, mert az épületek nem telekhatáron csatlakoznak egymáshoz, minthogy telkük közös.
->
-> <a id="abra_5_15"></a>
->
-> ![Lakótömb, Berlin, Ritterstrasse-Nord 1982-1988](images/abra_5_15_ritterstr.png)
->
-> *5.15. ábra – Lakótömb, Berlin, Ritterstrasse-Nord 1982-1988*
+::: note
 
-Az egyes beépítési módoknál érvényes részletesebb szabályozásra a 3. fejezetben leírtak itt is érvényesek.
+Megjegyezzük, hogy a ma kodifikált, lehetséges beépítési módok nem elég rugalmasak a többszintes, többlakásos házak teljes beépítési skálájának befogadására. Nehezen illeszthető ezekbe, például, a közelmúltban újjáéledt *keretes* beépítés azon formája, amelynél egy vagy több *közös* belső udvart szegélybeépítés vesz körül ([5.15. ábra](#abra_5_15)). Ezt a beépítést „szabadon állónak” tekinteni aligha lehet, de zártsorúnak azért nem nevezhető, mert az épületek nem telekhatáron csatlakoznak egymáshoz, minthogy telkük közös.
+
+<a id="abra_5_15"></a>
+
+![Lakótömb, Berlin, Ritterstrasse-Nord 1982-1988](images/abra_5_15_ritterstr.png)
+
+*5.15. ábra – Lakótömb, Berlin, Ritterstrasse-Nord 1982-1988*
+:::
+
+
+Az egyes beépítési módoknál érvényes részletesebb szabályozásra a [3.](#Csaladi_hazak) fejezetben leírtak itt is érvényesek.
 
 A telekfelhasználás lényeges szempontja az a követelmény, amely lakásonként legalább 1 gépkocsi *telken belüli* elhelyezését írja elő.
 
@@ -3449,7 +3606,7 @@ A most érvényes OTÉK az alkalmazható legnagyobb szintterület-sűrűséget e
 A „nagyvárosias” területeken alkalmazható 3,0 szintterület-sűrűség már mindenképpen mélygarázs, esetleg többszintes mélygarázs létesítését követeli meg.
 
 <a id="E5_szintszamok"></a>
-## 5.4. Szintszámok, magassági kategóriák
+### 5.4. Szintszámok, magassági kategóriák
 
 A többszintes, többlakásos épületek szintszáma széles skálán változik a kétszintes formától a sokszintes magasházakig. Azonos beépítettség mellett a szintszámokkal arányosan nő az épület összes szintterülete, tehát az építési telek kihasználtsága (a szintterületi mutató) egyre növekszik, elvileg egyre kedvezőbb a telekár és a terület-előkészítés költségeinek megoszlása: a lakásberuházás – látszólag – egyre gazdaságosabb. Az elvi összefüggés azonban a valóságban nem így érvényesül. A fajlagos építési költségek ugyanis bizonyos magassági határértékeknél ugrásszerűen emelkednek.
 
@@ -3482,10 +3639,10 @@ Az épületekben egy vagy több tűzszakaszt kell meghatározni illetve kialakí
 Általános elvként ajánlható, hogy a *magas lakóépület létesítését kerülni kell*. Kivált olyankor – mint erre akad néhány hazai példa – ha ezek építésére csupán rosszul értelmezett presztízs-szempontok miatt kerül sor.
 
 <a id="E5_fobb_szerkezetek"></a>
-## 5.5. A többszintes, többlakásos lakóházak főbb szerkezetei és berendezései
+### 5.5. A többszintes, többlakásos lakóházak főbb szerkezetei és berendezései
 
 <a id="E5_szerkezeti_rendszerek"></a>
-### 5.5.1. A többszintes, többlakásos lakóházak szerkezeti rendszerei
+#### 5.5.1. A többszintes, többlakásos lakóházak szerkezeti rendszerei
 
 Ebben az épületkategóriában a különféle építési rendszerek sokaságát fejlesztették ki és alkalmazták a tömeges lakásépítés fellendülő korszakában. Ezeknek még vázlatos ismertetésére sincs itt hely. Most a korábban „hagyományosnak” mondott építési rendszereknek azokra a szerkesztési elveire térünk ki, amelyek a többszintes épületek vázlatterv szintű tervezéséhez szükségesek.
 
@@ -3508,7 +3665,7 @@ A könnyebb zsaluzhatóság érdekében gyakran alkalmaznak olyan vázszerkezete
 A pillérvázas szerkezetek önmagukban csak korlátozottan alkalmasak vízszintes irányú terhelések (szélteher) felvételére, ezért – megfelelő helyeken – merevítő vasbeton falakat kell létesíteni mind haránt-, mind hosszirányban. Alacsonyabb, vagy közepes magasságú (3-4 szintes) épületeknél a lépcsőházat körítő vasbeton falak általában elegendőek a vázszerkezet merevítéséhez.
 
 <a id="E5_lepcsok"></a>
-### 5.5.2. Lépcsők
+#### 5.5.2. Lépcsők
 
 *A lépcsőfokok* méretezésére többlakásos házak közös lépcsőinél is a következő képlet szolgál:
 
@@ -3524,19 +3681,23 @@ A *lépcsőkar* szabad szélességét (a korlátok nélkül!) a lépcső által 
 
 A kiesést gátló lépcsőkorlát markolatának magassága legalább a járóvonaltól mért 95 cm magasságban legyen. Az optimális megkapaszkodás érdekében a markolat 4,5–5,0 cm átmérőjű kör keresztmetszetű legyen és a kézfej akadálytalan végigcsúsztatása érdekében alulról legyen megfogva.
 
-> **Megjegyzés**
->
-> Felvonó hiányában a lépcsőn való biztonságos közlekedés érdekében javasolt az alacsonyabb, illetve nehezebben mozgó személyek számára a járóvonaltól mért 70 cm magasságban is fogódzásra alkalmas szerkezetet biztosítani. Ez az alacsonyabban elhelyezett második markolat gyermekek számára kényelmesen elérhető, és az idősebbeknek a lépcsőfokokra való nehézkesebb fellépését segíti.
->
-> — Pandula András
+::: note
+
+Felvonó hiányában a lépcsőn való biztonságos közlekedés érdekében javasolt az alacsonyabb, illetve nehezebben mozgó személyek számára a járóvonaltól mért 70 cm magasságban is fogódzásra alkalmas szerkezetet biztosítani. Ez az alacsonyabban elhelyezett második markolat gyermekek számára kényelmesen elérhető, és az idősebbeknek a lépcsőfokokra való nehézkesebb fellépését segíti.
+
+— Pandula András
+:::
+
 
 A lépcsőkorlát kialakításánál fordítsunk fokozott figyelmet arra, hogy a gyermekek korlátra való felmászását fellépésre alkalmas szerkezeti elem ne segítse elő, és a kiesést gátló szerkezeti elemek közötti nyílás 12 cm-nél nagyobb ne legyen.
 
-> **Megjegyzés**
->
-> Ha a lépcsőpihenőről ajtószárny nyílik, akkor ügyelni kell arra, hogy az ajtó nyitása biztonságosan legyen elvégezhető, az ott álló személy a lépcső forgalmát ne zavarja: a lépcsőkar induló éle és a mellette lévő ajtó között legalább 30 cm távolság legyen.
->
-> — Pandula András
+::: note
+
+Ha a lépcsőpihenőről ajtószárny nyílik, akkor ügyelni kell arra, hogy az ajtó nyitása biztonságosan legyen elvégezhető, az ott álló személy a lépcső forgalmát ne zavarja: a lépcsőkar induló éle és a mellette lévő ajtó között legalább 30 cm távolság legyen.
+
+— Pandula András
+:::
+
 
 Egy lépcsőkar legfeljebb 20 fellépést tartalmazhat, ezután lépcsőpihenőt kell beiktatni. (Mozgáskorlátozottak vagy öregek akadálymentes otthonházainál egy lépcsőkar 1,80 m-nél nagyobb szintkülönbséget nem hidalhat át.)
 
@@ -3554,20 +3715,22 @@ A kiürítésre szolgáló lépcső pihenőjét az előírt legkisebb szélessé
 
 *A lépcső építészeti megformálása* fontos az épület esztétikai minőségének szempontjából. A lépcsőlemez és a lépcsőpihenő alsó síkjának találkozása, a lépcsőkorlát fogódzójának vonalvezetése a szép lépcső szerkesztésének lényeges szempontja. Kedvező, ha a lépcsőpihenő alsó síkja és a lépcsőlemezek alsó síkja egy egyenesben találkozik (forduló él), és ha az érkező és induló korlátfogódzó a pihenőnél azonos magasságban találkozik. Ezeknek a szempontoknak figyelembe vétele általában egy belépő-szélességgel hosszabb lépcsőházat eredményez, mint ami a minimális méretekből adódnék.
 
-Az [5.22. ábrasoron](#abra_5_22) olyan lépcsőket közlünk, amelyek lakóházaknál használatosak. Legkisebb alapterületet a kétkarú lépcső foglalja el, kissé területigényesebb a háromkarú lépcső. Akkor érdemes tervezni, ha a lépcsőház mérete mélységi irányban korlátozott. Ablaktalan, belső lépcsőház megvilágítása – alacsonyabb szintszámú épület esetén – felülvilágítóval is történhet, de ehhez megfelelően széles orsótér kell, ami a háromkarú lépcsőnél adódik. Az egykarú lépcső lépcsőháza igényli a legnagyobb területet, de nagyobb fogatszám esetén kedvezően alkalmazható (lásd 5.7. fejezetet).
+Az [5.22. ábrasoron](#abra_5_22) olyan lépcsőket közlünk, amelyek lakóházaknál használatosak. Legkisebb alapterületet a kétkarú lépcső foglalja el, kissé területigényesebb a háromkarú lépcső. Akkor érdemes tervezni, ha a lépcsőház mérete mélységi irányban korlátozott. Ablaktalan, belső lépcsőház megvilágítása – alacsonyabb szintszámú épület esetén – felülvilágítóval is történhet, de ehhez megfelelően széles orsótér kell, ami a háromkarú lépcsőnél adódik. Az egykarú lépcső lépcsőháza igényli a legnagyobb területet, de nagyobb fogatszám esetén kedvezően alkalmazható (lásd [5.7.](#E5_fogatolt_rendszer) fejezetet).
 
 <a id="E5_felvonok"></a>
-### 5.5.3. Felvonók
+#### 5.5.3. Felvonók
 
 A többszintes épületekben való függőleges közlekedés gépi berendezése a felvonó, amely a lépcső funkcióját kiegészíti, de nem helyettesíti. (Nem szabad olyan szintet tervezni, amely csak felvonóval közelíthető meg.) A lakóépületekben alkalmazott felvonók személyfelvonók, vagy bútorszállításra is alkalmas nagy személyfelvonók.
 
 A jelenleg érvényes előírás szerint *kötelező* felvonót létesíteni minden épületben, amelyben a rendeltetésszerű használat 10,0 m-nél nagyobb szintkülönbség áthidalását teszi szükségessé (kivétel a kétszintes lakás második szintje). Pince nélküli épületben – általában – ez fszt+3 emelet, alápincézett épületben fszt+2 emeletet jelent. Természetesen, létesíthető felvonó alacsonyabb – akár kétszintes – épületben is építtetői szándék vagy gazdasági megfontolás alapján (lehet, hogy a felvonó nyújtotta jobb lakhatási színvonal magasabb lakáspiaci árban realizálódik).
 
-> **Megjegyzés**
->
-> Beruházói megfontolás kérdése, hogy a „lifthatárnál” alacsonyabb többlakásos lakóépületeknél felvonót létesítsenek vagy sem, de a lakóépület használati értékét jelentősen növeli, ha a komfortszint emelése vagy akadálymentesítése érdekében felvonó később beépíthető (pl. háromkarú lépcső ennek megfelelően méretezett orsóterébe).
->
-> — Pandula András
+::: note
+
+Beruházói megfontolás kérdése, hogy a „lifthatárnál” alacsonyabb többlakásos lakóépületeknél felvonót létesítsenek vagy sem, de a lakóépület használati értékét jelentősen növeli, ha a komfortszint emelése vagy akadálymentesítése érdekében felvonó később beépíthető (pl. háromkarú lépcső ennek megfelelően méretezett orsóterébe).
+
+— Pandula András
+:::
+
 
 Mindenképpen felvonót kell létesíteni az akadálymentes kialakítást igénylő speciális lakóépületeknél (pl. idősek otthonházainál). Itt biztonsági felvonó létesítése is kívánalom lehet, ha tűz esetén az épület kiürítése más módon nem biztosítható. (Biztonsági felvonó: az épület füstmentes lépcsőházához vagy tűzgátló előteréhez, vagy a szabad térhez kapcsolódó, az épülettűz alatt is működtethető felvonó.)
 
@@ -3616,17 +3779,19 @@ A felvonó és lépcső együttesen képezi az épület függőleges közlekedő
 *5.25. ábra – Példák felvonó – lépcső kapcsolatokra*
 
 <a id="E5_epuletgepeszet"></a>
-### 5.5.4. Épületgépészeti szempontok
+#### 5.5.4. Épületgépészeti szempontok
 
 A többszintes, többlakásos lakóépületeknél gyakoriak a belső fekvésű, ablaktalan, de közvetlen szellőzést igénylő helyiségek. Ezek *szellőzéséről* gravitációs úton, vagy gépi úton működtetett szellőzőkürtőkkel gondoskodni kell. A gravitációs szellőzőkürtőket egyre inkább felváltja a ventillátorral működtetett gépi szellőzés. Előnyös, ha a függőleges csővezetékek (vízvezeték, függőleges csatornavezeték) a szellőzőkürtők mellett, egységes gépészeti aknában vannak elhelyezve, amelyben helyet kaphat a falikazán kéménye is. Az egymás feletti lakások gépészeti aknáinak – természetesen – egymás fölé kell esniük, hogy a szellőzőkürtőket és a függőleges csővezetékeket egyenes, függőleges vonalban lehessen vezetni. (Ezt a magától értetődő szempontot kezdő tervezők sokszor elhanyagolják olyankor, amikor egy-egy szint alaprajza az általánostól eltér pl. földszinti, tetőtéri lakások, kétszintes lakások esetében).
 
 A szellőzőkürtők és kémények elrendezésénél figyelembe kell venni, hogy azokat a tető fölé kell kivezetni, ezért az épület külső megjelenését is befolyásolják. A rendezetlen formában megjelenő kivezetések sokasága elcsúfíthatja a tetőket.
 
-> **Megjegyzés**
->
-> Amennyiben automatizált gépi szellőztetést építenek ki az egész épületen belül, úgy lehetőség van arra, hogy hővisszanyerő szellőztető berendezést alkalmazzanak, amely a fűtési időszakban az elszívott, használt levegő hőjével előmelegíti a friss, de hideg levegőt. Ezek a berendezések mára egyre egyszerűbbekké váltak, méretük egy átlagos klímaszekrényhez hasonlítható.
->
-> — Novák Ágnes
+::: note
+
+Amennyiben automatizált gépi szellőztetést építenek ki az egész épületen belül, úgy lehetőség van arra, hogy hővisszanyerő szellőztető berendezést alkalmazzanak, amely a fűtési időszakban az elszívott, használt levegő hőjével előmelegíti a friss, de hideg levegőt. Ezek a berendezések mára egyre egyszerűbbekké váltak, méretük egy átlagos klímaszekrényhez hasonlítható.
+
+— Novák Ágnes
+:::
+
 
 A lakások *fűtése* új többlakásos házak esetében szinte kivétel nélkül központi fűtés. A központi fűtés rendszere lehet lakásonként egymástól független, kiterjedhet egy épületre, de egy egész épületegyüttesre vagy ennél nagyobb területre is (távfűtés).
 
@@ -3638,16 +3803,18 @@ Ugyancsak jelentős lehet az épület alatt elhelyezett garázs felszálló szel
 
 Mindezek miatt nem nélkülözhető szakavatott épületgépész-tervező közreműködése már a tervezés kezdő fázisában sem.
 
-> **Megjegyzés**
->
-> A használati melegvíz biztosítása is történhet lakásegységenként, vagy egész épületre kiterjedően. Utóbbi esetben, a megfelelően tájolt felületeken lévő napkollektor alkalmazása használati melegvíz készítésére kimondottan előnyös, mert az egyidejű használat nem olyan kiélezett, mint egy család esetében, hiszen itt a melegvíz-igény időben eltolva jelenik meg. Ezért a rendszer kihasználtsága kiegyensúlyozottabb, jobban tervezhető, ami költséghatékony üzemeltetést eredményez. Többlakásos épületeknél a lakásegységre jutó kollektor-felület és tartályméret is alig fele a családi házaknál megszokott berendezéseknek.
->
-> Nagyobb épületegyüttes esetében a sűrű városi beépítés megkövetelheti a csapadékvíz telken belüli felhasználását. A tetőn és a burkolt felületeken „megfogható” csapadék időszakos – maximum egy hónapos – tárolása és fokozatos felhasználása locsolásra, esetleg a WC vízöblítésére szintén gazdaságos megoldás lehet.
->
-> — Novák Ágnes
+::: note
+
+A használati melegvíz biztosítása is történhet lakásegységenként, vagy egész épületre kiterjedően. Utóbbi esetben, a megfelelően tájolt felületeken lévő napkollektor alkalmazása használati melegvíz készítésére kimondottan előnyös, mert az egyidejű használat nem olyan kiélezett, mint egy család esetében, hiszen itt a melegvíz-igény időben eltolva jelenik meg. Ezért a rendszer kihasználtsága kiegyensúlyozottabb, jobban tervezhető, ami költséghatékony üzemeltetést eredményez. Többlakásos épületeknél a lakásegységre jutó kollektor-felület és tartályméret is alig fele a családi házaknál megszokott berendezéseknek.
+
+Nagyobb épületegyüttes esetében a sűrű városi beépítés megkövetelheti a csapadékvíz telken belüli felhasználását. A tetőn és a burkolt felületeken „megfogható” csapadék időszakos – maximum egy hónapos – tárolása és fokozatos felhasználása locsolásra, esetleg a WC vízöblítésére szintén gazdaságos megoldás lehet.
+
+— Novák Ágnes
+:::
+
 
 <a id="E5_kozlekedo_rendszer"></a>
-## 5.6. Többszintes, többlakásos épületek közös közlekedőinek rendszere
+### 5.6. Többszintes, többlakásos épületek közös közlekedőinek rendszere
 
 A többszintes épületekben lévő lakások függőleges irányú megközelítésére a közösen használt lépcső és felvonó szolgál. Az egyes lakószinteken lévő lakásokat a lépcsőtől vagy a lifttől vízszintes közlekedő felületeken lehet elérni. A függőleges és vízszintes közlekedésre szolgáló közös közlekedők együttes elrendezését nevezzük *közlekedőrendszernek.* A közös közlekedők létesítési költsége a fajlagos lakásárban (m²-árban) megjelenik, ezért azok kihasználtsága – a minél nagyobb lakás-alapterület kiszolgálása – lényeges (de nem kizárólagos) gazdasági szempont a közlekedőrendszer megválasztásánál.
 
@@ -3669,9 +3836,11 @@ A fenti kategóriák határai sokszor átfednek és összemosódnak. Az *egykar�
 
 *5.27. ábra – Fogatolt és folyosós rendszerek közötti átmeneti formák*
 
-> **Megjegyzés**
->
-> Ennek csak akkor van jelentősége, ha a megnevezéshez valamilyen előírás kötődik. Például, középmagas épületeknél a zárt folyosós elrendezéshez füstmentes lépcsőházat kell tervezni, a fogatolthoz azonban nem. A „Tűzvédelmi műszaki követelmények” akkor tekintik zárt folyosónak a folyosószerűen nyújtott érkező lépcsőpihenőt, ha onnan több mint 4 lakás nyílik.
+::: note
+
+Ennek csak akkor van jelentősége, ha a megnevezéshez valamilyen előírás kötődik. Például, középmagas épületeknél a zárt folyosós elrendezéshez füstmentes lépcsőházat kell tervezni, a fogatolthoz azonban nem. A „Tűzvédelmi műszaki követelmények” akkor tekintik zárt folyosónak a folyosószerűen nyújtott érkező lépcsőpihenőt, ha onnan több mint 4 lakás nyílik.
+:::
+
 
 Igen gyakori a fogatolt és folyosós rendszer együttes alkalmazása is. Akkor – például – amikor kötött telekméreteket kell zártsorú formában kitölteni meglévő foghíjtelkek beépítésénél, és a telekszélesség egy lépcsőházzal kiszolgált fogatolt elrendezéshez túl széles, két szekcióhoz viszont keskeny. Ugyancsak gyakori a folyosós és fogatolt rendszer kombinálása sarokházaknál ([5.28. ábra](#abra_5_28)).
 
@@ -3684,18 +3853,20 @@ Igen gyakori a fogatolt és folyosós rendszer együttes alkalmazása is. Akkor 
 A kétféle elrendezés függőleges értelmű vegyítése is előfordul. Például, az őrzött bejárattal és portaszolgálattal rendelkező, több lépcsőházzal feltárt apartmanházaknál, ahol a lépcsőházakat a földszinten közös belső közlekedő köti össze, és az egyes „szekcióknak” nincs külön-külön bejárata. Arra is van példa, hogy a fogatolt rendszer szerint kialakított lépcsőket valamelyik felső szinten is közös, vízszintes közlekedő kapcsolja össze (pl. magas lakóépületeknél).
 
 <a id="E5_fogatolt_rendszer"></a>
-## 5.7. Fogatolt rendszerű lakóházak
+### 5.7. Fogatolt rendszerű lakóházak
 
 <a id="E5_fogatolt_alaptipusok"></a>
-### 5.7.1. A fogatolt rendszerű lakóházak alaptípusai
+#### 5.7.1. A fogatolt rendszerű lakóházak alaptípusai
 
 A fogatolt rendszerű lakóházak nagyságuktól függően feltárhatók egyetlen lépcsőházzal, vagy több szekcióból is állhatnak, szekciónként egy-egy lépcsőházzal.
 
 A szabadon álló fogatolt épületek egy lépcsőházat tartalmazó formái a *pontházak*.
 
-> **Megjegyzés**
->
-> (A „pontház” elnevezést több kritika illette pongyolasága miatt, helyette a „kockaház” és „toronyház” kifejezéseket is használja a szakirodalom. Ez utóbbiak viszont az épületek magasság-szerinti kategóriáit is jelölik. Itt – jobb elnevezés híján – *pontháznak* olyan, *szabadon álló* többszintes lakóépületeket nevezünk, amelyeknek alaprajzi kiterjedése nem nagy, szélességi és hosszúsági méretei egymáshoz közeliek.)
+::: note
+
+(A „pontház” elnevezést több kritika illette pongyolasága miatt, helyette a „kockaház” és „toronyház” kifejezéseket is használja a szakirodalom. Ez utóbbiak viszont az épületek magasság-szerinti kategóriáit is jelölik. Itt – jobb elnevezés híján – *pontháznak* olyan, *szabadon álló* többszintes lakóépületeket nevezünk, amelyeknek alaprajzi kiterjedése nem nagy, szélességi és hosszúsági méretei egymáshoz közeliek.)
+:::
+
 
 Zártsorú beépítésben létesülő fogatolt épület egy lépcsőházat tartalmaz olyankor – és legtöbbször – ha a beépítendő telek ehhez nem túl széles.
 
@@ -3708,7 +3879,7 @@ Több szekció egyenes vonalú sorolásával *sávházak* alakulnak ki. Az egyes
 *5.29. ábra – Fogatolt rendszerű többlakásos házak alaptípusai*
 
 <a id="E5_szekciok_kialakitasa"></a>
-### 5.7.2. Fogatolt rendszerű lakóházak szekcióinak kialakítása
+#### 5.7.2. Fogatolt rendszerű lakóházak szekcióinak kialakítása
 
 A „sorolható szekció” a több szekcióból álló épület alapegysége, de alkalmazható önmagában is egy-egy különálló foghíjtelek beépítésére a zártsorú beépítési módban.
 
@@ -3744,12 +3915,14 @@ A minimális követelmény betartásán túl arra kell törekedni, hogy a lakás
 
 Szabadon álló épületek végein olyan szekciókat kell kialakítani, amelyek a tájolási feltételeket is optimálisan kihasználják, lévén három szabad homlokzatuk. Ezek a közbensőktől teljesen eltérőek lehetnek, vagy azok módosított változatai.
 
-> **Megjegyzés**
->
-> (Ismét megjegyezzük, hogy a tájolási lehetőség csak egyike egy adott lakókörnyezeti helyzet sokrétű adottságainak. Meglévő településszövet foghíjtelke esetén gyakran elfordul például, hogy az épület jó tájolású homlokzata zajos és szennyezett levegőjű, forgalmas utcára néz, a rosszabb tájolású pedig egy szépen parkosított, csendes belső kertre. A két szempont között a konkrét adottságok eseti mérlegelésével kell dönteni.)
+::: note
+
+(Ismét megjegyezzük, hogy a tájolási lehetőség csak egyike egy adott lakókörnyezeti helyzet sokrétű adottságainak. Meglévő településszövet foghíjtelke esetén gyakran elfordul például, hogy az épület jó tájolású homlokzata zajos és szennyezett levegőjű, forgalmas utcára néz, a rosszabb tájolású pedig egy szépen parkosított, csendes belső kertre. A két szempont között a konkrét adottságok eseti mérlegelésével kell dönteni.)
+:::
+
 
 <a id="E5_fogatolt_ponthazak"></a>
-### 5.7.3. Fogatolt pontházak
+#### 5.7.3. Fogatolt pontházak
 
 A szabadon álló, egyetlen közlekedő magot tartalmazó fogatolt épületek (pontházak) négy szabad homlokzattal rendelkeznek, ami az alkalmazható fogatszám és lakásnagyság szempontjából lényegesen kedvezőbb, mint a sorolható szekciók esetében.
 
@@ -3766,7 +3939,7 @@ A szabadon álló, egyetlen közlekedő magot tartalmazó fogatolt épületek (p
 *5.32. ábra – Példák pontházak elrendezési sémáira*
 
 <a id="E5_osszefuggesek"></a>
-### 5.7.4. A lakások fogatolt rendszerű épületben elfoglalt helyzetének, szobaszámának és alapterületének összefüggése
+#### 5.7.4. A lakások fogatolt rendszerű épületben elfoglalt helyzetének, szobaszámának és alapterületének összefüggése
 
 A fogatolt elrendezések itt bemutatott – és azon kívül még korlátlan számban tervezhető – széles skálájából a konkrét változatot az építési helyszín adottságai és a tervezési program alapján kell megválasztani. A tervezési programban általában csak az igényelt lakások nagyságát (alapterületét, szobaszámát), a különféle nagyságú lakások arányát fekteti le a megrendelő, azok térbeli szervezése a tervező dolga.
 
@@ -3780,9 +3953,11 @@ Az [5.33. ábrasor](#abra_5_33) különféle lakások – nagyon vázlatos – a
 
 *5.33. ábra – Különböző alapterületű lakások sémái fogatolt elrendezésnél*
 
-> **Megjegyzés**
->
-> (A félméternyi méretskálával szerkesztett alaprajzi vázlatok csupán az itteni gondolatmenetet alátámasztó illusztrációk, lakástervezési példaként nem kell sem értékelni, sem felhasználni őket!)
+::: note
+
+(A félméternyi méretskálával szerkesztett alaprajzi vázlatok csupán az itteni gondolatmenetet alátámasztó illusztrációk, lakástervezési példaként nem kell sem értékelni, sem felhasználni őket!)
+:::
+
 
 *Az egy homlokzati fallal rendelkező lakások* jellemzően a három vagy annál nagyobb fogatszámú szekciókban fordulnak elő. Mivel a természetes megvilágítást igénylő helyiségeket csak egymás mellé lehet elhelyezni, kialakításuk csak kisebb szobaszám (legfeljebb nappali+1 háló) esetén kedvező. Ezeknek lehet belső konyhájuk is.
 
@@ -3793,7 +3968,7 @@ A két hálószobát vagy annál többet tartalmazó lakás ilyen helyzetben má
 *A két, csatlakozó homlokzati fallal rendelkező saroklakások* a sarokszekcióknál vagy a pontházaknál fordulnak elő. Ezekben egyaránt lehetnek kisebb, vagy nagyobb lakások, de az épületben elfoglalt kedvező helyzet miatt inkább nagyobb alapterületű, legalább két hálóhelyiséges lakások tervezése javasolható.
 
 <a id="E5_foldszint_kialakitasa"></a>
-### 5.7.5. A fogatolt rendszerű lakóépületek földszintjének kialakítása
+#### 5.7.5. A fogatolt rendszerű lakóépületek földszintjének kialakítása
 
 A földszint alaprajza módosítást igényel az emeletihez képest, a szekció (épület) főbejárata és az ahhoz kapcsolódó közös használatú egyéb helyiségek: a bejárati előtér és tárolók elhelyezése érdekében.
 
@@ -3811,17 +3986,21 @@ A közvetlenül a lépcsőházba nyíló bejárat akkor alakítható ki a lépcs
 
 Zártsorú beépítésnél, vagy hosszabb sávház esetén, főbejárattal átellenes oldalon kerti kijárót kell tervezni. Ez nyílhat magából a lépcsőházból, ha a földszinti padlóvonal elég magas ahhoz, hogy a közbenső pihenő alatt elegendő belmagasság adódjék ([5.34./c. ábra](#abra_5_34)).
 
-> **Megjegyzés**
->
-> A bejárati szint kényelmes elérését számos élethelyzetben gátolja egy külső térben megjelenő előlépcső: pl. babakocsival, bevásárlókocsival történő beközlekedés, idősebb használók közlekedése, csomagok cipelése stb. Az épület komfortszintjének emelése érdekében nyomatékosan ajánlott, hogy a bejárat előtti külső tér és a belső előtér burkolt járószintje között legfeljebb 2 cm magasságkülönbség legyen.
->
-> Az épületbe tervezett *felvonó* szintkülönbség nélküli, akadálytalan megközelítését minden esetben biztosítani kell a bejárati szinten, különben a felvonó használati értéke jelentősen csökken a házban lévő lakások értékével együtt.
+::: note
 
-> **Megjegyzés**
->
-> Alapelv: erősen ajánlott minden esetben a földszinti közös területek teljes körét akadálymentesen kialakítani, hiszen a bejárat, a felvonóhoz vezető útvonal, a földszinti tárolók, a kerékpár és a babakocsi tároló, a postaládák és a kerti kijárat kényelmes és biztonságos, szintben történő elérhetősége az épületben lévő lakások komfortszintjét és így azok értékét is növeli.
->
-> — Pandula András
+A bejárati szint kényelmes elérését számos élethelyzetben gátolja egy külső térben megjelenő előlépcső: pl. babakocsival, bevásárlókocsival történő beközlekedés, idősebb használók közlekedése, csomagok cipelése stb. Az épület komfortszintjének emelése érdekében nyomatékosan ajánlott, hogy a bejárat előtti külső tér és a belső előtér burkolt járószintje között legfeljebb 2 cm magasságkülönbség legyen.
+
+Az épületbe tervezett *felvonó* szintkülönbség nélküli, akadálytalan megközelítését minden esetben biztosítani kell a bejárati szinten, különben a felvonó használati értéke jelentősen csökken a házban lévő lakások értékével együtt.
+:::
+
+
+::: note
+
+Alapelv: erősen ajánlott minden esetben a földszinti közös területek teljes körét akadálymentesen kialakítani, hiszen a bejárat, a felvonóhoz vezető útvonal, a földszinti tárolók, a kerékpár és a babakocsi tároló, a postaládák és a kerti kijárat kényelmes és biztonságos, szintben történő elérhetősége az épületben lévő lakások komfortszintjét és így azok értékét is növeli.
+
+— Pandula András
+:::
+
 
 Az [5.35. ábrasor](#abra_5_35) gyakran alkalmazott két- és háromfogatú, liftes szekciók földszintjének egyféle kialakítását mutatja sematikus formában, illusztratív jelleggel. (A tervezés során mindig a konkrét program és konkrét helyszín adottságai alapján kell kialakítani az odaillő, optimális elrendezést.)
 
@@ -3833,19 +4012,21 @@ Az [5.35. ábrasor](#abra_5_35) gyakran alkalmazott két- és háromfogatú, lif
 
 Ha a földszinten is lakások vannak, akkor azok kialakítása – az esetek többségében – eltér az emeletitől a földszinti helyiségek helyigénye miatt. Lehet a földszinten az emeletinél kisebb, vagy kevesebb lakás. (A lakásváltozatok tervezésénél a teherhordó falak, pillérek valamint a felszálló gépészeti vezetékek kötött helyzetét, a szellőzőkürtők lehetséges helyét nem szabad elhanyagolni!)
 
-> **Megjegyzés**
->
-> A többszintes többlakásos lakóépületek földszinten elhelyezkedő lakásainál nyomatékosan ajánlott az akadálymentes kialakítás lehetőségét biztosítani: az emeleti lakásoktól jellemzően eltérő alaprajzú, a bejárati szintről szintkülönbség nélkül kényelmesen elérhető, adaptálható alaprajzú lakások kialakítása könnyen megoldható és így a létesítési költség változása nélkül bővül a speciális használói igényeknek megfelelően tervezett lakások elérhetősége a lakáspiacon.
->
-> — Pandula András
+::: note
+
+A többszintes többlakásos lakóépületek földszinten elhelyezkedő lakásainál nyomatékosan ajánlott az akadálymentes kialakítás lehetőségét biztosítani: az emeleti lakásoktól jellemzően eltérő alaprajzú, a bejárati szintről szintkülönbség nélkül kényelmesen elérhető, adaptálható alaprajzú lakások kialakítása könnyen megoldható és így a létesítési költség változása nélkül bővül a speciális használói igényeknek megfelelően tervezett lakások elérhetősége a lakáspiacon.
+
+— Pandula András
+:::
+
 
 *Szabadon álló pontház* esetén a bejárat elhelyezés jóval kötetlenebb, lényegében bármelyik homlokzaton lehet. Kerülni kell azonban az olyan elrendezést, amikor a bejárat a fő megközelítési iránnyal átellenes (hátsó) homlokzaton van.
 
 <a id="E5_folyosos_rendszeru"></a>
-## 5.8. Folyosós rendszerű lakóházak
+### 5.8. Folyosós rendszerű lakóházak
 
 <a id="E5_oldalfolyosos_lakohazak"></a>
-### 5.8.1. Oldalfolyosós lakóházak
+#### 5.8.1. Oldalfolyosós lakóházak
 
 Az oldalfolyosó lehet nyitott, vagy zárt (üvegezett).
 
@@ -3878,7 +4059,7 @@ A *zárt oldalfolyosó* alkalmazása ritkább. Mégis, ha az oldalfolyosóról o
 *5.37. ábra – Példák függőleges közlekedő mag kialakítására oldalfolyosós lakóházaknál*
 
 <a id="E5_belsofolyosos"></a>
-### 5.8.2. Belsőfolyosós lakóházak
+#### 5.8.2. Belsőfolyosós lakóházak
 
 A *belsőfolyosó* az épület belsejében kialakított zárt közlekedőtér. Bizonyos épület-elrendezéseknél kialakulhat *kettős belső folyosó* (amikor két, párhuzamos folyosó között a függőleges közlekedőket és egyéb, nem lakás célú helyiségeket tartalmazó, nyújtott alaprajzú „belső mag” létesül), a szimmetriatengelyben futó belső folyosót a szaknyelv *középfolyosónak* is nevezi.
 
@@ -3888,8 +4069,14 @@ A belső folyosó szellőzéséről gondoskodni kell, ez lehetőleg történjék
 
 A belsőfolyosók hosszát, szélességi méretét ugyancsak a kiürítési számítás szerint kell meghatározni. Belsőfolyosó szélességei mérete ne legyen **1,50 m-nél kevesebb**, de legalább 1.80 m szélesség javasolt akkor is, ha ezt az előírások nem kérnék. (A keskeny belsőfolyosók a szűkösség nyomasztó érzetét keltik.) A lakások bejárati ajtói mindig *befelé* nyíljanak, mert a kiürítési útvonalba beálló ajtószárnyak a kiürítési útvonal szélességi méretét csökkentik. (A kiürítési útvonalon lévő ajtóknak a menekülés iránya felé akkor kell nyílniuk, ha a kiürítési létszám az 50 főt meghaladja. Nyilván, egy lakásból sohasem kell 50 főt menekíteni.)
 
+<a id="abra_5_38"></a>
+
+![Példák függőleges közlekedő mag kialakítására középfolyosós lakóházaknál](images/abra_5_38_kozfolylepcs.png)
+
+*5.38. ábra – Példák függőleges közlekedő mag kialakítására középfolyosós lakóházaknál*
+
 <a id="E5_folyosos_lakasok_osszefuggese"></a>
-### 5.8.3. A lakások folyosós rendszerű épületben elfoglalt helyzetének, szobaszámának és alapterületének összefüggése
+#### 5.8.3. A lakások folyosós rendszerű épületben elfoglalt helyzetének, szobaszámának és alapterületének összefüggése
 
 A folyosós elrendezéseknél a közlekedő rendszer kihasználtsága, gazdaságossága miatt előnyös, ha a folyosó minél nagyobb számú lakást, illetve minél nagyobb lakásalapterületet szolgál ki. Az [5.39. ábra](#abra_5_39) a különféle nagyságú lakásokat folyosós rendszerű épületben elfoglalt helyzetük gazdasági vonzata alapján hasonlítja össze. A lakásméretek itt is egy átlagosnak mondható igényszinthez tartoznak.
 
@@ -3901,9 +4088,11 @@ A folyosós elrendezéseknél a közlekedő rendszer kihasználtsága, gazdaság
 
 A legelőnyösebbnek az *egyszobás lakások* mutatkoznak a közlekedő által kiszolgált lakásszám tekintetében, mert szélességi méretük nem haladja meg a 4.5 – 5 métert. Az *oldalfolyosó* gazdaságos kihasználást hátráltatja az a tény, hogy az egyszobás lakások kicsiny alapterülete (30–40 m²) miatt az épületmélység is kicsi: 7–8 m-nél nemigen lehet nagyobb. A kisebb épületmélység fajlagosan nagy homlokzatfelületet (magasabb létesítési és fűtési költségeket) jelent. Az egyszobás lakások belső konyhával is kialakíthatók, nem igényelnek feltétlenül ablakot a folyosó felőli oldalon, ezért a *belsőfolyosós* elrendezésénél adódik a legkevesebb járulékos közlekedő terület. A belsőfolyosós elrendezés 14–18 m-es épületmélységénél a fajlagos homlokzatfelület igen kicsiny, és az egységnyi folyosófelülettel kiszolgált *lakás-alapterület* is nagyon kedvező arányt mutat. Abban az esetben, ha egy építési program csupa egyszobás lakásból álló épületet kér (garzonházak, otthonházak) akkor annak leggazdaságosabb közlekedő rendszere a belsőfolyosós elrendezés.
 
-> **Megjegyzés**
->
-> Megfontolandó azonban az a tény is, hogy a belsőfolyosós lakóházakat a lakók sokkal kevésbé kedvelik, mint az oldalfolyosósakat. Ez a gazdaságosságra is hat: lehet, hogy egy oldalfolyosós ház létesítése többe kerül, de a lakások ingatlanforgalmi értéke nagyobb lesz, mint ami belsőfolyosós elrendezés esetén adódik. Piaci lakásviszonyok között a gazdaságosság nemcsak a kisebb létesítési költségeken múlik, hanem egyéb „marketing” szempontokon. Itt a gazdaságosságot csak a létesítési költségek vonatkozásában hasonlítjuk össze.
+::: note
+
+Megfontolandó azonban az a tény is, hogy a belsőfolyosós lakóházakat a lakók sokkal kevésbé kedvelik, mint az oldalfolyosósakat. Ez a gazdaságosságra is hat: lehet, hogy egy oldalfolyosós ház létesítése többe kerül, de a lakások ingatlanforgalmi értéke nagyobb lesz, mint ami belsőfolyosós elrendezés esetén adódik. Piaci lakásviszonyok között a gazdaságosság nemcsak a kisebb létesítési költségeken múlik, hanem egyéb „marketing” szempontokon. Itt a gazdaságosságot csak a létesítési költségek vonatkozásában hasonlítjuk össze.
+:::
+
 
 *A nappali+1 hálóhelyiséges* (másfél, kétszobás) lakásoknak a folyosóval átelleni falon lévő szobái együttesen 7–8 méternyi lakásszélességet adnak, ami még kedvezőnek mondható. A konyha a külsőfolyosó felől természetes megvilágítást és szellőzést kaphat. Másfél-kétszobás lakások feltárására a külsőfolyosós elrendezés jól alkalmazható. Az oldalfolyosós elrendezésnél adódó 8–9 m-es épületmélység még éppen elfogadható. Ez a lakáskategória is belsőfolyosós épületben helyezhető el leggazdaságosabban akkor, ha közvetlen természetes szellőzésű és megvilágítású konyhára nincs megrendelői igény. Ha a kétszobás lakás közvetlen, természetes fénnyel megvilágított konyha igényével párosul, akkor a belsőfolyosós lakás szélessége elérné a 9–10 m-t, ami a közös közlekedők kihasználtságát igencsak megkérdőjelezné (pl. 30 m hosszú belsőfolyosóval mindössze hat lakás lenne feltárható).
 
@@ -3922,7 +4111,7 @@ Keskeny, mégis nagy alapterületű lakások kétszintes („duplex”) formába
 Hagyományos, oldalfolyosós elrendezéseknél is gyakran létesítenek duplex lakást a legfelső szinten, tetőterek beépítésére.
 
 <a id="E5_terbeli_elrendezes"></a>
-### 5.8.4. Összetett térbeli elrendezésű folyosós épületek
+#### 5.8.4. Összetett térbeli elrendezésű folyosós épületek
 
 A nagyobb lakások folyosós feltárására igen sokféle (néha igen bonyolult) térbeli rendszerek alakultak ki az ötvenes-hatvanas évek nyugat-európai lakásépítészetében, minden bizonnyal annak az ideológiának a hatására is, amely akkor a magas lakóépületeket preferálta. (Magas épületek fogatolt rendszerben nem gazdaságosak.)
 
@@ -3941,7 +4130,7 @@ Az építészetileg izgalmas belső térkapcsolatok ellenére a „semi-duplex�
 Az eredetileg magas lakóházakhoz kifejlesztett, összetett térbeli elrendezésű folyosós rendszereket ritkábban alkalmazzák mostanában, mert ma már a szakma is az alacsonyabb lakóépületeket tekinti kedvezőbbnek. A korábban tervezési bravúrt jelentő, néha agyafúrtságig bonyolult térbeli elrendezéseknek sem lehetősége, sem oka nincsen kisebb szintszámú épületeknél.
 
 <a id="E5_kulso_ter_kapcsolat"></a>
-## 5.9. A lakások külső térrel való kapcsolata többszintes lakóházaknál
+### 5.9. A lakások külső térrel való kapcsolata többszintes lakóházaknál
 
 A többszintes lakóépületek emeleti lakásainak közvetlen kertkapcsolata – nyilván – nem lehet, de a környezetükkel való kapcsolatuk fontos tervezési szempont. A környezettel való *vizuális* kapcsolat minőségét figyelembe kell venni a lakóterek ablakainak elhelyezésénél. Az ablakból adódó kivételesen szép – vagy ellenkezőleg: csúnya – látvány sokszor a tájolás konvencionális szempontjainál nagyobb fontosságot nyerhet a mentális komfortérzetre gyakorolt hatása miatt.
 
@@ -3987,7 +4176,7 @@ Lehet azonban a külső tartózkodó olyan helyzetben, hogy a mögötte lévő h
 
 *5.45. ábra – Tetőteraszok kialakításának sémái pillérvázas épületeknél*
 
-*Földszinti teraszok* olyankor létesíthetők, ha az épületnek kertkapcsolata van. Ilyenkor a földszinti lakás használati értéke nagyobb, és ez a többlet a piaci árban is megjelenik. A közösen birtokolt telek tagolása privát és közösen használt részekre itt is ugyanúgy lehetséges, ahogyan azt a 4. fejezetben tárgyaltuk.
+*Földszinti teraszok* olyankor létesíthetők, ha az épületnek kertkapcsolata van. Ilyenkor a földszinti lakás használati értéke nagyobb, és ez a többlet a piaci árban is megjelenik. A közösen birtokolt telek tagolása privát és közösen használt részekre itt is ugyanúgy lehetséges, ahogyan azt a [4.](#alacsony_beepitesek) fejezetben tárgyaltuk.
 
 Földszinti teraszok létesítésénél a hozzájuk csatlakozó külső tér csak egy szűkebb lakóközösség által használható terület lehet. A lakótelepeken létesített, nyilvános használatú külső terekhez csatlakozó földszinti teraszokat a bizalmatlan lakók sokszor magas kerítéssel kerítik el vagy az üvegfalak elé ijesztő rácsozatokat létesítenek. Az ilyen torzulások oka nem(csak) a lakó alacsony színvonalú lakáskultúrája, hanem a közvetlen lakókörnyezet és a környezettel létesített kapcsolat hibás megtervezése.
 
@@ -4006,13 +4195,15 @@ A közterülethez vagy nyilvános használatú területhez csatlakozó földszin
 A közös (kizárólag egy lakóközösség által használható) területhez való kapcsolódás mikéntje a lakóközösség létszámától, összetételétől, és együttműködésének jellegétől függ. Nagy létszámú és laza szomszédsági viszonyban élő lakóközösség esetében a földszinti lakások fokozott vizuális védettséget kívánhatnak, míg a szorosabban együttműködő, egymás privát életét kölcsönösen tiszteletben tartó kisebb használói csoport esetében ez nem szükséges. A földszinti lakásokhoz tartozó teraszoknak és privát használatú kert-részeknek csak ilyen esetben van létjogosultságuk. Ennek ellenére, a telek belső úthálózatát úgy kell kialakítani, hogy a közös terület használata ne kényszerítse ki a lakások vizuális zavarását.
 
 <a id="E5_teraszhazak"></a>
-## 5.10. Teraszházak
+### 5.10. Teraszházak
 
 A teraszház olyan többszintes, többlakásos lakóépület, melynek lakásaihoz (vagy lakásai nagy részéhez) közvetlenül csatlakozik nagyméretű tetőterasz.
 
-> **Megjegyzés**
->
-> (A korábbi magyar terminológia szerint csak a *lejtős terepre* lépcsőzetesen épített házat neveztük teraszháznak. A mai, külföldi szakirodalomban a fenti definíció szerinti meghatározás érvényes, amely szerint lehetnek sík terepre épülő teraszházak is.)
+::: note
+
+(A korábbi magyar terminológia szerint csak a *lejtős terepre* lépcsőzetesen épített házat neveztük teraszháznak. A mai, külföldi szakirodalomban a fenti definíció szerinti meghatározás érvényes, amely szerint lehetnek sík terepre épülő teraszházak is.)
+:::
+
 
 *A lejtős terepen létesített teraszházak* szintjei a lejtő emelkedésének irányában lépcsőzetesen visszahúzva sorolódnak. A lakások padlószintjének egyik része alatt maga a talaj, másik része alatt egy szomszéd lakás helyezkedik el. A visszalépcsőző szintek előtt egy lapostetős sáv alakul ki, amely lehet teljes egészében tetőterasz, vagy tetőterasz és zöldtető kombinációja.
 
@@ -4073,7 +4264,7 @@ Lehetséges olyan térbeli elrendezés, ahol az egymás fölé sorolt szintek al
 Bizonyos határok között lehetséges az egyes, közel azonos kialakítású szintek hátralépcsőzése, megfelelő szerkezeti kialakítás esetén ([5.13. ábra](#abra_5_13)).
 
 <a id="E5_gepkocsielhelyezes"></a>
-## 5.11. Gépkocsielhelyezés
+### 5.11. Gépkocsielhelyezés
 
 A jelenleg nálunk érvényes törvényi követelmények előírásai szerint többszintes, többlakásos épületeknél a lakásszámmal azonos számú gépkocsi elhelyezéséről a *telken belül* kell gondoskodni. Ennek ellenére, ha az épület igényesebb lakásokat tartalmaz, akkor a fenti alap-normánál több gépkocsit is feltételezni lehet (ma már gyakori, hogy tehetősebb családok két vagy akár három gépkocsival is rendelkeznek) és ezt az igényt a tervezési programban is rögzíteni kell.
 
@@ -4113,7 +4304,13 @@ A mélygarázsok létesítésénél különös gondot kell fordítani a lehajtó
 
 *5.53. ábra – Autórámpák méretezése*
 
-*A mélygarázs és a lakóépület viszonya* szempontjából legkedvezőbbnek az olyan elrendezés *tűnik*, ahol a mélygarázs a lakóépület pinceszintjén helyezkedik el. A középső útról két oldalra történő merőleges beállás csak akkor lehetséges, ha az épület mélységi mérete a 16 métert eléri ([5.55. ábra](#abra_5_55)). Az 5.7.4. és az 5.8.4. fejezetekben leírtak szerint ilyen épületmélység gazdaságosan csak belső folyosós elrendezéseknél alakítható ki, ezért alkalmazása igen korlátozott.
+<a id="abra_5_54"></a>
+
+![Gépkocsifelvonó](images/abra_5_54_aulift.png)
+
+*5.54. ábra – Gépkocsifelvonó*
+
+*A mélygarázs és a lakóépület viszonya* szempontjából legkedvezőbbnek az olyan elrendezés *tűnik*, ahol a mélygarázs a lakóépület pinceszintjén helyezkedik el. A középső útról két oldalra történő merőleges beállás csak akkor lehetséges, ha az épület mélységi mérete a 16 métert eléri ([5.55. ábra](#abra_5_55)). Az [5.7.4.](#E5_osszefuggesek) és az [5.8.4.](#E5_terbeli_elrendezes) fejezetekben leírtak szerint ilyen épületmélység gazdaságosan csak belső folyosós elrendezéseknél alakítható ki, ezért alkalmazása igen korlátozott.
 
 <a id="abra_5_55"></a>
 
@@ -4134,7 +4331,7 @@ A mélygarázsoknak a lakóházból (lépcsőházból) való megközelítése cs
 A mélygarázsok minden esetben gépi szellőzést igényelnek, mert a levegőnél nehezebb füstgázok onnan másképpen eltávozni nem tudnak. A garázsszinthez kapcsolódóan szellőző gépházat kell létesíteni, valamint az épület belsejében (vagy az épület mellett) olyan függőleges szellőzőkürtőt kell elhelyezni, amely a garázs szennyezett levegőjét a tetőszint fölé vezeti. Ennek keresztmetszete – a garázs nagyságától függően – tekintélyes lehet, az 1 m² körüli alapterületet is elérheti. Mélygarázsok létesítésénél szakértő épületgépész közreműködése nem nélkülözhető még a tervezés kezdő fázisaiban sem.
 
 <a id="E5_szemetkezeles"></a>
-## 5.12. Szemétkezelés - hulladékkezelés
+### 5.12. Szemétkezelés - hulladékkezelés
 
 *A szemétkezelés helyiségei és építményei* az építési telket magában foglaló nagyobb területen folyó szemétszállítás rendszerétől függően létesüljenek. A szemétgyűjtés történhet gyűjtőedényekben – polgárjogot nyert argó szerint „kukákban” – vagy nagyobb konténerekben ([5.56. ábra](#abra_5_56)). Többlakásos házaknál a „nagykuka” használata gyakoribb. Konténereket – amelyek speciális szállító járműveket igényelnek – nagy lakásszámot, akár több épületet tartalmazó lakóegyüttesekhez (lakótelepekhez) rendszeresítenek.
 
@@ -4165,7 +4362,7 @@ A közületi szemétszállítás csak közterületi útvonalakon történik, íg
 *A szelektív hulladékgyűjtés* nálunk még szórványos, de általános bevezetése küszöbön áll. Ez több, a különböző hulladékfajták elkülönített gyűjtésére rendszeresített hulladékgyűjtő edényt igényel (ezek helyszükségletével együtt), és a szemétszállítás egész rendszerének átformálásával jár. Ma még nem tudható, hogy nálunk ez a rendszer részleteiben milyen lesz, de a szűkösen méretezett szeméttároló helyiségek és építmények átalakítása rendkívül nagy költségekkel járhat. Ezért – az „erkölcsi évülés” elkerülése érdekében – jó, ha ezek méretezése bőkezűen történik.
 
 <a id="E5_egyeb_terek"></a>
-## 5.13. Lakásokon kívüli egyéb terek, helyiségek
+### 5.13. Lakásokon kívüli egyéb terek, helyiségek
 
 A többszintes, többlakásos lakóépületek közös közlekedőiről, a gépkocsitárolóról, kazánházról, gépházakról, szeméttárolóról a korábbi fejezetekben esett szó.
 
@@ -4190,7 +4387,7 @@ Olyankor is célszerű szélfogót kialakítani, ha a bejárati előtér valamel
 *Idegen funkció* jelenléte a lakóházakban elsősorban a sűrű, városias lakóterületeken jellemző. Itt a földszinteken az utca zaja és légszennyezettsége miatt lakások nem helyezhetők el (Budapest sűrűbb részein ezt szabályzat is tiltja), viszont kereskedelmi, szolgáltató létesítmények számára kiválóan alkalmas a lakóházak földszintje. Idegen funkció jelenléte esetén alapszabály, hogy a különböző rendeltetésű tércsoportok forgalma ne kereszteződjék, azok elkülönített bejárattal rendelkezzenek. A lakóépület közös közlekedői önállóan zárhatók, felügyelhetők legyenek, ugyanígy a nem lakás-rendeltetésű helyiségek, helyiségcsoportok is. Lehetséges – mindenkori megállapodás kérdése – hogy bizonyos helyiségeket a lakók és a más rendeltetésű létesítmények üzemeltetői közösen használjanak (pl. a gépkocsitárolót, hulladéktárolót stb.).
 
 <a id="E5_energiatudatos"></a>
-## 5.14. A többszintes, többlakásos lakóépületek energiatudatos és fenntartható kialakítása
+### 5.14. A többszintes, többlakásos lakóépületek energiatudatos és fenntartható kialakítása
 
 — Bitó János és Novák Ágnes
 
@@ -4221,7 +4418,7 @@ A térhatároló szerkezetek kellő hőszigetelése, a hőhidak elkerülése ink
 A többszintes, többlakásos lakóépületek energiamérlegét nagymértékben befolyásolja a fűtési rendszer megválasztása (pl. lakásonkénti falikazán vagy központi kazán lakásonként mérhető energia-fogyasztással), de a kérdés esetenkénti mérlegelése, eldöntése a közreműködő épületgépész szakkonzulens hozzáértését igényli. A tetőn elhelyezett kollektorok hozzájárulhatnak a melegvíz-készítéshez és kiegészíthetik a fűtési rendszert is.
 
 <a id="E5_novenyzet"></a>
-## 5.15. A növényzet szerepe az intenzív beépítések esetében
+### 5.15. A növényzet szerepe az intenzív beépítések esetében
 
 — Novák Ágnes
 
@@ -4256,64 +4453,64 @@ A spontán módon kialakult zöldhomlokzatok (borostyánnal, repkénnyel befutta
 A zöldhomlokzatok tudatos alkalmazásával az utóbbi időben új eszközzel gazdagodott az építészeti tervezés kelléktára: vannak olyan példák, ahol a növényanyag különböző színeinek megválasztásával festői kompozíciót hoznak létre nagy kiterjedésű élőfalakon. Ilyenkor a botanikai ismeretekkel rendelkező kertészeti szakember nemcsak az épület környezetének kialakításához, hanem magának az épületnek a megtervezéséhez is nélkülözhetetlenné válik.
 
 <a id="Hetvegi_hazak"></a>
-# 6. Hétvégi házak, nyaralók
+## 6. Hétvégi házak, nyaralók
 
 <a id="E6_fejezet_temakore"></a>
-## 6.1. A fejezet témaköre
+### 6.1. A fejezet témaköre
 
 Ebben a fejezetben tárgyalt épületfajták időszakos lakhelyek, ezért valójában nem lakóházak. Akár lakóépületeknek is tekinthetők akkor, ha a lakásokra vonatkozó használati követelmények teljes körének eleget tesznek. Ilyenek lehetnek a nagyobb méretű nyaralók, amelyeknél a funkcióváltás is előfordul: lehet, hogy később állandó lakásként használják azokat. Újabban az is gyakori, hogy öreg falusi lakóházakat nyaraló céljára vásárolnak meg, és újítanak fel. A hétvégi házak használata legfeljebb néhány napra terjed, így azok méretei, felszereltsége jóval szerényebb lehet, mint amit állandó lakhelyeknél minimálisan elvárható, így azok semmiképp nem lakások. Nem vonható azonban éles határvonal a hétvégi házak és a nyaralók fogalma között, mint ahogyan a kisméretű hétvégi ház és az átmeneti hajlék fogalma között sem.
 
 A témakör átfed a szállás-jellegű épületfajtákkal, hiszen az erősen látogatott üdülőterületeken kisebb nyaralóépületek együttesét sokszor szállodaszerűen üzemeltetik (apartman-falvak). A több egységből álló, emeletes „társas üdülők” is közel állnak a szálloda jelleggel működtetett apartman-házakhoz. Ezeket itt nem tárgyaljuk részletesen.
 
 <a id="E6_torteneti_attekintes"></a>
-## 6.2. Történeti áttekintés
+### 6.2. Történeti áttekintés
 
-> **Megjegyzés**
->
-> Az időszakosan használt lakhelyek építésének története nagyon régi. A városi palotákban lakó főnemesek távolabbi nagybirtokain is volt kastély vagy udvarház, ahol több-kevesebb időt töltöttek, vadászatokat rendeztek.
->
-> Az alföldi tanya is „második otthon” volt eredeti formájában, mert a távoli mezővárosban lakó család munkabíró tagjai csak tavasztól őszig laktak a tanyán, a mezőgazdasági munkák időszakában. Később, a bérmunkásokat alkalmazó gazdag mezővárosi polgár tanyáját egyféle hétvégi pihenőházként is használta.
->
-> A mai értelemben vett nyaralók elterjedése a XIX. század közepétől kezdődött nálunk. A vagyonos városi polgárság kisebb-nagyobb birtokot vásárolt a városon kívüli területeken, és azon nyaralót építtetett magának. Ilyenek voltak kezdetben a budai hegyvidéken épült villák is, amint azt a 3.2. fejezetben említettük. Az állandó lakhely és az időszakos lakhely közötti távolságnak határt szabott a lófogattal való közlekedés sebessége. A vasúthálózat kiépülésével, majd a gépkocsizás elterjedésével a lakás és a nyaraló több tíz, vagy akár több száz kilométerre lehet egymástól.
->
-> A XIX. – XX. század fordulóján Magyarország akkori területén, főleg az Adriai-tenger és a Tátra vidékén, részben pedig Erdélyben alakulnak ki jelentős üdülőhelyek, és elindult a balatoni üdülőrégió fejlődése is. Az itteni települések belterületén szaporodtak az olyan nyaralóházak, amelyekhez már nem tartozik a teleknél nagyobb földterület. Ekkoriban még csak a vagyonosabb rétegek engedhették meg maguknak nyaraló építését, amelyek viszonylag nagy, igényes villák voltak.
->
-> A trianoni békeszerződés után a korábbi jelentős üdülőhelyek az országhatáron túlra kerültek. Ekkor vett lendületet a Balaton-környék fejlődése és új üdülőterületek kialakulása (Duna-kanyar, Velencei-tó). Ekkoriban még aránylag olcsón lehetett telket vásárolni, és a jobban fizetett tisztviselők, az átlagosnál magasabb jövedelmű kispolgárok fizetőképességéhez illeszkedő, kisméretű, de még jól lakható nyaralók, hétvégi házak szaporodtak el ezeken a területeken. (Ekkoriban kezdődött el a déli Balaton-part szinte teljes hosszát elfoglaló vízparti teleksor kialakulása, amely ma a fejlesztés egyik legnagyobb akadálya.)
->
-> A második világháború után, az ötvenes években a családi üdülők építése megtorpant: akinek telt is volna rá, jobbnak látta eltitkolni vagyoni helyzetét.
->
-> A hatvanas évek második felétől szinte robbanásszerűen nőtt a hétvégi házak építése iránti igény. Ennek oka bizonyára a mezőgazdaság „kollektivizálása”, a termőföld magántulajdonának megszüntetése. A mezőgazdaság gépesítésével feleslegessé vált falusi munkaerő a városokban épülő új lakótelepekre költözött, de a föld ösztönös szeretetét, a természettel való együttélés igényét nem tudta levetkőzni. Mindenáron igyekezett bármilyen kis földdarabot szerezni, ahová panellakásából elmenekülhet a hétvégeken. Másfelől, külterületi termőföldet vásárolni nem lehetett, de belterületi telket igen. Ez a tény az üdülőterületek településeinek vezetőit arra ösztönözte, hogy kiterjesszék a belterületek határait, a még meglévő tartalékföldeket vagy a belterületbe kerülő szövetkezeti földeket üdülőtelkekké parcellázzák és eladják. Ilymódon némi fejlesztési forráshoz jutottak a települések, de maguk a vezetők is jól jártak, mert a telkek elosztásánál családi vagy baráti körüket előnyben részesíthették. Mindezt a legfelső fórumok politikailag is ösztönözték, mert a hétvégi ház birtoklása (a panellakás és a Trabant gépkocsi mellett) a magyar, szocialista „jóléti modell” egyik jelképévé vált. „A Balaton mindenkié!” frázis is e folyamatot szentesítette. A telkek várható vásárlói körének korlátozott fizetőképessége miatt a telkek aprócskák, néhol a 200 m² nagyságot alig haladják meg. Ezeken szedett-vedett anyagokból összetákolt, apró házak épülnek nagy sűrűséggel, a környezet esztétikai minőségét tönkretéve. Az esztétikai szennyeződés elkerülésének szándékával jelentek meg ekkoriban a hétvégiház-típustervek, csekély hatásfokkal ([6.1. ábra](#abra_6_01)). A környezeti kár nemcsak a táj képében keletkezik: csatorna-közművet nélkülöző területek ilyen mérvű besűrűsödése nem kis mértékben volt oka a Balaton vízminőség-romlásának.
->
-> <a id="abra_6_01"></a>
->
-> ![Hétvégi ház típusterve a 60-as évekből](images/abra_6_01_tipusud.png)
->
-> *6.1. ábra – Hétvégi ház típusterve a 60-as évekből*
->
-> A települések belterületeinek határát a végtelenségig terjeszteni azonban nem lehetett, de bizonyos térségekben nem is lehetett indokolni üdülőövezetek kialakítását. E korlátokat lépték át a hetvenes években, a városkörnyéki „zárt kert” fogalmának bevezetésével, amellyel lehetővé vált külterületi termőföldek pár száz négyzetméteres hobbi-kertekké történő parcellázása. Ezek elvileg mezőgazdasági területek maradtak, de megengedték, hogy azokon kezdetben 12 m²-nél, majd később 30 m²-nél nem nagyobb „szerszám- és terméktároló” létesülhessen. Ezek a valóságban ugyancsak hétvégi házak lettek, de az alapterületi kötöttségek miatt néhol idétlenül magas, meredek tetőkkel, torz épületformákkal, rossz anyagokkal épültek meg. A mezőgazdasági rendeltetés hazugsága mentesítette a településeket a közműhálózat kiépítésétől is. Ennek ellenére, a tulajdonosok sok helyen elérték, hogy később vízvezeték- és elektromos hálózat létesüljön, és ma már egyre több „zártkerti építményt” használnak állandó lakásként, annak ellenére, hogy a terület infrastrukturális hálózata (pl. útjainak szélessége) teljesen alkalmatlan arra, hogy az lakó- vagy üdülőövezetté válhasson.
->
-> Az északi Balaton-part is ennek a folyamatnak esett áldozatául, ahol a dombok szőlőterületein egyre több hétvégi ház épült a régi présházak helyén, és a korábban csak a hegylábnál lévő beépítés a dombtető magasságáig ellepte a gyönyörű dombok vonulatát. A Hivatal ezt a folyamatot is tervpályázatokkal, típustervekkel igyekezett jó irányban befolyásolni, jobbára sikertelenül ([6.2. ábra](#abra_6_02)). Hasonló, féllegitim keretek között keletkeztek üdülőterületek a folyók hullámterein (jellemzően a Tisza mentén), ahol az építészeti káoszt csak fokozza, hogy a kisméretű bódék nyurga betonlábak tetején fityegnek az évente ismétlődő magas vízállás miatt.
->
-> <a id="abra_6_02"></a>
->
-> ![Szőlőhegyi nyaraló ajánlott terve. 1970-es évek](images/abra_6_02_ajnyaralo.png)
->
-> *6.2. ábra – Szőlőhegyi nyaraló ajánlott terve. 1970-es évek*
->
-> A politikai-gazdasági rendszer megváltozása ezeknek a környezetkárosító folyamatoknak véget vetett a 90-es években. A „zárt kert” fogalmát már korábban eltörölték, a földnek piaci ára lett, végre megkezdődött a Balaton-környéki üdülőterületek csatornázása, ahol építési engedélyt ma már csak teljes közművel ellátott telekre adnak ki. Emiatt a kiemelt üdülőterületek telekárai nagyon megemelkedtek: egy jó fekvésű balatoni telek ára ma már eléri vagy meghaladja egy nagyvárosi építési telek árát is. Ilyen értékű telken egy kisméretű hétvégi ház építése – amelynek építési költsége esetleg a telekár tört részét tenné ki – gazdasági abszurdum lenne.
->
-> A mezőgazdaság időszakos válsága miatt is csökken a falvak népessége, az ottani ingatlanárak alacsonyak. Egyre gyakoribb, hogy a tehetősebb városlakók szép természeti környezetben lévő falvakban vásárolnak maguknak házat vagy tanyát nyaraló céljára. Az északi Balaton-part mögötti völgyekben (pl. a Káli-medencében), a Vértes hegységben, a Tisza-menti falvakban stb. egyre több öreg parasztházat újítanak fel nyaraló céljára. Ez mindenképpen jó irányú folyamat, mert hátráltatja a falvak elhalását. A nyaralók tulajdonosai többnyire a városi értelmiség köréből kerülnek ki, és saját javukat is szolgálja, ha képzettségük és kapcsolataik révén elősegítik a falusi lakosság érdekérvényesítését hivatali és politikai fórumokon ([6.3. ábra](#abra_6_03)).
->
-> <a id="abra_6_03"></a>
->
-> ![Nyaralóépület falusi környezetben. (Tervező: U. Nagy Gábor)](images/abra_6_03_unagy.png)
->
-> *6.3. ábra – Nyaralóépület falusi környezetben. (Tervező: U. Nagy Gábor)*
+
+Az időszakosan használt lakhelyek építésének története nagyon régi. A városi palotákban lakó főnemesek távolabbi nagybirtokain is volt kastély vagy udvarház, ahol több-kevesebb időt töltöttek, vadászatokat rendeztek.
+
+Az alföldi tanya is „második otthon” volt eredeti formájában, mert a távoli mezővárosban lakó család munkabíró tagjai csak tavasztól őszig laktak a tanyán, a mezőgazdasági munkák időszakában. Később, a bérmunkásokat alkalmazó gazdag mezővárosi polgár tanyáját egyféle hétvégi pihenőházként is használta.
+
+A mai értelemben vett nyaralók elterjedése a XIX. század közepétől kezdődött nálunk. A vagyonos városi polgárság kisebb-nagyobb birtokot vásárolt a városon kívüli területeken, és azon nyaralót építtetett magának. Ilyenek voltak kezdetben a budai hegyvidéken épült villák is, amint azt a [3.2.](#E3_Torteneti_attekintes) fejezetben említettük. Az állandó lakhely és az időszakos lakhely közötti távolságnak határt szabott a lófogattal való közlekedés sebessége. A vasúthálózat kiépülésével, majd a gépkocsizás elterjedésével a lakás és a nyaraló több tíz, vagy akár több száz kilométerre lehet egymástól.
+
+A XIX. – XX. század fordulóján Magyarország akkori területén, főleg az Adriai-tenger és a Tátra vidékén, részben pedig Erdélyben alakulnak ki jelentős üdülőhelyek, és elindult a balatoni üdülőrégió fejlődése is. Az itteni települések belterületén szaporodtak az olyan nyaralóházak, amelyekhez már nem tartozik a teleknél nagyobb földterület. Ekkoriban még csak a vagyonosabb rétegek engedhették meg maguknak nyaraló építését, amelyek viszonylag nagy, igényes villák voltak.
+
+A trianoni békeszerződés után a korábbi jelentős üdülőhelyek az országhatáron túlra kerültek. Ekkor vett lendületet a Balaton-környék fejlődése és új üdülőterületek kialakulása (Duna-kanyar, Velencei-tó). Ekkoriban még aránylag olcsón lehetett telket vásárolni, és a jobban fizetett tisztviselők, az átlagosnál magasabb jövedelmű kispolgárok fizetőképességéhez illeszkedő, kisméretű, de még jól lakható nyaralók, hétvégi házak szaporodtak el ezeken a területeken. (Ekkoriban kezdődött el a déli Balaton-part szinte teljes hosszát elfoglaló vízparti teleksor kialakulása, amely ma a fejlesztés egyik legnagyobb akadálya.)
+
+A második világháború után, az ötvenes években a családi üdülők építése megtorpant: akinek telt is volna rá, jobbnak látta eltitkolni vagyoni helyzetét.
+
+A hatvanas évek második felétől szinte robbanásszerűen nőtt a hétvégi házak építése iránti igény. Ennek oka bizonyára a mezőgazdaság „kollektivizálása”, a termőföld magántulajdonának megszüntetése. A mezőgazdaság gépesítésével feleslegessé vált falusi munkaerő a városokban épülő új lakótelepekre költözött, de a föld ösztönös szeretetét, a természettel való együttélés igényét nem tudta levetkőzni. Mindenáron igyekezett bármilyen kis földdarabot szerezni, ahová panellakásából elmenekülhet a hétvégeken. Másfelől, külterületi termőföldet vásárolni nem lehetett, de belterületi telket igen. Ez a tény az üdülőterületek településeinek vezetőit arra ösztönözte, hogy kiterjesszék a belterületek határait, a még meglévő tartalékföldeket vagy a belterületbe kerülő szövetkezeti földeket üdülőtelkekké parcellázzák és eladják. Ilymódon némi fejlesztési forráshoz jutottak a települések, de maguk a vezetők is jól jártak, mert a telkek elosztásánál családi vagy baráti körüket előnyben részesíthették. Mindezt a legfelső fórumok politikailag is ösztönözték, mert a hétvégi ház birtoklása (a panellakás és a Trabant gépkocsi mellett) a magyar, szocialista „jóléti modell” egyik jelképévé vált. „A Balaton mindenkié!” frázis is e folyamatot szentesítette. A telkek várható vásárlói körének korlátozott fizetőképessége miatt a telkek aprócskák, néhol a 200 m² nagyságot alig haladják meg. Ezeken szedett-vedett anyagokból összetákolt, apró házak épülnek nagy sűrűséggel, a környezet esztétikai minőségét tönkretéve. Az esztétikai szennyeződés elkerülésének szándékával jelentek meg ekkoriban a hétvégiház-típustervek, csekély hatásfokkal ([6.1. ábra](#abra_6_01)). A környezeti kár nemcsak a táj képében keletkezik: csatorna-közművet nélkülöző területek ilyen mérvű besűrűsödése nem kis mértékben volt oka a Balaton vízminőség-romlásának.
+
+<a id="abra_6_01"></a>
+
+![Hétvégi ház típusterve a 60-as évekből](images/abra_6_01_tipusud.png)
+
+*6.1. ábra – Hétvégi ház típusterve a 60-as évekből*
+
+A települések belterületeinek határát a végtelenségig terjeszteni azonban nem lehetett, de bizonyos térségekben nem is lehetett indokolni üdülőövezetek kialakítását. E korlátokat lépték át a hetvenes években, a városkörnyéki „zárt kert” fogalmának bevezetésével, amellyel lehetővé vált külterületi termőföldek pár száz négyzetméteres hobbi-kertekké történő parcellázása. Ezek elvileg mezőgazdasági területek maradtak, de megengedték, hogy azokon kezdetben 12 m²-nél, majd később 30 m²-nél nem nagyobb „szerszám- és terméktároló” létesülhessen. Ezek a valóságban ugyancsak hétvégi házak lettek, de az alapterületi kötöttségek miatt néhol idétlenül magas, meredek tetőkkel, torz épületformákkal, rossz anyagokkal épültek meg. A mezőgazdasági rendeltetés hazugsága mentesítette a településeket a közműhálózat kiépítésétől is. Ennek ellenére, a tulajdonosok sok helyen elérték, hogy később vízvezeték- és elektromos hálózat létesüljön, és ma már egyre több „zártkerti építményt” használnak állandó lakásként, annak ellenére, hogy a terület infrastrukturális hálózata (pl. útjainak szélessége) teljesen alkalmatlan arra, hogy az lakó- vagy üdülőövezetté válhasson.
+
+Az északi Balaton-part is ennek a folyamatnak esett áldozatául, ahol a dombok szőlőterületein egyre több hétvégi ház épült a régi présházak helyén, és a korábban csak a hegylábnál lévő beépítés a dombtető magasságáig ellepte a gyönyörű dombok vonulatát. A Hivatal ezt a folyamatot is tervpályázatokkal, típustervekkel igyekezett jó irányban befolyásolni, jobbára sikertelenül ([6.2. ábra](#abra_6_02)). Hasonló, féllegitim keretek között keletkeztek üdülőterületek a folyók hullámterein (jellemzően a Tisza mentén), ahol az építészeti káoszt csak fokozza, hogy a kisméretű bódék nyurga betonlábak tetején fityegnek az évente ismétlődő magas vízállás miatt.
+
+<a id="abra_6_02"></a>
+
+![Szőlőhegyi nyaraló ajánlott terve. 1970-es évek](images/abra_6_02_ajnyaralo.png)
+
+*6.2. ábra – Szőlőhegyi nyaraló ajánlott terve. 1970-es évek*
+
+A politikai-gazdasági rendszer megváltozása ezeknek a környezetkárosító folyamatoknak véget vetett a 90-es években. A „zárt kert” fogalmát már korábban eltörölték, a földnek piaci ára lett, végre megkezdődött a Balaton-környéki üdülőterületek csatornázása, ahol építési engedélyt ma már csak teljes közművel ellátott telekre adnak ki. Emiatt a kiemelt üdülőterületek telekárai nagyon megemelkedtek: egy jó fekvésű balatoni telek ára ma már eléri vagy meghaladja egy nagyvárosi építési telek árát is. Ilyen értékű telken egy kisméretű hétvégi ház építése – amelynek építési költsége esetleg a telekár tört részét tenné ki – gazdasági abszurdum lenne.
+
+A mezőgazdaság időszakos válsága miatt is csökken a falvak népessége, az ottani ingatlanárak alacsonyak. Egyre gyakoribb, hogy a tehetősebb városlakók szép természeti környezetben lévő falvakban vásárolnak maguknak házat vagy tanyát nyaraló céljára. Az északi Balaton-part mögötti völgyekben (pl. a Káli-medencében), a Vértes hegységben, a Tisza-menti falvakban stb. egyre több öreg parasztházat újítanak fel nyaraló céljára. Ez mindenképpen jó irányú folyamat, mert hátráltatja a falvak elhalását. A nyaralók tulajdonosai többnyire a városi értelmiség köréből kerülnek ki, és saját javukat is szolgálja, ha képzettségük és kapcsolataik révén elősegítik a falusi lakosság érdekérvényesítését hivatali és politikai fórumokon ([6.3. ábra](#abra_6_03)).
+
+<a id="abra_6_03"></a>
+
+![Nyaralóépület falusi környezetben. (Tervező: U. Nagy Gábor)](images/abra_6_03_unagy.png)
+
+*6.3. ábra – Nyaralóépület falusi környezetben. (Tervező: U. Nagy Gábor)*
+
 
 <a id="E6_kialakitasa_meretezese"></a>
-## 6.3. A hétvégi házak, nyaralók tereinek kialakítása, méretezése
+### 6.3. A hétvégi házak, nyaralók tereinek kialakítása, méretezése
 
-Hétvégi házra általában kevesebbet szán(hat)nak a családok, mint lakásszerzésre, így annak alapterülete általában jóval kisebb, mint egy ugyanolyan férőhelyszámú lakásé. Igen rossz, de elég általános gyakorlat, hogy a kisméretű hétvégi házakat „lekicsinyített” családi háznak tekintik és azokhoz hasonló helyiségeket, térkapcsolási rendszereket alakítanak ki, de a kényelmetlenségig vagy használhatatlanságig csökkentett méretekkel. Az 1.2. fejezetben tárgyalt, egyes lakástevékenységek által igényelt térméretek az időszakos szálláshelyeknél vagy időszakos lakhelyeknél is érvényesek. Némi engedményt lehet tenni ésszerű határok között, mert a lakások tervezéséhez alkalmazott alapméretek mindig rendelkeznek bizonyos tartalékkal, de a kényelmetlenség vagy netán balesetveszély szintjéig csökkenteni ezeket nem szabad.
+Hétvégi házra általában kevesebbet szán(hat)nak a családok, mint lakásszerzésre, így annak alapterülete általában jóval kisebb, mint egy ugyanolyan férőhelyszámú lakásé. Igen rossz, de elég általános gyakorlat, hogy a kisméretű hétvégi házakat „lekicsinyített” családi háznak tekintik és azokhoz hasonló helyiségeket, térkapcsolási rendszereket alakítanak ki, de a kényelmetlenségig vagy használhatatlanságig csökkentett méretekkel. Az [1.2.](#E1_A_lakasterek_meretei) fejezetben tárgyalt, egyes lakástevékenységek által igényelt térméretek az időszakos szálláshelyeknél vagy időszakos lakhelyeknél is érvényesek. Némi engedményt lehet tenni ésszerű határok között, mert a lakások tervezéséhez alkalmazott alapméretek mindig rendelkeznek bizonyos tartalékkal, de a kényelmetlenség vagy netán balesetveszély szintjéig csökkenteni ezeket nem szabad.
 
 Alkalmasabb tervezési módszer, ha a lakástevékenységek teljes köréből elhagyjuk azokat, amelyek egy hétvégi ház vagy nyaraló esetében nem várhatók. Például, a [6.4. ábrán](#abra_6_04) látható, egy-egy éjszaka eltöltésére használt *átmeneti hajlék* (horgászkunyhó) esetében mindössze két használati követelménynek kell eleget tenni: az „alvás” és a „tárolás” térigényének. Minden más: pl. tisztálkodás, bográcsozás, étkezés, beszélgetés, poharazgatás stb. a külső térben történhet. Az építési költségekben alig érzékelhető változást jelentene, ha a fekhelyek méretét vagy a tér belmagasságát csökkentenénk, de a kis építmény kényelmetlenné válna, használati értékének csökkenése messze nem lenne arányos a költségmegtakarítással.
 
@@ -4323,7 +4520,7 @@ Alkalmasabb tervezési módszer, ha a lakástevékenységek teljes köréből el
 
 *6.4. ábra – Fiktív példa minimális hajlék (horgászkunyhó) méretezésére*
 
-*A hétvégi házaknál* hasonló elv érvényesíthető ([6.5. ábra](#abra_6_05)). A használat célja és időtartama nem indokolja az „egyéni tevékenységek” (otthoni szellemi munka, tanulás) tér- és eszköz-igényeinek teljesítését, ezért a *hálóhelyeket* kizárólag az „alvás” követelményei szerint elegendő méretezni. Alkalmazható emeletes ágy is, és az ágy melletti lerakó felület is elmaradhat. Az alvóhelyek közötti hangszigetelésnek sem kell olyan mértékűnek lennie, mint ami állandó lakásoknál elvárható. Ha arra kifejezett építtetői igény nincs, nem szükséges a szülői hálóknál szokásos iker-ágyelrendezést biztosítani. Ha a fűthető hétvégi házat hideg időben is használják, amikor nyitott ablaknál aludni nem lehet, az ajtóval zárt hálóhelyek térfogatát ne csökkentsük a 15 m3/fő alá, vagy azok legyenek nagyobb, közvetlen természetes szellőzéssel rendelkező térrel (nappalival) légtérben összenyithatók (lásd 1.5.2. fejezet).
+*A hétvégi házaknál* hasonló elv érvényesíthető ([6.5. ábra](#abra_6_05)). A használat célja és időtartama nem indokolja az „egyéni tevékenységek” (otthoni szellemi munka, tanulás) tér- és eszköz-igényeinek teljesítését, ezért a *hálóhelyeket* kizárólag az „alvás” követelményei szerint elegendő méretezni. Alkalmazható emeletes ágy is, és az ágy melletti lerakó felület is elmaradhat. Az alvóhelyek közötti hangszigetelésnek sem kell olyan mértékűnek lennie, mint ami állandó lakásoknál elvárható. Ha arra kifejezett építtetői igény nincs, nem szükséges a szülői hálóknál szokásos iker-ágyelrendezést biztosítani. Ha a fűthető hétvégi házat hideg időben is használják, amikor nyitott ablaknál aludni nem lehet, az ajtóval zárt hálóhelyek térfogatát ne csökkentsük a 15 m³/fő alá, vagy azok legyenek nagyobb, közvetlen természetes szellőzéssel rendelkező térrel (nappalival) légtérben összenyithatók (lásd [1.5.2.](#E1_Szellozes) fejezet).
 
 <a id="abra_6_05"></a>
 
@@ -4359,16 +4556,18 @@ A *nyaralók* tervezésénél is a fentihez hasonló gondolatmenet érvényesül
 
 Általában, a takarékossági szempontok sem indokolják a kényelmetlenségig szűkös méretezést.
 
-> **Megjegyzés**
->
-> Ha például egy 50 m²-nyi alapterületű nyaraló nappali terét 5 m²-rel növeljük, az 55 m²-es változat költségnövekménye nem 10%-os, hanem annál lényegesen kisebb. A költséges tételek: a telekár, a közműcsatlakozás és a telken belüli vezetékhálózat, az épületgépészeti felszereltség, a nyílászárók száma, jellege mind a kisebb, mind a nagyobb változatnál ugyanannyiba kerülnek, ezért a tágasabb változat fajlagos m²-ára lényegesen kevesebb lesz.
+::: note
 
-Az üdülőterületekre indokoltan előírt alacsony beépítési százalék mellett a nyaraló területét sokszor a szűkös telekméret korlátozza. Ez az üdülőterületek szabályozási tervét készítő szakemberek felelőssége. Általában nincs értelme apró telkek kialakításának, akkor sem, ha azok teljes közművel vannak ellátva. A kis egységekre aprózott területek közműhálózata sűrű, kiépítése a telek területi egységére vetítve költséges, amely költség a telekárban megjelenik. A drága telekre épített szűkös nyaraló használati értéke nem áll arányban a teljes létesítési költséggel (lásd még a 6.4. fejezetet.)
+Ha például egy 50 m²-nyi alapterületű nyaraló nappali terét 5 m²-rel növeljük, az 55 m²-es változat költségnövekménye nem 10%-os, hanem annál lényegesen kisebb. A költséges tételek: a telekár, a közműcsatlakozás és a telken belüli vezetékhálózat, az épületgépészeti felszereltség, a nyílászárók száma, jellege mind a kisebb, mind a nagyobb változatnál ugyanannyiba kerülnek, ezért a tágasabb változat fajlagos m²-ára lényegesen kevesebb lesz.
+:::
+
+
+Az üdülőterületekre indokoltan előírt alacsony beépítési százalék mellett a nyaraló területét sokszor a szűkös telekméret korlátozza. Ez az üdülőterületek szabályozási tervét készítő szakemberek felelőssége. Általában nincs értelme apró telkek kialakításának, akkor sem, ha azok teljes közművel vannak ellátva. A kis egységekre aprózott területek közműhálózata sűrű, kiépítése a telek területi egységére vetítve költséges, amely költség a telekárban megjelenik. A drága telekre épített szűkös nyaraló használati értéke nem áll arányban a teljes létesítési költséggel (lásd még a [6.4.](#E6_beepitesi_modok) fejezetet.)
 
 Tehetős építtetők számára tervezett nyaralók területe elérheti vagy meg is haladhatja egy kényelmes családi ház alapterületét. Mégsem helyes azokat olyanra tervezni, mint egy lakóházat. A nyaralóba, a „második otthonba” kikapcsolódni járnak, ezért az határozottan és karakteresen különbözzön a városi lakástól. A szabadság idején igényelt természetközeli, lezserebb élet, az egyénies üdülési szokások, akár egyéni hobbik szerint, sokszor játékosan alakított belső terek, a természeti környezethez harmonikusan illeszkedő tömegformák, egyszerű, természetes anyagokból képzett külső épületelemek adhatnak ellazulásra ösztönző, sajátosan nyaraló jelleget az épületnek.
 
 <a id="E6_beepitesi_modok"></a>
-## 6.4. Hétvégi házak és nyaralók beépítési módjai, épületfajtái
+### 6.4. Hétvégi házak és nyaralók beépítési módjai, épületfajtái
 
 A hétvégi ház vagy nyaraló létesítésének indítéka vagy az, hogy a városi lakása mellől hiányzó kertet legalább hétvégeken pótolja a használójának, lehetőleg szép természeti környezetben; vagy csupán az, hogy tulajdonosa valamilyen szép kirándulóhely, horgászhely, fürdőhely gyalogosan elérhető közelében tölthesse szabadságát. Bár az üdülőterületek általában valamilyen, pihenésre alkalmas, vonzó természeti adottság (hegyvidék, tó, folyó) környezetében vannak, az is lehetséges, hogy mesterségesen kiépített fürdőhely közelében alakítanak ki üdülőterületeket (pl. Hajdúszoboszló, Balf, Bükfürdő stb.).
 
@@ -4376,7 +4575,7 @@ Az „Országos Településrendezési és Építési Követelmények” üdülő
 
 Üdülőházas terület *melynek épületei „... túlnyomóan változó üdülői kör hosszabb tartózkodására szolgálnak.” A helyi szabályozási terv itt akár a 10 m-es építménymagasságot is megengedheti, amely többszintes, szabadon álló üdülőszállókra, panziókra jellemző. Ilyen övezetben létesíthetők többszintes, többegységes* társasüdülők *annak a használói körnek, amely nem a saját kertet igényli, hanem a fürdőhely közelségét. Leggyakoribb ezeknél a külsőfolyosós elrendezés. Az üdülőházas területen is létesíthetők családi üdülők szabadon álló, oldalhatáron álló, és csoportos beépítési módban. A telkek csak teljes közművesítettség esetén építhetők be.*
 
-*Hétvégi házas terület* a családi üdülők jellemző területe. A most érvényes OTÉK szerint ezen legfeljebb két üdülőegységet tartalmazó épület létesíthető szabadon álló, oldalhatáron álló vagy ikres beépítési módban. Csoportos beépítést a helyi építési szabályzat megengedheti vagy előírhatja, de ez csak közművesített területen lehetséges. Egyébként a telkek részleges közművesítés mellett (közcsatorna nélkül) is beépíthetők, ha a helyi szabályozási tervnek az üdülőövezetre vonatkozó előírásai azt megengedik. Kisméretű telkek esetén azonban a közcsatorna hiánya rendkívül környezetkárosító lehet, mert a telkenként elhelyezett szennyvíz-ülepítő és szivárogtató berendezések olyan közelségbe kerülnek, hogy a talaj biológiai tisztítóképessége szinte hatástalanná válik (lásd még a 2.4. fejezetet).
+*Hétvégi házas terület* a családi üdülők jellemző területe. A most érvényes OTÉK szerint ezen legfeljebb két üdülőegységet tartalmazó épület létesíthető szabadon álló, oldalhatáron álló vagy ikres beépítési módban. Csoportos beépítést a helyi építési szabályzat megengedheti vagy előírhatja, de ez csak közművesített területen lehetséges. Egyébként a telkek részleges közművesítés mellett (közcsatorna nélkül) is beépíthetők, ha a helyi szabályozási tervnek az üdülőövezetre vonatkozó előírásai azt megengedik. Kisméretű telkek esetén azonban a közcsatorna hiánya rendkívül környezetkárosító lehet, mert a telkenként elhelyezett szennyvíz-ülepítő és szivárogtató berendezések olyan közelségbe kerülnek, hogy a talaj biológiai tisztítóképessége szinte hatástalanná válik (lásd még a [2.4.](#E2_kozmuvesites_laksuruseg) fejezetet).
 
 A [6.7.a. ábra](#abra_6_07) olyan, fiktív telekosztást mutat, amely az OTÉK mellékletében közölt példa alsó határértékeinek betartásával készült (360 m²-es telekterület, 15%-os beépítettség). Az úthálózat rendkívül sűrű, a területet a kerítések agyonszabdalják, ezért természetes zöldkörnyezet kialakulásának nincs esélye, a házak közelsége miatt a kerthasználat vizuális zavartalansága sem biztosítható. Az egész környezet – mint számos példa mutatja a valóságban – egy „lekicsinyített falu” bizarr képét adja.
 
@@ -4393,15 +4592,17 @@ Az üdülőházak (hétvégi házak, nyaralók) körében csaknem minden épüle
 Az üdülőház birtoklását nem lehet valamilyen, szociális szempontból elismerhető szükségletnek tekinteni, ami a széles néprétegek által elérhető, olcsó üdülőtelkek kínálatának növelését indokolná. Ellenkezőleg: a valóságos társadalmi érdek éppen a nemzeti közkincsnek számító, értékes tájak eredeti szépségének megőrzése. Ezért csak üdvözölhető, hogy nagyobb, új üdülőterületek alakítása az utóbbi évtizedekben szinte teljesen megszűnt, és a családi üdülők inkább aprófalvakban, tanyás térségekben létesülnek.
 
 <a id="E6_off_grid"></a>
-## 6.5. Hálózaton kívüli (Off-grid) nyaralóépületek, természetközeli megoldások
+### 6.5. Hálózaton kívüli (Off-grid) nyaralóépületek, természetközeli megoldások
 
 — Novák Ágnes
 
-> **Megjegyzés**
->
-> A városi értelmiség körében egyre többen vannak, akik a környezettudatosságot mindennapjaikban is érvényesítik. A szép természeti környezetben lévő aprófalvas vagy tanyás térségekben létesült (régi házból átalakított vagy újonnan épített) családi nyaralók tulajdonosai – akik között újabban sok nyugat-európai család is van – épp a természetközelség, a nagyvárosi életformából való kikapcsolódás miatt választják ezeket a helyeket. Ez a motiváció – szerencsére – a hagyományos, visszaforgatható, természetes építőanyagok és építési módszerek alkalmazását is ösztönzi. E térségekben azonban rendkívül alacsony a közművesítettség szintje, lehet, hogy még a vezetékes ivóvízellátás és elektromos hálózat is hiányzik. Ilyenkor kerülnek előtérbe az un. „off-grid” megoldások.
->
-> — Bitó János
+::: note
+
+A városi értelmiség körében egyre többen vannak, akik a környezettudatosságot mindennapjaikban is érvényesítik. A szép természeti környezetben lévő aprófalvas vagy tanyás térségekben létesült (régi házból átalakított vagy újonnan épített) családi nyaralók tulajdonosai – akik között újabban sok nyugat-európai család is van – épp a természetközelség, a nagyvárosi életformából való kikapcsolódás miatt választják ezeket a helyeket. Ez a motiváció – szerencsére – a hagyományos, visszaforgatható, természetes építőanyagok és építési módszerek alkalmazását is ösztönzi. E térségekben azonban rendkívül alacsony a közművesítettség szintje, lehet, hogy még a vezetékes ivóvízellátás és elektromos hálózat is hiányzik. Ilyenkor kerülnek előtérbe az un. „off-grid” megoldások.
+
+— Bitó János
+:::
+
 
 Az időszakos – és főleg nyári – használatú épületek esetében a szükséges energia biztosítására kiváló szolgálatot tesz a legegyszerűbb kialakítású napkollektor a zuhanyozáshoz, fűtéshez pedig a tavaszi és őszi időszakokban a fatüzelésű kályha. A kerti sütő-főző berendezés mellett egy fatüzelésű tűzhely is alkalmas nemcsak főzésre, hanem esetleg gyümölcs feldolgozásra, lekvár készítésére is.
 
@@ -4424,18 +4625,20 @@ Az alomszékek, száraz toalettek megfelelőségének egyik legfontosabb kritér
 A hétvégi házban, nyaralóban a kikapcsolódást az aktív időtöltés is segíti. A fenti alternatív megoldások ösztönöznek a kreatív hozzáállásra, amely által az „ökológiai lábnyom” is csökkenthető.
 
 <a id="LAKASALLOMANY"></a>
-# 7. A lakásállomány fenntartása és fejlesztése
+## 7. A lakásállomány fenntartása és fejlesztése
 
 <a id="E7_lakohazak_fenntartasa"></a>
-## 7.1. A lakóházak fenntartása
+### 7.1. A lakóházak fenntartása
 
 A lakóépületek idővel elhasználódnak, állaguk elöregszik. Ez a folyamat a *fizikai évülés.*
 
 Az általánosan elfogadott lakáshasználati módok idővel megváltoznak, újszerű igények keletkeznek, az új lakások felszereltsége fejlettebb lesz, és egyre emelkedik az elfogadhatónak ítélt lakáshasználati színvonal alsó határértéke. Egy adott időszak hivatalosan rögzített vagy társadalmi közmegegyezéssel elfogadott normái szerint kialakított lakás évtizedek múlva már nem képes eleget tenni az akkor általános elvárásoknak. Ez a folyamat az *erkölcsi évülés*.
 
-> **Megjegyzés**
->
-> A huszadik század elején épült, az akkori normáknak és tömeges igényeknek megfelelő szoba-konyhás, komfortnélküli városi lakások vagy a csak külső árnyékszékkel rendelkező családi házak ma már az ország lakáskészletének legalacsonyabb minőségű szegmensét képviselik. Ilyenekre ma már nem adnak építési engedélyt.
+::: note
+
+A huszadik század elején épült, az akkori normáknak és tömeges igényeknek megfelelő szoba-konyhás, komfortnélküli városi lakások vagy a csak külső árnyékszékkel rendelkező családi házak ma már az ország lakáskészletének legalacsonyabb minőségű szegmensét képviselik. Ilyenekre ma már nem adnak építési engedélyt.
+:::
+
 
 A fizikai elévülés műszaki beavatkozásokkal késleltethető. A folyamatos karbantartás során a helyiségeket, nyílászárókat és más épület-alkatrészeket időnként átfestik, az egyes épületszerkezetek, berendezések meghibásodásait kijavítják, egyes elemeit kicserélik.
 
@@ -4461,22 +4664,26 @@ A lakóházak és a lakások erkölcsi évültsége megkérdőjelezheti a felúj
 
 A felújítás során nyerhető értéknövekmény nagyságát előnyösen befolyásolja a lakások flexibilitása.
 
-> **Megjegyzés**
->
-> (A lakás helyiségeinek időszakonkénti átalakításával már a korai modern lakáselméletek is számoltak. Ez az egyik indoka a Le Corbusier által javasolt pillérvázas szerkezetnek. Mies van der Rohe tervezett olyan lakást, amelynek szerelhető válaszfalait a család létszámának növekedése szerint időről-időre át lehetett volna rendezni. Az átrendezés ilyen gyakorisága túlzott feltételezésnek bizonyult, de arra nagyobb időintervallumokban valóságos igény van.)
+::: note
+
+(A lakás helyiségeinek időszakonkénti átalakításával már a korai modern lakáselméletek is számoltak. Ez az egyik indoka a Le Corbusier által javasolt pillérvázas szerkezetnek. Mies van der Rohe tervezett olyan lakást, amelynek szerelhető válaszfalait a család létszámának növekedése szerint időről-időre át lehetett volna rendezni. Az átrendezés ilyen gyakorisága túlzott feltételezésnek bizonyult, de arra nagyobb időintervallumokban valóságos igény van.)
+:::
+
 
 Már az építés idején is kedvező az épület tartószerkezeteinek olyan kialakítása (pl. pillérvázas szerkezet) amely rugalmas keretet nyújt egy lakástípus különféle változatainak létrehozásához, hogy a beköltöző lakó meg tudja választani a számára legkedvezőbbet. A nagyfelújítások alkalmával akár teljesen új lakáselrendezés is kialakítható, megfelelően flexibilis alapszerkezet esetén akár funkcióváltás is történhet.
 
 <a id="E7_lakokornyezet_felujitasa"></a>
-## 7.2. A lakókörnyezet értéknövelő felújítása
+### 7.2. A lakókörnyezet értéknövelő felújítása
 
 Az erkölcsi évülés nemcsak a lakásokat, lakóházakat érinti, hanem azok környezetét is. Gyakran épp a lakókörnyezet erkölcsi évülése az ottani lakásállomány értékvesztésének a forrása. A századfordulón épült, zártudvaros pesti bérházak alsó szintjein lévő udvari lakások korszerűsítésére költött pénz megtérülése kétséges, ha azok továbbra is sötétek, szellőzetlenek maradnak. Gyakori, hogy a sűrű beépítésű, igen szűk utcákkal tagolt negyedekbe nem költöznek a jobb fizetőképességű rétegek a parkolóhelyek hiánya miatt, ugyanis a gépkocsitartás életformájukhoz tartozik. Gyermekeket nevelő családokat a zöldfelületek hiánya riasztja vissza a zsúfolt beépítésű városrészbe való költözéstől. A lakáspiac mozgásai azt mutatják, hogy a lakásárakat – amelyek végső soron a felújításra fordított beruházás megtérülési hatásfokát is jelzik – főleg a konkrét területi elhelyezkedés befolyásolja.
 
 A lakókörnyezet erkölcsi évülésének következményei akkor a legszembetűnőbbek, ha típusos formában, nagyobb területi egységre terjednek ki. Ez olyankor áll elő, ha bizonyos lakóterületek egy időben, vagy viszonylag rövid időszak alatt épültek be azonos jelleggel, ezért azonos tüneteket mutatva egyszerre is évülnek el. Ez a helyzet Pest belső kerületeinél, de sok más ország metropoliszainak egyes kerületeiben is.
 
-> **Megjegyzés**
->
-> Az erkölcsileg avult lakókörnyezet lepusztulása öngerjesztő folyamat: az elavult, az átlagosnál rosszabb lakhatási körülményeket nyújtó környezet miatt a lakásárak (lakbérek) alacsonyak, emiatt az egyes lakóházak felújításához, korszerűsítéséhez szükséges tőke nem térül meg, így a felújítások elmaradnak. Az egyre romló állagú lakások árai vagy a bérleti díjai tovább csökkennek, ezért alacsony jövedelmű rétegek költöznek oda a társadalom perifériájáról. Ezek körében gyakori a deviáns magatartás, a romló közbiztonság távol tartja a fizetőképes rétegek megtelepedését: kialakul a „slum” a vele járó szociálpatológiai jelenségekkel együtt. New York egyik közismert slumja, a Harlem negyed elegáns környéknek számított újkorában. A magyar nagyvárosokban – szerencsére – még nem alakultak ki hasonlók, de a folyamat egyes szakértők jelzései szerint Pest egyes részein már elindult.
+::: note
+
+Az erkölcsileg avult lakókörnyezet lepusztulása öngerjesztő folyamat: az elavult, az átlagosnál rosszabb lakhatási körülményeket nyújtó környezet miatt a lakásárak (lakbérek) alacsonyak, emiatt az egyes lakóházak felújításához, korszerűsítéséhez szükséges tőke nem térül meg, így a felújítások elmaradnak. Az egyre romló állagú lakások árai vagy a bérleti díjai tovább csökkennek, ezért alacsony jövedelmű rétegek költöznek oda a társadalom perifériájáról. Ezek körében gyakori a deviáns magatartás, a romló közbiztonság távol tartja a fizetőképes rétegek megtelepedését: kialakul a „slum” a vele járó szociálpatológiai jelenségekkel együtt. New York egyik közismert slumja, a Harlem negyed elegáns környéknek számított újkorában. A magyar nagyvárosokban – szerencsére – még nem alakultak ki hasonlók, de a folyamat egyes szakértők jelzései szerint Pest egyes részein már elindult.
+:::
+
 
 A beteg városszövetek megújítására két, ellentétes előjelű módszer alkalmazható. Lehetséges, hogy a lepusztult épületekből a lakókat bizonyos lakáspiaci stratégiákkal kiköltöztetik, és viszonylag nagy terület épületállagát teljes egészében lebontják. Ezáltal kiterjedt, összefüggő területet nyernek egy nagyobb lélegzetű lakásberuházás megvalósításához. A kimetszett településszövet helyére implantátum kerül (ez a *„városrekonstrukció”*). E drasztikus, igen tőkeigényes, de egyszerűen végrehajtható módszer az érintett városrész folyamatos fejlődésének megszakításával, az eredeti településkarakter és az általa örökített kulturális értékek teljes felszámolásával jár.
 
@@ -4491,7 +4698,7 @@ A lakókörnyezet értéknövelő felújításának másik, az előzővel ellent
 Röviden: ha nem egyes lakások, hanem egy lakóterületi egység *lakásállományának* fenntartásáról beszélünk, akkor a folyamatos karbantartásnak, értéknövelő felújításnak a *lakókörnyezetre* is ki kell terjednie folyamatos lakóterület-fejlesztés és – szükség esetén – nagyobb lélegzetű lakóterület-rehabilitáció formájában.
 
 <a id="E7_orszag_lakasallomanya"></a>
-## 7.3. Az ország lakásállományának fenntartása és fejlesztése
+### 7.3. Az ország lakásállományának fenntartása és fejlesztése
 
 Magyarország a mostani ezredfordulón kereken 4 millió lakással rendelkezett. Ez az érték a tízmilliós népességszámmal összevetve kielégítőnek tűnik, bár Európa fejlettebb országainak színvonala alatt maradt. Látszólagos lakásfelesleget is mutat az a tény, hogy a lakáskészlet 6%-ában a felmérés idején nem laktak. A lakásállományban azonban *szükségképpen* kell lennie éppen üres lakásoknak, mert könnyű belátni, hogy 100%-os telítettség esetén – ha egyetlen üres, beköltözhető lakás sem lenne az állományban – megszűnne a lakásmobilitás, és nem működhetne a lakáspiac.
 
@@ -4505,51 +4712,59 @@ Az ország lakásállományának *minősége* nem homogén, és sohasem lehet az
 
 Az erkölcsileg és fizikailag egyaránt elévült lakóházakat lebontják, azokat „lakáselhullásként” könyvelik el a statisztikák. Nem pozitív jelenség, ha a lakáselhullás mértéke aránytalanul kicsiny, mert azt jelzi, hogy a fizikai állaguk és használati színvonaluk alapján bontásra érett házakat továbbra is lakják. Például, a korábban hivatkozott felmérés a lakásállomány 25%-ában vályogfalat mutatott ki ([7.1.d. diagram](#abra_7_01)). Tudjuk, hogy a szigeteletlen vályogfalat annak idején nem „környezetbarát” megfontolásból építették, hanem azért, mert csak arra tellett, és már akkor is alacsony lakásminőséggel járt együtt. A lakásállománynak ebben a szegmensében bizonyára rengeteg olyan lakásegység van, amelynek használati színvonala mélyen a mai normák alatt marad, és hosszabb távon történő fenntartása aligha lehetséges vagy kívánatos.
 
-A lakásállomány minőségére utalnak a felmérésnek a szobaszámára utaló adatai ([7.1.b. diagram](#abra_7_01)). Ha a fekhely nélküli nappaliszoba-használatot tekintenénk általános normának, akkor lakásállományunk 59%-a két férőhelyesnek minősíthető (lásd 1.6. fejezet). Ez az arány a lakásállomány egyfajta erkölcsi évültségét jelzi.
+A lakásállomány minőségére utalnak a felmérésnek a szobaszámára utaló adatai ([7.1.b. diagram](#abra_7_01)). Ha a fekhely nélküli nappaliszoba-használatot tekintenénk általános normának, akkor lakásállományunk 59%-a két férőhelyesnek minősíthető (lásd [1.6.](#E1_A_lakasterek_kapcsolatrendszere_lakaskompozicio) fejezet). Ez az arány a lakásállomány egyfajta erkölcsi évültségét jelzi.
 
-> **Megjegyzés**
->
-> A [7.1.a.](#abra_7_01) és a [7.1.b.](#abra_7_01) diagram összevetése azt a látszatot kelti, hogy a lakások szobaszáma és a háztartások létszáma között nincs is nagy disszonancia, hiszen az 1-2 szobás lakások 59%-os részarányával az 1-2 fős háztartások 54%-os aránya állítható szembe. A statisztikai adatok összevetése azonban mindig *átlagos* értéket eredményez. Amikor a statisztikai felmérés azt mutatja ki, hogy egy vizsgált lakáscsoport együttes férőhelyszáma és a használók együttes létszáma azonos, ez azt jelenti, hogy a lakásokban a férőhelyszámnak megfelelő létszámú háztartás él, *átlagosan.* Tehát a lakások egyik részében az átlagosnál kevesebben laknak, a másik részében az átlagosnál *többen*. Vagyis a lakások tekintélyes hányada zsúfoltnak mondható, ha a fekhely nélküli nappali szobát általános normának tekintjük.
->
-> — Bitó János
+::: note
 
-> **Megjegyzés**
->
-> A múlt század második felében épült lakótelepeken a zömmel kétszobás lakások átlagos területe 54 m², a történelmi belső városrészekben a 30 m² körüli egyszobás lakások találhatók nagy arányban és kevesebb többszobás lakás. A családi házak között a 80-90 m² körüli kétszobás „kockaház” uralja a vidéket. Nem nagyon színesíti a képet az utóbbi évtizedekben épült lakóparkok lakásállománya, ahol a lehetséges elérhető haszonmaximálás érdekében a szűk alapterületek váltak jellemzővé.
->
-> Európai átlagban a lakások alapterületének növekedése figyelhető meg, annak ellenére, hogy az egy háztartásban élők száma csökken. (Az EU–ban 2001-2003 között épült lakások átlagos alapterülete 80-125 m² között alakult, holott az átlagos háztartások létszáma 2003-ban már 2,4 főre csökkent.)
->
-> Nálunk a nyolcvanas évek végéig, még az 54-63 m² kétszobás lakásokat is 4 főre tervezték. Mára éles szakadék kezd kialakulni az úgynevezett szubsztandard és a magas minőségű lakások között. Az egy főre jutó lakásterület alakulása kimutatja, hogy a lakásszám évtizedeken át történő növekedése – miközben a szubsztandard lakások nagy részét nem bontották le – segítette az egyre kisebb létszámú háztartások kényelmesebb lakhatását. Mára a korábban 4 főre tervezett lakások kényelmesebb otthont jelentenek a kétfős háztartásokban élőknek (kialakulhat a fekhelymentes nappali). Ez egyben azt is jelenti, hogy a lakások belső kialakításában mindig bizonyos rugalmasságra kell törekedni. Új jelenség az egyfős háztartások számarányának növekedése és a nagyobb alapterületű lakások tervezése a kevesebb számú, de még bőven megtalálható 4-5 fős háztartások számára.
->
-> Az a jelenség, hogy a lakások kevésbé zsúfoltan lakottak, és az általános lakáskörülmények javultak, egyúttal hátrányos is lehet, mivel egy-egy környék ezzel párhuzamosan elöregszik, kiürül. Ez beavatkozás nélkül általános leromláshoz vezethet, hiszen a vásárlóerő is távozik a fiatalabb generációval együtt. Ezért egyre fontosabb a vegyes lakásállomány létrehozása annak érdekében, hogy egy nagyobb épületbe vagy nagyobb szomszédsági területre vegyes életkorú és élethelyzetű családok kerüljenek, ezzel megelőzve az egyszerre történő kiürülést vagy elöregedést.
->
-> Az új lakások építése során a társadalmi fenntarthatóság érdekében az összetett és változatos lakóépületek, lakóterületek kialakítása a cél. Új jelenség az egy fős háztartások számának nagyarányú növekedése minden korosztályban, illetve az egyszülős vagy mozaikcsaládok növekvő száma is. Ez azt jelenti, hogy a lakások alapterületi választéka és változatos funkcionális kialakítása egyre fontosabb lehet az új építés során, hiszen a meglevő lakásállomány az alapterület vonatkozásában elég egyhangú képet mutat.
->
-> — Novák Ágnes
+A [7.1.a.](#abra_7_01) és a [7.1.b.](#abra_7_01) diagram összevetése azt a látszatot kelti, hogy a lakások szobaszáma és a háztartások létszáma között nincs is nagy disszonancia, hiszen az 1-2 szobás lakások 59%-os részarányával az 1-2 fős háztartások 54%-os aránya állítható szembe. A statisztikai adatok összevetése azonban mindig *átlagos* értéket eredményez. Amikor a statisztikai felmérés azt mutatja ki, hogy egy vizsgált lakáscsoport együttes férőhelyszáma és a használók együttes létszáma azonos, ez azt jelenti, hogy a lakásokban a férőhelyszámnak megfelelő létszámú háztartás él, *átlagosan.* Tehát a lakások egyik részében az átlagosnál kevesebben laknak, a másik részében az átlagosnál *többen*. Vagyis a lakások tekintélyes hányada zsúfoltnak mondható, ha a fekhely nélküli nappali szobát általános normának tekintjük.
+
+— Bitó János
+:::
+
+
+::: note
+
+A múlt század második felében épült lakótelepeken a zömmel kétszobás lakások átlagos területe 54 m², a történelmi belső városrészekben a 30 m² körüli egyszobás lakások találhatók nagy arányban és kevesebb többszobás lakás. A családi házak között a 80-90 m² körüli kétszobás „kockaház” uralja a vidéket. Nem nagyon színesíti a képet az utóbbi évtizedekben épült lakóparkok lakásállománya, ahol a lehetséges elérhető haszonmaximálás érdekében a szűk alapterületek váltak jellemzővé.
+
+Európai átlagban a lakások alapterületének növekedése figyelhető meg, annak ellenére, hogy az egy háztartásban élők száma csökken. (Az EU–ban 2001-2003 között épült lakások átlagos alapterülete 80-125 m² között alakult, holott az átlagos háztartások létszáma 2003-ban már 2,4 főre csökkent.)
+
+Nálunk a nyolcvanas évek végéig, még az 54-63 m² kétszobás lakásokat is 4 főre tervezték. Mára éles szakadék kezd kialakulni az úgynevezett szubsztandard és a magas minőségű lakások között. Az egy főre jutó lakásterület alakulása kimutatja, hogy a lakásszám évtizedeken át történő növekedése – miközben a szubsztandard lakások nagy részét nem bontották le – segítette az egyre kisebb létszámú háztartások kényelmesebb lakhatását. Mára a korábban 4 főre tervezett lakások kényelmesebb otthont jelentenek a kétfős háztartásokban élőknek (kialakulhat a fekhelymentes nappali). Ez egyben azt is jelenti, hogy a lakások belső kialakításában mindig bizonyos rugalmasságra kell törekedni. Új jelenség az egyfős háztartások számarányának növekedése és a nagyobb alapterületű lakások tervezése a kevesebb számú, de még bőven megtalálható 4-5 fős háztartások számára.
+
+Az a jelenség, hogy a lakások kevésbé zsúfoltan lakottak, és az általános lakáskörülmények javultak, egyúttal hátrányos is lehet, mivel egy-egy környék ezzel párhuzamosan elöregszik, kiürül. Ez beavatkozás nélkül általános leromláshoz vezethet, hiszen a vásárlóerő is távozik a fiatalabb generációval együtt. Ezért egyre fontosabb a vegyes lakásállomány létrehozása annak érdekében, hogy egy nagyobb épületbe vagy nagyobb szomszédsági területre vegyes életkorú és élethelyzetű családok kerüljenek, ezzel megelőzve az egyszerre történő kiürülést vagy elöregedést.
+
+Az új lakások építése során a társadalmi fenntarthatóság érdekében az összetett és változatos lakóépületek, lakóterületek kialakítása a cél. Új jelenség az egy fős háztartások számának nagyarányú növekedése minden korosztályban, illetve az egyszülős vagy mozaikcsaládok növekvő száma is. Ez azt jelenti, hogy a lakások alapterületi választéka és változatos funkcionális kialakítása egyre fontosabb lehet az új építés során, hiszen a meglevő lakásállomány az alapterület vonatkozásában elég egyhangú képet mutat.
+
+— Novák Ágnes
+:::
+
 
 Az 1-2 szobás lakások felé nálunk kedvezőtlenül eltolódott arány ellenére, az ezredforduló körül épített városi lakóházak igen nagy számban tartalmaztak egészen kicsiny, egyszobás garzonlakásokat, mert erre volt legnagyobb a piaci kereslet. E jelenség azonban nem a lakástípus különös társadalmi preferenciáját, hanem a lakáskereslet fizetőképességének alacsony színvonalát jelzi. A lakáspiaci konjunktúra súlypontjai rövid idő alatt áthelyeződnek, de egy-egy időszakban épült lakások több évtizedre, akár évszázadra szólóan befolyásolják egy adott városrész vagy az ország lakáskészletének minőségét. Ezért is van szükség állami vagy önkormányzati beavatkozásra a lakáspiacon, hogy különféle preferenciákkal, szubvenciókkal ellensúlyozzák azokat a nem kívánatos hatásokat, amelyeket a piac „tiszta” működési mechanizmusa okoz.
 
-> **Megjegyzés**
->
-> Mivel az épített környezetet a nyersanyagok kitermelése, a gyártás, a közművesítés és az építés folyamata évtizedekre esetleg évszázadokra meghatározza, ezért a lakások létrehozása nem tekinthető egyszerű piaci folyamatnak. A lakás különleges termék, hiszen több generáció számára nyújt használati értéket, és alapvetően meghatározza a mindennapi életet az egész épített környezetben, így azok életét is, akik nem benne laknak.
->
-> A lakás különleges termék azért is, mert a lakhatás a fejlett társadalmakban a megfelelő táplálkozás után a legfontosabb emberi igény, hiszen a többi tevékenység (családi kapcsolatok, társas kapcsolatok, szórakozás, pihenés, részben a munka, létfenntartás, fajfenntartás) számára biztosít teret, ezért a lakásépítés közpénzekkel történő támogatása jó eszköz a településpolitika és a társadalompolitika kezében. Bár a posztkommunista országokban az urbanizáció félig sikerült gyermekei (a nagylakótelepek) és a piacgazdaság első szülöttei (lakóparkok) a lakáskérdésre egyszerűsített választ adtak, mára világos, hogy amennyiben a települések a fenntarthatóság szempontjait komolyan érvényesítik, úgy a fenntartható lakásállomány kialakításában lehet szavuk.
->
-> A lakások létrejöttéhez a legtöbb esetben közvetetten vagy közvetlenül közpénz is szükséges (utak, közművek fejlesztése, a területen a szociális és egyéb ellátások biztosítása) ezért elengedhetetlen, hogy a közpénz megfelelő hasznosulása érdekében bizonyos szabályokat alkossanak a lakás helyiségei, az anyaghasználat és az üzemeltetés megfelelő szintjének kontrollálására. A kontroll eszközei: az OTÉK, az egyedi településrendezési előírások, az energetikai követelmények, az esztétikai követelmények, míg a támogatás eszközei lehetnek pénzügyi eszközök (közvetlen támogatások, kölcsöntámogatás) vagy egyéb módok: pl. közművesítettség biztosítása, megfelelő tájékoztatás, információk, tervek, megoldási javaslatok kidolgozása.
->
-> — Novák Ágnes
+::: note
+
+Mivel az épített környezetet a nyersanyagok kitermelése, a gyártás, a közművesítés és az építés folyamata évtizedekre esetleg évszázadokra meghatározza, ezért a lakások létrehozása nem tekinthető egyszerű piaci folyamatnak. A lakás különleges termék, hiszen több generáció számára nyújt használati értéket, és alapvetően meghatározza a mindennapi életet az egész épített környezetben, így azok életét is, akik nem benne laknak.
+
+A lakás különleges termék azért is, mert a lakhatás a fejlett társadalmakban a megfelelő táplálkozás után a legfontosabb emberi igény, hiszen a többi tevékenység (családi kapcsolatok, társas kapcsolatok, szórakozás, pihenés, részben a munka, létfenntartás, fajfenntartás) számára biztosít teret, ezért a lakásépítés közpénzekkel történő támogatása jó eszköz a településpolitika és a társadalompolitika kezében. Bár a posztkommunista országokban az urbanizáció félig sikerült gyermekei (a nagylakótelepek) és a piacgazdaság első szülöttei (lakóparkok) a lakáskérdésre egyszerűsített választ adtak, mára világos, hogy amennyiben a települések a fenntarthatóság szempontjait komolyan érvényesítik, úgy a fenntartható lakásállomány kialakításában lehet szavuk.
+
+A lakások létrejöttéhez a legtöbb esetben közvetetten vagy közvetlenül közpénz is szükséges (utak, közművek fejlesztése, a területen a szociális és egyéb ellátások biztosítása) ezért elengedhetetlen, hogy a közpénz megfelelő hasznosulása érdekében bizonyos szabályokat alkossanak a lakás helyiségei, az anyaghasználat és az üzemeltetés megfelelő szintjének kontrollálására. A kontroll eszközei: az OTÉK, az egyedi településrendezési előírások, az energetikai követelmények, az esztétikai követelmények, míg a támogatás eszközei lehetnek pénzügyi eszközök (közvetlen támogatások, kölcsöntámogatás) vagy egyéb módok: pl. közművesítettség biztosítása, megfelelő tájékoztatás, információk, tervek, megoldási javaslatok kidolgozása.
+
+— Novák Ágnes
+:::
+
 
 A lakásállomány társadalmi hasznosságát nagymértékben befolyásolja annak *területi eloszlása* ([7.1.e. diagram](#abra_7_01)). A területi eloszlás és az ország egyes régióinak gazdasági vitalitása között összefüggés van. A gazdaságilag fellendülő térségek munkaerő-szükséglete az ottani lakáskeresletet növeli, míg a gazdaságilag elmaradott térségekben lakáskínálat áll elő. Ez a jelenség jól kimutatható a lakásárakban: egyes, gazdasági jelentőségüket vesztett városokban a lakások szinte eladhatatlanok; a gazdaságilag degradálódott, városoktól távol eső falvakban nagy házat lehet venni egy budapesti garzonlakás áráért. Minthogy a lakásfenntartásba (felújításba) történő befektetés megtérülése az ingatlanárakkal összefügg, az országos lakásállomány – mint nemzeti vagyon – fenntartásának gazdasági feltételeit igen kedvezőtlenül befolyásolja, ha a munkaerőpiac keresleti oldalának és a lakáspiac kínálati oldalának területi eloszlása nagyon különbözik. Az elmaradott térségek lakásállományának degradálódása a fejlettebb régiókban teremt lakáshiányt. Egyes területekre jellemző iparágak időszakos konjunktúráját vagy dekonjunktúráját követi a munkaerő-szükségletek – lakásigények – állandó területi átrendeződése. A munkaerő mozgását nálunk az is hátráltatja, hogy a 90-es évek privatizációs hullámának következtében európai léptékben egyedülállóan kicsi lett a bérlakások aránya: mindössze a lakásállomány 8%-a (fejlettebb európai országokban ez 30-40%).
 
 A lakásállomány állapota és a gazdasági fejlődés közötti, nyilvánvaló összefüggés miatt a lakásépítés közpénzből való támogatása nem tekinthető csupán a társadalmi szolidaritás megnyilvánulásának. A lakásépítés támogatására szánt közpénz nemzetgazdasági léptékben az általános jólétet fellendítő befektetés is.
 
-> **Megjegyzés**
->
-> A támogatások csökkenése miatt a 90-es években drasztikusan visszaesett lakásépítési ütem sokak szerint menthető azzal, hogy a lakáshiány immár megszűnt, lévén valamivel több a lakás, mint ahány háztartást felmértek a népszámlálás során.
->
-> A múlt század második felének „szocialista” lakásépítési terveit megalapozó ideológiákban állandóan hangoztatott cél volt a „mennyiségi lakáshiány” felszámolása, amit majd a „minőségi lakáshiány” felszámolása követ, amíg ki nem alakul egy ideális egyensúlyi állapot. Ezek szerint a mennyiségi lakáshiány akkor szűnne meg, ha a lakások száma eléri vagy meghaladja a lakásra jogosult háztartások számát, a minőségi hiány pedig akkor, ha minden háztartás létszámának megfelelő nagyságú és megfelelő minőségű lakásban él.
->
-> E frazeológia könnyűszerrel cáfolható. A lakásállomány mennyisége is minőségi kérdés, mert attól függ, hogy milyen minőségi kritériumok alapján tekintünk egy objektumot lakásnak a felmérés során. A lakásállományban minőségi különbségek mindig lesznek annak eltérő korösszetétele miatt is, és mindig lesz olyan része az állománynak, amely az *akkori* minőségi kritériumokat már nem teljesíti. Ezeket elbontják, így az állomány mennyisége csökken, ha nem épülnek az elhullást pótló új lakások. Egyensúlyi állapot soha nem alakulhat ki.
+::: note
+
+A támogatások csökkenése miatt a 90-es években drasztikusan visszaesett lakásépítési ütem sokak szerint menthető azzal, hogy a lakáshiány immár megszűnt, lévén valamivel több a lakás, mint ahány háztartást felmértek a népszámlálás során.
+
+A múlt század második felének „szocialista” lakásépítési terveit megalapozó ideológiákban állandóan hangoztatott cél volt a „mennyiségi lakáshiány” felszámolása, amit majd a „minőségi lakáshiány” felszámolása követ, amíg ki nem alakul egy ideális egyensúlyi állapot. Ezek szerint a mennyiségi lakáshiány akkor szűnne meg, ha a lakások száma eléri vagy meghaladja a lakásra jogosult háztartások számát, a minőségi hiány pedig akkor, ha minden háztartás létszámának megfelelő nagyságú és megfelelő minőségű lakásban él.
+
+E frazeológia könnyűszerrel cáfolható. A lakásállomány mennyisége is minőségi kérdés, mert attól függ, hogy milyen minőségi kritériumok alapján tekintünk egy objektumot lakásnak a felmérés során. A lakásállományban minőségi különbségek mindig lesznek annak eltérő korösszetétele miatt is, és mindig lesz olyan része az állománynak, amely az *akkori* minőségi kritériumokat már nem teljesíti. Ezeket elbontják, így az állomány mennyisége csökken, ha nem épülnek az elhullást pótló új lakások. Egyensúlyi állapot soha nem alakulhat ki.
+:::
+
 
 Ha a lakóépületek élettartamára becsült időt 100 évnek fogadjuk el (nincs ok, hogy ezt ne tegyük), és egyenletes kor szerinti elosztást feltételezünk a lakásállományban, akkor évente legalább a lakásállomány 1%-át kitevő új lakás építésére van szükség, csupán az elbontott volumen pótlására. E képlet azonban nem érvényesül ilyen sematikusan, és az évente építeni kívánatos lakásszám a mondott értéknél lényegesen nagyobb. A lakáselhullást növeli a lakásigények területi átrendeződése is, valamint az, hogy az általános lakáshasználati színvonal emelkedésével egyre szigorúbb lesz a teljes erkölcsi évültséget kimondó, társadalmi közmegegyezéssel kialakított norma. Az ország lakásállományának fenntartása és fejlesztése nemcsak a meglévő lakások folyamatos karbantartását és időnkénti értéknövelő felújítását jelenti, hanem kellő számú új lakás építését is.
 

@@ -40,11 +40,22 @@ Az XML-ekben megmaradt régi képútvonalak archivált hivatkozások. A korábbi
 DocBook JPG/PNG exportok többszörös másolatai nem részei a repónak; a webes
 kiadás ellenőrzött képei a `sources/images/` mappában vannak.
 
-A Markdown szerkezeti konvenciói közvetlenül tükrözik a könyvet: az első három
-címszint kerül a tartalomjegyzékbe, a `####` szint a „KÖVETELMÉNYEK ÉS
-AJÁNLÁSOK” blokkok címe, a szerzői sorok pedig `— Teljes név` alakú önálló
-bekezdések. A `> **Megjegyzés**`, illetve `> **Note**` kezdetű idézetblokkok
-megjegyzésként jelennek meg.
+A Markdown szerkezeti konvenciói közvetlenül tükrözik a könyvet: egyetlen `#`
+szintű könyvcímet követnek a `##` főfejezetek, a `###` alfejezetek és a `####`
+alszakaszok; ezek kerülnek a tartalomjegyzékbe. A `#####` szint a
+„KÖVETELMÉNYEK ÉS AJÁNLÁSOK” blokkok címe. A szerzői sorok `— Teljes név`
+alakú önálló bekezdések. Minden megjegyzés félreérthetetlenül lezárt blokk:
+
+```md
+::: note
+A megjegyzés szövege.
+:::
+```
+
+A builder ezen kívül bekezdést, félkövér és dőlt kiemelést, hivatkozást,
+egyszerű rendezett és rendezetlen listát, képet képaláírással, idézetblokkot és
+vízszintes elválasztót kezel. Összetett vagy beágyazott Markdown-szerkezetet
+csak a builder bővítése és új teszt után szabad a mesterekbe írni.
 
 A fejléc HU / EN váltója a megfelelő fejezetre vagy ábrára visz. Ha egy elem
 csak az egyik kiadásban szerepel, a legközelebbi közös szülőfejezet a célpont.
@@ -72,9 +83,12 @@ frissülnek, a `sources/images/` fájljai pedig változatlanok maradnak. A
 
 ## Forráshűség és szerkesztői ügyek
 
-Az angol kiadás a kapott fordítás szövegét őrzi, nem a magyar mester új fordítása.
+Az angol kiadás alapja a kapott fordítás; az XML ezt az eredeti állapotot
+változatlanul őrzi, a Markdownban pedig a dokumentált szerkezeti, nyelvi és
+szerkesztői javítások készülnek. Az angol Abstract a magyar Kivonat fordítása.
 Az eredeti angol forrás 201 ábrát tartalmazott; a magyar mesterből pótolt 11
-ábrahellyel a kész magyar és angol kiadásban egyaránt 212 könyvábra szerepel.
+ábrahely és az egyedi eredeti PDF-ekből helyreállított további hat ábra után a
+kész magyar és angol kiadásban egyaránt 218 könyvábra szerepel.
 A két oldal ugyanazokat a képfájlokat használja. A képekbe rajzolt magyar
 feliratok megmaradnak; az angol képaláírások angolok. Részletek:
 `audit/english_import.md`.
@@ -84,7 +98,15 @@ Markdown metaadatainak 5.59. ábrára vonatkozó `MISSING` jelzése elavult: a k
 már megvan. A nappálya-ábrák eredeti 3.14 / 3.15 / 3.16 számozási eltérését és
 az 5.31. magyar képaláírás kettős ábraszámát az `audit/xml_comparison_2026-09-16.md`
 részletezi. A szakmai szöveget és az eredeti fordítást nem modernizáljuk automatikusan.
+A Claude-féle felülvizsgálat minden tételének állapota az
+`audit/claude_review_triage.md` fájlban követhető.
 
-Az angol importot a `build/import_english.py` dokumentálja. A rendes build nem
-futtatja; szükség esetén a `--force` kapcsolóval reprodukálható, a további
-szerkesztés helye pedig a két Markdown-mester.
+A webes kiadás nem telepíthető PWA, ezért nem használ webmanifestet. A build a
+`dist/images/` mappába csak a két Markdown-mesterben ténylegesen hivatkozott
+képeket másolja; az archivált vagy szerkesztői döntésre váró képek a
+`sources/images/` mappában és a helyi workbenchben továbbra is elérhetők.
+
+A `build/import_english.py` a kezdeti angol rekonstrukció történeti,
+függőségmentes segédeszköze. A rendes build nem futtatja, és a már szerkesztett
+angol mestert nem írhatja felül. A publikáció kizárólagos szerkesztési forrásai
+a két Markdown-mester; az XML-ek változatlan ellenőrző archívumok.

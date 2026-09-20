@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Recreate the English Markdown from its consolidated archival DocBook.
+"""Historical one-time reconstruction of English Markdown from archival DocBook.
 
-Requires only Python's standard library. Refuses to overwrite the English master.
-Not part of the regular build. See audit/english_import.md.
+Requires only Python's standard library. It never overwrites the edited English
+master, which is now the publication source of truth. Not part of the regular
+build. See audit/english_import.md.
 """
 from __future__ import annotations
 
@@ -10,7 +11,6 @@ import hashlib
 import html
 import json
 import re
-import sys
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -161,12 +161,15 @@ def add_supplemental_figures(markdown):
 
 def main():
     destination = SOURCES / 'lakokonyv_en.md'
-    if destination.exists() and '--force' not in sys.argv:
-        raise SystemExit('English master already exists; edit it directly instead of re-importing.')
+    if destination.exists():
+        raise SystemExit(
+            'English master already exists and is the edited source of truth; '
+            'edit it directly instead of re-importing.'
+        )
     hu = (SOURCES / 'lakokonyv.md').read_text(encoding='utf-8')
     plain_hu = re.sub(r'^> ?', '', hu, flags=re.M)
     hu_figures = dict(re.findall(r'<a id="(abra_[^"]+)"></a>\s*!\[[^\]]*\]\(([^)]+)\)', plain_hu))
-    assert len(hu_figures) == 212, len(hu_figures)
+    assert len(hu_figures) >= 212, len(hu_figures)
     headings = {}
     pending = None
     for line in hu.splitlines():

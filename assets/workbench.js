@@ -1,7 +1,24 @@
 (function () {
   "use strict";
   var key = "lakokonyv-image-layout";
-  var saved = JSON.parse(localStorage.getItem(key) || "{}"), layout = Object.assign({}, window.LAYOUT_DATA, saved);
+  var store = {
+    get: function () {
+      try { return window.localStorage.getItem(key); }
+      catch (error) { return null; }
+    },
+    set: function (value) {
+      try { window.localStorage.setItem(key, value); }
+      catch (error) { /* The current session can still be used and exported. */ }
+    },
+    remove: function () {
+      try { window.localStorage.removeItem(key); }
+      catch (error) { /* Nothing else to reset. */ }
+    }
+  };
+  var saved = {};
+  try { saved = JSON.parse(store.get() || "{}"); }
+  catch (error) { saved = {}; }
+  var layout = Object.assign({}, window.LAYOUT_DATA, saved);
   var grid = document.getElementById("image-grid");
 
   function settingFor(file) {
@@ -18,7 +35,7 @@
     var invert = card.querySelector(".invert-control input");
     function save() {
       layout[item.file] = { width: Number(input.value), invert: invert.checked };
-      localStorage.setItem(key, JSON.stringify(layout));
+      store.set(JSON.stringify(layout));
     }
     input.addEventListener("input", function () {
       output.value = input.value + "%";
@@ -32,7 +49,7 @@
   window.IMAGE_DATA.forEach(renderImage);
   document.getElementById("reset-all").addEventListener("click", function () {
     layout = {};
-    localStorage.removeItem(key);
+    store.remove();
     location.reload();
   });
   document.getElementById("export-layout").addEventListener("click", function () {

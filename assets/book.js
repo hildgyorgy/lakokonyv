@@ -1,6 +1,17 @@
 (function () {
   "use strict";
 
+  var store = {
+    get: function (key) {
+      try { return window.localStorage.getItem(key); }
+      catch (error) { return null; }
+    },
+    set: function (key, value) {
+      try { window.localStorage.setItem(key, value); }
+      catch (error) { /* Preferences remain available for this page view. */ }
+    }
+  };
+
   var toc = document.querySelector(".toc");
   var article = document.querySelector(".book-content");
   var header = document.querySelector(".site-header");
@@ -95,7 +106,7 @@
 
   var picker = document.querySelector(".color-picker");
   if (picker) {
-    var storedColor = localStorage.getItem("lakokonyv-accent-color-v3");
+    var storedColor = store.get("lakokonyv-accent-color-v3");
     var swatches = picker.querySelectorAll(".color-swatch");
     var storedColorAvailable = Array.prototype.some.call(swatches, function (swatch) {
       return storedColor && swatch.dataset.color.toLowerCase() === storedColor.toLowerCase();
@@ -103,7 +114,7 @@
     if (!storedColorAvailable) storedColor = null;
     function setAccent(color) {
       document.documentElement.style.setProperty("--accent", color);
-      localStorage.setItem("lakokonyv-accent-color-v3", color);
+      store.set("lakokonyv-accent-color-v3", color);
       swatches.forEach(function (swatch) {
         swatch.classList.toggle("is-selected", swatch.dataset.color.toLowerCase() === color.toLowerCase());
       });
@@ -116,11 +127,11 @@
 
   var alignmentPicker = document.querySelector(".alignment-picker");
   if (alignmentPicker) {
-    var storedAlignment = localStorage.getItem("lakokonyv-text-alignment-v1") || "left";
+    var storedAlignment = store.get("lakokonyv-text-alignment-v1") || "left";
     var alignmentOptions = alignmentPicker.querySelectorAll(".alignment-option");
     function setAlignment(alignment) {
       document.querySelector(".book-content").classList.toggle("text-justified", alignment === "justify");
-      localStorage.setItem("lakokonyv-text-alignment-v1", alignment);
+      store.set("lakokonyv-text-alignment-v1", alignment);
       alignmentOptions.forEach(function (option) {
         option.classList.toggle("is-selected", option.dataset.alignment === alignment);
       });
@@ -143,6 +154,20 @@
     function (heading) { return links[heading.id]; }
   );
   var visible = new Set();
+
+  function setBranch(button, open) {
+    var branch = document.getElementById(button.getAttribute("aria-controls"));
+    if (!branch) return;
+    button.setAttribute("aria-expanded", String(open));
+    button.setAttribute("aria-label", (open ? button.dataset.closeLabel : button.dataset.openLabel) + ": " + button.dataset.title);
+    branch.hidden = !open;
+  }
+
+  toc.querySelectorAll(".toc-branch-toggle").forEach(function (button) {
+    button.addEventListener("click", function () {
+      setBranch(button, button.getAttribute("aria-expanded") !== "true");
+    });
+  });
 
   function preloadAhead(heading) {
     var images = Array.prototype.filter.call(
@@ -176,10 +201,11 @@
     });
 
     var activeLink = links[heading.id];
-    var details = activeLink.closest("details");
-    while (details) {
-      details.open = true;
-      details = details.parentElement.closest("details");
+    var item = activeLink.closest(".toc-item");
+    while (item) {
+      var button = item.querySelector(":scope > .toc-row > .toc-branch-toggle");
+      if (button) setBranch(button, true);
+      item = item.parentElement.closest(".toc-item");
     }
   }
 

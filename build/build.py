@@ -7,6 +7,7 @@ import json
 import re
 import shutil
 import struct
+import unicodedata
 from functools import lru_cache
 from collections import Counter
 from html.parser import HTMLParser
@@ -22,6 +23,13 @@ IMAGE_RE = re.compile(r"!\[([^]]*)\]\(([^)]+)\)")
 LINK_RE = re.compile(r"(?<!!)\[([^]]+)\]\(([^)]+)\)")
 ANCHOR_RE = re.compile(r'<a\s+id="([^"]+)"\s*></a>')
 ARTICLE_SPACE_RE = re.compile(r"(?<!\w)([Aa]z?) (?=\S)")
+
+
+def heading_id(title: str) -> str:
+    """Create a stable ASCII heading ID without dropping accented letters."""
+    normalized = unicodedata.normalize("NFKD", title)
+    ascii_title = "".join(char for char in normalized if not unicodedata.combining(char))
+    return "heading-" + re.sub(r"[^a-z0-9]+", "-", ascii_title.lower()).strip("-")
 
 
 @lru_cache(maxsize=None)
@@ -70,6 +78,8 @@ def inline(text: str, language: str = "hu") -> str:
         f'<a href="{html.escape(m.group(2), quote=True)}">{inline(m.group(1), language)}</a>'), text)
     text = re.sub(r"<sup>([^<]+)</sup>", lambda m: stash("<sup>" + html.escape(m.group(1)) + "</sup>"), text)
     text = html.escape(text, quote=False)
+    # Resolve combined emphasis before the individual bold and italic rules.
+    text = re.sub(r"\*\*\*(.+?)\*\*\*", r"<strong><em>\1</em></strong>", text)
     text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
     text = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"<em>\1</em>", text)
     text = re.sub(r"`([^`]+)`", r"<code>\1</code>", text)
@@ -96,7 +106,12 @@ def parse_frontmatter(text: str) -> tuple[dict[str, str], str]:
     return metadata, text[end + 4:].lstrip("\n")
 
 
-def render_markdown(text: str, layout: dict | None = None, language: str = "hu") -> tuple[str, str, set[str]]:
+def render_markdown(
+    text: str,
+    layout: dict | None = None,
+    language: str = "hu",
+    wrap_sections: bool = True,
+) -> tuple[str, str, set[str]]:
     format_inline = lambda value: inline(value, language)
     lines = text.splitlines()
     output: list[str] = []
@@ -105,6 +120,10 @@ def render_markdown(text: str, layout: dict | None = None, language: str = "hu")
     i = 0
     pending_anchor: str | None = None
     pending_heading_credit = False
+    title_header_open = wrap_sections and '<a id="book_title"></a>' in text
+    section_levels: list[int] = []
+    if title_header_open:
+        output.append('<header class="book-title">')
     while i < len(lines):
         line = lines[i]
         anchor_match = ANCHOR_RE.fullmatch(line.strip())
@@ -128,14 +147,26 @@ def render_markdown(text: str, layout: dict | None = None, language: str = "hu")
         if (m := HEADING_RE.match(line)):
             level, title = len(m.group(1)), m.group(2)
             anchor = pending_anchor
-            if anchor is None and level <= 3:
-                anchor = "heading-" + re.sub(r"[^a-z0-9]+", "-", title.lower()).strip("-")
+            if anchor is None and level <= 4:
+                anchor = heading_id(title)
             if anchor:
                 anchors.add(anchor)
             pending_anchor = None
             id_attr = f' id="{html.escape(anchor, quote=True)}"' if anchor else ""
+            if wrap_sections and level == 2 and title_header_open:
+                output.append('</header>')
+                title_header_open = False
+            if wrap_sections and 2 <= level <= 4 and anchor:
+                while section_levels and section_levels[-1] >= level:
+                    output.append('</section>')
+                    section_levels.pop()
+                output.append(
+                    f'<section class="book-section level-{level}" '
+                    f'aria-labelledby="{html.escape(anchor, quote=True)}">'
+                )
+                section_levels.append(level)
             output.append(f'<h{level}{id_attr}>{format_inline(title)}</h{level}>')
-            if level <= 3:
+            if level <= 4:
                 toc.append((level, anchor, title))
             pending_heading_credit = True
             i += 1
@@ -147,19 +178,36 @@ def render_markdown(text: str, layout: dict | None = None, language: str = "hu")
             i += 1
             continue
         pending_heading_credit = False
+        if line.strip() in {"---", "*"}:
+            css_class = ' class="ornamental-break"' if line.strip() == "*" else ""
+            output.append(f"<hr{css_class}>")
+            i += 1
+            continue
+        if line.strip() == "::: note":
+            i += 1
+            block: list[str] = []
+            while i < len(lines) and lines[i].strip() != ":::":
+                block.append(lines[i])
+                i += 1
+            if i >= len(lines):
+                raise ValueError("Unclosed ::: note block")
+            i += 1
+            nested, _nested_toc, nested_anchors = render_markdown(
+                "\n".join(block), layout, language, wrap_sections=False
+            )
+            output.append(f'<aside class="note">{nested}</aside>')
+            anchors.update(nested_anchors)
+            continue
         if line.startswith(">"):
             block: list[str] = []
             while i < len(lines) and (lines[i].startswith(">") or not lines[i].strip()):
-                if lines[i].startswith(">"):
-                    block.append(re.sub(r"^> ?", "", lines[i]))
-                else:
-                    block.append("")
+                block.append(re.sub(r"^> ?", "", lines[i]) if lines[i].startswith(">") else "")
                 i += 1
-            note = block and block[0].strip() in {"**Megjegyzés**", "**Note**"}
-            body = "\n".join(block[1:] if note else block)
-            nested, _nested_toc, nested_anchors = render_markdown(body, layout, language)
-            tag = "aside class=\"note\"" if note else "blockquote"
-            output.append(f"<{tag}>{nested}</{tag.split()[0]}>")
+            body = "\n".join(block)
+            nested, _nested_toc, nested_anchors = render_markdown(
+                body, layout, language, wrap_sections=False
+            )
+            output.append(f"<blockquote>{nested}</blockquote>")
             anchors.update(nested_anchors)
             continue
         if re.match(r"^\s*[-*+]\s+", line) or re.match(r"^\s*\d+[.)]\s+", line):
@@ -202,7 +250,8 @@ def render_markdown(text: str, layout: dict | None = None, language: str = "hu")
                 invert = False
             style_attr = f' style="--figure-width: {int(width)}%"' if width else ""
             image_class = ' class="dark-invert"' if invert else ""
-            output.append(f'<figure{figure_id}><img{image_class}{style_attr}{image_size_attributes(src)} src="{html.escape(src, quote=True)}" alt="{html.escape(m.group(1), quote=True)}" loading="lazy">{f"<figcaption>{caption}</figcaption>" if caption else ""}</figure>')
+            alt = "" if caption else html.escape(m.group(1), quote=True)
+            output.append(f'<figure{figure_id}><img{image_class}{style_attr}{image_size_attributes(src)} src="{html.escape(src, quote=True)}" alt="{alt}" loading="lazy">{f"<figcaption>{caption}</figcaption>" if caption else ""}</figure>')
             pending_anchor = None
             i += 1
             continue
@@ -212,15 +261,24 @@ def render_markdown(text: str, layout: dict | None = None, language: str = "hu")
             paragraph.append(lines[i]); i += 1
         paragraph_text = " ".join(paragraph)
         output.append(f"<p>{format_inline(paragraph_text)}</p>")
+    if wrap_sections:
+        while section_levels:
+            output.append('</section>')
+            section_levels.pop()
+        if title_header_open:
+            output.append('</header>')
     toc_html = build_toc([
         entry for entry in toc
-        if entry[2] not in {"Lakóépületek tervezése", "Kivonat", "Housing design", "Abstract"}
+        if entry[1] not in {
+            "book_title",
+            "front_contributors", "front_abstract", "editorial_note",
+        }
     ], language)
     return "\n".join(output), toc_html, anchors
 
 
 def build_toc(entries: list[tuple[int, str, str]], language: str = "hu") -> str:
-    """Turn a flat heading list into nested, native HTML details controls."""
+    """Turn a flat heading list into a nested navigation tree."""
     root: list[dict] = []
     stack: list[tuple[int, list[dict]]] = [(-1, root)]
     for level, anchor, title in entries:
@@ -244,15 +302,30 @@ def build_toc(entries: list[tuple[int, str, str]], language: str = "hu") -> str:
             link_class = "toc-link"
         return f'<a class="{link_class}" href="#{html.escape(node["anchor"], quote=True)}">{content}</a>'
 
+    branch_number = 0
+    expand_label = "Szakasz kibontása" if language == "hu" else "Expand section"
+    collapse_label = "Szakasz bezárása" if language == "hu" else "Collapse section"
+
     def render(nodes: list[dict]) -> str:
+        nonlocal branch_number
         items = []
         for node in nodes:
             link = render_link(node)
             children = render(node["children"])
             if children:
-                items.append(f'<li><details><summary>{link}</summary>{children}</details></li>')
+                branch_number += 1
+                child_id = f"toc-branch-{branch_number}"
+                title = html.escape(node["title"], quote=True)
+                button = (
+                    f'<button class="toc-branch-toggle" type="button" aria-expanded="false" '
+                    f'aria-controls="{child_id}" aria-label="{expand_label}: {title}" '
+                    f'data-open-label="{expand_label}" data-close-label="{collapse_label}" '
+                    f'data-title="{title}"><span aria-hidden="true">▶</span></button>'
+                )
+                children = children.replace("<ol>", f'<ol id="{child_id}" hidden>', 1)
+                items.append(f'<li class="toc-item has-children"><div class="toc-row">{button}{link}</div>{children}</li>')
             else:
-                items.append(f"<li>{link}</li>")
+                items.append(f'<li class="toc-item"><div class="toc-row"><span class="toc-spacer" aria-hidden="true"></span>{link}</div></li>')
         return "<ol>" + "".join(items) + "</ol>" if items else ""
 
     return render(root)
@@ -266,14 +339,17 @@ class PageInventory(HTMLParser):
         self.references = []
         self.resources = []
         self.locations = []
+        self.in_article = False
         self.feed(page)
 
     def handle_starttag(self, tag, attributes):
         attrs = dict(attributes)
+        if tag == "article":
+            self.in_article = True
         ident = attrs.get("id")
         if ident:
             self.ids.append(ident)
-            if tag in {"h1", "h2", "h3", "h4", "h5", "h6", "figure"}:
+            if self.in_article and tag in {"h1", "h2", "h3", "h4", "h5", "h6", "figure"}:
                 self.locations.append((tag, ident))
         for key in ("href", "src"):
             value = attrs.get(key, "")
@@ -281,6 +357,10 @@ class PageInventory(HTMLParser):
                 self.references.append(value[1:])
             elif value and ":" not in value and not value.startswith("//"):
                 self.resources.append(value.split("#", 1)[0])
+
+    def handle_endtag(self, tag):
+        if tag == "article":
+            self.in_article = False
 
     def validate(self, name: str):
         duplicates = [key for key, count in Counter(self.ids).items() if count > 1]
@@ -316,7 +396,17 @@ def main() -> None:
         missing_images = sorted({path for _, path in images if not (SOURCE / path).is_file()})
         if missing_images:
             raise ValueError(f"{filename}: missing images: {missing_images}")
-        values = dict(locales[language], language=language, title=metadata["title"])
+        values = dict(
+            locales[language],
+            language=language,
+            title=metadata["title"],
+            author=metadata.get("author") or metadata.get("authors", "Bitó János"),
+            canonical_url=(
+                "https://hildgyorgy.github.io/lakokonyv/"
+                if language == "hu"
+                else "https://hildgyorgy.github.io/lakokonyv/index_en.html"
+            ),
+        )
         values["hu_current"] = 'aria-current="page"' if language == "hu" else ""
         values["en_current"] = 'aria-current="page"' if language == "en" else ""
         page = template
@@ -342,10 +432,18 @@ def main() -> None:
             shutil.rmtree(child)
         else:
             child.unlink()
-    for filename in ("book.css", "book.js", "Lako_icon.png", "site.webmanifest"):
+    for filename in ("book.css", "book.js", "Lako_icon.png"):
         shutil.copy2(ROOT / "assets" / filename, DIST / filename)
     shutil.copytree(ROOT / "assets" / "fonts", DIST / "fonts")
-    shutil.copytree(SOURCE / "images", DIST / "images")
+    output_images = DIST / "images"
+    output_images.mkdir()
+    referenced_images = {
+        Path(path).name
+        for edition in editions.values()
+        for _, path in edition["images"]
+    }
+    for filename in sorted(referenced_images):
+        shutil.copy2(SOURCE / "images" / filename, output_images / filename)
     for language, filename in (("hu", "index.html"), ("en", "index_en.html")):
         (DIST / filename).write_text(editions[language]["page"], encoding="utf-8")
         for resource in editions[language]["inventory"].resources:

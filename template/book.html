@@ -3,38 +3,40 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="author" content="Bitó János">
+  <meta name="author" content="{{ author }}">
   <meta name="description" content="{{ description }}">
   <title>{{ title }}</title>
   <link rel="icon" type="image/png" sizes="591x591" href="./Lako_icon.png">
   <link rel="apple-touch-icon" sizes="591x591" href="./Lako_icon.png">
-  <link rel="manifest" href="./site.webmanifest">
-  <link rel="alternate" hreflang="hu" href="index.html">
-  <link rel="alternate" hreflang="en" href="index_en.html">
+  <link rel="canonical" href="{{ canonical_url }}">
+  <link rel="alternate" hreflang="hu" href="https://hildgyorgy.github.io/lakokonyv/">
+  <link rel="alternate" hreflang="en" href="https://hildgyorgy.github.io/lakokonyv/index_en.html">
+  <link rel="alternate" hreflang="x-default" href="https://hildgyorgy.github.io/lakokonyv/">
   <link rel="stylesheet" href="book.css">
 </head>
 <body>
+  <a class="skip-link" href="#book-content">{{ skip_to_content }}</a>
   <header class="site-header">
     <button class="toc-toggle" type="button" aria-controls="book-toc" aria-expanded="false" aria-label="{{ toc_open }}" data-open-label="{{ toc_open }}" data-close-label="{{ toc_close }}">
       <span aria-hidden="true">☷</span>
     </button>
     <a class="site-title" href="#top">{{ title }}</a>
     <nav class="language-switch" aria-label="{{ language_label }}">
-      <a href="index.html" lang="hu" hreflang="hu" data-language="hu" {{ hu_current }} aria-label="Magyar">HU</a>
+      <a href="index.html" lang="hu" hreflang="hu" data-language="hu" {{ hu_current }} aria-label="HU – Magyar">HU</a>
       <span aria-hidden="true">/</span>
-      <a href="index_en.html" lang="en" hreflang="en" data-language="en" {{ en_current }} aria-label="English">EN</a>
+      <a href="index_en.html" lang="en" hreflang="en" data-language="en" {{ en_current }} aria-label="EN – English">EN</a>
     </nav>
   </header>
   <div class="toc-backdrop" aria-hidden="true"></div>
   <main id="top" class="page">
     <div class="sidebar-shell">
-      <aside id="book-toc" class="toc" aria-label="{{ contents }}">
-      <h2>{{ contents }}</h2>
+      <nav id="book-toc" class="toc" aria-labelledby="toc-heading">
+      <h2 id="toc-heading">{{ contents }}</h2>
       {{ toc }}
-      </aside>
+      </nav>
       <aside class="reading-controls" aria-label="{{ reading_settings }}">
-        <div class="color-picker" aria-label="{{ accent }}">
-          <span class="color-picker-label">{{ accent }}</span>
+        <fieldset class="color-picker">
+          <legend class="color-picker-label">{{ accent }}</legend>
           <div class="color-options">
             <button class="color-swatch" type="button" data-color="#FAAF40" aria-label="{{ yellow_orange }}" title="{{ yellow_orange }}"></button>
             <button class="color-swatch" type="button" data-color="#F05A29" aria-label="{{ orange_red }}" title="{{ orange_red }}"></button>
@@ -45,16 +47,16 @@
             <button class="color-swatch" type="button" data-color="#74B64A" aria-label="{{ leaf_green }}" title="{{ leaf_green }}"></button>
             <button class="color-swatch" type="button" data-color="#BED63B" aria-label="{{ yellow_green }}" title="{{ yellow_green }}"></button>
           </div>
-          <div class="alignment-picker" aria-label="{{ alignment }}">
-            <span class="color-picker-label">{{ alignment }}</span>
+        </fieldset>
+          <fieldset class="alignment-picker">
+            <legend class="color-picker-label">{{ alignment }}</legend>
             <button class="alignment-option is-selected" type="button" data-alignment="left">{{ left }}</button>
             <span aria-hidden="true">|</span>
             <button class="alignment-option" type="button" data-alignment="justify">{{ justify }}</button>
-          </div>
-        </div>
+          </fieldset>
       </aside>
     </div>
-    <article class="book-content">
+    <article id="book-content" class="book-content" tabindex="-1">
       {{ content }}
     </article>
   </main>
