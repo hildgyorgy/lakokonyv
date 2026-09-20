@@ -75,7 +75,7 @@ a { color: var(--link); }
 .alignment-picker .color-picker-label { margin-bottom: .55rem; }
 .alignment-option { border: 0; border-bottom: 1px solid transparent; border-radius: 0; background: transparent; color: var(--accent); padding: .1rem .2rem; font: inherit; font-size: .9em; }
 .alignment-option.is-selected { border-bottom-color: var(--accent); font-weight: 700; }
-.toc h2 { font-size: .9rem; margin: 0 0 .75rem; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
+.toc h2 { margin: 0 0 .55rem; padding: 0; border: 0; color: var(--ink); font-size: .9rem; line-height: 1.35; font-weight: 600; text-transform: uppercase; letter-spacing: .04em; }
 .toc ol { list-style: none; padding: 0; margin: 0; }
 .toc li { margin: .35rem 0; }
 .toc-row { display: grid; grid-template-columns: .9rem minmax(0, 1fr); column-gap: .2rem; align-items: start; }
@@ -122,9 +122,6 @@ figure img { display: block; max-width: 100%; height: auto; margin: 0 auto; }
   .book-content img.dark-invert { filter: invert(1); }
 }
 figure img[style*="--figure-width"] { width: var(--figure-width); }
-.funding-logos { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem; align-items: center; max-width: 38rem; margin: 1.5rem 0 2rem; }
-.funding-logos figure { margin: 0; }
-.funding-logos img { max-height: 5rem; width: auto; object-fit: contain; object-position: left center; }
 figcaption { color: var(--muted); font-size: .92rem; font-style: italic; max-width: 80%; margin: .65rem auto 0; }
 .project-logos { margin: 2rem 0; }
 .project-logos figure { margin: 0; text-align: left; }

@@ -28,7 +28,7 @@ Ez a lista a `lakokonyv_hibalista.md` minden tételét nyilvántartja. Az XML-ek
 | J-01 | javítva | A könyv és a workbench tárolókezelése `try/catch` védelmet kapott; hibás workbench-JSON sem állítja le az oldalt. |
 | T-01 | javítva | A 3.17. ábra egyedi eredeti PDF-jét ellenőriztük, és az abból származó közös képet a nappálya-diagram magyarázata után helyeztük vissza mindkét Markdownba. |
 | T-02 | részben javítva | Mindkét nyelven látható, Hild György által jegyzett szerkesztői figyelmeztetés került a Bevezetés elé. Az OTÉK/TÉKA szakmai felülvizsgálata külön munka; nincs mechanikus csere. |
-| T-03 | javítva | Mindkét archív XML a projekt/copyright blokk részeként tartalmazza a két támogatói logót, ezért azok explicit módon visszakerültek mindkét Markdown címoldalára. |
+| T-03 | szerkesztői döntéssel lezárva | Az archív XML megőrzi a támogatói logókat, de a támogatási időszak lejárta miatt a két kép kikerült mindkét Markdown címoldaláról. A tanszéki logó megmaradt. |
 | T-04 | javítva | A magyar mesterben az `m3` és a HTML felső indexek Unicode `m³`, illetve `m²` alakra egységesedtek. |
 | T-05 | javítva | A dátum és aláírás nélküli, csonka „Budapest,” / „Budapest” zárósort eltávolítottuk mindkét Markdown-mesterből. |
 | E-01 | javítva | Az Abstract a magyar Kivonat önálló angol fordítása lett; nem ismétli a Bevezetést. |

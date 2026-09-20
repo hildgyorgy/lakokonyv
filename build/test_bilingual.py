@@ -142,7 +142,7 @@ class BilingualBookTests(unittest.TestCase):
         self.assertEqual(len(self.en.article_links), 357)
 
     def test_shared_images_keep_workbench_settings(self):
-        self.assertEqual(len(self.en.images) - 1, 220)
+        self.assertEqual(len(self.en.images) - 1, 218)
         restored_figures = {
             'abra_1_37', 'abra_3_17', 'abra_3_43',
             'abra_4_02', 'abra_5_38', 'abra_5_54',
@@ -175,8 +175,9 @@ class BilingualBookTests(unittest.TestCase):
             for image in page.images.values()
         }
         self.assertEqual(published, referenced)
-        self.assertIn('Infoblokk3_ESZA_egyes.jpg', published)
-        self.assertIn('USZT_logo_cmyk.jpg', published)
+        self.assertIn('Lako_tanszek.png', published)
+        self.assertNotIn('Infoblokk3_ESZA_egyes.jpg', published)
+        self.assertNotIn('USZT_logo_cmyk.jpg', published)
 
     def test_requirement_labels_and_loose_lists(self):
         self.assertIn(

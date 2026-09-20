@@ -27,14 +27,6 @@ Oliver Sales – translation.
 
 The curriculum development of the BME Department of Residential Building Design was implemented under the project TÁMOP-4.1.2.A/1-11/1-2011-0055.
 
-<div class="funding-logos">
-<a id="funding_esza"></a>
-![Funding information block of the Hungarian National Development Agency and the European Union](images/Infoblokk3_ESZA_egyes.jpg)
-
-<a id="funding_uszt"></a>
-![New Széchenyi Plan](images/USZT_logo_cmyk.jpg)
-</div>
-
 <a id="front_abstract"></a>
 ## Abstract
 

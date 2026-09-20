@@ -53,8 +53,8 @@ Az eredeti angol XML 201 ábrát, a rekonstrukció első magyar mestere 212-t
 tartalmazott. A magyar szerkezet alapján pótolt 11 angol ábrahely mellett az
 archivált egyedi ábra-PDF-ekből további hat, mindkét korai Markdown-mesterből
 kimaradt ábrát állítottunk helyre: 1.37, 3.17, 3.43, 4.2, 5.38 és 5.54. Így a
-kész kiadás mindkét nyelven 218 könyvábrát és a három előzéki logóval együtt
-221 képelőfordulást tartalmaz. A két nyelv ugyanazt a `sources/images/`
+kész kiadás mindkét nyelven 218 könyvábrát és a tanszéki logóval együtt
+219 képelőfordulást tartalmaz. A két nyelv ugyanazt a `sources/images/`
 állományt, ugyanazokat a workbench-szélességeket és ugyanazokat a sötét módbeli
 invertálási beállításokat használja.
 

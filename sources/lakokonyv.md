@@ -39,14 +39,6 @@ Oliver Sales – fordítás.
 
 A BME Lakóépülettervezési Tanszék tananyagainak fejlesztése a TÁMOP-4.1.2.A/1-11/1-2011-0055 kódszámú projekt keretében valósult meg.
 
-<div class="funding-logos">
-<a id="funding_esza"></a>
-![Nemzeti Fejlesztési Ügynökség és az Európai Unió támogatási információs blokkja](images/Infoblokk3_ESZA_egyes.jpg)
-
-<a id="funding_uszt"></a>
-![Új Széchenyi Terv](images/USZT_logo_cmyk.jpg)
-</div>
-
 <a id="front_abstract"></a>
 ## Kivonat
 
