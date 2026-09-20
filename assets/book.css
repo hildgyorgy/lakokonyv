@@ -76,12 +76,15 @@ a { color: var(--link); }
 .toc ol { list-style: none; padding: 0; margin: 0; }
 .toc li { margin: .35rem 0; }
 .toc a { color: var(--accent); text-decoration: none; }
+.toc-link-numbered { display: grid; grid-template-columns: max-content minmax(0, 1fr); column-gap: .3em; align-items: start; }
+.toc-number { grid-column: 1; }
+.toc-link-numbered .toc-title { grid-column: 2; }
 .toc a:hover, .toc a:focus-visible { text-decoration: none; }
 .book-content a[href^="#abra_"] { color: var(--accent); font-weight: 600; }
 .toc a.is-active { background: var(--accent); color: var(--paper); padding: .12rem .35rem; border-radius: .2rem; }
-.toc summary { display: grid; grid-template-columns: .7rem minmax(0, 1fr); column-gap: .2rem; align-items: start; color: var(--accent); cursor: pointer; list-style: none; }
+.toc summary { display: grid; grid-template-columns: .9rem minmax(0, 1fr); column-gap: .2rem; align-items: start; color: var(--accent); cursor: pointer; list-style: none; }
 .toc summary::-webkit-details-marker { display: none; }
-.toc summary::before { content: "▸"; grid-column: 1; color: var(--accent); line-height: inherit; transform-origin: center; transition: transform .12s ease; }
+.toc summary::before { content: "▶"; grid-column: 1; color: var(--accent); font-size: .78rem; line-height: 1.55; transform-origin: center; transition: transform .12s ease; }
 .toc summary > a { grid-column: 2; min-width: 0; }
 .toc details[open] > summary::before { transform: rotate(90deg); }
 .toc details > ol { padding-left: 1.15rem; margin-top: .35rem; }
@@ -99,7 +102,7 @@ h4 { font-size: 1.12rem; margin-top: 1.5rem; }
 p { margin: 0 0 1.1rem; }
 ul, ol { margin: 0 0 1.2rem; padding-left: 1.6rem; }
 blockquote, .note { margin: 1.8rem 0 1.8rem 2rem; padding: 1rem 1.4rem; border-left: 4px solid var(--accent); background: transparent; }
-.note { margin-left: 0; color: var(--accent); background: transparent; border-left: 2px solid var(--accent); font-size: .95em; font-weight: 600; padding: 0 1.4rem 0 1rem; }
+.note { margin-left: 0; color: var(--accent); background: transparent; border-left: 2px solid var(--accent); font-size: .95em; font-weight: 500; padding: 0 1.4rem 0 1rem; }
 .note > :first-child { margin-top: 0; }
 .note > :last-child { margin-bottom: 0; }
 blockquote { color: var(--accent); font-style: italic; font-weight: 600; }

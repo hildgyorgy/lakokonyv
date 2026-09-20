@@ -230,10 +230,24 @@ def build_toc(entries: list[tuple[int, str, str]], language: str = "hu") -> str:
         stack[-1][1].append(node)
         stack.append((level, node["children"]))
 
+    def render_link(node: dict) -> str:
+        title = node["title"]
+        number = re.match(r"^(\d+(?:\.\d+)*\.?)\s+(.+)$", title)
+        if number:
+            content = (
+                f'<span class="toc-number">{inline(number.group(1), language)}</span>'
+                f'<span class="toc-title">{inline(number.group(2), language)}</span>'
+            )
+            link_class = "toc-link toc-link-numbered"
+        else:
+            content = f'<span class="toc-title">{inline(title, language)}</span>'
+            link_class = "toc-link"
+        return f'<a class="{link_class}" href="#{html.escape(node["anchor"], quote=True)}">{content}</a>'
+
     def render(nodes: list[dict]) -> str:
         items = []
         for node in nodes:
-            link = f'<a href="#{html.escape(node["anchor"], quote=True)}">{inline(node["title"], language)}</a>'
+            link = render_link(node)
             children = render(node["children"])
             if children:
                 items.append(f'<li><details><summary>{link}</summary>{children}</details></li>')
@@ -245,7 +259,7 @@ def build_toc(entries: list[tuple[int, str, str]], language: str = "hu") -> str:
     # visible, but promote its children to the TOC root.
     if root and root[0]["title"] == "Lakóépületek tervezése":
         title_node = root.pop(0)
-        title_link = f'<li><a href="#{html.escape(title_node["anchor"], quote=True)}">{inline(title_node["title"], language)}</a></li>'
+        title_link = f'<li>{render_link(title_node)}</li>'
         promoted = title_node["children"] + root
         return "<ol>" + title_link + render(promoted)[4:]
     return render(root)
