@@ -179,7 +179,8 @@ class BilingualBookTests(unittest.TestCase):
         self.assertIn('../assets/workbench.js', workbench)
         self.assertIn('window.LAYOUT_DATA =', workbench)
         self.assertIn('window.IMAGE_DATA =', workbench)
-        self.assertIn('../sources/images/', (ROOT / 'assets/workbench.js').read_text(encoding='utf-8'))
+        self.assertIn('item.preview', (ROOT / 'assets/workbench.js').read_text(encoding='utf-8'))
+        self.assertIn('"preview": "avif/', workbench)
 
     def test_publication_contains_only_referenced_images(self):
         published = {path.name for path in (ROOT / 'dist/images').iterdir() if path.is_file()}
@@ -189,9 +190,12 @@ class BilingualBookTests(unittest.TestCase):
             for image in page.images.values()
         }
         self.assertEqual(published, referenced)
-        self.assertIn('Lako_tanszek.png', published)
-        self.assertNotIn('Infoblokk3_ESZA_egyes.jpg', published)
-        self.assertNotIn('USZT_logo_cmyk.jpg', published)
+        self.assertTrue(published)
+        self.assertTrue(all(Path(name).suffix == '.avif' for name in published))
+        self.assertIn('Lako_tanszek.avif', published)
+        self.assertNotIn('Infoblokk3_ESZA_egyes.avif', published)
+        self.assertNotIn('USZT_logo_cmyk.avif', published)
+        self.assertLess(sum(path.stat().st_size for path in (ROOT / 'dist/images').iterdir()), 40 * 1024 * 1024)
 
     def test_requirement_labels_and_loose_lists(self):
         self.assertIn(

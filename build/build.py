@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import html
+import hashlib
 import json
 import re
 import shutil
@@ -17,6 +18,9 @@ ROOT = Path(__file__).resolve().parent.parent
 SOURCE = ROOT / "sources"
 DIST = ROOT / "dist"
 WORKBENCH = ROOT / "workbench"
+SOURCE_IMAGES = SOURCE / "images"
+WEB_IMAGES = SOURCE_IMAGES / "avif"
+IMAGE_MANIFEST = SOURCE_IMAGES / "avif-manifest.json"
 
 HEADING_RE = re.compile(r"^(#{1,6})\s+(.+?)\s*$")
 IMAGE_RE = re.compile(r"!\[([^]]*)\]\(([^)]+)\)")
@@ -24,6 +28,50 @@ LINK_RE = re.compile(r"(?<!!)\[([^]]+)\]\(([^)]+)\)")
 ANCHOR_RE = re.compile(r'<a\s+id="([^"]+)"\s*></a>')
 ARTICLE_SPACE_RE = re.compile(r"(?<!\w)([Aa]z?) (?=\S)")
 EXAMPLE_SPACE_RE = re.compile(r"(?<!\w)([Pp]l\.) (?=\S)")
+
+
+def file_sha256(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as stream:
+        for chunk in iter(lambda: stream.read(1024 * 1024), b""):
+            digest.update(chunk)
+    return digest.hexdigest()
+
+
+def published_image_src(src: str) -> str:
+    """Map an editable master image reference to its derived web rendition."""
+    source_path = SOURCE / src
+    if source_path.parent != SOURCE_IMAGES:
+        raise ValueError(f"Image must be stored directly in sources/images: {src}")
+    return f"images/{source_path.stem}.avif"
+
+
+def validate_web_images(referenced_sources: set[str]) -> None:
+    """Require current, verified AVIF renditions without encoding during build."""
+    if not IMAGE_MANIFEST.is_file():
+        raise ValueError(
+            "Missing AVIF manifest; run: python3 build/build_images.py --adopt-existing"
+        )
+    manifest = json.loads(IMAGE_MANIFEST.read_text(encoding="utf-8"))
+    records = manifest.get("files", {})
+    errors = []
+    for src in sorted(referenced_sources):
+        source_path = SOURCE / src
+        web_path = WEB_IMAGES / f"{source_path.stem}.avif"
+        record = records.get(source_path.name)
+        if not web_path.is_file():
+            errors.append(f"missing {web_path.relative_to(ROOT)}")
+        elif not record:
+            errors.append(f"unregistered {web_path.relative_to(ROOT)}")
+        elif record.get("source_sha256") != file_sha256(source_path):
+            errors.append(f"stale {web_path.relative_to(ROOT)}")
+        elif record.get("output_sha256") != file_sha256(web_path):
+            errors.append(f"modified {web_path.relative_to(ROOT)}")
+    if errors:
+        raise ValueError(
+            "AVIF renditions need refreshing:\n- " + "\n- ".join(errors)
+            + "\nRun: python3 build/build_images.py"
+        )
 
 
 def heading_id(title: str) -> str:
@@ -74,7 +122,7 @@ def inline(text: str, language: str = "hu") -> str:
         return f"\x00{len(placeholders)-1}\x00"
 
     text = IMAGE_RE.sub(lambda m: stash(
-        f'<img{image_size_attributes(m.group(2))} src="{html.escape(m.group(2), quote=True)}" alt="{html.escape(m.group(1), quote=True)}" loading="lazy">'), text)
+        f'<img{image_size_attributes(m.group(2))} src="{html.escape(published_image_src(m.group(2)), quote=True)}" alt="{html.escape(m.group(1), quote=True)}" loading="lazy">'), text)
     text = LINK_RE.sub(lambda m: stash(
         f'<a href="{html.escape(m.group(2), quote=True)}">{inline(m.group(1), language)}</a>'), text)
     text = re.sub(r"<sup>([^<]+)</sup>", lambda m: stash("<sup>" + html.escape(m.group(1)) + "</sup>"), text)
@@ -253,7 +301,7 @@ def render_markdown(
             style_attr = f' style="--figure-width: {int(width)}%"' if width else ""
             image_class = ' class="dark-invert"' if invert else ""
             alt = "" if caption else html.escape(m.group(1), quote=True)
-            output.append(f'<figure{figure_id}><img{image_class}{style_attr}{image_size_attributes(src)} src="{html.escape(src, quote=True)}" alt="{alt}" loading="lazy">{f"<figcaption>{caption}</figcaption>" if caption else ""}</figure>')
+            output.append(f'<figure{figure_id}><img{image_class}{style_attr}{image_size_attributes(src)} src="{html.escape(published_image_src(src), quote=True)}" alt="{alt}" loading="lazy">{f"<figcaption>{caption}</figcaption>" if caption else ""}</figure>')
             pending_anchor = None
             i += 1
             continue
@@ -440,12 +488,15 @@ def main() -> None:
     output_images = DIST / "images"
     output_images.mkdir()
     referenced_images = {
-        Path(path).name
+        path
         for edition in editions.values()
         for _, path in edition["images"]
     }
-    for filename in sorted(referenced_images):
-        shutil.copy2(SOURCE / "images" / filename, output_images / filename)
+    validate_web_images(referenced_images)
+    for source_name in sorted(referenced_images):
+        source_path = SOURCE / source_name
+        web_name = f"{source_path.stem}.avif"
+        shutil.copy2(WEB_IMAGES / web_name, output_images / web_name)
     for language, filename in (("hu", "index.html"), ("en", "index_en.html")):
         (DIST / filename).write_text(editions[language]["page"], encoding="utf-8")
         for resource in editions[language]["inventory"].resources:
@@ -453,7 +504,11 @@ def main() -> None:
             if resource not in {"index.html", "index_en.html"} and not (DIST / resource).is_file():
                 raise ValueError(f"Missing output resource: {resource}")
     workbench = (ROOT / "template" / "workbench.html").read_text(encoding="utf-8")
-    image_data = [{"file": path.name} for path in sorted((SOURCE / "images").iterdir()) if path.is_file() and not path.name.startswith(".")]
+    image_data = [
+        {"file": path.name, "preview": f"avif/{path.stem}.avif"}
+        for path in sorted(SOURCE_IMAGES.iterdir())
+        if path.is_file() and path.suffix.lower() in {".png", ".jpg", ".jpeg"}
+    ]
     workbench = workbench.replace("{{ layout }}", json.dumps(layout, ensure_ascii=False))
     workbench = workbench.replace("{{ images }}", json.dumps(image_data, ensure_ascii=False))
     WORKBENCH.mkdir(exist_ok=True)

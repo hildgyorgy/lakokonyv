@@ -9,12 +9,15 @@ magyar–angol statikus webes kiadása.
 - `sources/lakokonyv_en.md` – angol szerkesztési mester, az eredeti fordításból.
 - `sources/xml/Bito_konyv_hu.xml` – a magyar DocBook önálló, összefűzött archívuma.
 - `sources/xml/Bito_konyv_en.xml` – az angol DocBook önálló, összefűzött archívuma.
-- `sources/images/` – közös, eredeti képanyag; a build nem módosítja.
+- `sources/images/` – közös, eredeti PNG/JPG képanyag; a build nem módosítja.
+- `sources/images/avif/` – az eredeti képekből származtatott, publikálható webes változatok.
+- `sources/images/avif-manifest.json` – az eredeti és webes képek ellenőrzőösszegei.
 - `sources/originals/figures-pdf/` – 164 nyomdai ábraforrás későbbi, jobb minőségű képexporthoz; a build nem másolja a `dist` mappába.
 - `template/book.html`, `assets/book.css`, `assets/book.js` – közös megjelenés és működés.
 - `assets/fonts/` – helyben tárolt Inter 4.1 változó webfontok és OFL-licenc.
 - `build/locales.json` – magyar és angol felületi feliratok.
 - `build/build.py` – függőségmentes Python build és hivatkozásellenőrzés.
+- `build/build_images.py` – macOS-en futó, inkrementális AVIF-frissítő.
 - `audit/image_layout.json` – közös ábraméretezés és invertálhatóság.
 - `workbench/index.html` – helyben, szerver nélkül megnyitható ábra-munkapad.
 - `audit/english_import.md`, `audit/english_import.json` – az angol átvétel és a kiadások eltérései.
@@ -39,6 +42,18 @@ a teljes `dist` mappát; oda ne kerüljön kézzel szerkesztett forrás.
 Az XML-ekben megmaradt régi képútvonalak archivált hivatkozások. A korábbi
 DocBook JPG/PNG exportok többszörös másolatai nem részei a repónak; a webes
 kiadás ellenőrzött képei a `sources/images/` mappában vannak.
+
+A normál build nem kódol képet: a Markdown PNG/JPG hivatkozásait a megfelelő
+AVIF-változatra irányítja, és csak ezeket másolja a `dist/images/` mappába. Ha
+egy eredeti kép megváltozik vagy új kép kerül a könyvbe, macOS-en előbb futtasd:
+
+```sh
+python3 build/build_images.py
+```
+
+A parancs SHA-256 ellenőrzőösszeg alapján csak a hiányzó vagy megváltozott
+képeket kódolja újra. A build hibával jelzi, ha egy AVIF hiányzik vagy elavult.
+Az összes kép szándékos újrakódolásához használható a `--force` kapcsoló.
 
 A Markdown szerkezeti konvenciói közvetlenül tükrözik a könyvet: egyetlen `#`
 szintű könyvcímet követnek a `##` főfejezetek, a `###` alfejezetek és a `####`
@@ -73,7 +88,7 @@ megnyithatók, de a böngésző helyi fájlokra vonatkozó tárolási szabályai
 
 ## Ábra-munkapad
 
-A `workbench/index.html` az összes közös képet mutatja, és közvetlenül,
+A `workbench/index.html` az összes közös kép webes AVIF-változatát mutatja, és közvetlenül,
 szerver nélkül megnyitható. A csúszkával állítható szélesség és a sötét
 módbeli invertálhatóság exportálható a „Méretlista exportálása” gombbal. Az
 exportált fájl kerüljön az `audit/image_layout.json` helyére. Új build után a
