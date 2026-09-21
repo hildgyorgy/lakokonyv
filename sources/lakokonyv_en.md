@@ -812,10 +812,10 @@ Other objects (sports equipment, large toys, unused play pens, tools, etc.) can 
 ##### REQUIREMENTS AND RECOMMENDATIONS
 
 **BASIC REQUIREMENT:**
-Appropriate storage must be provided (in furniture or rooms) for food and clothing inside the home, while other articles not for everyday use should be either inside or near the home.
+- Appropriate storage must be provided (in furniture or rooms) for food and clothing inside the home, while other articles not for everyday use should be either inside or near the home.
 
 **FURNITURE AND EQUIPMENT:**
-Clothes storage – including cupboards, closets, built-in wardrobes or walk-in closets – should be provided. The depth of cupboards and built-in wardrobes should be a minimum of 60 cm. Ideally, a minimum of 1.20 running meters of clothing storage should be provided per occupant. Of this, at least 0.6 running meters of clothes storage should be provided in the sleeping area or in a corridor next to the bedrooms. Storage facilities for coats, hats, bags, wet shoes, etc., should be provided near the entrance.
+- Clothes storage – including cupboards, closets, built-in wardrobes or walk-in closets – should be provided. The depth of cupboards and built-in wardrobes should be a minimum of 60 cm. Ideally, a minimum of 1.20 running meters of clothing storage should be provided per occupant. Of this, at least 0.6 running meters of clothes storage should be provided in the sleeping area or in a corridor next to the bedrooms. Storage facilities for coats, hats, bags, wet shoes, etc., should be provided near the entrance.
 
 **Food storage, in addition to that stored in a refrigerator, should be calculated thus:**
 

@@ -21,6 +21,8 @@ class BookPage(HTMLParser):
         self.figure_id = None
         self.article = False
         self.text = []
+        self.list_items = []
+        self.current_list_item = None
         self.notes = 0
         self.html = path.read_text(encoding='utf-8')
         self.feed(self.html)
@@ -38,16 +40,22 @@ class BookPage(HTMLParser):
         if tag == 'figure': self.figure_id = attrs.get('id', 'logo')
         if tag == 'img': self.images[self.figure_id] = attrs
         if tag == 'aside' and attrs.get('class') == 'note': self.notes += 1
+        if tag == 'li' and self.article: self.current_list_item = []
         if re.fullmatch(r'h[1-6]', tag) and self.article and 'id' in attrs: self.headings.append(attrs['id'])
         if self.article and tag in {'p', 'h1', 'h2', 'h3', 'h4', 'h5', 'li', 'figure', 'aside', 'figcaption'}: self.text.append('\n')
 
     def handle_endtag(self, tag):
+        if tag == 'li' and self.current_list_item is not None:
+            self.list_items.append(normalized(''.join(self.current_list_item)))
+            self.current_list_item = None
         if tag == 'article': self.article = False
         if tag == 'figure': self.figure_id = None
         if self.article and tag in {'p', 'h1', 'h2', 'h3', 'h4', 'h5', 'li', 'figure', 'aside', 'figcaption'}: self.text.append('\n')
 
     def handle_data(self, data):
-        if self.article: self.text.append(data)
+        if self.article:
+            self.text.append(data)
+            if self.current_list_item is not None: self.current_list_item.append(data)
 
 
 class BilingualBookTests(unittest.TestCase):
@@ -69,6 +77,9 @@ class BilingualBookTests(unittest.TestCase):
 
         css = (ROOT / 'dist/book.css').read_text(encoding='utf-8')
         self.assertIn('.book-content a[href^="#"] { color: var(--accent); font-weight: 600; }', css)
+        self.assertIn('-webkit-hyphenate-limit-before: 5;', css)
+        self.assertIn('-webkit-hyphenate-limit-after: 5;', css)
+        self.assertIn('hyphenate-limit-chars: 10 5 5;', css)
 
     def test_semantic_html_and_explicit_note_blocks(self):
         for source, page, expected_notes in (
@@ -94,6 +105,9 @@ class BilingualBookTests(unittest.TestCase):
             self.assertEqual(page.html.count('<header class="book-title">'), 1)
             self.assertRegex(page.html, r'<section class="book-section level-2" aria-labelledby="E1_lakas">')
             self.assertRegex(page.html, r'<section class="book-section level-3" aria-labelledby="E1_A_fejezet_temakore">')
+
+        self.assertIn('pl.\u00a0gyermek születésével', self.hu.html)
+        self.assertNotIn('pl. gyermek születésével', self.hu.html)
 
     def test_english_source_paragraphs_preserved(self):
         checked = 0
@@ -193,6 +207,15 @@ class BilingualBookTests(unittest.TestCase):
             'legalább 4 személynek</li><li>3-4 férőhelyes lakásban legalább 5 személynek',
             self.hu.html,
         )
+
+        for xml, page in ((self.hu_xml, self.hu), (self.xml, self.en)):
+            for item in xml.getroot().iter('listitem'):
+                paragraphs = item.findall('para')
+                if len(paragraphs) < 2:
+                    continue
+                for paragraph in paragraphs:
+                    expected = normalized(''.join(paragraph.itertext())).removeprefix('– ')
+                    self.assertIn(expected, page.list_items)
 
     def test_explicit_contributor_credits(self):
         monograms = re.compile(r'\((?:N\.\s*Á\.|P\.\s*A\.|B\.\s*J\.|AN|AP|(?:Dr\.\s*)?JB)\)')

@@ -856,13 +856,13 @@ Biztosítani kell, hogy a lakás valamennyi lakója – a tolerálható egyidej�
 
 **A használói létszámtó függő egészségügyi felszereltség alsó határértékei:**
 
-1-2 férőhelyes lakásban zuhanyfülke mosdóval és WC-vel
+- 1-2 férőhelyes lakásban zuhanyfülke mosdóval és WC-vel
 
-3 (4) férőhelyes, legfeljebb kétszobás lakásban fürdőszoba káddal, mosdóval és WC-vel
+- 3 (4) férőhelyes, legfeljebb kétszobás lakásban fürdőszoba káddal, mosdóval és WC-vel
 
-4-5 férőhelyes (kétszobásnál nagyobb) lakásban fürdőszoba mosdóval, külön WC kézmosóval
+- 4-5 férőhelyes (kétszobásnál nagyobb) lakásban fürdőszoba mosdóval, külön WC kézmosóval
 
-6 vagy annál több férőhelyes lakásban fürdőszoba WC-vel + külön WC kézmosóval.
+- 6 vagy annál több férőhelyes lakásban fürdőszoba WC-vel + külön WC kézmosóval.
 
 Akkor, ha a lakásban WC berendezéssel ellátott második fürdőszoba vagy zuhanyfülke van, akkor az helyettesítheti a külön WC-t. Amennyiben a lakás helyiségei két szinten helyezkednek el, szintenként legyen legalább egy WC berendezés (külön helyiségben vagy fürdőszobában). Szinteltolásos lakásoknál a WC legfeljebb fél-szint magassági különbséggel legyen elérhető. Fürdőszoba nem szolgálhat más helyiség kizárólagos megközelítésére. A fürdőszoba hálószobán keresztül csak akkor közelíthető meg, ha az kizárólag a hálószobát használókat szolgálja, és azon kívül van még egy, más háztartás-tagok által használható fürdőszoba is.
 
@@ -904,20 +904,20 @@ Az *éléskamrák* mérete legyen kellően széles, legalább két, de kívánat
 ##### KÖVETELMÉNYEK ÉS AJÁNLÁSOK
 
 **ALAPKÖVETELMÉNY:**
-A lakáson belül megfelelő nagyságú tárolókban (helyiségben, bútorzatban) kell biztosítani a ruhaneműk, élelmiszerek tárolását, a lakás könnyen elérhető közelségében egyéb használati tárgyak tárolását.
+- A lakáson belül megfelelő nagyságú tárolókban (helyiségben, bútorzatban) kell biztosítani a ruhaneműk, élelmiszerek tárolását, a lakás könnyen elérhető közelségében egyéb használati tárgyak tárolását.
 
 **BÚTORIGÉNY:**
-*Ruhaneműk tárolására* szekrényt, beépített szekrényt vagy járható szekrényt kell kialakítani. A szekrények mélységi mérete legyen legalább 60 cm.
+- *Ruhaneműk tárolására* szekrényt, beépített szekrényt vagy járható szekrényt kell kialakítani. A szekrények mélységi mérete legyen legalább 60 cm.
 
-Egy használóra – a lakás férőhelyszámát figyelembe véve – legalább 1 - 1,2 folyóméter szekrényhosszt kell számítani, mint alsó határértéket. Ebből 0,6 folyóméternyi szekrény legyen a használó alvóterében vagy annak közvetlen közelében lévő közlekedőtérben. A lakás bejáratának közvetlen közelében előszobafalat vagy beépített szekrényt kell elhelyezni a felső kabátok, sapkák, vizes cipők, táskák stb. elhelyezésére.
+- Egy használóra – a lakás férőhelyszámát figyelembe véve – legalább 1 - 1,2 folyóméter szekrényhosszt kell számítani, mint alsó határértéket. Ebből 0,6 folyóméternyi szekrény legyen a használó alvóterében vagy annak közvetlen közelében lévő közlekedőtérben. A lakás bejáratának közvetlen közelében előszobafalat vagy beépített szekrényt kell elhelyezni a felső kabátok, sapkák, vizes cipők, táskák stb. elhelyezésére.
 
 **Élelmiszertárolásra - a hűtőszekrényen kívül - biztosítani kell**
 
-– 1-2 férőhelyes lakásban legalább 60 x 60 cm méretű, mennyezetig érő élelmiszerszekrényt,
+- 1-2 férőhelyes lakásban legalább 60 x 60 cm méretű, mennyezetig érő élelmiszerszekrényt,
 
-– 3 férőhelyes lakásban legalább 60 x 60 cm méretű szellőztetett kamraszekrényt,
+- 3 férőhelyes lakásban legalább 60 x 60 cm méretű szellőztetett kamraszekrényt,
 
-– 4 férőhelyes vagy annál nagyobb lakásban legalább 1,20 m polchosszal rendelkező kamrát vagy szellőztetett kamraszekrényt.
+- 4 férőhelyes vagy annál nagyobb lakásban legalább 1,20 m polchosszal rendelkező kamrát vagy szellőztetett kamraszekrényt.
 
 Nyomatékosan ajánlott az élelmiszertárolás helyigényének meghatározásánál a lakás konkrét településszerkezeti helyzetének figyelembe vétele, és a tárolókapacitás növelése, ha a kereskedelmi ellátottság színvonala, vagy az életmóddal összefüggő igények azt indokolják.
 
@@ -947,10 +947,10 @@ A lakások egyes tereinek kialakítása, méretezése az ott folyó lakástevék
 
 **A tér elválasztása szolgálhat:**
 
-- – légtér elkülönítésére (légzáró falakkal vagy üvegfelületekkel, légtömör ajtóval)
-- – vizuális elkülönítésre (át nem látszó felületekkel)
-- – akusztikus elkülönítésre (megfelelő hanggátlású fallal, ajtóval)
-- – építészeti értelmű elkülönítésre (amikor a tér a mellette lévő térrel egy légteret képez, vizuálisan és akusztikusan nincs leválasztva, de önálló térhatással rendelkezik).
+- légtér elkülönítésére (légzáró falakkal vagy üvegfelületekkel, légtömör ajtóval)
+- vizuális elkülönítésre (át nem látszó felületekkel)
+- akusztikus elkülönítésre (megfelelő hanggátlású fallal, ajtóval)
+- építészeti értelmű elkülönítésre (amikor a tér a mellette lévő térrel egy légteret képez, vizuálisan és akusztikusan nincs leválasztva, de önálló térhatással rendelkezik).
 
 A lakásoknál előírt hanggátlású fallal és tömör ajtólappal leválasztott tér esetében minden változat érvényesül. Ilyen leválasztás azonban csak az alvásra, pihenésre valamint a személyi higiéniára szolgáló tereknél követelmény, a lakóterek kapcsolatai ennél lényegesen árnyaltabbak (példák az [1.51. ábrán](#abra_1_51) láthatók). A továbbiakban – itt és most – „helyiségnek” az építészeti értelemben leválasztott tereket nevezzük, és mindig utalunk arra, ha a leválasztás légtérben, vizuálisan vagy akusztikailag is követelmény.
 
@@ -1080,23 +1080,23 @@ Közvetlen természetes megvilágítást igényelnek a huzamos tartózkodásra s
 
 **Ilyenek**
 
-a közös időtöltés, vendégfogadás, napközbeni olvasgatás tere (nappali szoba e célt szolgáló részei)
+- a közös időtöltés, vendégfogadás, napközbeni olvasgatás tere (nappali szoba e célt szolgáló részei)
 
-az egyéni tevékenységek (otthoni szellemi munka) és a napközbeni pihenés terei (hálószobák)
+- az egyéni tevékenységek (otthoni szellemi munka) és a napközbeni pihenés terei (hálószobák)
 
-az ételkészítés tere a 2 férőhelyesnél nagyobb lakásoknál, ha a nappali szobával, vagy közvetlen, természetes megvilágítással rendelkező térrel intenzív vizuális kapcsolatuk nincsen (főzőkonyhák, étkezőkonyhák).
+- az ételkészítés tere a 2 férőhelyesnél nagyobb lakásoknál, ha a nappali szobával, vagy közvetlen, természetes megvilágítással rendelkező térrel intenzív vizuális kapcsolatuk nincsen (főzőkonyhák, étkezőkonyhák).
 
 Közvetett természetes megvilágítást kell biztosítani azoknak a tereknek, amelyek időszakosan használtak ugyan és használatuk közben kiegészítő mesterséges megvilágítást is igényelhetnek, de a természetes fény, vagy más lakóhelyiséggel való vizuális kapcsolat a mentális komfortérzethez szükséges.
 
 **Ilyenek**
 
-az étkezőhely
+- az étkezőhely
 
-az ételkészítés helye 2 férőhelyesnél nagyobb lakásoknál, ha közvetlen, természetes megvilágítású étkezővel vagy nappalival intenzív vizuális kapcsolatban vannak
+- az ételkészítés helye 2 férőhelyesnél nagyobb lakásoknál, ha közvetlen, természetes megvilágítású étkezővel vagy nappalival intenzív vizuális kapcsolatban vannak
 
-a csak alvás céljára szolgáló hálófülke vagy háló-galéria, amely más, közvetlen természetes megvilágítással rendelkező lakótérrel (nappalival) nagy felülettel összenyitott.
+- a csak alvás céljára szolgáló hálófülke vagy háló-galéria, amely más, közvetlen természetes megvilágítással rendelkező lakótérrel (nappalival) nagy felülettel összenyitott.
 
-*Csak mesterséges* megvilágítás elegendő az időszakosan, rövid ideig használt lakásterekben (közlekedő terekben, egészségügyi helyiségekben, tárolókban, az 1-2 férőhelyes kislakások főzőfülkéiben).
+- *Csak mesterséges* megvilágítás elegendő az időszakosan, rövid ideig használt lakásterekben (közlekedő terekben, egészségügyi helyiségekben, tárolókban, az 1-2 férőhelyes kislakások főzőfülkéiben).
 
 A fent leírt követelmények az *alsó határértéket* jelentik, azoknál kedvezőbb megvilágítás minden esetben lehetséges és – ha mód van rá – ajánlott is. A lakásban lévő, az általánostól különböző rendeltetésű terek megvilágítása a használat jellege szerint történjék. Ha a rendeltetésszerű használat folyamatosan meghaladja a két óra időtartamot, akkor azokhoz közvetlen, természetes világítást kell biztosítani.
 
@@ -3610,8 +3610,8 @@ A *mindenkori Országos Tűzvédelmi Szabályzat* előírásai bizonyos magassá
 
 **Ezek szerint**
 
-- – *középmagas épületként* kell számításba venni azokat a házakat, melyeknek legfelső építményszint szintmagassága 13,65 és 30 méter között van,
-- – *magas épületként* azokat, amelyeknek a legfelső építményszint szintmagassága a 30 métert meghaladja.
+- *középmagas épületként* kell számításba venni azokat a házakat, melyeknek legfelső építményszint szintmagassága 13,65 és 30 méter között van,
+- *magas épületként* azokat, amelyeknek a legfelső építményszint szintmagassága a 30 métert meghaladja.
 
 Szintmagasságként az épület főbejárata – bejárati előlépcsője – előtti járda szintje és az építményszint padlófelülete közötti függőleges távolságot kell érteni. A tetőteret tűzvédelmi szempontból akkor kell építményszintnek tekinteni, ha az ott beépített rész az alapterület 25%-át meghaladja.
 

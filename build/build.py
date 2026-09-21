@@ -23,6 +23,7 @@ IMAGE_RE = re.compile(r"!\[([^]]*)\]\(([^)]+)\)")
 LINK_RE = re.compile(r"(?<!!)\[([^]]+)\]\(([^)]+)\)")
 ANCHOR_RE = re.compile(r'<a\s+id="([^"]+)"\s*></a>')
 ARTICLE_SPACE_RE = re.compile(r"(?<!\w)([Aa]z?) (?=\S)")
+EXAMPLE_SPACE_RE = re.compile(r"(?<!\w)([Pp]l\.) (?=\S)")
 
 
 def heading_id(title: str) -> str:
@@ -83,10 +84,11 @@ def inline(text: str, language: str = "hu") -> str:
     text = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", text)
     text = re.sub(r"(?<!\*)\*([^*]+?)\*(?!\*)", r"<em>\1</em>", text)
     text = re.sub(r"`([^`]+)`", r"<code>\1</code>", text)
-    # Keep Hungarian articles attached to the following word in rendered HTML.
-    # The source Markdown remains readable and uses ordinary spaces.
+    # Keep short Hungarian function words attached to the following word in
+    # rendered HTML. The source Markdown remains readable with ordinary spaces.
     if language == "hu":
         text = ARTICLE_SPACE_RE.sub(lambda match: match.group(1) + "\u00a0", text)
+        text = EXAMPLE_SPACE_RE.sub(lambda match: match.group(1) + "\u00a0", text)
     for i, value in enumerate(placeholders):
         text = text.replace(f"\x00{i}\x00", value)
     return text

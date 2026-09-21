@@ -94,7 +94,13 @@ a { color: var(--link); }
 .toc a.is-active { background: var(--accent); color: var(--paper); padding: .12rem .35rem; border-radius: .2rem; }
 .toc .has-children > ol { padding-left: 1.15rem; margin-top: .35rem; }
 .book-content, .book-section { min-width: 0; }
-.book-content p { hyphens: auto; hyphenate-limit-chars: 10 5 5; }
+.book-content p {
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  -webkit-hyphenate-limit-before: 5;
+  -webkit-hyphenate-limit-after: 5;
+  hyphenate-limit-chars: 10 5 5;
+}
 .book-content.text-justified p { text-align: justify; text-justify: auto; }
 h1, h2, h3, h4, h5 { line-height: 1.2; scroll-margin-top: 1.5rem; }
 h1 { color: var(--accent); font-size: clamp(2rem, 4vw, 3.2rem); margin: 0; }
