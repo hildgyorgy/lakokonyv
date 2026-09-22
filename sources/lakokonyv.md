@@ -42,7 +42,7 @@ A BME Lakóépülettervezési Tanszék tananyagainak fejlesztése a TÁMOP-4.1.2
 <a id="front_abstract"></a>
 ## Kivonat
 
-Bitó János már klasszikusnak számító Lakóházak tervezése című tankönyve, a lakóépülettervezés oktatásának meghatározó eleme, amely ezentúl digitálisan ingyenesen is elérhető.
+Bitó János már klasszikusnak számító Lakóházak tervezése című tankönyve, a lakóépülettervezés oktatásának meghatározó eleme, amely ezentúl digitálisan, ingyenesen is elérhető.
 
 A könyv a lakóépületek tervezésének objektív szempontjait veszi sorra a lakás helyiségeitől és az egyes tevékenységek méreteitől indulva a családi házak, társasházak és alacsony nagy sűrűségű beépítéseken és a hétvégi házakon át, a lakókörnyezet kialakításáig és a lakásállomány fenntartásáig, fejlesztéséig.
 
@@ -104,7 +104,7 @@ A lakásban való „lakás” a használói csoport kommunikációját, szoros 
 
 Rendeltetése alapján a lakás fogalmát a következőképpen írhatjuk körül:
 
-A lakás olyan tércsoport, amely egy-egy személy vagy egymással szoros kapcsolatban álló személyek huzamosan használt lakhelyéül szolgál, használóinak megfelelő fizikai és mentális komfortérzetet biztosít, emberi kapcsolataik érvényesülésének teret ad, és megfelelő színvonalon lehetővé teszi az alapvető lakástevékenységek folytatását, az ezekhez szükséges tárgyak és eszközök elhelyezését, tárolását.
+*A lakás olyan tércsoport, amely egy-egy személy vagy egymással szoros kapcsolatban álló személyek huzamosan használt lakhelyéül szolgál, használóinak megfelelő fizikai és mentális komfortérzetet biztosít, emberi kapcsolataik érvényesülésének teret ad, és megfelelő színvonalon lehetővé teszi az alapvető lakástevékenységek folytatását, az ezekhez szükséges tárgyak és eszközök elhelyezését, tárolását.*
 
 Az alapvető lakástevékenységek: a szabadidő közös eltöltése (vendégek fogadása); a közös étkezés; az alvás és pihenés; a lakást használók otthon végzett egyéni foglalatosságai; ételkészítés; takarítás, mosás és tisztogatás; személyi higiénia; különféle dolgok tárolása.
 

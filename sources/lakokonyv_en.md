@@ -92,7 +92,9 @@ Homes can be seen as places that provide for two-generation families (parents wi
 
 The *home* within a home communicates a message of close human relationships as well. This might be as individuals or as a group encompassing friends and social relationships, occasionally welcoming guests. Members of the household also need times of safe passage to the wider community of work, education or private activities. Family homes must also facilitate child care and child rearing, even though this is not present in some homes. (Often homes intended for one or two users have to accommodate children as well, but usually in emergency situations.)
 
-The concept of home may be written as follows: The home consists of a group of spaces in which an individual or group of people in close relationship can reside for extended periods of time – allowing for appropriate physical and mental comfort, humane relationships and activities at home, as well as providing storage for basic needs, objects, equipment, etc. Housing's basic activities include leisure (common pastimes, receiving guests), common meals, sleep and relaxation, the residents’ individual activities, preparation of food, cleaning, washing, hygiene and storage of items.
+The concept of home may be written as follows:
+
+*The home consists of a group of spaces in which an individual or group of people in close relationship can reside for extended periods of time – allowing for appropriate physical and mental comfort, humane relationships and activities at home, as well as providing storage for basic needs, objects, equipment, etc. Housing's basic activities include leisure (common pastimes, receiving guests), common meals, sleep and relaxation, the residents’ individual activities, preparation of food, cleaning, washing, hygiene and storage of items. *
 
 Accordingly, you can not enforce quality criteria, since what would be viewed as *appropriate* should not be left out of this definition. A village hut with a single room also serves as a *home*, but does not meet the terms described.
 
